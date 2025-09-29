@@ -1,0 +1,32 @@
+{
+  "entries": [
+    {
+      "date": "2025-09-29",
+      "title": "A day of fragile hope amidst voices rising",
+      "image": "entries/2025-09-29.png",
+      "note": "entries/2025-09-29.md",
+      "topics": {
+        "health": {
+          "summary": "New vaccine trials signal progress across regions.",
+          "links": [
+            {"title": "WHO update", "url": "https://www.who.int/", "source": "WHO"}
+          ]
+        },
+        "politics": {
+          "summary": "Leaders debate climate commitments at global summit.",
+          "links": [
+            {"title": "Reuters coverage", "url": "https://www.reuters.com/", "source": "Reuters"}
+          ]
+        },
+        "entertainment": {
+          "summary": "Festivals spotlight AI-assisted storytelling.",
+          "links": [
+            {"title": "Variety feature", "url": "https://variety.com/", "source": "Variety"}
+          ]
+        }
+      }
+    }
+  ]
+}
+
+
