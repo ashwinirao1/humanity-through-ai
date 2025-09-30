@@ -2,7 +2,9 @@ name: Daily Humanity Reflection
 
 on:
   schedule:
-    - cron: "59 23 * * *"
+    # Run at midnight Pacific Time (8:00 AM UTC)
+    # Pacific Time accounts for both PST (UTC-8) and PDT (UTC-7)
+    - cron: "0 8 * * *"
   workflow_dispatch:
   push:
     branches: [ main ]

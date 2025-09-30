@@ -23,12 +23,14 @@ def save_manifest(path: str, data):
 
 
 def load_categorized_news():
-    """Load categorized news from the curator script"""
-    categorized_path = os.path.join(ROOT, "data", "categorized_news.json")
-    if os.path.exists(categorized_path):
-        with open(categorized_path, "r", encoding="utf-8") as f:
-            return json.load(f)
-    return {"health": [], "politics": [], "entertainment": []}
+    """Load news from today_news.json"""
+    news_path = os.path.join(ROOT, "data", "today_news.json")
+    if os.path.exists(news_path):
+        with open(news_path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+            # Return the topics dictionary directly
+            return data.get("topics", {})
+    return {}
 
 def generate_topic_summary(topic_news, topic_name):
     """Generate a summary for a topic based on news items"""
@@ -69,18 +71,18 @@ def main():
     # Load categorized news
     categorized_news = load_categorized_news()
     
-    # Generate topic summaries and links - only include topics with content
+    # Generate topic summaries and links - all 5 topics
     topics = {}
-    for topic_name in ["health", "politics", "entertainment"]:
+    for topic_name in ["politics", "health", "entertainment", "sports", "technology"]:
         topic_news = categorized_news.get(topic_name, [])
         if topic_news:  # Only include topics that have actual news
             topics[topic_name] = {
                 "summary": generate_topic_summary(topic_news, topic_name),
                 "links": topic_news[:5]  # Top 5 links per topic
             }
-            print(f"Added {topic_name} topic with {len(topic_news)} articles")
+            print(f"✅ Added {topic_name} topic with {len(topic_news)} articles")
         else:
-            print(f"Skipping {topic_name} topic - no content")
+            print(f"⚠️  Skipping {topic_name} topic - no content")
 
     # Build today's entry
     entry = {
