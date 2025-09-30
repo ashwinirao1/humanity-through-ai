@@ -3,7 +3,51 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Humanity Through AI — Daily Reflection</title>
+  
+  <!-- Primary Meta Tags -->
+  <title>Humanity Through AI — Daily Reflection on Global News</title>
+  <meta name="title" content="Humanity Through AI — Daily Reflection on Global News" />
+  <meta name="description" content="Daily AI-curated reflection on humanity's collective experience. Covering world politics, health, entertainment, sports, and technology. Written by AI, imagined by Ashwini Rao." />
+  <meta name="keywords" content="AI news, daily reflection, humanity, world politics, health news, technology, sports, entertainment, AI art, generative art" />
+  <meta name="author" content="Ashwini Rao" />
+  <meta name="robots" content="index, follow" />
+  <link rel="canonical" href="https://ashwinirao.com/" />
+  
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://ashwinirao.com/" />
+  <meta property="og:title" content="Humanity Through AI — Daily Reflection on Global News" />
+  <meta property="og:description" content="Daily AI-curated reflection on humanity's collective experience. Covering world politics, health, entertainment, sports, and technology." />
+  <meta property="og:image" content="https://ashwinirao.com/site/entries/latest.png" />
+  <meta property="og:site_name" content="Humanity Through AI" />
+  
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image" />
+  <meta property="twitter:url" content="https://ashwinirao.com/" />
+  <meta property="twitter:title" content="Humanity Through AI — Daily Reflection on Global News" />
+  <meta property="twitter:description" content="Daily AI-curated reflection on humanity's collective experience through AI-generated art and curated news." />
+  <meta property="twitter:image" content="https://ashwinirao.com/site/entries/latest.png" />
+  
+  <!-- Structured Data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Humanity Through AI",
+    "url": "https://ashwinirao.com/",
+    "description": "Daily AI-curated reflection on humanity's collective experience",
+    "author": {
+      "@type": "Person",
+      "name": "Ashwini Rao",
+      "url": "https://www.linkedin.com/in/ashwini-rao-091490102/"
+    },
+    "publisher": {
+      "@type": "Person",
+      "name": "Ashwini Rao"
+    }
+  }
+  </script>
+  
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
@@ -376,7 +420,12 @@
   </section>
 
   <footer>
-    © <span id="year"></span> Humanity Through AI — A daily meditation on the human experience
+    <div style="margin-bottom: 0.5rem;">
+      © <span id="year"></span> Humanity Through AI — A daily meditation on the human experience
+    </div>
+    <div style="font-size: 0.8rem; opacity: 0.7;">
+      Written by AI, imagined by <a href="https://www.linkedin.com/in/ashwini-rao-091490102/" target="_blank" rel="noopener noreferrer" style="color: var(--text-secondary); text-decoration: underline;">Ashwini Rao</a>
+    </div>
   </footer>
 
   <script>
@@ -440,7 +489,7 @@
         return;
       }
 
-      // Handle image paths - no site/ prefix needed since we're in site dir
+      // Handle image paths - no site/ prefix needed
       let imageSrc = latest.image || '';
       if (imageSrc && !imageSrc.startsWith('http') && !imageSrc.startsWith('data:')) {
         imageSrc = './' + imageSrc;
@@ -458,9 +507,13 @@
       renderTopic('sports', topics.sports);
       renderTopic('technology', topics.technology);
 
-      // Build archive
+      // Build archive (exclude today's entry - only show past days)
+      const todayDate = new Date().toISOString().slice(0,10);
       const byYear = {};
       for (const e of manifest.entries) {
+        // Skip today's entry from archive
+        if (e.date === todayDate) continue;
+        
         const y = (e.date||'').slice(0,4);
         const m = (e.date||'').slice(5,7);
         if (!byYear[y]) byYear[y] = {};

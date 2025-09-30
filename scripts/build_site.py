@@ -23,14 +23,14 @@ def save_manifest(path: str, data):
 
 
 def load_categorized_news():
-    """Load news from today_news.json"""
+    """Load news from today_news.json and return date + topics"""
     news_path = os.path.join(ROOT, "data", "today_news.json")
     if os.path.exists(news_path):
         with open(news_path, "r", encoding="utf-8") as f:
             data = json.load(f)
-            # Return the topics dictionary directly
-            return data.get("topics", {})
-    return {}
+            # Return both date and topics
+            return data.get("date", None), data.get("topics", {})
+    return None, {}
 
 def generate_topic_summary(topic_news, topic_name):
     """Generate a summary for a topic based on news items"""
@@ -50,15 +50,19 @@ def main():
     os.makedirs(os.path.join(SITE_DIR, "entries"), exist_ok=True)
     manifest_path = os.path.join(SITE_DIR, "manifest.json")
     
-    # Start fresh - only keep today's entry
-    manifest = {"entries": []}
+    # Load existing manifest to preserve archive
+    manifest = load_manifest(manifest_path)
 
-    today = datetime.date.today().isoformat()
+    # Get the date from the news data (this is the actual content date)
+    news_date, categorized_news = load_categorized_news()
     
-    # Check for both PNG and SVG files
-    img_png = f"entries/{today}.png"
-    img_svg = f"entries/{today}.svg"
-    md_rel = f"entries/{today}.md"
+    # Use news date if available, otherwise use today
+    content_date = news_date if news_date else datetime.date.today().isoformat()
+    
+    # Check for both PNG and SVG files using content date
+    img_png = f"entries/{content_date}.png"
+    img_svg = f"entries/{content_date}.svg"
+    md_rel = f"entries/{content_date}.md"
     
     # Use whichever image file exists
     if os.path.exists(os.path.join(SITE_DIR, img_png)):
@@ -68,9 +72,6 @@ def main():
     else:
         img_rel = ""
 
-    # Load categorized news
-    categorized_news = load_categorized_news()
-    
     # Generate topic summaries and links - all 5 topics
     topics = {}
     for topic_name in ["politics", "health", "entertainment", "sports", "technology"]:
@@ -86,18 +87,22 @@ def main():
 
     # Build today's entry
     entry = {
-        "date": today,
+        "date": content_date,
         "title": "A day of fragile hope amidst voices rising",
         "image": img_rel,
         "note": md_rel if os.path.exists(os.path.join(SITE_DIR, md_rel)) else "",
         "topics": topics,
     }
 
-    # Add today's entry to the manifest
+    # Remove existing entry with same date (update if already exists)
+    manifest["entries"] = [e for e in manifest["entries"] if e.get("date") != content_date]
+    
+    # Add new entry at the top
     manifest["entries"].insert(0, entry)
 
     save_manifest(manifest_path, manifest)
-    print(f"Updated manifest at {manifest_path} with fresh archive starting from {today}")
+    print(f"✅ Updated manifest with entry for {content_date}")
+    print(f"   Total entries in archive: {len(manifest['entries'])}")
 
 
 if __name__ == "__main__":
