@@ -9,9 +9,10 @@ Humanity Through AI — a daily AI-curated art + reflection archive powered by f
    - Repo → Settings → Pages → Source: `main` branch, folder: `/` (root)
 4) Visit `https://<your-username>.github.io/<repo-name>/` — the demo page loads immediately
 
-Optional (for daily automation and AI):
-- Create a Hugging Face token and add it as a Repo Secret named `HF_TOKEN`
+Optional (for AI text summaries):
+- Create a Hugging Face token and add it as a Repo Secret named `HF_TOKEN` (only needed for text summarization, NOT for image generation)
 - GitHub → Repo → Settings → Secrets and variables → Actions → New repository secret → Name: `HF_TOKEN`, Value: your token
+- **Note:** Image generation now uses Pollinations.ai (free, no token required)
 
 ## What’s Included
 
@@ -31,7 +32,7 @@ At 23:59 UTC daily (and on manual trigger):
    - Summarizes headlines (Hugging Face `facebook/bart-large-cnn`, with fallback)
    - Generates a short curator reflection (Hugging Face `mistral-7b-instruct`, with fallback)
    - Writes a markdown note for the day under `site/entries/<YYYY-MM-DD>.md`
-3. `scripts/generate_art.py` attempts a Stable Diffusion generation (`runwayml/stable-diffusion-v1-5`, with fallback to a local SVG/PNG placeholder)
+3. `scripts/generate_art.py` generates AI art using Pollinations.ai (free, no token required), with fallback to Hugging Face models if HF_TOKEN is set, and ultimately falls back to a beautiful SVG placeholder
 4. `scripts/build_site.py` updates `site/manifest.json` (adds today’s record at the top)
 5. Changes are committed and pushed by the workflow; GitHub Pages serves the updated site
 

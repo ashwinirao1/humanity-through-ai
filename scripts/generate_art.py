@@ -42,10 +42,6 @@ def placeholder_png_bytes() -> bytes:
 
 
 def try_generate(prompt: str) -> bytes:
-    if not HF_HEADERS:
-        print("No HF_TOKEN found, using placeholder")
-        return placeholder_png_bytes()
-    
     # Enhanced prompt for better AI art generation
     enhanced_prompt = (
         f"Digital art painting, {prompt}, "
@@ -57,30 +53,54 @@ def try_generate(prompt: str) -> bytes:
     print(f"Attempting AI art generation with prompt: {enhanced_prompt[:150]}...")
     
     try:
-        resp = requests.post(
-            "https://api-inference.huggingface.co/models/runwayml/stable-diffusion-v1-5",
-            headers=HF_HEADERS,
-            json={
-                "inputs": enhanced_prompt,
-                "parameters": {
-                    "num_inference_steps": 25,
-                    "guidance_scale": 8.0,
-                    "width": 1200,
-                    "height": 700
-                }
-            },
-            timeout=200,
+        # Use Pollinations.ai - a free, no-auth-required AI image service
+        # This is more reliable than Hugging Face's free tier which has many restrictions
+        print("Attempting AI art generation via Pollinations.ai...")
+        
+        # Pollinations.ai offers free image generation via simple URL
+        import urllib.parse
+        encoded_prompt = urllib.parse.quote(enhanced_prompt)
+        pollinations_url = f"https://image.pollinations.ai/prompt/{encoded_prompt}?width=1200&height=700&nologo=true"
+        
+        print(f"Fetching image from: {pollinations_url[:100]}...")
+        resp = requests.get(
+            pollinations_url,
+            timeout=60,
         )
         
-        print(f"Response status: {resp.status_code}")
-        
-        if resp.ok and resp.content and len(resp.content) > 1000:  # Ensure it's a real image
-            print(f"✅ Successfully generated AI art! Size: {len(resp.content)} bytes")
+        if resp.ok and resp.content and len(resp.content) > 1000:
+            print(f"✅ Successfully generated AI art via Pollinations! Size: {len(resp.content)} bytes")
             return resp.content
         else:
-            print(f"❌ AI generation failed: {resp.status_code}")
-            if resp.text:
-                print(f"Error details: {resp.text[:200]}")
+            print(f"❌ Pollinations generation failed: {resp.status_code}")
+            
+        # Fallback: Try Hugging Face models (requires PRO or may not work)
+        if HF_HEADERS:
+            print("\nTrying Hugging Face as backup...")
+            models = [
+                "stabilityai/stable-diffusion-2-1",
+                "CompVis/stable-diffusion-v1-4",
+            ]
+            
+            for model in models:
+                try:
+                    print(f"Trying model: {model}")
+                    resp = requests.post(
+                        f"https://api-inference.huggingface.co/models/{model}",
+                        headers=HF_HEADERS,
+                        json={"inputs": enhanced_prompt},
+                        timeout=120,
+                    )
+                    if resp.ok and resp.content and len(resp.content) > 1000:
+                        print(f"✅ Successfully connected to {model}")
+                        return resp.content
+                    else:
+                        print(f"❌ Model {model} returned {resp.status_code}")
+                        if resp.text:
+                            print(f"  Error: {resp.text[:200]}")
+                except Exception as e:
+                    print(f"❌ Error with {model}: {e}")
+                    continue
     except Exception as e:
         print(f"❌ AI generation error: {e}")
     
