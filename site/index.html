@@ -408,9 +408,11 @@
       summaryEl.textContent = data.summary;
       
       if (data.links && data.links.length) {
-        linksEl.innerHTML = data.links.map(l => 
-          `<li><a href="${l.link}" target="_blank" rel="noopener noreferrer">${l.title}</a><span class="source">${l.source||''}</span></li>`
-        ).join('');
+        linksEl.innerHTML = data.links
+          .filter(l => l && l.link && l.title)  // Filter out invalid links
+          .map(l => 
+            `<li><a href="${l.link}" target="_blank" rel="noopener noreferrer">${l.title}</a><span class="source">${l.source||''}</span></li>`
+          ).join('');
       } else {
         linksEl.innerHTML = '';
       }
@@ -438,7 +440,12 @@
         return;
       }
 
-      art.src = latest.image || svgPlaceholder();
+      // Handle image paths - no site/ prefix needed since we're in site dir
+      let imageSrc = latest.image || '';
+      if (imageSrc && !imageSrc.startsWith('http') && !imageSrc.startsWith('data:')) {
+        imageSrc = './' + imageSrc;
+      }
+      art.src = imageSrc || svgPlaceholder();
       art.alt = latest.title || 'Daily artwork';
       headline.textContent = latest.title || 'Humanity\'s Daily Reflection';
       dateEl.textContent = (latest.date || new Date().toISOString().slice(0,10)).toUpperCase();
