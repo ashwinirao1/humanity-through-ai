@@ -42,12 +42,29 @@ def placeholder_png_bytes() -> bytes:
 
 
 def try_generate(prompt: str) -> bytes:
-    # Enhanced prompt for better AI art generation
+    # Transform the prompt into deeply artistic, abstract expression
+    # Inspired by masters: Picasso's cubism, da Vinci's composition, Rothko's emotion, Kandinsky's abstraction
+    artistic_styles = [
+        "abstract expressionism with bold gestural strokes",
+        "cubist fragmentation of form and perspective",
+        "surrealist dreamscape with symbolic imagery",
+        "color field painting with luminous emotional depth",
+        "neo-impressionist pointillism of light and shadow"
+    ]
+    import random
+    chosen_style = random.choice(artistic_styles)
+    
     enhanced_prompt = (
-        f"Digital art painting, {prompt}, "
-        "vibrant colors, emotional depth, artistic composition, "
-        "representing human experience and global events, "
-        "high quality, detailed, modern art style"
+        f"Masterful fine art: {prompt}. "
+        f"Style: {chosen_style}. "
+        "Composition inspired by Renaissance masters - golden ratio, dynamic balance, visual flow. "
+        "Emotional resonance of Rothko's color fields - deep contemplation, human condition. "
+        "Abstract forms of Kandinsky - spiritual expression through shape and color. "
+        "Picasso's bold deconstruction - multiple perspectives simultaneously. "
+        "Chiaroscuro lighting - dramatic interplay of light and shadow. "
+        "Rich, complex color palette - harmonious yet emotionally charged. "
+        "Symbolic visual metaphors for humanity's collective consciousness. "
+        "Museum quality, deeply moving, thought-provoking artwork."
     )
     
     print(f"Attempting AI art generation with prompt: {enhanced_prompt[:150]}...")
