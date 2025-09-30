@@ -3,86 +3,386 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Humanity Through AI</title>
+  <title>Humanity Through AI — Daily Reflection</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
   <style>
-    :root{--max:960px;--accent:#111827;--muted:#6b7280}
-    html,body{height:100%;margin:0;font-family:Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial}
-    body{display:flex;align-items:flex-start;justify-content:center;background:#f8fafc;color:var(--accent);}
-    .wrap{max-width:var(--max);width:100%;padding:28px}
+    :root {
+      --serif: 'Playfair Display', Georgia, serif;
+      --sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      --bg-dark: #0a0a0a;
+      --bg-card: #111;
+      --text-primary: #f5f5f5;
+      --text-secondary: #999;
+      --text-muted: #666;
+      --accent: #fff;
+      --border: rgba(255,255,255,0.08);
+    }
+    
+    * { box-sizing: border-box; }
+    
+    html, body {
+      height: 100%;
+      margin: 0;
+      padding: 0;
+      background: var(--bg-dark);
+      color: var(--text-primary);
+      font-family: var(--sans);
+      overflow-x: hidden;
+      scroll-behavior: smooth;
+    }
+    
+    body {
+      display: flex;
+      flex-direction: column;
+      font-size: 16px;
+      line-height: 1.6;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+    }
 
-    header{display:flex;align-items:center;gap:18px;margin-bottom:18px}
-    h1{font-size:34px;margin:0;letter-spacing:-0.02em}
-    .subtitle{color:var(--muted);font-size:14px}
+    /* Refined Header - Minimal, Elegant */
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background: rgba(10, 10, 10, 0.95);
+      backdrop-filter: blur(20px);
+      border-bottom: 1px solid var(--border);
+      padding: 1.5rem 2rem;
+    }
+    
+    .header-content {
+      max-width: 1800px;
+      margin: 0 auto;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    
+    h1 {
+      font-family: var(--serif);
+      font-size: 1.75rem;
+      font-weight: 600;
+      margin: 0;
+      letter-spacing: -0.02em;
+      color: var(--accent);
+    }
+    
+    .tagline {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      font-weight: 300;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+    }
 
-    main{display:grid;grid-template-columns:1fr 340px;gap:28px}
-    .hero{background:#fff;padding:22px;border-radius:12px;box-shadow:0 6px 18px rgba(15,23,42,0.06)}
-    .art{width:100%;max-height:520px;border-radius:12px;object-fit:cover;background:linear-gradient(180deg,#111827,#374151);display:block}
+    /* Hero Art Section - Dominant, Full Screen Capable */
+    .art-container {
+      position: relative;
+      width: 100%;
+      min-height: 85vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 2rem;
+      background: linear-gradient(180deg, #0a0a0a 0%, #121212 100%);
+    }
+    
+    .art-wrapper {
+      position: relative;
+      max-width: 1800px;
+      width: 100%;
+      margin: 0 auto;
+    }
+    
+    #art {
+      width: 100%;
+      height: auto;
+      max-height: 90vh;
+      object-fit: contain;
+      border-radius: 4px;
+      box-shadow: 
+        0 0 80px rgba(0,0,0,0.5),
+        0 20px 60px rgba(0,0,0,0.8);
+      transition: transform 0.3s ease;
+    }
+    
+    #art:hover {
+      transform: scale(1.01);
+    }
 
-    .headline{font-size:20px;margin:12px 0 0 0;font-weight:600}
-    .date{color:var(--muted);font-size:13px;margin-top:6px}
+    /* Content Section - Beautiful Typography */
+    .content {
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 4rem 2rem;
+    }
+    
+    .headline {
+      font-family: var(--serif);
+      font-size: 3rem;
+      font-weight: 700;
+      line-height: 1.2;
+      margin: 0 0 1rem 0;
+      letter-spacing: -0.03em;
+      color: var(--accent);
+      max-width: 900px;
+    }
+    
+    .date {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      margin-bottom: 3rem;
+      font-weight: 500;
+    }
 
-    .topics{margin-top:18px;display:grid;grid-template-columns:1fr;gap:12px}
-    .read{background:#f8fafc;padding:16px;border-radius:12px;border:1px solid #e2e8f0;transition:all 0.2s}
-    .read:hover{background:#f1f5f9;border-color:#cbd5e1}
-    .read .label{font-weight:600;color:var(--accent);margin-bottom:8px;font-size:14px}
-    .read a{color:var(--accent);text-decoration:none;font-weight:500;transition:color 0.2s}
-    .read a:hover{color:#3b82f6}
-    .read .source{color:var(--muted);font-size:12px;margin-left:8px}
-    .read ul{margin:8px 0 0 0;padding-left:16px}
-    .read li{margin:4px 0;font-size:14px}
+    /* Topics Grid - Elegant Cards */
+    .topics {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+      gap: 2rem;
+      margin-top: 4rem;
+    }
+    
+    .topic-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 2rem;
+      transition: all 0.3s ease;
+    }
+    
+    .topic-card:hover {
+      border-color: rgba(255,255,255,0.15);
+      transform: translateY(-4px);
+      box-shadow: 0 20px 40px rgba(0,0,0,0.4);
+    }
+    
+    .topic-title {
+      font-family: var(--serif);
+      font-size: 1.5rem;
+      font-weight: 600;
+      margin: 0 0 1rem 0;
+      color: var(--accent);
+    }
+    
+    .topic-summary {
+      font-size: 0.95rem;
+      line-height: 1.7;
+      color: var(--text-secondary);
+      margin-bottom: 1.5rem;
+    }
+    
+    .topic-links {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+    
+    .topic-links li {
+      margin-bottom: 0.75rem;
+      padding-left: 1.2rem;
+      position: relative;
+    }
+    
+    .topic-links li:before {
+      content: "→";
+      position: absolute;
+      left: 0;
+      color: var(--text-muted);
+    }
+    
+    .topic-links a {
+      color: var(--text-primary);
+      text-decoration: none;
+      font-weight: 500;
+      transition: color 0.2s ease;
+      font-size: 0.9rem;
+    }
+    
+    .topic-links a:hover {
+      color: var(--accent);
+    }
+    
+    .source {
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-left: 0.5rem;
+    }
 
-    aside{position:relative}
-    .meta-card{background:#fff;padding:20px;border-radius:12px;box-shadow:0 6px 18px rgba(15,23,42,0.06)}
-    .archive{margin-top:16px}
-    .archive a{color:#3b82f6;text-decoration:none;font-size:13px;margin-right:8px;padding:4px 8px;background:#f1f5f9;border-radius:6px;transition:all 0.2s}
-    .archive a:hover{background:#e2e8f0;color:#1d4ed8}
-    .archive div{margin:8px 0}
-    .archive strong{color:var(--accent);font-size:14px}
+    /* Archive Section - Collapsible, Elegant */
+    .archive-section {
+      max-width: 1400px;
+      margin: 4rem auto;
+      padding: 0 2rem 4rem 2rem;
+      border-top: 1px solid var(--border);
+      padding-top: 4rem;
+    }
+    
+    .archive-title {
+      font-family: var(--serif);
+      font-size: 2rem;
+      font-weight: 600;
+      margin: 0 0 2rem 0;
+      color: var(--accent);
+    }
+    
+    .archive-content {
+      display: grid;
+      gap: 1.5rem;
+      font-size: 0.9rem;
+    }
+    
+    .archive-month {
+      display: flex;
+      gap: 1rem;
+      align-items: baseline;
+      padding: 0.75rem 0;
+      border-bottom: 1px solid var(--border);
+    }
+    
+    .archive-month strong {
+      font-family: var(--sans);
+      color: var(--text-secondary);
+      min-width: 120px;
+      font-weight: 600;
+    }
+    
+    .archive-days {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.75rem;
+    }
+    
+    .archive-days a {
+      color: var(--text-secondary);
+      text-decoration: none;
+      padding: 0.25rem 0.5rem;
+      border-radius: 4px;
+      transition: all 0.2s ease;
+      font-variant-numeric: tabular-nums;
+    }
+    
+    .archive-days a:hover {
+      background: var(--bg-card);
+      color: var(--accent);
+    }
 
-    footer{margin-top:22px;color:var(--muted);font-size:13px}
+    /* Footer */
+    footer {
+      text-align: center;
+      padding: 3rem 2rem;
+      color: var(--text-muted);
+      font-size: 0.875rem;
+      border-top: 1px solid var(--border);
+    }
 
-    @media (max-width:900px){
-      main{grid-template-columns:1fr}
+    /* Responsive */
+    @media (max-width: 768px) {
+      .art-container {
+        min-height: 60vh;
+        padding: 1rem;
+      }
+      
+      .headline {
+        font-size: 2rem;
+      }
+      
+      .topics {
+        grid-template-columns: 1fr;
+      }
+      
+      h1 {
+        font-size: 1.25rem;
+      }
+      
+      .content {
+        padding: 2rem 1rem;
+      }
+    }
+
+    /* Loading State */
+    .loading {
+      opacity: 0;
+      animation: fadeIn 0.6s ease forwards;
+    }
+    
+    @keyframes fadeIn {
+      to { opacity: 1; }
     }
   </style>
 </head>
 <body>
-  <div class="wrap">
-    <header>
-      <div>
-        <h1>Humanity Through AI</h1>
-        <div class="subtitle">A daily reflection of how humanity feels — art, headline, and curated reading.</div>
+  <header>
+    <div class="header-content">
+      <h1>Humanity Through AI</h1>
+      <div class="tagline">Daily Reflection</div>
+    </div>
+  </header>
+
+  <!-- Art First - Dominant, Full Screen -->
+  <section class="art-container loading">
+    <div class="art-wrapper">
+      <img id="art" alt="Daily artwork representing humanity's collective experience" />
+    </div>
+  </section>
+
+  <!-- Content - Beautiful Typography -->
+  <section class="content loading">
+    <div class="headline" id="headline">Loading today's reflection…</div>
+    <div class="date" id="date"></div>
+
+    <div class="topics">
+      <div class="topic-card">
+        <h2 class="topic-title">World Politics</h2>
+        <div class="topic-summary" id="politics-summary"></div>
+        <ul class="topic-links" id="politics-links"></ul>
       </div>
-    </header>
 
-    <main>
-      <section class="hero">
-        <img id="art" class="art" alt="Daily artwork" />
-        <div class="headline" id="headline">Loading…</div>
-        <div class="date" id="date"></div>
+      <div class="topic-card">
+        <h2 class="topic-title">Health & Science</h2>
+        <div class="topic-summary" id="health-summary"></div>
+        <ul class="topic-links" id="health-links"></ul>
+      </div>
 
-        <div class="topics" id="topics-container">
-          <!-- Topics will be dynamically added here based on available content -->
-        </div>
-      </section>
+      <div class="topic-card">
+        <h2 class="topic-title">Entertainment & Culture</h2>
+        <div class="topic-summary" id="entertainment-summary"></div>
+        <ul class="topic-links" id="entertainment-links"></ul>
+      </div>
 
-      <aside>
-        <div class="meta-card">
-          <strong>Archive</strong>
-          <div class="archive" id="archive"></div>
-        </div>
-      </aside>
-    </main>
+      <div class="topic-card">
+        <h2 class="topic-title">Sports</h2>
+        <div class="topic-summary" id="sports-summary"></div>
+        <ul class="topic-links" id="sports-links"></ul>
+      </div>
 
-    <footer>
-      © <span id="year"></span> Humanity Through AI
-    </footer>
-  </div>
+      <div class="topic-card">
+        <h2 class="topic-title">Technology</h2>
+        <div class="topic-summary" id="technology-summary"></div>
+        <ul class="topic-links" id="technology-links"></ul>
+      </div>
+    </div>
+  </section>
+
+  <!-- Archive -->
+  <section class="archive-section">
+    <h2 class="archive-title">Archive</h2>
+    <div class="archive-content" id="archive"></div>
+  </section>
+
+  <footer>
+    © <span id="year"></span> Humanity Through AI — A daily meditation on the human experience
+  </footer>
 
   <script>
     function svgPlaceholder() {
-      const svg = `<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700"><defs><linearGradient id="g1" x1="0" x2="1"><stop offset="0%" stop-color="#0f172a"/><stop offset="40%" stop-color="#0b3b3b"/><stop offset="100%" stop-color="#7c2d12"/></linearGradient></defs><rect width="100%" height="100%" fill="url(#g1)"/><g fill-opacity="0.18"><circle cx="220" cy="420" r="260" fill="#ffb07c"/><circle cx="900" cy="200" r="300" fill="#2b5bff"/></g><g fill="#fff" opacity="0.06"><path d="M0,550 C300,450 500,650 1200,500 L1200,700 L0,700 Z"/></g><text x="50" y="80" fill="#fff" font-size="28" font-family="sans-serif" opacity="0.9">How Humanity Felt - Sample</text></svg>`;
-      return 'data:image/svg+xml;charset=utf-8,' + encodeURIComponent(svg);
+      const svg = `<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080"><defs><linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#1a1a2e"/><stop offset="50%" stop-color="#16213e"/><stop offset="100%" stop-color="#0f3460"/></linearGradient><radialGradient id="g2" cx="30%" cy="30%"><stop offset="0%" stop-color="rgba(255,255,255,0.1)"/><stop offset="100%" stop-color="transparent"/></radialGradient></defs><rect width="100%" height="100%" fill="url(#g1)"/><circle cx="600" cy="300" r="400" fill="url(#g2)"/><circle cx="1400" cy="800" r="350" fill="url(#g2)" opacity="0.6"/><path d="M0,700 Q400,600 800,700 T1920,650 L1920,1080 L0,1080 Z" fill="rgba(0,0,0,0.3)"/></svg>`;
+      return 'data:image/svg+xml;base64,' + btoa(svg);
     }
 
     async function loadManifest() {
@@ -95,64 +395,86 @@
       }
     }
 
+    function renderTopic(topicKey, data) {
+      const summaryEl = document.getElementById(`${topicKey}-summary`);
+      const linksEl = document.getElementById(`${topicKey}-links`);
+      
+      if (!data || !data.summary) {
+        summaryEl.innerHTML = '<em>Gathering insights...</em>';
+        linksEl.innerHTML = '';
+        return;
+      }
+      
+      summaryEl.textContent = data.summary;
+      
+      if (data.links && data.links.length) {
+        linksEl.innerHTML = data.links.map(l => 
+          `<li><a href="${l.url}" target="_blank" rel="noopener">${l.title}</a><span class="source">${l.source||''}</span></li>`
+        ).join('');
+      } else {
+        linksEl.innerHTML = '';
+      }
+    }
+
     function render(manifest) {
       const latest = manifest.entries && manifest.entries.length ? manifest.entries[0] : null;
       const art = document.getElementById('art');
       const headline = document.getElementById('headline');
-      const date = document.getElementById('date');
+      const dateEl = document.getElementById('date');
       const archive = document.getElementById('archive');
       const year = document.getElementById('year');
       year.textContent = new Date().getFullYear();
 
       if (!latest) {
         art.src = svgPlaceholder();
-        headline.textContent = 'A day of fragile hope amidst voices rising';
-        date.textContent = new Date().toISOString().slice(0,10);
-        document.getElementById('topics-container').innerHTML = '<div class="read"><em>Loading today\'s news...</em></div>';
-        archive.innerHTML = '<em>Archive will appear after the first daily run. Check back tomorrow!</em>';
+        headline.textContent = 'The Day Humanity Paused to Reflect';
+        dateEl.textContent = new Date().toISOString().slice(0,10).toUpperCase();
+        
+        ['politics', 'health', 'entertainment', 'sports', 'technology'].forEach(topic => {
+          renderTopic(topic, null);
+        });
+        
+        archive.innerHTML = '<div class="archive-month"><em>Archive will appear after the first reflection.</em></div>';
         return;
       }
 
-      art.src = latest.image ? `./site/${latest.image}` : svgPlaceholder();
+      // Handle image paths - add site/ prefix if needed
+      let imageSrc = latest.image || '';
+      if (imageSrc && !imageSrc.startsWith('http') && !imageSrc.startsWith('data:') && !imageSrc.startsWith('./site/')) {
+        imageSrc = './site/' + imageSrc;
+      }
+      art.src = imageSrc || svgPlaceholder();
       art.alt = latest.title || 'Daily artwork';
-      headline.textContent = latest.title || '';
-      date.textContent = latest.date || '';
+      headline.textContent = latest.title || 'Humanity\'s Daily Reflection';
+      dateEl.textContent = (latest.date || new Date().toISOString().slice(0,10)).toUpperCase();
 
-      function linksHtml(section){
-        if (!section || !section.links || !section.links.length) return '<em>No links</em>';
-        return '<ul>' + section.links.map(l => `<li><a href="${l.url}" target="_blank" rel="noopener">${l.title}</a> <span class="source">${l.source||''}</span></li>`).join('') + '</ul>';
-      }
+      // Render all topics
+      const topics = latest.topics || {};
+      renderTopic('politics', topics.politics);
+      renderTopic('health', topics.health);
+      renderTopic('entertainment', topics.entertainment);
+      renderTopic('sports', topics.sports);
+      renderTopic('technology', topics.technology);
 
-      // Render only topics that have content
-      const topicsContainer = document.getElementById('topics-container');
-      if (latest.topics && Object.keys(latest.topics).length > 0) {
-        let topicsHtml = '';
-        for (const [topicName, topicData] of Object.entries(latest.topics)) {
-          if (topicData && topicData.links && topicData.links.length > 0) {
-            const topicLabel = topicName.charAt(0).toUpperCase() + topicName.slice(1);
-            topicsHtml += `<div class="read"><div class="label">${topicLabel}</div><div>${topicData.summary||''}</div>${linksHtml(topicData)}</div>`;
-          }
-        }
-        topicsContainer.innerHTML = topicsHtml || '<div class="read"><em>No news topics available today</em></div>';
-      } else {
-        topicsContainer.innerHTML = '<div class="read"><em>No news topics available today</em></div>';
-      }
-
+      // Build archive
       const byYear = {};
       for (const e of manifest.entries) {
         const y = (e.date||'').slice(0,4);
         const m = (e.date||'').slice(5,7);
-        (byYear[y] ||= {});
-        (byYear[y][m] ||= []).push(e);
+        if (!byYear[y]) byYear[y] = {};
+        if (!byYear[y][m]) byYear[y][m] = [];
+        byYear[y][m].push(e);
       }
+      
       const years = Object.keys(byYear).sort((a,b)=>b.localeCompare(a));
       archive.innerHTML = years.map(y => {
         const months = Object.keys(byYear[y]).sort((a,b)=>b.localeCompare(a));
-        const monthHtml = months.map(m => {
-          const days = byYear[y][m].map(d => `<a href="site/entries/${d.date}.md" target="_blank" rel="noopener">${d.date.slice(8,10)}</a>`).join(' ');
-          return `<div><strong>${y}-${m}</strong> — ${days}</div>`;
+        return months.map(m => {
+          const days = byYear[y][m]
+            .map(d => `<a href="site/entries/${d.date}.md" target="_blank" rel="noopener">${d.date.slice(8,10)}</a>`)
+            .join('');
+          return `<div class="archive-month"><strong>${y}-${m}</strong><div class="archive-days">${days}</div></div>`;
         }).join('');
-        return `<div>${monthHtml}</div>`;
       }).join('');
     }
 
@@ -160,3 +482,5 @@
   </script>
 </body>
 </html>
+
+
