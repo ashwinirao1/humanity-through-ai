@@ -28,14 +28,25 @@ def main():
     manifest = load_manifest(manifest_path)
 
     today = datetime.date.today().isoformat()
-    img_rel = f"entries/{today}.png"
+    
+    # Check for both PNG and SVG files
+    img_png = f"entries/{today}.png"
+    img_svg = f"entries/{today}.svg"
     md_rel = f"entries/{today}.md"
+    
+    # Use whichever image file exists
+    if os.path.exists(os.path.join(SITE_DIR, img_png)):
+        img_rel = img_png
+    elif os.path.exists(os.path.join(SITE_DIR, img_svg)):
+        img_rel = img_svg
+    else:
+        img_rel = ""
 
     # Build a minimal entry; topics can be enriched later in pipeline
     entry = {
         "date": today,
         "title": "A day of fragile hope amidst voices rising",
-        "image": img_rel if os.path.exists(os.path.join(SITE_DIR, img_rel)) else "",
+        "image": img_rel,
         "note": md_rel if os.path.exists(os.path.join(SITE_DIR, md_rel)) else "",
         "topics": {
             "health": {"summary": "", "links": []},
