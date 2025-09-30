@@ -43,15 +43,18 @@ def placeholder_png_bytes() -> bytes:
 
 def try_generate(prompt: str) -> bytes:
     if not HF_HEADERS:
+        print("No HF_TOKEN found, using placeholder")
         return placeholder_png_bytes()
     
     # Enhanced prompt for better AI art generation
     enhanced_prompt = (
-        f"Abstract digital art, {prompt}, "
-        "beautiful gradient colors, modern minimalist style, "
-        "emotional and artistic, high quality, detailed, "
-        "conceptual art representing human emotions and global events"
+        f"Digital art painting, {prompt}, "
+        "vibrant colors, emotional depth, artistic composition, "
+        "representing human experience and global events, "
+        "high quality, detailed, modern art style"
     )
+    
+    print(f"Attempting AI art generation with prompt: {enhanced_prompt[:150]}...")
     
     try:
         resp = requests.post(
@@ -60,22 +63,28 @@ def try_generate(prompt: str) -> bytes:
             json={
                 "inputs": enhanced_prompt,
                 "parameters": {
-                    "num_inference_steps": 20,
-                    "guidance_scale": 7.5,
+                    "num_inference_steps": 25,
+                    "guidance_scale": 8.0,
                     "width": 1200,
                     "height": 700
                 }
             },
-            timeout=180,
+            timeout=200,
         )
-        if resp.ok and resp.content:
-            print(f"Successfully generated AI art with prompt: {enhanced_prompt[:100]}...")
+        
+        print(f"Response status: {resp.status_code}")
+        
+        if resp.ok and resp.content and len(resp.content) > 1000:  # Ensure it's a real image
+            print(f"✅ Successfully generated AI art! Size: {len(resp.content)} bytes")
             return resp.content
         else:
-            print(f"AI generation failed: {resp.status_code} - {resp.text}")
+            print(f"❌ AI generation failed: {resp.status_code}")
+            if resp.text:
+                print(f"Error details: {resp.text[:200]}")
     except Exception as e:
-        print(f"AI generation error: {e}")
+        print(f"❌ AI generation error: {e}")
     
+    print("Falling back to placeholder image")
     return placeholder_png_bytes()
 
 

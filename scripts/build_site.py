@@ -69,14 +69,18 @@ def main():
     # Load categorized news
     categorized_news = load_categorized_news()
     
-    # Generate topic summaries and links
+    # Generate topic summaries and links - only include topics with content
     topics = {}
     for topic_name in ["health", "politics", "entertainment"]:
         topic_news = categorized_news.get(topic_name, [])
-        topics[topic_name] = {
-            "summary": generate_topic_summary(topic_news, topic_name),
-            "links": topic_news[:5]  # Top 5 links per topic
-        }
+        if topic_news:  # Only include topics that have actual news
+            topics[topic_name] = {
+                "summary": generate_topic_summary(topic_news, topic_name),
+                "links": topic_news[:5]  # Top 5 links per topic
+            }
+            print(f"Added {topic_name} topic with {len(topic_news)} articles")
+        else:
+            print(f"Skipping {topic_name} topic - no content")
 
     # Build today's entry
     entry = {

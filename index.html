@@ -61,10 +61,8 @@
         <div class="headline" id="headline">Loading…</div>
         <div class="date" id="date"></div>
 
-        <div class="topics">
-          <div class="read"><div class="label">Health</div><div id="health"></div></div>
-          <div class="read"><div class="label">Politics</div><div id="politics"></div></div>
-          <div class="read"><div class="label">Entertainment</div><div id="entertainment"></div></div>
+        <div class="topics" id="topics-container">
+          <!-- Topics will be dynamically added here based on available content -->
         </div>
       </section>
 
@@ -110,9 +108,7 @@
         art.src = svgPlaceholder();
         headline.textContent = 'A day of fragile hope amidst voices rising';
         date.textContent = new Date().toISOString().slice(0,10);
-        document.getElementById('health').innerHTML = '<em>Loading today\'s news...</em>';
-        document.getElementById('politics').innerHTML = '<em>Loading today\'s news...</em>';
-        document.getElementById('entertainment').innerHTML = '<em>Loading today\'s news...</em>';
+        document.getElementById('topics-container').innerHTML = '<div class="read"><em>Loading today\'s news...</em></div>';
         archive.innerHTML = '<em>Archive will appear after the first daily run. Check back tomorrow!</em>';
         return;
       }
@@ -127,9 +123,20 @@
         return '<ul>' + section.links.map(l => `<li><a href="${l.url}" target="_blank" rel="noopener">${l.title}</a> <span class="source">${l.source||''}</span></li>`).join('') + '</ul>';
       }
 
-      document.getElementById('health').innerHTML = (latest.topics && latest.topics.health ? `<div>${latest.topics.health.summary||''}</div>` + linksHtml(latest.topics.health) : '<em>No data</em>');
-      document.getElementById('politics').innerHTML = (latest.topics && latest.topics.politics ? `<div>${latest.topics.politics.summary||''}</div>` + linksHtml(latest.topics.politics) : '<em>No data</em>');
-      document.getElementById('entertainment').innerHTML = (latest.topics && latest.topics.entertainment ? `<div>${latest.topics.entertainment.summary||''}</div>` + linksHtml(latest.topics.entertainment) : '<em>No data</em>');
+      // Render only topics that have content
+      const topicsContainer = document.getElementById('topics-container');
+      if (latest.topics && Object.keys(latest.topics).length > 0) {
+        let topicsHtml = '';
+        for (const [topicName, topicData] of Object.entries(latest.topics)) {
+          if (topicData && topicData.links && topicData.links.length > 0) {
+            const topicLabel = topicName.charAt(0).toUpperCase() + topicName.slice(1);
+            topicsHtml += `<div class="read"><div class="label">${topicLabel}</div><div>${topicData.summary||''}</div>${linksHtml(topicData)}</div>`;
+          }
+        }
+        topicsContainer.innerHTML = topicsHtml || '<div class="read"><em>No news topics available today</em></div>';
+      } else {
+        topicsContainer.innerHTML = '<div class="read"><em>No news topics available today</em></div>';
+      }
 
       const byYear = {};
       for (const e of manifest.entries) {
