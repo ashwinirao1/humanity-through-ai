@@ -12,29 +12,91 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SITE_DIR = os.path.join(ROOT, "site")
 
 
-def create_svg_placeholder() -> bytes:
-    # Create a beautiful SVG placeholder
-    svg_content = '''<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700">
+def create_generative_art() -> bytes:
+    """Create beautiful, unique generative SVG art"""
+    import random
+    import hashlib
+    import datetime
+    
+    # Use today's date as seed for consistent daily art
+    today = datetime.date.today().isoformat()
+    seed = int(hashlib.md5(today.encode()).hexdigest()[:8], 16)
+    random.seed(seed)
+    
+    # Color palettes inspired by famous artists
+    palettes = [
+        # Rothko-inspired
+        ['#8B4513', '#DC143C', '#FF8C00', '#4B0082'],
+        # Kandinsky-inspired  
+        ['#1E3A8A', '#DC2626', '#FBBF24', '#059669'],
+        # Picasso blue period
+        ['#1E40AF', '#3B82F6', '#60A5FA', '#93C5FD'],
+        # Abstract expressionism
+        ['#991B1B', '#B91C1C', '#DC2626', '#F87171'],
+        # Mondrian-inspired
+        ['#000000', '#EF4444', '#3B82F6', '#FBBF24']
+    ]
+    palette = random.choice(palettes)
+    
+    # Generate abstract shapes
+    shapes = []
+    num_shapes = random.randint(5, 12)
+    
+    for i in range(num_shapes):
+        shape_type = random.choice(['circle', 'rect', 'ellipse', 'polygon'])
+        color = random.choice(palette)
+        opacity = random.uniform(0.3, 0.85)
+        
+        if shape_type == 'circle':
+            cx = random.randint(0, 1200)
+            cy = random.randint(0, 700)
+            r = random.randint(50, 300)
+            shapes.append(f'<circle cx="{cx}" cy="{cy}" r="{r}" fill="{color}" opacity="{opacity}"/>')
+        
+        elif shape_type == 'rect':
+            x = random.randint(-200, 1200)
+            y = random.randint(-200, 700)
+            w = random.randint(100, 600)
+            h = random.randint(100, 400)
+            rotate = random.randint(0, 45)
+            shapes.append(f'<rect x="{x}" y="{y}" width="{w}" height="{h}" fill="{color}" opacity="{opacity}" transform="rotate({rotate} {x+w//2} {y+h//2})"/>')
+        
+        elif shape_type == 'ellipse':
+            cx = random.randint(0, 1200)
+            cy = random.randint(0, 700)
+            rx = random.randint(80, 350)
+            ry = random.randint(50, 250)
+            shapes.append(f'<ellipse cx="{cx}" cy="{cy}" rx="{rx}" ry="{ry}" fill="{color}" opacity="{opacity}"/>')
+        
+        else:  # polygon
+            points = []
+            num_points = random.randint(3, 6)
+            for _ in range(num_points):
+                px = random.randint(0, 1200)
+                py = random.randint(0, 700)
+                points.append(f"{px},{py}")
+            points_str = " ".join(points)
+            shapes.append(f'<polygon points="{points_str}" fill="{color}" opacity="{opacity}"/>')
+    
+    # Create gradient background
+    bg_colors = random.sample(palette, 2)
+    
+    svg_content = f'''<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" style="background: linear-gradient(135deg, {bg_colors[0]}22 0%, {bg_colors[1]}22 100%);">
   <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#667eea;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#764ba2;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#f093fb;stop-opacity:1" />
-    </linearGradient>
-    <radialGradient id="glow" cx="50%" cy="30%" r="40%">
-      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:0.3" />
-      <stop offset="100%" style="stop-color:#ffffff;stop-opacity:0" />
-    </radialGradient>
+    <filter id="blur">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="2" />
+    </filter>
   </defs>
-  <rect width="100%" height="100%" fill="url(#bg)"/>
-  <circle cx="300" cy="200" r="150" fill="url(#glow)" opacity="0.6"/>
-  <circle cx="900" cy="500" r="200" fill="url(#glow)" opacity="0.4"/>
-  <path d="M0,400 Q300,200 600,400 T1200,400 L1200,700 L0,700 Z" fill="rgba(255,255,255,0.1)"/>
-  <text x="600" y="350" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="48" font-weight="bold" opacity="0.9">Humanity Through AI</text>
-  <text x="600" y="400" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="24" opacity="0.7">Daily Reflection</text>
+  <rect width="100%" height="100%" fill="#0a0a0a" opacity="0.4"/>
+  {chr(10).join(shapes)}
+  <rect width="100%" height="100%" fill="url(#overlay)" opacity="0.1"/>
 </svg>'''
     return svg_content.encode('utf-8')
+
+def create_svg_placeholder() -> bytes:
+    # Use generative art instead of static placeholder
+    return create_generative_art()
 
 def placeholder_png_bytes() -> bytes:
     # Return SVG bytes instead of tiny PNG
@@ -44,52 +106,62 @@ def placeholder_png_bytes() -> bytes:
 def try_generate(prompt: str) -> bytes:
     # Transform the prompt into deeply artistic, abstract expression
     # Inspired by masters: Picasso's cubism, da Vinci's composition, Rothko's emotion, Kandinsky's abstraction
-    artistic_styles = [
-        "abstract expressionism with bold gestural strokes",
-        "cubist fragmentation of form and perspective",
-        "surrealist dreamscape with symbolic imagery",
-        "color field painting with luminous emotional depth",
-        "neo-impressionist pointillism of light and shadow"
-    ]
     import random
+    
+    artistic_styles = [
+        "abstract expressionism",
+        "cubist fragmentation",
+        "surrealist dreamscape",
+        "color field painting",
+        "neo-impressionist"
+    ]
     chosen_style = random.choice(artistic_styles)
     
+    # Simplified prompt for URL encoding - Pollinations has length limits
+    # Keep the artistic essence but make it concise
     enhanced_prompt = (
-        f"Masterful fine art: {prompt}. "
-        f"Style: {chosen_style}. "
-        "Composition inspired by Renaissance masters - golden ratio, dynamic balance, visual flow. "
-        "Emotional resonance of Rothko's color fields - deep contemplation, human condition. "
-        "Abstract forms of Kandinsky - spiritual expression through shape and color. "
-        "Picasso's bold deconstruction - multiple perspectives simultaneously. "
-        "Chiaroscuro lighting - dramatic interplay of light and shadow. "
-        "Rich, complex color palette - harmonious yet emotionally charged. "
-        "Symbolic visual metaphors for humanity's collective consciousness. "
-        "Museum quality, deeply moving, thought-provoking artwork."
+        f"Fine art {chosen_style}: humanity's emotions, "
+        f"abstract symbolic forms, golden ratio composition, "
+        f"Rothko color depth, Kandinsky spirituality, "
+        f"chiaroscuro lighting, museum quality"
     )
     
     print(f"Attempting AI art generation with prompt: {enhanced_prompt[:150]}...")
     
     try:
         # Use Pollinations.ai - a free, no-auth-required AI image service
-        # This is more reliable than Hugging Face's free tier which has many restrictions
         print("Attempting AI art generation via Pollinations.ai...")
         
-        # Pollinations.ai offers free image generation via simple URL
         import urllib.parse
+        
+        # Try with full prompt first
         encoded_prompt = urllib.parse.quote(enhanced_prompt)
         pollinations_url = f"https://image.pollinations.ai/prompt/{encoded_prompt}?width=1200&height=700&nologo=true"
         
-        print(f"Fetching image from: {pollinations_url[:100]}...")
-        resp = requests.get(
-            pollinations_url,
-            timeout=60,
-        )
+        print(f"Fetching image from Pollinations (attempt 1)...")
+        try:
+            resp = requests.get(pollinations_url, timeout=60)
+            if resp.ok and resp.content and len(resp.content) > 1000:
+                print(f"✅ Successfully generated AI art via Pollinations! Size: {len(resp.content)} bytes")
+                return resp.content
+        except Exception as e:
+            print(f"Attempt 1 failed: {e}")
         
-        if resp.ok and resp.content and len(resp.content) > 1000:
-            print(f"✅ Successfully generated AI art via Pollinations! Size: {len(resp.content)} bytes")
-            return resp.content
-        else:
-            print(f"❌ Pollinations generation failed: {resp.status_code}")
+        # Retry with simpler prompt
+        simple_prompt = f"{chosen_style} abstract art humanity"
+        encoded_simple = urllib.parse.quote(simple_prompt)
+        simple_url = f"https://image.pollinations.ai/prompt/{encoded_simple}?width=1200&height=700"
+        
+        print(f"Retrying with simpler prompt (attempt 2)...")
+        try:
+            resp = requests.get(simple_url, timeout=60)
+            if resp.ok and resp.content and len(resp.content) > 1000:
+                print(f"✅ Successfully generated AI art via Pollinations! Size: {len(resp.content)} bytes")
+                return resp.content
+        except Exception as e:
+            print(f"Attempt 2 failed: {e}")
+        
+        print("❌ All Pollinations attempts failed")
             
         # Fallback: Try Hugging Face models (requires PRO or may not work)
         if HF_HEADERS:
