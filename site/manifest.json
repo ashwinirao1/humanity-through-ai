@@ -1,6 +1,164 @@
 {
   "entries": [
     {
+      "date": "2025-09-30",
+      "title": "A day of fragile hope amidst voices rising",
+      "image": "entries/2025-09-30.png",
+      "note": "entries/2025-09-30.md",
+      "topics": {
+        "politics": {
+          "summary": "The role of identity in a multilevel interdependence in international relations: exploring popular understandings of international politics - Frontier...",
+          "links": [
+            {
+              "title": "The role of identity in a multilevel interdependence in international relations: exploring popular understandings of international politics - Frontiers",
+              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZjE4cVhSV2tkVmQ2VjlZYWZzY0Vlam9SMzJKd3hmckwwWlRaZ214Q1hOc180SE05Qkh0aDQ0M2RZNE5uQUhSYXJvNk8wSk0wVTNLOHFoeVhLekVxT1BaeWlCeGhOVHBBc0JkSFBldmlleTBSZGwxMVppWnVYSFFfV3BVb3pFME12Vy1ackVJMGRfS0ZyRF9xQV93?oc=5",
+              "source": "Frontiers"
+            },
+            {
+              "title": "Press play: how a Boise State professor is using video games to explain international relations - Boise State University",
+              "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMzFtbWZ3bFFMZXViMG9VYTVQTEcxVlYwak1rSEh5WTYwRHBRRm9kZVlVb2lJV0Ezd0lJaXE4WDFsMmRRalE3Y3NuZ0Nicm1jYzlYUF9IamlqOHZhbjJQdkcycTd0ZkJuMTkyS1F0MU5zVFRtSmR0N1d2cEhaSzlySzhtNE9TeGlNd1N5MEd2QnVaeVk2Mng4Yl9LMUNsWkE5WWxDU3pYNlViVVp5WVZoYkk2RDVxNGFqT3pTb0xkdVpEQzNqcWN6UEp4TGFpT2NPQkxoMw?oc=5",
+              "source": "Boise State University"
+            },
+            {
+              "title": "Trump’s Bid to Transform International Relations May Succeed - Fair Observer",
+              "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVFdSQV9OMDZhWThFSGRkMHVjX3BkTl9lQlhUa25Qbm5LMVV5UFJrYXZJdDdjWEtYWW9MMEE5alpRd0E1cjBnRjdJX2Z4ZnRhSkJoSUtzbDBhSG1tVnd4aDV6VUQwLUpBdm9wQWpWWDhpLTVubG9KV1FCZk1WQVFURjZ5VjVZSGg4TGpCWlV5UHBDaWlQVkZPYnJBa3RrWV9WNG11QkswVlRTeEZN?oc=5",
+              "source": "Fair Observer"
+            },
+            {
+              "title": "The world in 2025 - Chatham House",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVjV3RTBHT0gtcC12Vm02M3lxbWhxbjdOemdaOVFzVksyV19KeWRlRzZXeEFiN25ndlU5YVJTdkE2b0plWWdmdXNWdVF3Vm0wTGxVRjc5MG9DSEtEYmdnUEExaFMyeWk1LUtSTi1Iek1QQUJYYWRSQUU0UUhRYnk1WVdR?oc=5",
+              "source": "Chatham House"
+            },
+            {
+              "title": "Joseph Nye, Harvard professor, developer of “soft power” theory, and an architect of modern international relations, dies at 88 - Harvard Kennedy School",
+              "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVkhaRlBEamwyR0dGeWt1V2JXRnlKVlNNeFh1dWxnM2xqZkYxWm9PMlVxMWNUS0xYMkpYRlpaQWZ5WWhSU1NoSHlObWRNcjZMbE5OZ19sSm1EY3d2d09vNkRTZzNUSndOeTVmRzFJVXNOaEFRSGNKNWZaakN1VEVmY2h3WGc3X1JDZVNKMEZGNHVqRExjUWR1VUVCMUw4emFzM3NsZWViTjVHTnRKN0J6SA?oc=5",
+              "source": "Harvard Kennedy School"
+            }
+          ]
+        },
+        "health": {
+          "summary": "Can the party drug ketamine be a mental health breakthrough? It was for me - CNN. Breakthrough discovery reveals HIV’s survival strategy in human cell...",
+          "links": [
+            {
+              "title": "Can the party drug ketamine be a mental health breakthrough? It was for me - CNN",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92UFk1T3hadTRXeEVPUTBKSjU5YnVNS3dfOFBfVTdobEpMTFFsOGZZbGljQU9hU0dCZUJ0UzJuVkEtRVlQa2V1Zm83eW04SjBCZnB3RlpMMUxXVFM3a1VESFZJTEQ5TDAwb2lfak9OU0E1cTVKQkx5NnVGQlpPTGc?oc=5",
+              "source": "CNN"
+            },
+            {
+              "title": "Breakthrough discovery reveals HIV’s survival strategy in human cells - News-Medical",
+              "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPd0hNeUZFYk5URFNpYnp5b3NsUlpWdnlETlA2M21nLUNCX05DTFNabWhvaVpuUk1yRXBTUU9NcWJDdnN5TlFTbHhsb1dLYjBCZDRGYUQwTW1JZll2cjRyVTlXQ3pGTlp5dUEyOEUwNUc1ODkxN3NrbEZSemx3VE9YdUw0VW04VjlxVWp4WEdvcjlscmNYWndFVWRSY1VfNVN6VzA2Q09CMmR6TWNLNG1OaDRnYU9zbG5PRlFMbzhvOA?oc=5",
+              "source": "News-Medical"
+            },
+            {
+              "title": "Trump’s Meeting With Democrats Yields No Progress, With Shutdown a Day Away - The New York Times",
+              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9FbkR5VC0tdVRWZ3Q1OXREUXVrVGZ4NVFxRzRZWXpaZ2gxODA0bmllZzY3OVh3NG1iYy1LUDdtS3VhSHlMRFF6aEtxcHBJUGVidU05OXdlbTJLSW91Tm5VYWQ3a0ZSUk1CZmxoU0pLaw?oc=5",
+              "source": "The New York Times"
+            },
+            {
+              "title": "Psilocybin: A breakthrough in mental health treatment or mere ‘magical’ thinking? - Yale News",
+              "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZHRJc1RoeGpEemlvM1MzUEVFNFJmYjJ2ZTFVeE5UcVpmR3pWNk5HRkdSSUJ2elM2TDJTNXB1d1pkWkFwcE1FZ25IblJUSGFpNjg1cG9MWDhnSTRnUlN6WjJRaUJGcU95c3lGYlpWUWs4cjRVTmp1LWxZTTdiWWlYNDBMYmZvOEZycTJfWTNfbklDcW1lUWo3NUpKazYtc0E3MUprT0ZDMTY?oc=5",
+              "source": "Yale News"
+            },
+            {
+              "title": "Envoy Medical Advances Commercialization Planning for Breakthrough Hearing Device as FDA Clinical Trial Remains On Track - Ortho Spine News",
+              "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPMEtRajFoRmJGeW4wTng4YmJzNjNVc00wN1Z2OTdDV1R1QXJlUjF6cENUNHVWeTNpQTh6UDNCV2VkUGxIX3ZYRmtnRERud05qLVVWaGx1dF9fZlZxRXFrU3JkTTFhN0dEV0duTF83NmVvcHlPMFJDVXJoVmhOOE9RQ0daV3RjQlA3bmJvSENic1U5YnBTZUtPZDduQ2kwZ1c0XzdvZE5sbjlra1dnYWFfU1lFY3h4TkVnNTc1OVhRRC0yOFBmR0s0eU9sSlpfX1ZjaHNPdU9keG5xcGRqbFFoQ3dkNWREQXpJSjJSV1hZQVY?oc=5",
+              "source": "Ortho Spine News"
+            }
+          ]
+        },
+        "entertainment": {
+          "summary": "Lesotho's Famo music: from shepherd songs to gang wars - NPR. Trump takes tariff war to the movies by announcing 100% tax on foreign-made films - PBS....",
+          "links": [
+            {
+              "title": "Lesotho's Famo music: from shepherd songs to gang wars - NPR",
+              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5TTnF2M0RSZHl5WUk3MHdTZzFaVGx2dWtWdWxZSE5McVZoMkgzSTc3ZFhteGZCcmVBcVpvekRyYlJDZEwwZnBKQm5pU3FIQ01RcUd1ZjBRcm95cDVMMTVfVzFfcGhvelNZYzJvVzNvaWFFTFdEWkljbg?oc=5",
+              "source": "NPR"
+            },
+            {
+              "title": "Trump takes tariff war to the movies by announcing 100% tax on foreign-made films - PBS",
+              "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdmtERlU0WWEzSlpUYWNPaVNORFN4VklobnFmcVBIeUlPbGlTc0VJVk4wXzlDRmxvekc1YXBaWjNNY25NckJwZVhwZGl1VmZYZ1dUdkU2V1NQcDkyb3JBZlpldkJ2MzliMTViWmhzZzJZTEV6M2xNSWN6VGh4dndZS2ZDbl93WUFNLWtrWXN5SVAtanVBY0lMdzNreXNFcnQzZWtTYjE1VF9oYnhJTWtqVHd5bWdwVzQ?oc=5",
+              "source": "PBS"
+            },
+            {
+              "title": "Trump renews threat to impose 100% tariffs on non-US made movies - BBC",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWdFUtMEpqeGpWQXc1aVhmX0dWT2lJU1lUMW83bWhTekpWTmpPNW03aTAxQXgtd2JHU1FzQUh3NGUySUJ6TDJoOXU4N3NlOEhlVEp0YzFNTHpOZ9IBX0FVX3lxTE5ac2M2MXhNcjM5NHhCN3d5Mk9tLUttRFdwcHo3eGRyNExtV04ya2x3NXBHaFhCa3MwbktCd0l2ZWV3SnZiRVc4RkZQdzl6ODh4Rm1INVZJUWlZQ1Qta0Y0?oc=5",
+              "source": "BBC"
+            },
+            {
+              "title": "Trump promises steep tariffs for foreign movies and imported furniture - Al Jazeera",
+              "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVVMzZUMwTUpQYndWZF9oY1h0MXVvZlVOQlBMbldlWm9FYVhYV2VkUEJnaUJhclFTUG5BZGVGamJ3X1BnQ1BodTZiM2pWenBVbmh5NXpwVl83N25Nem9ySENJOEpYY2hkdG5NeUxZc0VUOERXdFc2YlpqNUVvdEFIT1B2NElMc1Z6SU1iRDByeGFid0dhcFREeHZPRXNlcHB0UlZKWk8wb2xXMHNpMnVYQ9IBtgFBVV95cUxQRWtweXJjazZWcHFCY203NW15ejhTRjRZRnpJQ1hnX3U2MXpiQnluNFZubjZWNW5HRnVDNjF2UWh4ekRhRmNuS2g3U0FuQUxIWXJuY0hITHQ3dG1TcXhMc09sbkhNZFFBc3JfeWxsbm8wTllJS01tVHF1cHZ0S1ZxLWU3OFQyWl8yNlQzendIMEItVmZNRll2VHoyVXVMRk13LVhxWE1VcU1oOFp4cHdtSFhBdUtRZw?oc=5",
+              "source": "Al Jazeera"
+            },
+            {
+              "title": "Midday Movies Italian style - KPBS",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOS1RmelhqNzlaY1o4QUdmQXd4V3Q5NU9jLWZSamw0WTZHX3FtamtFblplWUpwYTF4NVhjVEdTWHBMbjRUWkYxSjBrUS15YW5UckZ5QTJ3dFZPZVpLV3hGZjRkT3I2QXhfdGdmU1U5QWU3X0hGeloyY083Y2VHcHctM0Jnbw?oc=5",
+              "source": "KPBS"
+            }
+          ]
+        },
+        "sports": {
+          "summary": "Women’s Basketball Holds First Practice of 2025-26 Season - Rice University Athletics. UAB Finishes 11th at Bryan Bros Collegiate - UAB Athletics. Sky...",
+          "links": [
+            {
+              "title": "Women’s Basketball Holds First Practice of 2025-26 Season - Rice University Athletics",
+              "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTWs3RUlIU3J3Zm1rTTdzZVUyYS1MMXNVdHNUZTVUNXF2X1lja2JZUG5ZbWdLSHBNNkM2cTBtRGhqTTFXQmpQXy04SUpoLVhLTWw1X1JadUZjWlZfUWoxWGFOdzZTWjN5U1EzVHl3cTVkdlN2WFdqR2RsSVhQelpGVkVGX2JsdlRWbGY0dGIwTFlBQVJiUjRLaEl2bldVUF9EU0ZDZm9vR01Nem90RHdr?oc=5",
+              "source": "Rice University Athletics"
+            },
+            {
+              "title": "UAB Finishes 11th at Bryan Bros Collegiate - UAB Athletics",
+              "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOblNJSk1wcTNmVzYyMU0xbUpfVV9Vd1BNaG9VeVFmNHNfelNJNjEzWGtsTlY2Z3pXQV9Qb1pYdVBGczRJdGUyOHlMektyUjFHOVZGb2Fpb2FLbzVXV2xfTXBpaEFNZlZtZmNJVmdXcnk5VWlvQ3VoYXlNanZ3UjZ0NWdzTkU2OWs1OHFDZzdqM084dW8?oc=5",
+              "source": "UAB Athletics"
+            },
+            {
+              "title": "Skyhawk Men Ranked 14th In The NCAA South Region - UTM Athletics",
+              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOS2dFOTcxQlkxNzAwRjJtbGZBTUJ3RVdDMWJ3OWpfd2hpaUtDeVY1OGVaMmY3a28wS013WHVUSGdEV0s3elFzX2dWTzc5V2FMcXNiNG9KMzNFeENrV3I2aDFnVUh2OU9lMVp5WWdfNTFCT25OTGFocFBjaXF6eThpZDlUTU1IMGdRajU2TDR3S3RnWFhYcjNHMnBJcTdER3RJSmdwTko4Zw?oc=5",
+              "source": "UTM Athletics"
+            },
+            {
+              "title": "Mustangs Hold Seventh Place After Two Rounds Of Windon Memorial - SMU Athletics",
+              "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNS1Z1cUhMaFRZcUdlM1VhYTY2S3U2cm1CRU43TUY0LUVvZm04YWJnSERBSm5Sd0RsQW5DNkU4Y2dpa2ZBLXIyaWdPOWdOOFpuVUJoZVFMRFJoWkkyZ0RkVHlHN2JQR2UxSUFYWGc3OXhZbDAyWTRsVGVkYmNrSHFPd3dPREhFSlJObGd1NVZCeEtkTnF4QUpkWE40NXVzVjlDRFd0WGhTS0xReERRa3lYOG1DeDNIbjFk?oc=5",
+              "source": "SMU Athletics"
+            },
+            {
+              "title": "McClannan Named to Ray’s 8 List - Kansas State University Athletics",
+              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYzZ3aFRMTUUtZTFpSFBpWkIxLWItc3pLc1IzMi1qdzZDLTlFZjFRekZPT3FQQmlhNDMzRzUwZktGOGs3LXU3b1A3dlZDOXNmd2FYV29zNXVVYzhGRmJYZGhDRDd5d0Q4LWFxTFE4T1FCck94OHdDdUJUVFlYQjFSZGhUc0h1MmNzNENV?oc=5",
+              "source": "Kansas State University Athletics"
+            }
+          ]
+        },
+        "technology": {
+          "summary": "Governor Newsom signs SB 53, advancing California’s world-leading artificial intelligence industry - California State Portal (.gov). Gavin Newsom sign...",
+          "links": [
+            {
+              "title": "Governor Newsom signs SB 53, advancing California’s world-leading artificial intelligence industry - California State Portal (.gov)",
+              "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbkkwVXQ0ekt2SUpBQk0yOGprRnF4OGxYZFRsT0dWUU5FRVN4MEJESll6MHZlaFFUSUNWZkhFNlV4UC1qMzFxcFI1aHBaRXlZakRFTzh1TGFEZTRBZUhpVTdleHRjeDZpWmZSUDEyZlpJZ1BYN0daLS1iZmNGSkpFSGp1aDczSUtoeVJhclctR3dvM1BVakFBZk1KZklZaWo0R3dVQlMtVm1VVnZERXVMZlNlTGxXNUpQZ2FJZnpJZmI4U2J6Rm9TcU9VZw?oc=5",
+              "source": "California State Portal (.gov)"
+            },
+            {
+              "title": "Gavin Newsom signs first-in-nation AI safety law - Politico",
+              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9MT29UcnhDQk4ySVV2Tjk4X0RxUG0yT21iaV9sVWlIOXRGdlNsb1pXWkJsRFk5LU5qMGlLZGxZRUZ1WkN6UlNqeElheFp2WnRxWGRaYnZfRGF1aldEOThRRWZMNWI4TTYxLUJCUjZQOUMwZ3liNWFqSg?oc=5",
+              "source": "Politico"
+            },
+            {
+              "title": "California’s Gavin Newsom Signs Major AI Safety Law - The New York Times",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVWZma3lRMGljcW9LU2ZoeVc3VjRJdWJyUmZmeHphQ0hValREVS1FTTJxaERCQzExVjNoeUtKQkM4SlJndGo0QUtYRW1SNkJnSm5vWHNEWGt0cEJONU8tRDFvbHhoeXE1ajBBLWpLSVQtRnptRTJXZWdJc0lFdTdtLQ?oc=5",
+              "source": "The New York Times"
+            },
+            {
+              "title": "Responding to the climate impact of generative AI - MIT News",
+              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5GeUsybzdsQ3Y0c3YtaHBLLWI2TkNYV1ZYSWl4SHo1Z0RYOUlOMEUtVlJJUjFVdVI0RGNpLXdhQVV5X1dEWDRBcHhlYUlCSXkyY2VtY3Rrczd1OVppazNzRGV3dE9vRkgxUUpyU0tIVnIwcWtLNWZDZktXcmZDZw?oc=5",
+              "source": "MIT News"
+            },
+            {
+              "title": "Newsom signs California bill regulating AI companies into law - NBC News",
+              "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUTVXenRzZFA0dHo4ZVZ1NUJpajhDZk9aSHlZV3dmYXZaUm1jWjVXLTZjR3c1dTE0dzBwdFRSVGVKT2dwOHREelhhT3oyNkhWOHZXM2tacDhxbTRuUTd0TTRrT0l2amRENkR2REJTeXF6UnlGekltd2lkZW55cW95QjV5REQ2TktMclp2YUloYzRoajU0ZUllajZDYjctSkHSAVZBVV95cUxQaGo0SjNtZ0drQzU3Mk0yZjJ1Mmo3MG1xbFRsU0ZzWVhQM181Y2tBWlBuZTF5T2N0WmdtQlVTaXoxcUk5eThzWjJJNE42VURPejliOE9DZw?oc=5",
+              "source": "NBC News"
+            }
+          ]
+        }
+      }
+    },
+    {
       "date": "2025-09-29",
       "title": "A day of fragile hope amidst voices rising",
       "image": "entries/2025-09-29.png",
@@ -153,164 +311,6 @@
               "title": "Newsom signs California bill regulating AI companies into law - NBC News",
               "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUTVXenRzZFA0dHo4ZVZ1NUJpajhDZk9aSHlZV3dmYXZaUm1jWjVXLTZjR3c1dTE0dzBwdFRSVGVKT2dwOHREelhhT3oyNkhWOHZXM2tacDhxbTRuUTd0TTRrT0l2amRENkR2REJTeXF6UnlGekltd2lkZW55cW95QjV5REQ2TktMclp2YUloYzRoajU0ZUllajZDYjctSkHSAVZBVV95cUxQaGo0SjNtZ0drQzU3Mk0yZjJ1Mmo3MG1xbFRsU0ZzWVhQM181Y2tBWlBuZTF5T2N0WmdtQlVTaXoxcUk5eThzWjJJNE42VURPejliOE9DZw?oc=5",
               "source": "NBC News"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "date": "2025-09-30",
-      "title": "A day of fragile hope amidst voices rising",
-      "image": "entries/2025-09-30.png",
-      "note": "entries/2025-09-30.md",
-      "topics": {
-        "politics": {
-          "summary": "US foreign policy - The Guardian. Introduction: How the Trump administration has upended international relations and increased existential risk - Bull...",
-          "links": [
-            {
-              "title": "US foreign policy - The Guardian",
-              "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBGYW9jeXVQUEYyalMxUEFucUZscXJGTGNHN0VWRndQTmQ0LUFObFJyTmtZV3Y3MVBVd0VIVGRTbzhfUWdfWk5XU1FwTlhnYjIwakxTSWV0STVKMXlGNHE4UkdKOA?oc=5",
-              "source": "The Guardian"
-            },
-            {
-              "title": "Introduction: How the Trump administration has upended international relations and increased existential risk - Bulletin of the Atomic Scientists",
-              "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObmpxNjM2WHQxdjhiVFpfN0hlUTMyemdvUm5uNWRfUjJ1MzE4dFNxV0JFbnFHcDJxVE1UNUxsaTZxcGZjU2tETHNxeXRoN2pvb1JPdGozQUxNRk01X0x3aTQwZWZjTmZKWmswZVV2MzRkeGVhRDMxZ196NlB3RUhXQjdvTlIyTTZuX19zNlVxWEJHNGt6eGg0NkM5S0pXZnpfc2UyMFZiZ2U3VDB6TmhYQ2dhQm9xay11Y2RVa1BROE5nNFVIb3FrYTZtanc4SEh3eGpheWZsaGd2TGQwcHR6NHlVTQ?oc=5",
-              "source": "Bulletin of the Atomic Scientists"
-            },
-            {
-              "title": "The role of identity in a multilevel interdependence in international relations: exploring popular understandings of international politics - Frontiers",
-              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZjE4cVhSV2tkVmQ2VjlZYWZzY0Vlam9SMzJKd3hmckwwWlRaZ214Q1hOc180SE05Qkh0aDQ0M2RZNE5uQUhSYXJvNk8wSk0wVTNLOHFoeVhLekVxT1BaeWlCeGhOVHBBc0JkSFBldmlleTBSZGwxMVppWnVYSFFfV3BVb3pFME12Vy1ackVJMGRfS0ZyRF9xQV93?oc=5",
-              "source": "Frontiers"
-            },
-            {
-              "title": "Press play: how a Boise State professor is using video games to explain international relations - Boise State University",
-              "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMzFtbWZ3bFFMZXViMG9VYTVQTEcxVlYwak1rSEh5WTYwRHBRRm9kZVlVb2lJV0Ezd0lJaXE4WDFsMmRRalE3Y3NuZ0Nicm1jYzlYUF9IamlqOHZhbjJQdkcycTd0ZkJuMTkyS1F0MU5zVFRtSmR0N1d2cEhaSzlySzhtNE9TeGlNd1N5MEd2QnVaeVk2Mng4Yl9LMUNsWkE5WWxDU3pYNlViVVp5WVZoYkk2RDVxNGFqT3pTb0xkdVpEQzNqcWN6UEp4TGFpT2NPQkxoMw?oc=5",
-              "source": "Boise State University"
-            },
-            {
-              "title": "Trump’s Bid to Transform International Relations May Succeed - Fair Observer",
-              "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVFdSQV9OMDZhWThFSGRkMHVjX3BkTl9lQlhUa25Qbm5LMVV5UFJrYXZJdDdjWEtYWW9MMEE5alpRd0E1cjBnRjdJX2Z4ZnRhSkJoSUtzbDBhSG1tVnd4aDV6VUQwLUpBdm9wQWpWWDhpLTVubG9KV1FCZk1WQVFURjZ5VjVZSGg4TGpCWlV5UHBDaWlQVkZPYnJBa3RrWV9WNG11QkswVlRTeEZN?oc=5",
-              "source": "Fair Observer"
-            }
-          ]
-        },
-        "health": {
-          "summary": "Can the party drug ketamine be a mental health breakthrough? It was for me - CNN. Breakthrough discovery reveals HIV’s survival strategy in human cell...",
-          "links": [
-            {
-              "title": "Can the party drug ketamine be a mental health breakthrough? It was for me - CNN",
-              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92UFk1T3hadTRXeEVPUTBKSjU5YnVNS3dfOFBfVTdobEpMTFFsOGZZbGljQU9hU0dCZUJ0UzJuVkEtRVlQa2V1Zm83eW04SjBCZnB3RlpMMUxXVFM3a1VESFZJTEQ5TDAwb2lfak9OU0E1cTVKQkx5NnVGQlpPTGc?oc=5",
-              "source": "CNN"
-            },
-            {
-              "title": "Breakthrough discovery reveals HIV’s survival strategy in human cells - News-Medical",
-              "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPd0hNeUZFYk5URFNpYnp5b3NsUlpWdnlETlA2M21nLUNCX05DTFNabWhvaVpuUk1yRXBTUU9NcWJDdnN5TlFTbHhsb1dLYjBCZDRGYUQwTW1JZll2cjRyVTlXQ3pGTlp5dUEyOEUwNUc1ODkxN3NrbEZSemx3VE9YdUw0VW04VjlxVWp4WEdvcjlscmNYWndFVWRSY1VfNVN6VzA2Q09CMmR6TWNLNG1OaDRnYU9zbG5PRlFMbzhvOA?oc=5",
-              "source": "News-Medical"
-            },
-            {
-              "title": "Trump’s Meeting With Democrats Yields No Progress, With Shutdown a Day Away - The New York Times",
-              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9FbkR5VC0tdVRWZ3Q1OXREUXVrVGZ4NVFxRzRZWXpaZ2gxODA0bmllZzY3OVh3NG1iYy1LUDdtS3VhSHlMRFF6aEtxcHBJUGVidU05OXdlbTJLSW91Tm5VYWQ3a0ZSUk1CZmxoU0pLaw?oc=5",
-              "source": "The New York Times"
-            },
-            {
-              "title": "Psilocybin: A breakthrough in mental health treatment or mere ‘magical’ thinking? - Yale News",
-              "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZHRJc1RoeGpEemlvM1MzUEVFNFJmYjJ2ZTFVeE5UcVpmR3pWNk5HRkdSSUJ2elM2TDJTNXB1d1pkWkFwcE1FZ25IblJUSGFpNjg1cG9MWDhnSTRnUlN6WjJRaUJGcU95c3lGYlpWUWs4cjRVTmp1LWxZTTdiWWlYNDBMYmZvOEZycTJfWTNfbklDcW1lUWo3NUpKazYtc0E3MUprT0ZDMTY?oc=5",
-              "source": "Yale News"
-            },
-            {
-              "title": "4 medical advances that are improving care and saving lives - AAMC",
-              "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVEVxbmpGOXlCcDk5UDUzSno2bUJ5Z2EyRDBmcjRPZnVuUGJaMlh4d1RRc1FoT0RtNndJRXY4QWtaOU5oN3JTa0xuYm1KaFBUVDQtbUNKUU5LREFFRk9Hei1vd0NSRHVtQ3RwZ2tsWmtsZE9jNFdVY3Nhd0hKSmYxU0pESzRFenc?oc=5",
-              "source": "AAMC"
-            }
-          ]
-        },
-        "entertainment": {
-          "summary": "Lesotho's Famo music: from shepherd songs to gang wars - NPR. Trump renews threat to impose 100% tariffs on non-US made movies - BBC. Trump takes tari...",
-          "links": [
-            {
-              "title": "Lesotho's Famo music: from shepherd songs to gang wars - NPR",
-              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5TTnF2M0RSZHl5WUk3MHdTZzFaVGx2dWtWdWxZSE5McVZoMkgzSTc3ZFhteGZCcmVBcVpvekRyYlJDZEwwZnBKQm5pU3FIQ01RcUd1ZjBRcm95cDVMMTVfVzFfcGhvelNZYzJvVzNvaWFFTFdEWkljbg?oc=5",
-              "source": "NPR"
-            },
-            {
-              "title": "Trump renews threat to impose 100% tariffs on non-US made movies - BBC",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWdFUtMEpqeGpWQXc1aVhmX0dWT2lJU1lUMW83bWhTekpWTmpPNW03aTAxQXgtd2JHU1FzQUh3NGUySUJ6TDJoOXU4N3NlOEhlVEp0YzFNTHpOZ9IBX0FVX3lxTE5ac2M2MXhNcjM5NHhCN3d5Mk9tLUttRFdwcHo3eGRyNExtV04ya2x3NXBHaFhCa3MwbktCd0l2ZWV3SnZiRVc4RkZQdzl6ODh4Rm1INVZJUWlZQ1Qta0Y0?oc=5",
-              "source": "BBC"
-            },
-            {
-              "title": "Trump takes tariff war to the movies by announcing 100% tax on foreign-made films - PBS",
-              "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdmtERlU0WWEzSlpUYWNPaVNORFN4VklobnFmcVBIeUlPbGlTc0VJVk4wXzlDRmxvekc1YXBaWjNNY25NckJwZVhwZGl1VmZYZ1dUdkU2V1NQcDkyb3JBZlpldkJ2MzliMTViWmhzZzJZTEV6M2xNSWN6VGh4dndZS2ZDbl93WUFNLWtrWXN5SVAtanVBY0lMdzNreXNFcnQzZWtTYjE1VF9oYnhJTWtqVHd5bWdwVzQ?oc=5",
-              "source": "PBS"
-            },
-            {
-              "title": "Trump promises steep tariffs for foreign movies and imported furniture - Al Jazeera",
-              "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVVMzZUMwTUpQYndWZF9oY1h0MXVvZlVOQlBMbldlWm9FYVhYV2VkUEJnaUJhclFTUG5BZGVGamJ3X1BnQ1BodTZiM2pWenBVbmh5NXpwVl83N25Nem9ySENJOEpYY2hkdG5NeUxZc0VUOERXdFc2YlpqNUVvdEFIT1B2NElMc1Z6SU1iRDByeGFid0dhcFREeHZPRXNlcHB0UlZKWk8wb2xXMHNpMnVYQ9IBtgFBVV95cUxQRWtweXJjazZWcHFCY203NW15ejhTRjRZRnpJQ1hnX3U2MXpiQnluNFZubjZWNW5HRnVDNjF2UWh4ekRhRmNuS2g3U0FuQUxIWXJuY0hITHQ3dG1TcXhMc09sbkhNZFFBc3JfeWxsbm8wTllJS01tVHF1cHZ0S1ZxLWU3OFQyWl8yNlQzendIMEItVmZNRll2VHoyVXVMRk13LVhxWE1VcU1oOFp4cHdtSFhBdUtRZw?oc=5",
-              "source": "Al Jazeera"
-            },
-            {
-              "title": "Midday Movies Italian style - KPBS",
-              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOS1RmelhqNzlaY1o4QUdmQXd4V3Q5NU9jLWZSamw0WTZHX3FtamtFblplWUpwYTF4NVhjVEdTWHBMbjRUWkYxSjBrUS15YW5UckZ5QTJ3dFZPZVpLV3hGZjRkT3I2QXhfdGdmU1U5QWU3X0hGeloyY083Y2VHcHctM0Jnbw?oc=5",
-              "source": "KPBS"
-            }
-          ]
-        },
-        "sports": {
-          "summary": "Women’s Basketball Holds First Practice of 2025-26 Season - Rice University Athletics. UAB Finishes 11th at Bryan Bros Collegiate - UAB Athletics. Mus...",
-          "links": [
-            {
-              "title": "Women’s Basketball Holds First Practice of 2025-26 Season - Rice University Athletics",
-              "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTWs3RUlIU3J3Zm1rTTdzZVUyYS1MMXNVdHNUZTVUNXF2X1lja2JZUG5ZbWdLSHBNNkM2cTBtRGhqTTFXQmpQXy04SUpoLVhLTWw1X1JadUZjWlZfUWoxWGFOdzZTWjN5U1EzVHl3cTVkdlN2WFdqR2RsSVhQelpGVkVGX2JsdlRWbGY0dGIwTFlBQVJiUjRLaEl2bldVUF9EU0ZDZm9vR01Nem90RHdr?oc=5",
-              "source": "Rice University Athletics"
-            },
-            {
-              "title": "UAB Finishes 11th at Bryan Bros Collegiate - UAB Athletics",
-              "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOblNJSk1wcTNmVzYyMU0xbUpfVV9Vd1BNaG9VeVFmNHNfelNJNjEzWGtsTlY2Z3pXQV9Qb1pYdVBGczRJdGUyOHlMektyUjFHOVZGb2Fpb2FLbzVXV2xfTXBpaEFNZlZtZmNJVmdXcnk5VWlvQ3VoYXlNanZ3UjZ0NWdzTkU2OWs1OHFDZzdqM084dW8?oc=5",
-              "source": "UAB Athletics"
-            },
-            {
-              "title": "Mustangs Hold Seventh Place After Two Rounds Of Windon Memorial - SMU Athletics",
-              "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNS1Z1cUhMaFRZcUdlM1VhYTY2S3U2cm1CRU43TUY0LUVvZm04YWJnSERBSm5Sd0RsQW5DNkU4Y2dpa2ZBLXIyaWdPOWdOOFpuVUJoZVFMRFJoWkkyZ0RkVHlHN2JQR2UxSUFYWGc3OXhZbDAyWTRsVGVkYmNrSHFPd3dPREhFSlJObGd1NVZCeEtkTnF4QUpkWE40NXVzVjlDRFd0WGhTS0xReERRa3lYOG1DeDNIbjFk?oc=5",
-              "source": "SMU Athletics"
-            },
-            {
-              "title": "McClannan Named to Ray’s 8 List - Kansas State University Athletics",
-              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYzZ3aFRMTUUtZTFpSFBpWkIxLWItc3pLc1IzMi1qdzZDLTlFZjFRekZPT3FQQmlhNDMzRzUwZktGOGs3LXU3b1A3dlZDOXNmd2FYV29zNXVVYzhGRmJYZGhDRDd5d0Q4LWFxTFE4T1FCck94OHdDdUJUVFlYQjFSZGhUc0h1MmNzNENV?oc=5",
-              "source": "Kansas State University Athletics"
-            },
-            {
-              "title": "Power Rankings: See who leads pack at Sanderson Farms Championship - PGA Tour",
-              "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQOWZJenZPT1g4dVhlMmgtSmJrU2ZDNnNiWWtCT1I0ZTYwU1JXTW9tMkFVemJobXA2VzhpcGVVckcxWjA4QlJTWndCQnAzdkRYTVAwMl9PSlJtalJOdjhkVGhSNVM1QjJYc1hvZ0U2NUdwMUpQQWItOWJJYUU4XzRtUDlLcGZRSHozUFZ2RFAtb1BpN0VLdkYtTzhYRC1uVW9sYVpnMGp4dDJURFdxSkFKZ0s0TjREejAzLWpPYXpPcW1TbHljUHhXVHFYVC1aZ3AyN21YblhhNzlLY1BLR1FKMU5WeWxvNkY2LWxYaFhlMHQ3SWktSEFybA?oc=5",
-              "source": "PGA Tour"
-            }
-          ]
-        },
-        "technology": {
-          "summary": "Governor Newsom signs SB 53, advancing California’s world-leading artificial intelligence industry - California State Portal (.gov). Gavin Newsom sign...",
-          "links": [
-            {
-              "title": "Governor Newsom signs SB 53, advancing California’s world-leading artificial intelligence industry - California State Portal (.gov)",
-              "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbkkwVXQ0ekt2SUpBQk0yOGprRnF4OGxYZFRsT0dWUU5FRVN4MEJESll6MHZlaFFUSUNWZkhFNlV4UC1qMzFxcFI1aHBaRXlZakRFTzh1TGFEZTRBZUhpVTdleHRjeDZpWmZSUDEyZlpJZ1BYN0daLS1iZmNGSkpFSGp1aDczSUtoeVJhclctR3dvM1BVakFBZk1KZklZaWo0R3dVQlMtVm1VVnZERXVMZlNlTGxXNUpQZ2FJZnpJZmI4U2J6Rm9TcU9VZw?oc=5",
-              "source": "California State Portal (.gov)"
-            },
-            {
-              "title": "Gavin Newsom signs first-in-nation AI safety law - Politico",
-              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9MT29UcnhDQk4ySVV2Tjk4X0RxUG0yT21iaV9sVWlIOXRGdlNsb1pXWkJsRFk5LU5qMGlLZGxZRUZ1WkN6UlNqeElheFp2WnRxWGRaYnZfRGF1aldEOThRRWZMNWI4TTYxLUJCUjZQOUMwZ3liNWFqSg?oc=5",
-              "source": "Politico"
-            },
-            {
-              "title": "Responding to the climate impact of generative AI - MIT News",
-              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5GeUsybzdsQ3Y0c3YtaHBLLWI2TkNYV1ZYSWl4SHo1Z0RYOUlOMEUtVlJJUjFVdVI0RGNpLXdhQVV5X1dEWDRBcHhlYUlCSXkyY2VtY3Rrczd1OVppazNzRGV3dE9vRkgxUUpyU0tIVnIwcWtLNWZDZktXcmZDZw?oc=5",
-              "source": "MIT News"
-            },
-            {
-              "title": "Newsom signs California bill regulating AI companies into law - NBC News",
-              "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUTVXenRzZFA0dHo4ZVZ1NUJpajhDZk9aSHlZV3dmYXZaUm1jWjVXLTZjR3c1dTE0dzBwdFRSVGVKT2dwOHREelhhT3oyNkhWOHZXM2tacDhxbTRuUTd0TTRrT0l2amRENkR2REJTeXF6UnlGekltd2lkZW55cW95QjV5REQ2TktMclp2YUloYzRoajU0ZUllajZDYjctSkHSAVZBVV95cUxQaGo0SjNtZ0drQzU3Mk0yZjJ1Mmo3MG1xbFRsU0ZzWVhQM181Y2tBWlBuZTF5T2N0WmdtQlVTaXoxcUk5eThzWjJJNE42VURPejliOE9DZw?oc=5",
-              "source": "NBC News"
-            },
-            {
-              "title": "Community Development Dept. to Hold Demo of Archistar AI Platform, Oct 2 - City of Malibu",
-              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0UU9tX1BOdGEzQXo4MzM0WEdvbjJlZkd6SzlraU52NThvOU85OTcxd1ZGbzFhcDZyY3UtU1VTOFE3SjNFc0ZzMXNwS3lBdW9CcHozYTNWMnUzNmpwNW9aekVlcHE3Zw?oc=5",
-              "source": "City of Malibu"
             }
           ]
         }
