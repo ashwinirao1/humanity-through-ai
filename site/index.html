@@ -409,7 +409,7 @@
       
       if (data.links && data.links.length) {
         linksEl.innerHTML = data.links.map(l => 
-          `<li><a href="${l.url}" target="_blank" rel="noopener">${l.title}</a><span class="source">${l.source||''}</span></li>`
+          `<li><a href="${l.link}" target="_blank" rel="noopener noreferrer">${l.title}</a><span class="source">${l.source||''}</span></li>`
         ).join('');
       } else {
         linksEl.innerHTML = '';
