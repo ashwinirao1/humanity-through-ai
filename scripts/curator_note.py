@@ -64,6 +64,36 @@ def hf_generate(prompt: str) -> str:
     )
 
 
+def categorize_news(news_items):
+    """Categorize news items into health, politics, entertainment"""
+    categories = {
+        "health": [],
+        "politics": [],
+        "entertainment": []
+    }
+    
+    health_keywords = ["health", "medical", "vaccine", "disease", "hospital", "doctor", "treatment", "cure", "pandemic", "healthcare"]
+    politics_keywords = ["election", "government", "president", "minister", "parliament", "congress", "policy", "law", "vote", "political"]
+    entertainment_keywords = ["movie", "film", "music", "celebrity", "entertainment", "show", "game", "sport", "art", "culture"]
+    
+    for item in news_items:
+        title = item.get("title", "").lower()
+        link = item.get("link", "")
+        source = item.get("source", "")
+        
+        # Categorize based on keywords
+        if any(keyword in title for keyword in health_keywords):
+            categories["health"].append({"title": item.get("title", ""), "url": link, "source": source})
+        elif any(keyword in title for keyword in politics_keywords):
+            categories["politics"].append({"title": item.get("title", ""), "url": link, "source": source})
+        elif any(keyword in title for keyword in entertainment_keywords):
+            categories["entertainment"].append({"title": item.get("title", ""), "url": link, "source": source})
+        else:
+            # Default to politics if no clear category
+            categories["politics"].append({"title": item.get("title", ""), "url": link, "source": source})
+    
+    return categories
+
 def main():
     os.makedirs(DATA_DIR, exist_ok=True)
     os.makedirs(os.path.join(SITE_DIR, "entries"), exist_ok=True)
@@ -81,15 +111,25 @@ def main():
 
     summary = hf_summarize(headlines)
     prompt = (
-        f"Today’s news: {summary}. Write 3 sentences as a museum curator describing "
+        f"Today's news: {summary}. Write 3 sentences as a museum curator describing "
         f"how humanity felt today, in an artistic tone."
     )
     note = hf_generate(prompt)
+    
+    # Categorize news items
+    categorized_news = categorize_news(news_data.get("items", []))
 
     md_path = os.path.join(SITE_DIR, "entries", f"{today}.md")
     with open(md_path, "w", encoding="utf-8") as f:
         f.write(f"# {today}\n\n**Summary:** {summary}\n\n{note}\n")
+    
+    # Save categorized news for the build script
+    news_categories_path = os.path.join(DATA_DIR, "categorized_news.json")
+    with open(news_categories_path, "w", encoding="utf-8") as f:
+        json.dump(categorized_news, f, ensure_ascii=False, indent=2)
+    
     print(f"Wrote curator note to {md_path}")
+    print(f"Wrote categorized news to {news_categories_path}")
 
 
 if __name__ == "__main__":

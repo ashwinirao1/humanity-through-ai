@@ -110,10 +110,10 @@
         art.src = svgPlaceholder();
         headline.textContent = 'A day of fragile hope amidst voices rising';
         date.textContent = new Date().toISOString().slice(0,10);
-        document.getElementById('health').innerHTML = '<em>No data yet</em>';
-        document.getElementById('politics').innerHTML = '<em>No data yet</em>';
-        document.getElementById('entertainment').innerHTML = '<em>No data yet</em>';
-        archive.innerHTML = '<em>Archive will appear after the first run.</em>';
+        document.getElementById('health').innerHTML = '<em>Loading today\'s news...</em>';
+        document.getElementById('politics').innerHTML = '<em>Loading today\'s news...</em>';
+        document.getElementById('entertainment').innerHTML = '<em>Loading today\'s news...</em>';
+        archive.innerHTML = '<em>Archive will appear after the first daily run. Check back tomorrow!</em>';
         return;
       }
 

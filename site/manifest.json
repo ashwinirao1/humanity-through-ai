@@ -1,35 +1,5 @@
 {
-  "entries": [
-    {
-      "date": "2025-01-27",
-      "title": "A day of fragile hope amidst voices rising",
-      "image": "entries/2025-01-27.svg",
-      "note": "entries/2025-01-27.md",
-      "topics": {
-        "health": {
-          "summary": "Global health initiatives show promising progress in disease prevention and treatment.",
-          "links": [
-            {"title": "WHO Global Health Update", "url": "https://www.who.int/news", "source": "WHO"},
-            {"title": "Medical Breakthroughs", "url": "https://www.nature.com/medicine", "source": "Nature Medicine"}
-          ]
-        },
-        "politics": {
-          "summary": "International cooperation strengthens as leaders address climate and economic challenges.",
-          "links": [
-            {"title": "Climate Summit Coverage", "url": "https://www.reuters.com/business/environment", "source": "Reuters"},
-            {"title": "Global Policy Updates", "url": "https://www.theguardian.com/world", "source": "The Guardian"}
-          ]
-        },
-        "entertainment": {
-          "summary": "Creative industries embrace AI while preserving human artistic expression.",
-          "links": [
-            {"title": "AI in Entertainment", "url": "https://variety.com/ai", "source": "Variety"},
-            {"title": "Digital Art Trends", "url": "https://www.nytimes.com/arts", "source": "NY Times"}
-          ]
-        }
-      }
-    }
-  ]
+  "entries": []
 }
 
 

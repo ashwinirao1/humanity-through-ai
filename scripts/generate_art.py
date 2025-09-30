@@ -43,33 +43,71 @@ def placeholder_png_bytes() -> bytes:
 def try_generate(prompt: str) -> bytes:
     if not HF_HEADERS:
         return placeholder_png_bytes()
+    
+    # Enhanced prompt for better AI art generation
+    enhanced_prompt = (
+        f"Abstract digital art, {prompt}, "
+        "beautiful gradient colors, modern minimalist style, "
+        "emotional and artistic, high quality, detailed, "
+        "conceptual art representing human emotions and global events"
+    )
+    
     try:
         resp = requests.post(
             "https://api-inference.huggingface.co/models/runwayml/stable-diffusion-v1-5",
             headers=HF_HEADERS,
-            json={"inputs": prompt},
-            timeout=120,
+            json={
+                "inputs": enhanced_prompt,
+                "parameters": {
+                    "num_inference_steps": 20,
+                    "guidance_scale": 7.5,
+                    "width": 1200,
+                    "height": 700
+                }
+            },
+            timeout=180,
         )
         if resp.ok and resp.content:
+            print(f"Successfully generated AI art with prompt: {enhanced_prompt[:100]}...")
             return resp.content
-    except Exception:
-        pass
+        else:
+            print(f"AI generation failed: {resp.status_code} - {resp.text}")
+    except Exception as e:
+        print(f"AI generation error: {e}")
+    
     return placeholder_png_bytes()
 
 
 def main():
     today = datetime.date.today().isoformat()
+    
+    # Read news data to create a better prompt
+    news_path = os.path.join(ROOT, "data", "today_news.json")
+    if os.path.exists(news_path):
+        with open(news_path, "r", encoding="utf-8") as f:
+            news_data = json.load(f)
+        headlines = [item.get("title", "") for item in news_data.get("items", [])[:3]]
+        news_context = " ".join(headlines)
+    else:
+        news_context = "Global news and events shaping humanity's daily experience"
+    
+    # Read curator note for emotional context
     md_path = os.path.join(SITE_DIR, "entries", f"{today}.md")
     if os.path.exists(md_path):
         with open(md_path, "r", encoding="utf-8") as f:
             note_text = f.read()
     else:
-        note_text = "Abstract artwork representing today's mood and themes."
+        note_text = "A day of reflection on humanity's journey through time."
 
+    # Create a rich prompt combining news and emotional context
     prompt = (
-        "Abstract digital painting representing today's mood: "
-        + note_text[:400]
+        f"Create abstract digital art representing today's human experience. "
+        f"News context: {news_context[:200]}. "
+        f"Emotional tone: {note_text[:200]}. "
+        f"Style: modern abstract, emotional, representing global humanity's mood and feelings."
     )
+    
+    print(f"Generating AI art with prompt: {prompt[:150]}...")
     img_bytes = try_generate(prompt)
 
     os.makedirs(os.path.join(SITE_DIR, "entries"), exist_ok=True)
@@ -79,12 +117,12 @@ def main():
         out_path = os.path.join(SITE_DIR, "entries", f"{today}.svg")
         with open(out_path, "w", encoding="utf-8") as f:
             f.write(img_bytes.decode('utf-8'))
+        print(f"Saved SVG placeholder to {out_path}")
     else:
         out_path = os.path.join(SITE_DIR, "entries", f"{today}.png")
         with open(out_path, "wb") as f:
             f.write(img_bytes)
-    
-    print(f"Wrote image to {out_path}")
+        print(f"Saved AI-generated PNG to {out_path}")
 
 
 if __name__ == "__main__":
