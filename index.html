@@ -571,7 +571,7 @@
         const months = Object.keys(byYear[y]).sort((a,b)=>b.localeCompare(a));
         return months.map(m => {
           const days = byYear[y][m]
-            .map(d => `<a href="site/entries/${d.date}.md" target="_blank" rel="noopener">${d.date.slice(8,10)}</a>`)
+            .map(d => `<a href="site/entries/${d.date}.html">${d.date.slice(8,10)}</a>`)
             .join('');
           return `<div class="archive-month"><strong>${y}-${m}</strong><div class="archive-days">${days}</div></div>`;
         }).join('');
