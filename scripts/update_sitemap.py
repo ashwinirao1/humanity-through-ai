@@ -49,7 +49,7 @@ def generate_sitemap():
     sitemap_content += '    <priority>0.9</priority>\n'
     sitemap_content += '  </url>\n'
     
-    # Add archive entries (if any)
+    # Add archive entry pages (individual HTML files for each day)
     # These are lower priority but still important for SEO
     for entry in manifest.get("entries", [])[:30]:  # Include up to 30 most recent entries
         entry_date = entry.get("date", "")
@@ -61,13 +61,12 @@ def generate_sitemap():
             except:
                 lastmod = now
             
-            # Add entry to sitemap (these would be archive pages when you create them)
-            # For now, they point to the main page with fragment
+            # Add archive page to sitemap (now these are actual HTML files!)
             sitemap_content += '  <url>\n'
-            sitemap_content += f'    <loc>https://ashwinirao.com/#{entry_date}</loc>\n'
+            sitemap_content += f'    <loc>https://ashwinirao.com/{entry_date}.html</loc>\n'
             sitemap_content += f'    <lastmod>{lastmod}</lastmod>\n'
-            sitemap_content += '    <changefreq>weekly</changefreq>\n'
-            sitemap_content += '    <priority>0.6</priority>\n'
+            sitemap_content += '    <changefreq>monthly</changefreq>\n'
+            sitemap_content += '    <priority>0.7</priority>\n'
             sitemap_content += '  </url>\n'
     
     # Close the sitemap
