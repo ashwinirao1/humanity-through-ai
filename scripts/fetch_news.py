@@ -44,7 +44,9 @@ def main():
     data_dir = os.path.join(root, "data")
     os.makedirs(data_dir, exist_ok=True)
     
-    today = datetime.date.today().isoformat()
+    # Use YESTERDAY's date - we're reflecting on the day that just ended
+    yesterday = (datetime.date.today() - datetime.timedelta(days=1)).isoformat()
+    print(f"Fetching news for {yesterday} (the day that just ended)")
     
     # Fetch diverse topic news
     topic_news = fetch_all_topics()
@@ -53,7 +55,7 @@ def main():
     out_path = os.path.join(data_dir, "today_news.json")
     with open(out_path, "w", encoding="utf-8") as f:
         json.dump({
-            "date": today,
+            "date": yesterday,
             "topics": topic_news
         }, f, ensure_ascii=False, indent=2)
     

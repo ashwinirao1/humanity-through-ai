@@ -33,11 +33,11 @@ jobs:
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
         run: |
+          python scripts/archive_previous_day.py
           python scripts/fetch_news.py
           python scripts/curator_note.py
           python scripts/generate_art.py
           python scripts/build_site.py
-          python scripts/generate_archive_pages.py
           python scripts/update_sitemap.py
 
       - name: Commit changes

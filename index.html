@@ -458,13 +458,11 @@
     </div>
   </section>
 
-  <!-- Archive (Hidden until we have real historical data) -->
-  <!--
+  <!-- Archive -->
   <section class="archive-section">
     <h2 class="archive-title">Archive</h2>
     <div class="archive-content" id="archive"></div>
   </section>
-  -->
 
   <footer>
     <div style="margin-bottom: 0.5rem;">
@@ -554,30 +552,34 @@
       renderTopic('sports', topics.sports);
       renderTopic('technology', topics.technology);
 
-      // Archive generation disabled until we have real historical data
-      // Will be enabled after midnight when first real archive is created
-      /*
+      // Build archive (exclude today's entry - only show past days)
       const todayDate = new Date().toISOString().slice(0,10);
       const byYear = {};
       for (const e of manifest.entries) {
+        // Skip today's entry from archive
         if (e.date === todayDate) continue;
+        
         const y = (e.date||'').slice(0,4);
         const m = (e.date||'').slice(5,7);
         if (!byYear[y]) byYear[y] = {};
         if (!byYear[y][m]) byYear[y][m] = [];
         byYear[y][m].push(e);
       }
+      
       const years = Object.keys(byYear).sort((a,b)=>b.localeCompare(a));
-      archive.innerHTML = years.map(y => {
-        const months = Object.keys(byYear[y]).sort((a,b)=>b.localeCompare(a));
-        return months.map(m => {
-          const days = byYear[y][m]
-            .map(d => `<a href="site/entries/${d.date}.html">${d.date.slice(8,10)}</a>`)
-            .join('');
-          return `<div class="archive-month"><strong>${y}-${m}</strong><div class="archive-days">${days}</div></div>`;
+      if (years.length === 0) {
+        archive.innerHTML = '<div class="archive-month"><em>Archive will appear after the first day.</em></div>';
+      } else {
+        archive.innerHTML = years.map(y => {
+          const months = Object.keys(byYear[y]).sort((a,b)=>b.localeCompare(a));
+          return months.map(m => {
+            const days = byYear[y][m]
+              .map(d => `<a href="site/entries/${d.date}.html">${d.date.slice(8,10)}</a>`)
+              .join('');
+            return `<div class="archive-month"><strong>${y}-${m}</strong><div class="archive-days">${days}</div></div>`;
+          }).join('');
         }).join('');
-      }).join('');
-      */
+      }
     }
 
     loadManifest().then(render);

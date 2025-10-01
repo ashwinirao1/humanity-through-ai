@@ -49,11 +49,17 @@ def generate_sitemap():
     sitemap_content += '    <priority>0.9</priority>\n'
     sitemap_content += '  </url>\n'
     
-    # Add archive entry pages (individual HTML files for each day)
+    # Add archive entry pages (only if HTML file exists)
     # These are lower priority but still important for SEO
+    entries_dir = os.path.join(ROOT, "site", "entries")
     for entry in manifest.get("entries", [])[:30]:  # Include up to 30 most recent entries
         entry_date = entry.get("date", "")
         if entry_date:
+            # Check if archive HTML file actually exists
+            archive_file = os.path.join(entries_dir, f"{entry_date}.html")
+            if not os.path.exists(archive_file):
+                continue  # Skip if archive doesn't exist yet
+            
             # Convert date to ISO 8601 with time
             try:
                 date_obj = datetime.datetime.strptime(entry_date, "%Y-%m-%d")
