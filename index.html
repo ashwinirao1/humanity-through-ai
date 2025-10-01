@@ -28,7 +28,19 @@
   <meta property="twitter:description" content="Daily AI-curated reflection on humanity's collective experience through AI-generated art and curated news." />
   <meta property="twitter:image" content="https://ashwinirao.com/site/entries/latest.png" />
   
-  <!-- Structured Data -->
+  <!-- Google Analytics 4 -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-XXXXXXXXXX', {
+      'anonymize_ip': true,
+      'send_page_view': true
+    });
+  </script>
+  
+  <!-- Structured Data - Enhanced -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -44,7 +56,40 @@
     "publisher": {
       "@type": "Person",
       "name": "Ashwini Rao"
+    },
+    "inLanguage": "en-US",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://ashwinirao.com/?q={search_term_string}",
+      "query-input": "required name=search_term_string"
     }
+  }
+  </script>
+  
+  <!-- Additional Structured Data for Blog -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Blog",
+    "name": "Humanity Through AI",
+    "description": "Daily AI-curated reflection on world news across politics, health, entertainment, sports, and technology",
+    "url": "https://ashwinirao.com/",
+    "author": {
+      "@type": "Person",
+      "name": "Ashwini Rao",
+      "url": "https://www.linkedin.com/in/ashwini-rao-091490102/"
+    },
+    "blogPost": [
+      {
+        "@type": "BlogPosting",
+        "headline": "Daily Reflection on Global News",
+        "description": "AI-generated insights and art reflecting humanity's collective experience",
+        "author": {
+          "@type": "Person",
+          "name": "Ashwini Rao"
+        }
+      }
+    ]
   }
   </script>
   
