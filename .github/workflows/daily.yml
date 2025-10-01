@@ -6,8 +6,6 @@ on:
     # Pacific Time accounts for both PST (UTC-8) and PDT (UTC-7)
     - cron: "0 8 * * *"
   workflow_dispatch:
-  push:
-    branches: [ main ]
 
 jobs:
   build:
@@ -45,7 +43,11 @@ jobs:
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
           git add .
-          git diff --cached --quiet || git commit -m "Daily update"
-          git push
+          if ! git diff --cached --quiet; then
+            git commit -m "Daily update: $(date -u +%Y-%m-%d)"
+            git push
+          else
+            echo "No changes to commit"
+          fi
 
 
