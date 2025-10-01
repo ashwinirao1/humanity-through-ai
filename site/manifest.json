@@ -1,6 +1,164 @@
 {
   "entries": [
     {
+      "date": "2025-10-01",
+      "title": "A day of fragile hope amidst voices rising",
+      "image": "entries/2025-10-01.png",
+      "note": "entries/2025-10-01.md",
+      "topics": {
+        "politics": {
+          "summary": "The role of identity in a multilevel interdependence in international relations: exploring popular understandings of international politics - Frontier...",
+          "links": [
+            {
+              "title": "The role of identity in a multilevel interdependence in international relations: exploring popular understandings of international politics - Frontiers",
+              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZjE4cVhSV2tkVmQ2VjlZYWZzY0Vlam9SMzJKd3hmckwwWlRaZ214Q1hOc180SE05Qkh0aDQ0M2RZNE5uQUhSYXJvNk8wSk0wVTNLOHFoeVhLekVxT1BaeWlCeGhOVHBBc0JkSFBldmlleTBSZGwxMVppWnVYSFFfV3BVb3pFME12Vy1ackVJMGRfS0ZyRF9xQV93?oc=5",
+              "source": "Frontiers"
+            },
+            {
+              "title": "Introduction: How the Trump administration has upended international relations and increased existential risk - Bulletin of the Atomic Scientists",
+              "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObmpxNjM2WHQxdjhiVFpfN0hlUTMyemdvUm5uNWRfUjJ1MzE4dFNxV0JFbnFHcDJxVE1UNUxsaTZxcGZjU2tETHNxeXRoN2pvb1JPdGozQUxNRk01X0x3aTQwZWZjTmZKWmswZVV2MzRkeGVhRDMxZ196NlB3RUhXQjdvTlIyTTZuX19zNlVxWEJHNGt6eGg0NkM5S0pXZnpfc2UyMFZiZ2U3VDB6TmhYQ2dhQm9xay11Y2RVa1BROE5nNFVIb3FrYTZtanc4SEh3eGpheWZsaGd2TGQwcHR6NHlVTQ?oc=5",
+              "source": "Bulletin of the Atomic Scientists"
+            },
+            {
+              "title": "Press play: how a Boise State professor is using video games to explain international relations - Boise State University",
+              "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMzFtbWZ3bFFMZXViMG9VYTVQTEcxVlYwak1rSEh5WTYwRHBRRm9kZVlVb2lJV0Ezd0lJaXE4WDFsMmRRalE3Y3NuZ0Nicm1jYzlYUF9IamlqOHZhbjJQdkcycTd0ZkJuMTkyS1F0MU5zVFRtSmR0N1d2cEhaSzlySzhtNE9TeGlNd1N5MEd2QnVaeVk2Mng4Yl9LMUNsWkE5WWxDU3pYNlViVVp5WVZoYkk2RDVxNGFqT3pTb0xkdVpEQzNqcWN6UEp4TGFpT2NPQkxoMw?oc=5",
+              "source": "Boise State University"
+            },
+            {
+              "title": "Trump’s Bid to Transform International Relations May Succeed - Fair Observer",
+              "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVFdSQV9OMDZhWThFSGRkMHVjX3BkTl9lQlhUa25Qbm5LMVV5UFJrYXZJdDdjWEtYWW9MMEE5alpRd0E1cjBnRjdJX2Z4ZnRhSkJoSUtzbDBhSG1tVnd4aDV6VUQwLUpBdm9wQWpWWDhpLTVubG9KV1FCZk1WQVFURjZ5VjVZSGg4TGpCWlV5UHBDaWlQVkZPYnJBa3RrWV9WNG11QkswVlRTeEZN?oc=5",
+              "source": "Fair Observer"
+            },
+            {
+              "title": "The world in 2025 - Chatham House",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVjV3RTBHT0gtcC12Vm02M3lxbWhxbjdOemdaOVFzVksyV19KeWRlRzZXeEFiN25ndlU5YVJTdkE2b0plWWdmdXNWdVF3Vm0wTGxVRjc5MG9DSEtEYmdnUEExaFMyeWk1LUtSTi1Iek1QQUJYYWRSQUU0UUhRYnk1WVdR?oc=5",
+              "source": "Chatham House"
+            }
+          ]
+        },
+        "health": {
+          "summary": "Can the party drug ketamine be a mental health breakthrough? It was for me - CNN. Human skin cells are turned into eggs in fertility breakthrough - Th...",
+          "links": [
+            {
+              "title": "Can the party drug ketamine be a mental health breakthrough? It was for me - CNN",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92UFk1T3hadTRXeEVPUTBKSjU5YnVNS3dfOFBfVTdobEpMTFFsOGZZbGljQU9hU0dCZUJ0UzJuVkEtRVlQa2V1Zm83eW04SjBCZnB3RlpMMUxXVFM3a1VESFZJTEQ5TDAwb2lfak9OU0E1cTVKQkx5NnVGQlpPTGc?oc=5",
+              "source": "CNN"
+            },
+            {
+              "title": "Human skin cells are turned into eggs in fertility breakthrough - The Guardian",
+              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNN0pING5WZEpCcUY1UWlRMUROcnJxTDc4aFRkejRtYjNRTGMzRl9OZHJwQXp5enJhQlRkVWh3Wkk0bUdFQ3p6Y0JZMkNtd3oxWjMxdC0tNTNySVJvVV9vTWVYM3VjTGRBOFpEbG9ORmprZnRkVjFQLUp0b2tGZjh4b2VBZHc5UU82YkE5dVVrMHpfbmNrT0E5WkZQWG9JelFVY3ZfQU5yRQ?oc=5",
+              "source": "The Guardian"
+            },
+            {
+              "title": "Trump’s Meeting With Democrats Yields No Progress, With Shutdown a Day Away - The New York Times",
+              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9FbkR5VC0tdVRWZ3Q1OXREUXVrVGZ4NVFxRzRZWXpaZ2gxODA0bmllZzY3OVh3NG1iYy1LUDdtS3VhSHlMRFF6aEtxcHBJUGVidU05OXdlbTJLSW91Tm5VYWQ3a0ZSUk1CZmxoU0pLaw?oc=5",
+              "source": "The New York Times"
+            },
+            {
+              "title": "Psilocybin: A breakthrough in mental health treatment or mere ‘magical’ thinking? - Yale News",
+              "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZHRJc1RoeGpEemlvM1MzUEVFNFJmYjJ2ZTFVeE5UcVpmR3pWNk5HRkdSSUJ2elM2TDJTNXB1d1pkWkFwcE1FZ25IblJUSGFpNjg1cG9MWDhnSTRnUlN6WjJRaUJGcU95c3lGYlpWUWs4cjRVTmp1LWxZTTdiWWlYNDBMYmZvOEZycTJfWTNfbklDcW1lUWo3NUpKazYtc0E3MUprT0ZDMTY?oc=5",
+              "source": "Yale News"
+            },
+            {
+              "title": "Aidoc Receives FDA Breakthrough Device Designation for First-of-Kind AI Solution Spanning Numerous Acute Conditions in CT - PR Newswire",
+              "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOTkpFNU1rUnJta3E4WWZQS1o2My1iMUxPbkR1UzljZ1o5cExZWFhyazRBSF9zbmV6QVBjbW9QTUxDQ0hZYWRBQmVmRjRwbEJkd0xONGhRdFlUMUNGWTMtUGlxVmE5QnlmWFlIazFMZnlfRnFnVTNsNklHYVRXcURuYzVmS2FuUlJ1LWFUaFpub2FZdlFvUEZOY2hxeFZIdzZmNXoxcFIxeTRMVDZFeW5WZzhHTzFJN3dxV2VtTEVTU1pVcnA5bW1jM3FKWUg0Mzg5N3BSdXJQUnZmTHBpTDU3N3NXNEhBN3ZYVmZXNEpBY0hSRGkybnZjay1VbFF3UVc4MUx4MjdBM0xEejhp?oc=5",
+              "source": "PR Newswire"
+            }
+          ]
+        },
+        "entertainment": {
+          "summary": "High Sierra Music Festival relocates to foothills - The Plumas Sun. District 1 Summer Music Series Vitalizes San Antonio Artists, Business - City of S...",
+          "links": [
+            {
+              "title": "High Sierra Music Festival relocates to foothills - The Plumas Sun",
+              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeHRKVVFnUFNxRTFzS01zVUlpbG1PNlpmQnFSMlliYlFKX1RKd0dBTk9Pejl4emkxMmhNdWVzRU1HUGpzR041RUV3TWFIaTBmLThtVHQtdUwyaDFaMXV4Sjd6M005TWQ1eFViZnM5V1dwSjdtYlViVXFNMFp0NkRobWFlQlJxNnliVk13?oc=5",
+              "source": "The Plumas Sun"
+            },
+            {
+              "title": "District 1 Summer Music Series Vitalizes San Antonio Artists, Business - City of San Antonio (.gov)",
+              "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQejdhRHVuTlY0WGZBVHZWTmc3NTdWeGROYy1tMjQ2eXJKYkQ5ckdPaDdzNGVuN3RPNUV5bXFFdlN6VGltR1RRTDhVMFdaODcxTDJrMnM1NmlkNGNNa2F4VS1TRjY0S2VoTWJRN29aZnF3YXpaMU9JbVJCNlhjQllDSDBiNkUweldZT3NLbTA4cU5GSS0tZkc0Nkx6dG5tcjlhVGNydnd1eEFubVJSV09SNFBWVTQ?oc=5",
+              "source": "City of San Antonio (.gov)"
+            },
+            {
+              "title": "Harnessing the Arts To Promote Wellness: Theory and Practice - Denver Art Museum",
+              "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPY3JfanktSWpTVXFQSFBIMEVjTHBjVVV5MTFSQmhlMFp6QmZQREp2ellVMU1ZZTJyc2lXcWJSenN2WG1DSFJFZ0otYlBwb29nTkd2bkwxdFd1ZEZmRmVuX2E3QmQ2bUQ3VGlqZG1SZllSb0YxTG9McVRTbVhETUl5dnZZbVZ2UQ?oc=5",
+              "source": "Denver Art Museum"
+            },
+            {
+              "title": "Guidance and mentorship for women in the music industry - University of Miami News",
+              "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE40RHNCWkhzRjZVOGYwbWNDa2w2WHRGSVlyMUVQaW12TU9uSThPRlpOR3cwb0VucnZCTElrM3dITHhWOHBUUW9ScXpZNzJFQ3JidWhDT2VxRjJoXzRNSlE3cmlsU2hCc0dDNmpVMTM2ZUQ4S2VGNEpVcm13?oc=5",
+              "source": "University of Miami News"
+            },
+            {
+              "title": "New on HBO Max: Full List of Movies, Shows Hitting the Streaming Platform in October 2025 - Newsweek",
+              "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQelR6WHFSYzluaDE2Y3E1X1JhdXUxaUlpM21pNk5oS01ZTkxvaXU3Z3lJSUVzaC1GeDBSdTNQdl9GVmVQaWpTOXNJbUstQk9MZ0pwMGVXc3FrVVlYYy1JWExZd0x3bDVsNE1KS3N0UlNqSVJpLVRUWmJmUGRhQUNRbFFSM3BFRkxKM0h0ODVic3R0eEZHaUxESzhrdU9ySGo3NE5rTktGTnRWVF9PZllNcEVEdjZKUkM1U1ZZVUMzZjdxTXJpZy04aS1KVVFpMEtxbEJ1Mg?oc=5",
+              "source": "Newsweek"
+            }
+          ]
+        },
+        "sports": {
+          "summary": "In-Game Sports Betting Is Growing. So Are the Concerns. - The New York Times. Mustangs Move Into Eighth Place Finish At Windon Memorial - SMU Athletic...",
+          "links": [
+            {
+              "title": "In-Game Sports Betting Is Growing. So Are the Concerns. - The New York Times",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOV2J4U2ZOaUc0emI0eUxSd2E5cUp4T1gwUllQMXhMaUktLU9vdUU1NUdSb2doZ0lJSDBVS2VBNV9KOTdaYUVTSmJROFBvZTlCTnh5VXBzRlBPSGNIQllpUm1HckliOUFqWWRNUjh2cmtWYTBROVh2bDgyUTk1QTdNLWVn?oc=5",
+              "source": "The New York Times"
+            },
+            {
+              "title": "Mustangs Move Into Eighth Place Finish At Windon Memorial - SMU Athletics",
+              "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRk5VUkxPT1ZfOGhSQTB2am9VdHdxVHJjenJ1Y2k0c2JTWjBhUW00WERDUEZxeFppdEFqc3ZjZ25mdW96R3ZKRVRuX0l2c01IVmkwNVVVSHJTUUxsRU5vdlZ0N29fUmdmX2dMcHBrWXZfb2czMEZYcThRYUNBdlZvcWE5dTNIUC1LRDJJSExXcVVpT1d5amFvS2NRRVZ4V29Hckw3T0Q4T0VlSDN6RlBzNg?oc=5",
+              "source": "SMU Athletics"
+            },
+            {
+              "title": "Brandon Ronan named UNI Athletics’ Director of Athletic Performance - UNI Athletics",
+              "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSGphWk40TWZpbVBGOW9Ea0MzZkE2SUhGY2JxazQ0ZWxfZHluVUJqZ1Bfdi04SXBndXFlTjh4d09UdE1NVFc3MVRPNEx5UEtSOXJ4Y1dxbXBkMFJzdzZvcVpmYW9HdGI3NFc1NDFFemh4ekhfOE1UOVR0RjdLWi1ZR0pQeXJyQXBFa085WWhmVFZSU1NTOHd1Zzh5aFNVU29nR2c1TV9PZVc2dkQtNFRqeW1fOA?oc=5",
+              "source": "UNI Athletics"
+            },
+            {
+              "title": "River Hawk Athletics announce new digital student ticket process - UMass Lowell Athletics",
+              "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQT2lXc0d4aEhNa01ZdGc0RWxxWTdOQXF4cmExLUg3U1duN0dOa2NiN3dtZmxMSGUyc3dnMi1jVjlNZEN2c183bmVIZng5Y1BwNEs0SWpGX0FTRS05aHZpaVpqaHdwaERaNnNSODlac05TMklpbFhqMkRSb2ZfZE03cVpRTVNWT2JYR1NwMUFJSGlEM0wwUlhwRkljQUhQWW9vNzhfWWd1STQxVDNMNElPalJrVjhhNGMy?oc=5",
+              "source": "UMass Lowell Athletics"
+            },
+            {
+              "title": "ACC Tip Off: Eagles Meet with Media Next Week - Boston College Athletics",
+              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbGJ1MzR1VjN2c2tuaklHN2R2SXdTbzVYSGt5VWxvR1VGWHhQNDRZU2ZyY2d1bUtsOWlsVU1obVlYTkF3Um5qczJicU9NSU5mRkd2YkxjNW9iQWVtcTVVZzlBNFR0c2dwYWN6VmhrNGZQeGJJekdCbmkyOGJWS1VhQzhMYU9xRGZZWUlCRi11M0ZuS3BNT19oOEJZR3RpcEtSSzhSTUNLQQ?oc=5",
+              "source": "Boston College Athletics"
+            }
+          ]
+        },
+        "technology": {
+          "summary": "California’s Gavin Newsom Signs Major AI Safety Law - The New York Times. Character.AI removes Disney characters from platform after studio issues war...",
+          "links": [
+            {
+              "title": "California’s Gavin Newsom Signs Major AI Safety Law - The New York Times",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVWZma3lRMGljcW9LU2ZoeVc3VjRJdWJyUmZmeHphQ0hValREVS1FTTJxaERCQzExVjNoeUtKQkM4SlJndGo0QUtYRW1SNkJnSm5vWHNEWGt0cEJONU8tRDFvbHhoeXE1ajBBLWpLSVQtRnptRTJXZWdJc0lFdTdtLQ?oc=5",
+              "source": "The New York Times"
+            },
+            {
+              "title": "Character.AI removes Disney characters from platform after studio issues warning - NBC News",
+              "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWUVwYWVqNFVDa2FMQi02SW1mS0swcXJGZ05zVEZ2QTRtNG04bG9mb3RLS3dUc250Rzl3T1ZQRlFDQVVGSWVyZTA2c3JwWkMxNWc3SmNod2pKOExnTEptbWxob1VSVlItZ1I1LVpPLUdYX1h1RXEyMk1oVDBVdFlZdkVEdjNfNnhkd1otUU1GdUJLaGNlcDhDZ0c4X2JVdlJFR0F6cXZheThHbEVpY1k3NzJDYlpGdnZrbGR0dk1BMGfSAVZBVV95cUxOLVR3Vkh5OHN6SC1vT3lYdW5xUjdodVROMnUzc28yeW41enE1NFdvUmVpc3hsRWpyRDJCYzA0aXhjeFVibmc3SG83cnN4UVFpN2JuUG00UQ?oc=5",
+              "source": "NBC News"
+            },
+            {
+              "title": "HHS Doubles AI-Backed Childhood Cancer Research Funding - National Institutes of Health (NIH) | (.gov)",
+              "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQN0JUSVFIeWhPaXBITlZEakdNX1pVVkZ0eEZUVzdNRGFXdmQ1cXNoaG5UY3JGMl92Vl9jcFgzck8xVDNHMUpEeUpYajdfSHVMVGlxQlF1ajZRcndZenE4a0hwTlBvTmRxM2hJeUdHS1lEb01VbDBiTm9MYXNEaWsxZkJINHJQdDQxSXZsSmJiay01OGo2WURJenpaU2oxclZnY1o4?oc=5",
+              "source": "National Institutes of Health (NIH) | (.gov)"
+            },
+            {
+              "title": "Data and AI Impact Report: The Trust Imperative - SAS: Data and AI Solutions",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9nelp5VGtVS0NYZFlhdmNXaHNFUkw2eGlNQlN0WU5ON1ZTWWgtT1JSLW1lVHduVzdLbWpPR2ZhZHZIclhaVTZyaHQ1bi1qN0JnQWZWSFZmM2dFX0lMLV9YYTVpaE5hU09lZzVVNQ?oc=5",
+              "source": "SAS: Data and AI Solutions"
+            },
+            {
+              "title": "With therapy hard to get, people lean on AI for mental health. What are the risks? - NPR",
+              "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSVV1d3RzUnY1QWtla1lxc3pSbTNnQWNMSjB4VnNrZWtfOURHLWtGOHd4TlN6bmszMW9IZk5ITTNVVGpqRUhJSmlYbXZBdGhWalFMMDVQYzVuM0N2LUpVcHVTdzF2bEk2eVpCeXB3R2JBb2EtV3hNOUhzZDVHRENSV3ZLV01ZeUxXcEFjM05QR09ETXBoRGswMWhhQU1EVl80RGpSaHEzb0U2cm1IanZNN2t5RGdxSFR4dkQwR21hM21Ma1BmNjJMckdkOEhlT0JG?oc=5",
+              "source": "NPR"
+            }
+          ]
+        }
+      }
+    },
+    {
       "date": "2025-09-30",
       "title": "A day of fragile hope amidst voices rising",
       "image": "entries/2025-09-30.png",
