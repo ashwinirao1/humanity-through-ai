@@ -61,9 +61,9 @@ def generate_sitemap():
             except:
                 lastmod = now
             
-            # Add archive page to sitemap (now these are actual HTML files!)
+            # Add archive page to sitemap (in entries folder)
             sitemap_content += '  <url>\n'
-            sitemap_content += f'    <loc>https://ashwinirao.com/{entry_date}.html</loc>\n'
+            sitemap_content += f'    <loc>https://ashwinirao.com/site/entries/{entry_date}.html</loc>\n'
             sitemap_content += f'    <lastmod>{lastmod}</lastmod>\n'
             sitemap_content += '    <changefreq>monthly</changefreq>\n'
             sitemap_content += '    <priority>0.7</priority>\n'

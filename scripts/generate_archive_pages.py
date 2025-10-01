@@ -10,6 +10,7 @@ from datetime import datetime
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 MANIFEST_PATH = os.path.join(ROOT, "site", "manifest.json")
 SITE_DIR = os.path.join(ROOT, "site")
+ENTRIES_DIR = os.path.join(SITE_DIR, "entries")
 
 
 def load_manifest():
@@ -83,11 +84,11 @@ def generate_archive_html(entry):
   <meta name="keywords" content="AI news, daily reflection, humanity, world politics, health news, technology, sports, entertainment, AI art" />
   <meta name="author" content="Ashwini Rao" />
   <meta name="robots" content="index, follow" />
-  <link rel="canonical" href="https://ashwinirao.com/{date}.html" />
+  <link rel="canonical" href="https://ashwinirao.com/site/entries/{date}.html" />
   
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="article" />
-  <meta property="og:url" content="https://ashwinirao.com/{date}.html" />
+  <meta property="og:url" content="https://ashwinirao.com/site/entries/{date}.html" />
   <meta property="og:title" content="{title} — {formatted_date}" />
   <meta property="og:description" content="AI-curated daily reflection on humanity's collective experience from {formatted_date}." />
   <meta property="og:image" content="https://ashwinirao.com/{image}" />
@@ -97,7 +98,7 @@ def generate_archive_html(entry):
   
   <!-- Twitter -->
   <meta property="twitter:card" content="summary_large_image" />
-  <meta property="twitter:url" content="https://ashwinirao.com/{date}.html" />
+  <meta property="twitter:url" content="https://ashwinirao.com/site/entries/{date}.html" />
   <meta property="twitter:title" content="{title} — {formatted_date}" />
   <meta property="twitter:description" content="AI-curated daily reflection from {formatted_date}." />
   <meta property="twitter:image" content="https://ashwinirao.com/{image}" />
@@ -133,10 +134,10 @@ def generate_archive_html(entry):
     }},
     "description": "AI-curated daily reflection on humanity's collective experience from {formatted_date}",
     "image": "https://ashwinirao.com/{image}",
-    "url": "https://ashwinirao.com/{date}.html",
+    "url": "https://ashwinirao.com/site/entries/{date}.html",
     "mainEntityOfPage": {{
       "@type": "WebPage",
-      "@id": "https://ashwinirao.com/{date}.html"
+      "@id": "https://ashwinirao.com/site/entries/{date}.html"
     }}
   }}
   </script>
@@ -383,7 +384,7 @@ def generate_archive_html(entry):
 
   <div class="art-container">
     <div class="art-wrapper">
-      <img id="art" src="{image}" alt="AI-generated art for {formatted_date}" />
+      <img id="art" src="{date}.png" alt="AI-generated art for {formatted_date}" />
     </div>
   </div>
 
@@ -425,9 +426,9 @@ def main():
         # Generate HTML
         html = generate_archive_html(entry)
         
-        # Save to file
+        # Save to file in entries directory
         filename = f"{date}.html"
-        filepath = os.path.join(SITE_DIR, filename)
+        filepath = os.path.join(ENTRIES_DIR, filename)
         
         with open(filepath, "w", encoding="utf-8") as f:
             f.write(html)
