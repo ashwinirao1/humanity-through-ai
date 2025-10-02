@@ -46,6 +46,55 @@ def generate_topic_summary(topic_news, topic_name):
     
     return summary_text
 
+
+def generate_headline(categorized_news: dict, content_date: str) -> str:
+    """Craft a unique daily headline using the day's news.
+    Heuristic: take the first headline from several topics, strip source suffix
+    (" - XYZ"), extract a few keywords, and compose a poetic summary.
+    """
+    def base_title(t: str) -> str:
+        if not t:
+            return ""
+        # Remove trailing source like "Title - Source"
+        parts = t.split(" - ")
+        return parts[0].strip()
+
+    STOP = {
+        "the","a","an","and","or","of","in","on","for","to","with","from",
+        "at","by","is","are","was","were","this","that","these","those","as",
+        "into","over","under","about","after","before","amid","amidst"
+    }
+
+    def keywords(s: str, max_words: int = 3) -> str:
+        words = []
+        for w in s.replace("—"," ").replace("–"," ").split():
+            w_clean = ''.join(ch for ch in w if ch.isalnum() or ch in ['-','/']).strip()
+            if not w_clean:
+                continue
+            lw = w_clean.lower()
+            if lw in STOP or len(lw) <= 2:
+                continue
+            words.append(w_clean)
+        return " ".join(words[:max_words]) if words else s[:30]
+
+    topic_order = ["politics", "health", "technology", "entertainment", "sports"]
+    phrases = []
+    for tkey in topic_order:
+        items = categorized_news.get(tkey, [])
+        if not items:
+            continue
+        t = base_title(items[0].get("title", ""))
+        if t:
+            phrases.append(keywords(t, 3))
+    # Ensure we have at least some text
+    if not phrases:
+        return f"Reflections on {content_date}"
+
+    # Compose headline: up to 4 short phrases
+    core = ", ".join(phrases[:4])
+    return f"{core} — a reflection"
+
+
 def main():
     os.makedirs(os.path.join(SITE_DIR, "entries"), exist_ok=True)
     manifest_path = os.path.join(SITE_DIR, "manifest.json")
@@ -96,10 +145,13 @@ def main():
         else:
             print(f"⚠️  Skipping {topic_name} topic - no content")
 
+    # Build a unique headline from today's news
+    headline = generate_headline(categorized_news, content_date)
+
     # Build today's entry
     entry = {
         "date": content_date,
-        "title": "A day of fragile hope amidst voices rising",
+        "title": headline,
         "image": img_rel,
         "note": md_rel if os.path.exists(os.path.join(SITE_DIR, md_rel)) else "",
         "topics": topics,

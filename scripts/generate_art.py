@@ -119,10 +119,11 @@ def placeholder_png_bytes(seed_date: str) -> bytes:
     return create_svg_placeholder(seed_date)
 
 
-def try_generate(prompt: str) -> bytes:
+def try_generate(base_prompt: str) -> bytes:
     # Transform the prompt into deeply artistic, abstract expression
     # Inspired by masters: Picasso's cubism, da Vinci's composition, Rothko's emotion, Kandinsky's abstraction
     import random
+    import hashlib
     
     artistic_styles = [
         "abstract expressionism",
@@ -132,18 +133,15 @@ def try_generate(prompt: str) -> bytes:
         "neo-impressionist"
     ]
     chosen_style = random.choice(artistic_styles)
-    
-    # Simplified prompt for URL encoding - Pollinations has length limits
-    # Keep the artistic essence but make it concise
-    enhanced_prompt = (
-        f"Fine art {chosen_style}: humanity's emotions, "
-        f"abstract symbolic forms, golden ratio composition, "
-        f"Rothko color depth, Kandinsky spirituality, "
-        f"chiaroscuro lighting, museum quality"
+
+    # Combine caller prompt with a concise style hint; ensure day-unique seed
+    full_prompt = (
+        f"{base_prompt} "
+        f"Fine art {chosen_style}, poetic abstraction, high detail, museum quality."
     )
+    seed = int(hashlib.md5(full_prompt.encode()).hexdigest()[:8], 16)
     
-    print(f"Attempting AI art generation with prompt: {enhanced_prompt[:150]}...")
-    
+    print(f"Attempting AI art generation with prompt: {full_prompt[:150]}...")
 
     try:
         # Use Pollinations.ai - a free, no-auth-required AI image service
@@ -152,8 +150,8 @@ def try_generate(prompt: str) -> bytes:
         import urllib.parse
         
         # Try with full prompt first
-        encoded_prompt = urllib.parse.quote(enhanced_prompt)
-        pollinations_url = f"https://image.pollinations.ai/prompt/{encoded_prompt}?width=1200&height=700&nologo=true"
+        encoded_prompt = urllib.parse.quote(full_prompt)
+        pollinations_url = f"https://image.pollinations.ai/prompt/{encoded_prompt}?width=1200&height=700&nologo=true&seed={seed}"
         
         print(f"Fetching image from Pollinations (attempt 1)...")
         try:
@@ -165,9 +163,9 @@ def try_generate(prompt: str) -> bytes:
             print(f"Attempt 1 failed: {e}")
         
         # Retry with simpler prompt
-        simple_prompt = f"{chosen_style} abstract art humanity"
+        simple_prompt = f"{chosen_style} abstract art — {base_prompt[:120]}"
         encoded_simple = urllib.parse.quote(simple_prompt)
-        simple_url = f"https://image.pollinations.ai/prompt/{encoded_simple}?width=1200&height=700"
+        simple_url = f"https://image.pollinations.ai/prompt/{encoded_simple}?width=1200&height=700&seed={seed}"
         
         print(f"Retrying with simpler prompt (attempt 2)...")
         try:
@@ -194,7 +192,7 @@ def try_generate(prompt: str) -> bytes:
                     resp = requests.post(
                         f"https://api-inference.huggingface.co/models/{model}",
                         headers=HF_HEADERS,
-                        json={"inputs": enhanced_prompt},
+                        json={"inputs": full_prompt},
                         timeout=120,
                     )
                     if resp.ok and resp.content and len(resp.content) > 1000:
