@@ -80,14 +80,14 @@
               "source": "City of Huntsville (.gov)"
             },
             {
-              "title": "Behind the Music? These 57 Top Power Lawyers - The Hollywood Reporter",
-              "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTlZjNnlab3BBRTREQnlURE82YlM0a043amRpTkpQWkhpZFlLSEUxd21wVzNkZTFSRWc1bnpLMTRYTW5VUjg2emNTNWUzbFJYYk9mNlBVc2hYSHBseVBzTVdtZDdFdUFxemJLQUxlSWlkRnpERG1KTVlYdmQzWE1aMGpuVFVPckw2S1Awa2dDMVZnWkU?oc=5",
-              "source": "The Hollywood Reporter"
-            },
-            {
               "title": "Best Movies and Shows Streaming in October: ‘The Lost Bus,’ ‘It: Welcome to Derry’ and More - The New York Times",
               "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaUdHUy0zTTlpRmJuam4tcUVYMllza2NIUVp6SjF1MDByVUFreDFOVzVaYTZGbWtMM25NcjlwSFVYSklqMC1DRXNhTXpUakhsbEJLRVpmUWRKV3VHdVVucURnNW5FVTJJNEZWQkRBTm5aaXRYOTlJMTdkWVNzMlhNM3BLd1QwT3ZXaTZCVUMtbGxiZVE2U3JJZEJB?oc=5",
               "source": "The New York Times"
+            },
+            {
+              "title": "Behind the Music? These 57 Top Power Lawyers - The Hollywood Reporter",
+              "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTlZjNnlab3BBRTREQnlURE82YlM0a043amRpTkpQWkhpZFlLSEUxd21wVzNkZTFSRWc1bnpLMTRYTW5VUjg2emNTNWUzbFJYYk9mNlBVc2hYSHBseVBzTVdtZDdFdUFxemJLQUxlSWlkRnpERG1KTVlYdmQzWE1aMGpuVFVPckw2S1Awa2dDMVZnWkU?oc=5",
+              "source": "The Hollywood Reporter"
             },
             {
               "title": "Music labels close to landmark AI licensing deals - Financial Times",
@@ -120,20 +120,15 @@
               "source": "Columbia University Athletics"
             },
             {
-              "title": "Red Foxes Battle to Scoreless Draw at Fairfield - Marist University Athletics",
-              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMUhscFl2YW51YkxBcm5qc1RuclZFUVF2S1hsTzZXSG1wdENwYXBsS1VHWVhBcExXVmJBTWpjZkx6ZDA2c1dncmFzQy11ZzdhckQxclpFbjl4Q1dwT0M0XzA0OUNTVjA0TlZDdTJUOEM5ajFGX3ZvWjZnaWF4azVwUGZ4MzdmRHFJSm5sT2c5ZkoydmxlcFlkRzl5cEszMlBJelNjeFB5cw?oc=5",
-              "source": "Marist University Athletics"
+              "title": "Women's Soccer Set to Visit Houston Christian on Thursday - UTRGV Athletics",
+              "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMVUyaG9fNG0zb01hZ19leDdiX3FxT3lQMF9sTG8yRFBSNDl1dWJKeEpqQXhrQlVNa0lmcHhiNnBMYVZxSklsbFJaMmN5cFdrUjh1c3ltOXVzVXdHNHNVVWJySW9JVXlNMExJUm1MMXJxQVV5UGtCNzNmamczaUF0UlpRS0JZTjg5cTFxS1NoY0xsVUFPWWhrV2t4QWg?oc=5",
+              "source": "UTRGV Athletics"
             }
           ]
         },
         "technology": {
-          "summary": "Astronomy Picture of the Day - NASA (.gov). Trump to the health and tech giants: AI is not your ‘cartel’ - Politico. Writing with AI turns chaos into ...",
+          "summary": "Trump to the health and tech giants: AI is not your ‘cartel’ - Politico. Writing with AI turns chaos into clarity - American Society for Biochemistry ...",
           "links": [
-            {
-              "title": "Astronomy Picture of the Day - NASA (.gov)",
-              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUd1FseWNRN0Q4T2xjNHEzZThtRnlSeEZhY0tIU3FzNlVLRW1maTZtTGo0c3BBRHdSUmRzRTVPQzlTdFk2MllpZXFodnJtNlVSakE?oc=5",
-              "source": "NASA (.gov)"
-            },
             {
               "title": "Trump to the health and tech giants: AI is not your ‘cartel’ - Politico",
               "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYXpzaFpqZnJKSDhYaXBvT3c5R0JrVTMxVVE4UV9HcngtWXVhMWJrci1TY3R6Q1l2MEZGRGpMbWtCZkc1N1B4dzdqMVFfa0pFWGhvdmRrTkVTLWotc3lacDFsb09fU3plUU9HcVhVUXFSYmJGTWRqeXlsRFRDam90aFNlZGl1Yk5SWmY0SmNDS2tVa0VVUHFmVFFxOE5HUQ?oc=5",
@@ -153,6 +148,11 @@
               "title": "Music labels close to landmark AI licensing deals - Financial Times",
               "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9WSzVCbUxya1JOSVpNRm1fRkhpX05wUURoVXpVSmZGVmdkUVN3Y3MtRU1KNE5SbVJScC1jdDFvTUNKMlZxN3k1RHpJb2NaLUhFb01RcTVma055TzJSRkhSMjJBTkZlZk1Uc2dEVmtrWjk?oc=5",
               "source": "Financial Times"
+            },
+            {
+              "title": "Meta will soon use your conversations with its AI chatbot to sell you stuff - CNN",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9YTnNXMlBTb0ZzX1hMME0tMGVVa3BSOVg5MFA0Uy1OMHkyX0NpeHFTc195bTJCMVgwNElPWTlKOFZMcjAtTjdDN0ExWm9BYklGRFpBdE1INXVqcmdQcTNJd2hOVjB2RER4Z3laVk9wM201UQ?oc=5",
+              "source": "CNN"
             }
           ]
         }
