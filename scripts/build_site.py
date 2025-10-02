@@ -72,6 +72,17 @@ def main():
     else:
         img_rel = ""
 
+    # Also refresh an easy social preview: entries/latest.png when PNG is available
+    try:
+        import shutil
+        src_png_path = os.path.join(SITE_DIR, img_png)
+        latest_png_path = os.path.join(SITE_DIR, "entries", "latest.png")
+        if os.path.exists(src_png_path):
+            shutil.copyfile(src_png_path, latest_png_path)
+            print("✅ Updated entries/latest.png for social share preview")
+    except Exception as e:
+        print(f"ℹ️ Could not update latest.png: {e}")
+
     # Generate topic summaries and links - all 5 topics
     topics = {}
     for topic_name in ["politics", "health", "entertainment", "sports", "technology"]:

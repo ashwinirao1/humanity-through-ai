@@ -12,15 +12,31 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SITE_DIR = os.path.join(ROOT, "site")
 
 
-def create_generative_art() -> bytes:
-    """Create beautiful, unique generative SVG art"""
+def target_date_from_news() -> str:
+    """Get the target content date from data/today_news.json (yesterday, in PT).
+    Falls back to yesterday based on system date if file missing.
+    """
+    news_path = os.path.join(ROOT, "data", "today_news.json")
+    if os.path.exists(news_path):
+        try:
+            with open(news_path, "r", encoding="utf-8") as f:
+                data = json.load(f)
+                d = data.get("date")
+                if d:
+                    return d
+        except Exception:
+            pass
+    # Fallback: yesterday
+    return (datetime.date.today() - datetime.timedelta(days=1)).isoformat()
+
+
+def create_generative_art(seed_date: str) -> bytes:
+    """Create beautiful, unique generative SVG art using seed_date for determinism."""
     import random
     import hashlib
-    import datetime
     
-    # Use today's date as seed for consistent daily art
-    today = datetime.date.today().isoformat()
-    seed = int(hashlib.md5(today.encode()).hexdigest()[:8], 16)
+    # Use the target content date as seed for consistent daily art
+    seed = int(hashlib.md5(seed_date.encode()).hexdigest()[:8], 16)
     random.seed(seed)
     
     # Color palettes inspired by famous artists
@@ -94,13 +110,13 @@ def create_generative_art() -> bytes:
 </svg>'''
     return svg_content.encode('utf-8')
 
-def create_svg_placeholder() -> bytes:
+def create_svg_placeholder(seed_date: str) -> bytes:
     # Use generative art instead of static placeholder
-    return create_generative_art()
+    return create_generative_art(seed_date)
 
-def placeholder_png_bytes() -> bytes:
+def placeholder_png_bytes(seed_date: str) -> bytes:
     # Return SVG bytes instead of tiny PNG
-    return create_svg_placeholder()
+    return create_svg_placeholder(seed_date)
 
 
 def try_generate(prompt: str) -> bytes:
@@ -128,6 +144,7 @@ def try_generate(prompt: str) -> bytes:
     
     print(f"Attempting AI art generation with prompt: {enhanced_prompt[:150]}...")
     
+
     try:
         # Use Pollinations.ai - a free, no-auth-required AI image service
         print("Attempting AI art generation via Pollinations.ai...")
@@ -194,24 +211,36 @@ def try_generate(prompt: str) -> bytes:
         print(f"❌ AI generation error: {e}")
     
     print("Falling back to placeholder image")
-    return placeholder_png_bytes()
+    # Will be replaced by caller with seeded placeholder
+    return b""
 
 
 def main():
-    today = datetime.date.today().isoformat()
+    # Align art date with news/content date (yesterday in PT)
+    target_date = target_date_from_news()
     
     # Read news data to create a better prompt
     news_path = os.path.join(ROOT, "data", "today_news.json")
+    news_context = "Global news and events shaping humanity's daily experience"
     if os.path.exists(news_path):
-        with open(news_path, "r", encoding="utf-8") as f:
-            news_data = json.load(f)
-        headlines = [item.get("title", "") for item in news_data.get("items", [])[:3]]
-        news_context = " ".join(headlines)
-    else:
-        news_context = "Global news and events shaping humanity's daily experience"
+        try:
+            with open(news_path, "r", encoding="utf-8") as f:
+                news_data = json.load(f)
+            # Gather a few top titles across topics
+            titles = []
+            topics = news_data.get("topics", {})
+            for tkey in ["politics", "health", "entertainment", "sports", "technology"]:
+                for item in topics.get(tkey, [])[:1]:  # take top 1 from each topic
+                    title = item.get("title")
+                    if title:
+                        titles.append(title)
+            if titles:
+                news_context = " ".join(titles)[:400]
+        except Exception:
+            pass
     
     # Read curator note for emotional context
-    md_path = os.path.join(SITE_DIR, "entries", f"{today}.md")
+    md_path = os.path.join(SITE_DIR, "entries", f"{target_date}.md")
     if os.path.exists(md_path):
         with open(md_path, "r", encoding="utf-8") as f:
             note_text = f.read()
@@ -220,7 +249,7 @@ def main():
 
     # Create a rich prompt combining news and emotional context
     prompt = (
-        f"Create abstract digital art representing today's human experience. "
+        f"Create abstract digital art representing humanity's experience on {target_date}. "
         f"News context: {news_context[:200]}. "
         f"Emotional tone: {note_text[:200]}. "
         f"Style: modern abstract, emotional, representing global humanity's mood and feelings."
@@ -231,14 +260,18 @@ def main():
 
     os.makedirs(os.path.join(SITE_DIR, "entries"), exist_ok=True)
     
-    # Save as SVG if it's our placeholder, PNG if it's from Hugging Face
+    # If generation failed fully, use our seeded placeholder SVG
+    if not img_bytes:
+        img_bytes = create_svg_placeholder(target_date)
+    
+    # Save as SVG if it's our placeholder, PNG if it's from models
     if img_bytes.startswith(b'<?xml') or img_bytes.startswith(b'<svg'):
-        out_path = os.path.join(SITE_DIR, "entries", f"{today}.svg")
+        out_path = os.path.join(SITE_DIR, "entries", f"{target_date}.svg")
         with open(out_path, "w", encoding="utf-8") as f:
             f.write(img_bytes.decode('utf-8'))
         print(f"Saved SVG placeholder to {out_path}")
     else:
-        out_path = os.path.join(SITE_DIR, "entries", f"{today}.png")
+        out_path = os.path.join(SITE_DIR, "entries", f"{target_date}.png")
         with open(out_path, "wb") as f:
             f.write(img_bytes)
         print(f"Saved AI-generated PNG to {out_path}")
@@ -246,5 +279,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-
 

@@ -552,12 +552,13 @@
       renderTopic('sports', topics.sports);
       renderTopic('technology', topics.technology);
 
-      // Build archive (exclude today's entry - only show past days)
-      const todayDate = new Date().toISOString().slice(0,10);
+      // Build archive (exclude the latest entry shown on the page)
+      const latestDate = latest && latest.date;
       const byYear = {};
       for (const e of manifest.entries) {
-        // Skip today's entry from archive
-        if (e.date === todayDate) continue;
+        if (!e || !e.date) continue;
+        // Skip the latest entry from archive
+        if (latestDate && e.date === latestDate) continue;
         
         const y = (e.date||'').slice(0,4);
         const m = (e.date||'').slice(5,7);

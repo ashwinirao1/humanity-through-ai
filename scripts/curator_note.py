@@ -64,72 +64,56 @@ def hf_generate(prompt: str) -> str:
     )
 
 
-def categorize_news(news_items):
-    """Categorize news items into health, politics, entertainment"""
-    categories = {
-        "health": [],
-        "politics": [],
-        "entertainment": []
-    }
-    
-    health_keywords = ["health", "medical", "vaccine", "disease", "hospital", "doctor", "treatment", "cure", "pandemic", "healthcare"]
-    politics_keywords = ["election", "government", "president", "minister", "parliament", "congress", "policy", "law", "vote", "political"]
-    entertainment_keywords = ["movie", "film", "music", "celebrity", "entertainment", "show", "game", "sport", "art", "culture"]
-    
-    for item in news_items:
-        title = item.get("title", "").lower()
-        link = item.get("link", "")
-        source = item.get("source", "")
-        
-        # Categorize based on keywords
-        if any(keyword in title for keyword in health_keywords):
-            categories["health"].append({"title": item.get("title", ""), "url": link, "source": source})
-        elif any(keyword in title for keyword in politics_keywords):
-            categories["politics"].append({"title": item.get("title", ""), "url": link, "source": source})
-        elif any(keyword in title for keyword in entertainment_keywords):
-            categories["entertainment"].append({"title": item.get("title", ""), "url": link, "source": source})
-        else:
-            # Default to politics if no clear category
-            categories["politics"].append({"title": item.get("title", ""), "url": link, "source": source})
-    
-    return categories
+def target_date_from_news() -> str:
+    """Use date from today_news.json or fallback to yesterday."""
+    news_path = os.path.join(DATA_DIR, "today_news.json")
+    if os.path.exists(news_path):
+        try:
+            with open(news_path, "r", encoding="utf-8") as f:
+                data = json.load(f)
+            d = data.get("date")
+            if d:
+                return d
+        except Exception:
+            pass
+    return (datetime.date.today() - datetime.timedelta(days=1)).isoformat()
+
 
 def main():
     os.makedirs(DATA_DIR, exist_ok=True)
     os.makedirs(os.path.join(SITE_DIR, "entries"), exist_ok=True)
-    today = datetime.date.today().isoformat()
+
+    # Align with content date (yesterday in PT)
+    target_date = target_date_from_news()
 
     news_path = os.path.join(DATA_DIR, "today_news.json")
     if os.path.exists(news_path):
         with open(news_path, "r", encoding="utf-8") as f:
             news_data = json.load(f)
     else:
-        news_data = {"items": []}
+        news_data = {"topics": {}}
 
-    headlines = "; ".join(i.get("title", "") for i in news_data.get("items", []) if i.get("title"))
-    headlines = headlines or "Global headlines spanning health, politics, and culture."
+    # Build a compact headline string from the topic structure
+    titles = []
+    for tkey in ["politics", "health", "entertainment", "sports", "technology"]:
+        for item in news_data.get("topics", {}).get(tkey, [])[:1]:
+            t = item.get("title")
+            if t:
+                titles.append(t)
+    headlines = "; ".join(titles) or "Global headlines spanning health, politics, culture, sports, and technology."
 
     summary = hf_summarize(headlines)
     prompt = (
-        f"Today's news: {summary}. Write 3 sentences as a museum curator describing "
-        f"how humanity felt today, in an artistic tone."
+        f"Yesterday's news ({target_date}): {summary}. Write 3 sentences as a museum curator "
+        f"describing how humanity felt, in an artistic tone."
     )
     note = hf_generate(prompt)
-    
-    # Categorize news items
-    categorized_news = categorize_news(news_data.get("items", []))
 
-    md_path = os.path.join(SITE_DIR, "entries", f"{today}.md")
+    md_path = os.path.join(SITE_DIR, "entries", f"{target_date}.md")
     with open(md_path, "w", encoding="utf-8") as f:
-        f.write(f"# {today}\n\n**Summary:** {summary}\n\n{note}\n")
-    
-    # Save categorized news for the build script
-    news_categories_path = os.path.join(DATA_DIR, "categorized_news.json")
-    with open(news_categories_path, "w", encoding="utf-8") as f:
-        json.dump(categorized_news, f, ensure_ascii=False, indent=2)
-    
+        f.write(f"# {target_date}\n\n**Summary:** {summary}\n\n{note}\n")
+
     print(f"Wrote curator note to {md_path}")
-    print(f"Wrote categorized news to {news_categories_path}")
 
 
 if __name__ == "__main__":

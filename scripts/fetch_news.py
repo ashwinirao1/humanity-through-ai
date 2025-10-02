@@ -2,6 +2,8 @@ import datetime
 import json
 import os
 import feedparser
+from datetime import datetime as dt
+from zoneinfo import ZoneInfo
 
 
 def fetch_topic_news(topic_query: str, limit: int = 5):
@@ -44,9 +46,10 @@ def main():
     data_dir = os.path.join(root, "data")
     os.makedirs(data_dir, exist_ok=True)
     
-    # Use YESTERDAY's date - we're reflecting on the day that just ended
-    yesterday = (datetime.date.today() - datetime.timedelta(days=1)).isoformat()
-    print(f"Fetching news for {yesterday} (the day that just ended)")
+    # Use YESTERDAY's date in America/Los_Angeles (we reflect on the day that just ended in PT)
+    now_pt = dt.now(ZoneInfo("America/Los_Angeles"))
+    yesterday_pt = (now_pt.date() - datetime.timedelta(days=1)).isoformat()
+    print(f"Fetching news for {yesterday_pt} (Pacific yesterday)")
     
     # Fetch diverse topic news
     topic_news = fetch_all_topics()
@@ -55,7 +58,7 @@ def main():
     out_path = os.path.join(data_dir, "today_news.json")
     with open(out_path, "w", encoding="utf-8") as f:
         json.dump({
-            "date": yesterday,
+            "date": yesterday_pt,
             "topics": topic_news
         }, f, ensure_ascii=False, indent=2)
     
