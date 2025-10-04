@@ -1,6 +1,164 @@
 {
   "entries": [
     {
+      "date": "2025-10-03",
+      "title": "Robert Keohane, SGMC Health Offers, Governor Newsom signs, Best Movies Streaming — a reflection",
+      "image": "entries/2025-10-03.png",
+      "note": "entries/2025-10-03.md",
+      "topics": {
+        "politics": {
+          "summary": "Robert O. Keohane - Britannica. The role of identity in a multilevel interdependence in international relations: exploring popular understandings of i...",
+          "links": [
+            {
+              "title": "Robert O. Keohane - Britannica",
+              "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9JckNxUnplRHpEZXpsLXBqbUFLbFZmOWwxbnFnUFZYTXlJWUtpSEd4c2xBYUppUWx5d2hzVUY0cElCcWhZNUplcVJnN3Zib3E5dGFSRjJhRjBiWnZKVGZLdW9hSQ?oc=5",
+              "source": "Britannica"
+            },
+            {
+              "title": "The role of identity in a multilevel interdependence in international relations: exploring popular understandings of international politics - Frontiers",
+              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZjE4cVhSV2tkVmQ2VjlZYWZzY0Vlam9SMzJKd3hmckwwWlRaZ214Q1hOc180SE05Qkh0aDQ0M2RZNE5uQUhSYXJvNk8wSk0wVTNLOHFoeVhLekVxT1BaeWlCeGhOVHBBc0JkSFBldmlleTBSZGwxMVppWnVYSFFfV3BVb3pFME12Vy1ackVJMGRfS0ZyRF9xQV93?oc=5",
+              "source": "Frontiers"
+            },
+            {
+              "title": "Why Polarity Misleads: Toward a New Grammar of International Relations - E-International Relations",
+              "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLTVYNXJjV3VaYmhNRFAtR2tKV2hjQ1FZaEdTR1hoemhVWDJTQndTdWIwSG0xZzNhVThqcHhmQ2laSWIzX1lZamp1M3pMWV9yZmdpRS03VVR4N3VWZDFrVEJjbHRNVGdBWXFZdlVmX2Ita0k0bmFoRnZGQlZySE9QQ0pyX294QUwwUG9PZ0Z2bzlIU0lqaFM1N2hpb3ZyaGVUQVQ0eWd3?oc=5",
+              "source": "E-International Relations"
+            },
+            {
+              "title": "Press play: how a Boise State professor is using video games to explain international relations - Boise State University",
+              "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMzFtbWZ3bFFMZXViMG9VYTVQTEcxVlYwak1rSEh5WTYwRHBRRm9kZVlVb2lJV0Ezd0lJaXE4WDFsMmRRalE3Y3NuZ0Nicm1jYzlYUF9IamlqOHZhbjJQdkcycTd0ZkJuMTkyS1F0MU5zVFRtSmR0N1d2cEhaSzlySzhtNE9TeGlNd1N5MEd2QnVaeVk2Mng4Yl9LMUNsWkE5WWxDU3pYNlViVVp5WVZoYkk2RDVxNGFqT3pTb0xkdVpEQzNqcWN6UEp4TGFpT2NPQkxoMw?oc=5",
+              "source": "Boise State University"
+            },
+            {
+              "title": "Trump’s Bid to Transform International Relations May Succeed - Fair Observer",
+              "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVFdSQV9OMDZhWThFSGRkMHVjX3BkTl9lQlhUa25Qbm5LMVV5UFJrYXZJdDdjWEtYWW9MMEE5alpRd0E1cjBnRjdJX2Z4ZnRhSkJoSUtzbDBhSG1tVnd4aDV6VUQwLUpBdm9wQWpWWDhpLTVubG9KV1FCZk1WQVFURjZ5VjVZSGg4TGpCWlV5UHBDaWlQVkZPYnJBa3RrWV9WNG11QkswVlRTeEZN?oc=5",
+              "source": "Fair Observer"
+            }
+          ]
+        },
+        "health": {
+          "summary": "SGMC Health Offers Breakthrough Prostate Cancer Treatment - SGMC Health. UAMS Psychiatric Research Institute Front, Center at Latest Showcase of Medic...",
+          "links": [
+            {
+              "title": "SGMC Health Offers Breakthrough Prostate Cancer Treatment - SGMC Health",
+              "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTkI5VHEwOS1Ua0FBLXpaSDBjNlhLMlROSUNfVjRmcGdQUVA4MjZsYkYwMFltNC1mZUpCWXl4U1JKaVExTC1vWHJKNEhBRzVmMWNFVUY4TmgzRnRyTEprZ1A5OXFSM1h6WVR6VHFSRVBMNG1Cbi1MaXh3YTUyWW5zVFlqcnEwUQ?oc=5",
+              "source": "SGMC Health"
+            },
+            {
+              "title": "UAMS Psychiatric Research Institute Front, Center at Latest Showcase of Medical Discoveries - UAMS News",
+              "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZkI1MmxLNXk2V3p4Z1RGVF9rUC02Skp5SVNWdzJXV0pVMVVhbkpXNUZkckIxNVJRbWZBTnZ3eFpLMzBQUURkaHBSNm9ScUhXOEFGcHJxOHRJMzNWc3dOTWVqbXpwS0pjc2dSbl9lR2J1OEV1bC03RVN1eUhmSG16SVRhd3QzNkF2TGxyd25BUjNTTHVPMDA3UncxNkZjN1hpMEtnYXkzWEJaYzJrbnJyaE5UaHdvajdacjdvWUNCR2NpUQ?oc=5",
+              "source": "UAMS News"
+            },
+            {
+              "title": "Can the party drug ketamine be a mental health breakthrough? It was for me - CNN",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92UFk1T3hadTRXeEVPUTBKSjU5YnVNS3dfOFBfVTdobEpMTFFsOGZZbGljQU9hU0dCZUJ0UzJuVkEtRVlQa2V1Zm83eW04SjBCZnB3RlpMMUxXVFM3a1VESFZJTEQ5TDAwb2lfak9OU0E1cTVKQkx5NnVGQlpPTGc?oc=5",
+              "source": "CNN"
+            },
+            {
+              "title": "Andrew Dillin on CURED, UC Berkeley’s new approach to advance medicine and global health - University of California, Berkeley",
+              "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcVBwQy1zUHpUUjVrVEZMcFpEeVFaVE94NHFIWHZEb1RIeFZoX2pXZkZ2ODR4dHhVOHptLWJZRUNSTWQxZDBRNjBtVWNRMTh0OEw5RXljZTg4Mncxa1lvMnNTaFpSWHBlX0dBQV81SFZqSHdxOTk1czdqdGk4UXlOYXMtdjE2VnRaV3hmT1FFcFh6cWI2Q2xkeTRTWWVEZzFYbXRmc2taWFF3U3hhV2lIUWZ0cFM5RERvREE?oc=5",
+              "source": "University of California, Berkeley"
+            },
+            {
+              "title": "Psilocybin: A breakthrough in mental health treatment or mere ‘magical’ thinking? - YaleNews",
+              "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZHRJc1RoeGpEemlvM1MzUEVFNFJmYjJ2ZTFVeE5UcVpmR3pWNk5HRkdSSUJ2elM2TDJTNXB1d1pkWkFwcE1FZ25IblJUSGFpNjg1cG9MWDhnSTRnUlN6WjJRaUJGcU95c3lGYlpWUWs4cjRVTmp1LWxZTTdiWWlYNDBMYmZvOEZycTJfWTNfbklDcW1lUWo3NUpKazYtc0E3MUprT0ZDMTY?oc=5",
+              "source": "YaleNews"
+            }
+          ]
+        },
+        "entertainment": {
+          "summary": "Best Movies Streaming in October 2025: Jurassic World Rebirth and More - Variety. adidas Trionda Broadcast No Music - adidas News. Get a Clue with The...",
+          "links": [
+            {
+              "title": "Best Movies Streaming in October 2025: Jurassic World Rebirth and More - Variety",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BZGUwUTV1NThWTklsOHlqMTNDc3M3dUVQeEtQNHZ4ZEhlcG44RVZuY1VQaDAzd3dIQ245RzNnNV9uTWg4MXRFZ3ZLR21QWUF5bkliVHFSa0dyREZwV3NzRF9vSlB4UXRVVDlURW1R?oc=5",
+              "source": "Variety"
+            },
+            {
+              "title": "adidas Trionda Broadcast No Music - adidas News",
+              "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWGhmUnh6SUw3c0RuaXROejk0QVNFYkhlNXAwbHRWdUIxZzJHMFRwRkI3dGozbjBqWjA1NTRnWkluYVI3MnN3QnhoZXJvdGpsRkRrZEtLQWllM1EwNU9wU3lpMXlPLWpkVFA3ZGlGdy1mbmxMaGNCczdMcE9mWTN6M1BUUW5VbEVfY01qTzhFRFlCZVAySGM4WWVpTQ?oc=5",
+              "source": "adidas News"
+            },
+            {
+              "title": "Get a Clue with These Shows and Movies This Weekend - Netflix",
+              "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjVpUS1DX0hkTVduN25WVnp0Y0MyQ1lLLXk5RTktRTVTbnh1UUY3NG0zTlhmVDRVaVUtb2JjUlUyUVJJNXRiQjVja18tNVFEcldxMV9Ic1NqNnF0dGFHRUZKRm5KRU1Pd1Q0ZWYxRHVFaFZaQkIzS2NoazhNTS1VR0dWdG1menVhNkR4LTFjeVg3b1VyTk5vSw?oc=5",
+              "source": "Netflix"
+            },
+            {
+              "title": "The Best Movies and TV Shows Coming to Netflix in October - The New York Times",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdnI0aW1uWTRvYmp0MXhzcEU0RVZoYVhZVjhNQVUyUHFtU3J0WFNRZ1NRd1c3dDFvM2NnVWxJTm5jQWVUdHAySG11c3Y5c1hpN2VuMGxDY2tLUERyLUxlaUdXRVMxVFhTbk1GS2NxRWVGaFcwQnMzSEpDU0dUMDIyMA?oc=5",
+              "source": "The New York Times"
+            },
+            {
+              "title": "Helen Fitz art exhibit opens Oct. 17 at Arts + Culture Alliance building - Times Republican",
+              "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSW1UaW1QUmtBRGZvY0p1cld5emVXWmVFclI5MjJpN0JiSWVVQVY1cjlZM2cxOFBDSXRLU1hlV1J5NndzcDRIdW5sWWtfQWVuUlpRdWt5Wm1NZ0h1VmZTSFBiZ3ZrV01sRU9SWHRFaHRaT0tiZWs0Ri05Szg0ZG1YeG9yWmo5Y3BiMU9sbzhzalFpUFhDOWc1ZHdtWWxIV1ZmLUt4N3EyaDlpdXlZN1BuZjdpN1VUNXJQSm02cEVWMm1ISjBYbHc?oc=5",
+              "source": "Times Republican"
+            }
+          ]
+        },
+        "sports": {
+          "summary": "Cross Country Competes at Paul Short Run - Duquesne University Athletics. Bulldogs Battle to Scoreless Draw at UIC - Drake University Athletics. MSOC ...",
+          "links": [
+            {
+              "title": "Cross Country Competes at Paul Short Run - Duquesne University Athletics",
+              "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVHROQlEwWklLT3JQWlQ3M0xWZjVVaVljN1NPRkRZVlViYzM0SE9ra1JWem5acjlJQ3hCVkVHdC1XQlpDR1Ezc3VqdmpqQlB0SVZET3lQQlRoWTAwenpXV21zNnEwNVl3N185SkpjbXd5V0tPUTl2NF9mVTRjeHM2MkttM184bmhMZGVPOEJseTNQYTVvQ05aMw?oc=5",
+              "source": "Duquesne University Athletics"
+            },
+            {
+              "title": "Bulldogs Battle to Scoreless Draw at UIC - Drake University Athletics",
+              "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTFVqdjZrSEpNRzRmRDRoV1MwR20wV3duZjlTRVFmUUNOR3VUZjdlTDJKMzktUWZsdnlhSV8wLVRJYVRRalhnZGFFa2U1R2hmWDdKYmt5OG5lMjFGWjJtVUdPYUs5ancwaGpTdnp3V0Z1dHJGY2Z3YVhpQWN0a3pZTGlDeUtCLV9qT2xqd05sOG9GTkZjeTNiS0N2R0FyM0JuMnc?oc=5",
+              "source": "Drake University Athletics"
+            },
+            {
+              "title": "MSOC Falls 1-0 To Xavier Friday Night - Marquette University Athletics",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Tc0tmUmxGZG9lUEI0NG1wdVgwRGlfaXFmQUFjQkROcVdnczhySjNTX3hRbXNpY216Q3VEbkpOZUNSQ05makh2WG1HRENTLXN0NlpoRUxxZUN4YzdEbXB4NVBJYmQ5RnNERldxSWtVLTJBX0U?oc=5",
+              "source": "Marquette University Athletics"
+            },
+            {
+              "title": "Volleyball Takes Down Fordham In Four - University of Dayton Athletics - University of Dayton Athletics",
+              "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaGhVRTBMdHFlU2V5U1BpZFIxTXQ2ejZ4bFRaZ0QySHZBWnBfeXNidEUzLVNWSnVNV0MtSHRFVzhSM2ZaazFoc1FEQmJwRWtQQnoxdGpJQklZaGZJUUR1XzdRa05Qc0tRMXpnSHhINGhPZmF4bkpXX09mSjJNWk9neHdvY0ZMXzducWg0OXd6M3VuVFhZeDN1dzZnRkg2RlRCekE?oc=5",
+              "source": "University of Dayton Athletics"
+            },
+            {
+              "title": "SMU Claims Dominant Win Over Oklahoma Christian and Incarnate Word - SMU Athletics",
+              "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSExrMm54R2dUd1Q2Ym5JOXI2aTlSODdiMUdyMDh6T2FJbnFCb20zeUgteUo0aUhMb05PdGJaSl9YRGlUZjlvR0NXbDhEMUFaX0gxa2VrWnFzdjlvR1hCSmRZbWd4eWRFQkktdzBleVpuYkExemU3Z1E5SjRBaU5PUzFGWmR4VW5EMFhHeXdGTDFzNnZVMEg1WUwxYmIzR3BkZXp0V3c0NEhvbENyUG1qbWg1LVdub0VIRWZTdzEyQ2hTdmdSc2FnbV91aw?oc=5",
+              "source": "SMU Athletics"
+            }
+          ]
+        },
+        "technology": {
+          "summary": "Governor Newsom signs legislation to advance California’s position as the epicenter of global innovation - CA.gov. AI maps how a new antibiotic target...",
+          "links": [
+            {
+              "title": "Governor Newsom signs legislation to advance California’s position as the epicenter of global innovation - CA.gov",
+              "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeVhWRE1YZVdtakdJa25IRFNvcFJXR1BEMkhmN0RaZXlOS25CZnE2MG5IUE52d3NIZXp1MF94a3QtM2E1TThqTng0dnYwMkdzN2RoSk54QURQMFdncFVINVlEUDh2aUIyT3RIX3ZCOU5jX0ppcXN3aHVPTndYVXdSc2tkbDdVcjcwQ21iYXVTanBUOWlwMTRSeXVpZUg5ZmM2NmRESFpnYWNnekxObHhWZHNYVFZBU2JtcVI5NjZJaG5zNWRCOHhWVzI3MDVLRnp0N2FraQ?oc=5",
+              "source": "CA.gov"
+            },
+            {
+              "title": "AI maps how a new antibiotic targets gut bacteria - MIT News",
+              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ1NZTnRxSkpvRHc4OTdubjQyWmRGRzR6alNnVFB4TjgwVUlXaG9xUTI0MU1Panl4blhGZlV0ZVc1VzJjZWFJZ3cxZ2pnU0pHNF9kRjVwTm9Ha3VsTk9lNFVPUE5uXzFjYjJuNnRoeUh5anE2VlhsQ2trejg0V0Y1d3lQb3U?oc=5",
+              "source": "MIT News"
+            },
+            {
+              "title": "Data centres in space? Jeff Bezos says it's possible - Reuters",
+              "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNc0w5UnUwNWlyWktVYzdET3otSVpmeXBqNENYZEVvSFNFaWhYTGh2R3RaWmRpQ092NlVxc2hrR3VaNW5DSmZDanlWZk9HRkJscUh3TnhfVGQ3TGxkN2lvS0psS3FwUl95aXF6b0FSaG8wdXpRY3BiQUUtN205cnltenVvVEZDQ0IzdHc0a2l1SFNWVHhYbGgzNU5SZUp2UTNNd1RB?oc=5",
+              "source": "Reuters"
+            },
+            {
+              "title": "AI chipmaker Cerebras withdraws IPO - CNBC",
+              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4tU1VjVllVSDJxSGxFa3J6bjAwSFRJUlB2OEdUalB1eERaZjNtRTIweWVrVWx5LWVMT29QMzhvNndHODNvSXRNdWlNd1gzeWk0alhSZWlfMTZNVjJjQ0N4MFhzbG1lZ0hLV25VMm1jONIBdEFVX3lxTE9BeGpVa2t6ZFNhWlh1aEpVQTlVNld0NldoWmpibE0tZllHNWFPT0JiVzBWbW5sMVlXdHR3UWtEUWU1Q2F6REhrbU1LU2tlWTJGWTZjMHBZUVNqRU5Qc194NFI3ZTlUbWo5STV3NmNPeWtFdWlU?oc=5",
+              "source": "CNBC"
+            },
+            {
+              "title": "\"Here comes the reaper.\" Trump's AI clip casts Vought as shutdown enforcer - Axios",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pWTVxM3hpR1A2amFNSHBQSVFBZjRwb1NIZE10UjA0RWp3T09OVUVTN3pqMmpMUDM4ZXBsNW1oaXJ1NllDSnVNZXFKOWREenZaWVhzV2FXU2lxQVNmWnhLcGM3VGRsUlZCSThiRURvdkVEb1cw?oc=5",
+              "source": "Axios"
+            }
+          ]
+        }
+      }
+    },
+    {
       "date": "2025-10-02",
       "title": "role identity multilevel, Can party drug, Policy, LAs Entertainment Economy — a reflection",
       "image": "entries/2025-10-02.png",
