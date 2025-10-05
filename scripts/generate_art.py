@@ -120,26 +120,54 @@ def placeholder_png_bytes(seed_date: str) -> bytes:
 
 
 def try_generate(base_prompt: str) -> bytes:
-    # Transform the prompt into deeply artistic, abstract expression
-    # Inspired by masters: Picasso's cubism, da Vinci's composition, Rothko's emotion, Kandinsky's abstraction
+    # Transform the prompt into a painterly, human-made aesthetic
+    # Referencing art movements and techniques rather than specific living artists
     import random
     import hashlib
     
-    artistic_styles = [
-        "abstract expressionism",
-        "cubist fragmentation",
-        "surrealist dreamscape",
-        "color field painting",
-        "neo-impressionist"
+    # Expanded style bank inspired by widely recognized art movements and techniques
+    style_phrases = [
+        # Light and atmosphere
+        "impressionist plein‑air light", "turnerian atmospheric haze", "dutch golden age interior light",
+        # Brushwork and texture
+        "post‑impressionist impasto brushwork", "lyrical gestural strokes", "subtle sfumato gradients",
+        # Abstraction and harmony
+        "color‑field depth and glow", "kandinsky‑like dynamic abstraction", "geometric harmony and balance",
+        # Minimal and tonal
+        "tonalist mood and subdued palette", "ink‑wash serenity and bleed", "watercolor translucency",
+        # Composition
+        "balanced asymmetry", "poetic negative space", "foreground‑midground‑background layering"
     ]
-    chosen_style = random.choice(artistic_styles)
 
-    # Combine caller prompt with a concise style hint; ensure day-unique seed
+    subject_motifs = [
+        "mountain landscape", "river valley", "stormy sea", "quiet city street", "twilight skyline",
+        "forest clearing", "winding road", "gathered crowd", "solitary figure", "faces in contemplation",
+        "bridges and reflections", "harbor lights", "desert dunes", "snow and mist", "rain‑soaked pavement"
+    ]
+
+    composition_guides = [
+        "rule of thirds", "leading lines", "chiaroscuro light and shadow", "aerial perspective",
+        "cohesive color harmony", "subtle vignetting", "soft depth cues"
+    ]
+
+    chosen_styles = ", ".join(random.sample(style_phrases, k=3))
+    chosen_subjects = ", ".join(random.sample(subject_motifs, k=2))
+    chosen_composition = ", ".join(random.sample(composition_guides, k=2))
+
+    # Strong "no text" constraint and traditional media cues
+    painterly_directives = (
+        "painterly, traditional media, oil on canvas, watercolor, ink wash, impasto texture, "
+        "visible brushstrokes, atmospheric perspective, natural light, film grain, "
+        "no text, no typography, no words, no letters, no numbers, no date, no watermark, no captions, no logos"
+    )
+
+    # Combine caller prompt with style bank, subjects, and composition; seed from prompt hash
     full_prompt = (
         f"{base_prompt} "
-        f"Fine art {chosen_style}, poetic abstraction, high detail, museum quality."
+        f"Fine art — {chosen_styles}; subjects: {chosen_subjects}; composition: {chosen_composition}; "
+        f"{painterly_directives}. Museum quality, cohesive composition, sublime atmosphere."
     )
-    seed = int(hashlib.md5(full_prompt.encode()).hexdigest()[:8], 16)
+    seed = int(hashlib.md5((base_prompt + chosen_styles + chosen_subjects + chosen_composition).encode()).hexdigest()[:8], 16)
     
     print(f"Attempting AI art generation with prompt: {full_prompt[:150]}...")
 
@@ -162,10 +190,13 @@ def try_generate(base_prompt: str) -> bytes:
         except Exception as e:
             print(f"Attempt 1 failed: {e}")
         
-        # Retry with simpler prompt
-        simple_prompt = f"{chosen_style} abstract art — {base_prompt[:120]}"
+        # Retry with simpler prompt (still enforcing painterly and no-text)
+        simple_prompt = (
+            f"painterly traditional media; {chosen_styles}; subjects: {chosen_subjects}; "
+            f"composition: {chosen_composition}; {painterly_directives}."
+        )
         encoded_simple = urllib.parse.quote(simple_prompt)
-        simple_url = f"https://image.pollinations.ai/prompt/{encoded_simple}?width=1200&height=700&seed={seed}"
+        simple_url = f"https://image.pollinations.ai/prompt/{encoded_simple}?width=1200&height=700&nologo=true&seed={seed}"
         
         print(f"Retrying with simpler prompt (attempt 2)...")
         try:
@@ -245,12 +276,13 @@ def main():
     else:
         note_text = "A day of reflection on humanity's journey through time."
 
-    # Create a rich prompt combining news and emotional context
+    # Create a rich prompt combining news and emotional context (avoid any textual elements in the image)
     prompt = (
-        f"Create abstract digital art representing humanity's experience on {target_date}. "
+        "Create a painterly, traditional-media artwork inspired by the day's global news. "
         f"News context: {news_context[:200]}. "
         f"Emotional tone: {note_text[:200]}. "
-        f"Style: modern abstract, emotional, representing global humanity's mood and feelings."
+        "Emphasize human warmth, nature, cities, rivers, mountains, faces, and gestures as if painted by hand. "
+        "Avoid any text, numbers, dates, captions, watermarks, or logos in the image."
     )
     
     print(f"Generating AI art with prompt: {prompt[:150]}...")
