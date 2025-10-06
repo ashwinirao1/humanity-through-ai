@@ -57,6 +57,7 @@ jobs:
           python scripts/curator_note.py
           python scripts/generate_art.py
           python scripts/build_site.py
+          python scripts/generate_archive_pages.py
           python scripts/update_sitemap.py
 
       - name: Commit changes
