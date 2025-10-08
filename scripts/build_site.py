@@ -48,51 +48,53 @@ def generate_topic_summary(topic_news, topic_name):
 
 
 def generate_headline(categorized_news: dict, content_date: str) -> str:
-    """Craft a unique daily headline using the day's news.
-    Heuristic: take the first headline from several topics, strip source suffix
-    (" - XYZ"), extract a few keywords, and compose a poetic summary.
+    """Compose a clear, human-readable daily headline from top stories.
+    Strategy: pick the first headline from preferred topics (politics, technology,
+    entertainment), clean it (remove trailing " - Source"), join with bullets,
+    and end with an explicit "— Daily Reflection" suffix.
     """
     def base_title(t: str) -> str:
         if not t:
             return ""
         # Remove trailing source like "Title - Source"
-        parts = t.split(" - ")
-        return parts[0].strip()
+        t = t.split(" - ")[0].strip()
+        # Collapse whitespace
+        return " ".join(t.split())
 
-    STOP = {
-        "the","a","an","and","or","of","in","on","for","to","with","from",
-        "at","by","is","are","was","were","this","that","these","those","as",
-        "into","over","under","about","after","before","amid","amidst"
-    }
+    # Prefer these topics for the headline in this order
+    topic_order = ["politics", "technology", "entertainment", "health", "sports"]
 
-    def keywords(s: str, max_words: int = 3) -> str:
-        words = []
-        for w in s.replace("—"," ").replace("–"," ").split():
-            w_clean = ''.join(ch for ch in w if ch.isalnum() or ch in ['-','/']).strip()
-            if not w_clean:
-                continue
-            lw = w_clean.lower()
-            if lw in STOP or len(lw) <= 2:
-                continue
-            words.append(w_clean)
-        return " ".join(words[:max_words]) if words else s[:30]
-
-    topic_order = ["politics", "health", "technology", "entertainment", "sports"]
-    phrases = []
-    for tkey in topic_order:
-        items = categorized_news.get(tkey, [])
+    # Collect cleaned top headlines
+    picks = []
+    for key in topic_order:
+        items = categorized_news.get(key, [])
         if not items:
             continue
         t = base_title(items[0].get("title", ""))
         if t:
-            phrases.append(keywords(t, 3))
-    # Ensure we have at least some text
-    if not phrases:
-        return f"Reflections on {content_date}"
+            picks.append(t)
 
-    # Compose headline: up to 4 short phrases
-    core = ", ".join(phrases[:4])
-    return f"{core} — a reflection"
+    if not picks:
+        return f"Daily Reflection — {content_date}"
+
+    # Use up to three concise headlines
+    selected = picks[:3]
+
+    def shorten(s: str, max_len: int = 70) -> str:
+        s = s.strip()
+        if len(s) <= max_len:
+            return s
+        cut = s[:max_len].rsplit(" ", 1)[0]
+        return (cut or s[:max_len]).rstrip() + "…"
+
+    selected = [shorten(s, 70) for s in selected]
+    core = " • ".join(selected)
+
+    # If still too long, fall back to two items, shorter
+    if len(core) > 140 and len(selected) > 2:
+        core = " • ".join([shorten(selected[0], 60), shorten(selected[1], 60)])
+
+    return f"{core} — Daily Reflection"
 
 
 def main():
