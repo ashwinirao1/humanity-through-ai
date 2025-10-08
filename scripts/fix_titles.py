@@ -58,22 +58,73 @@ def shorten(s: str, max_len: int = 70) -> str:
 
 def generate_clear_title(entry: dict) -> str:
     topics = entry.get("topics", {})
-    # Preferred topic order
     order = ["politics", "technology", "entertainment", "health", "sports"]
-    picks = []
+
+    def clean_base(t: str) -> str:
+        if not t:
+            return ""
+        t = t.replace("“", "").replace("”", "").replace("’", "'").strip()
+        t = t.split(" - ")[0].strip()
+        t = t.split(" | ")[0].strip()
+        t = t.split(" — ")[0].strip()
+        return " ".join(t.split())
+
+    def short_words(s: str, max_words: int = 8) -> str:
+        return " ".join(s.split()[:max_words])
+
+    def compress_phrase(s: str, topic: str) -> str:
+        base = clean_base(s)
+        low = base.lower()
+        if topic == "technology":
+            if "now available" in low or "available" in low:
+                subject = short_words(base, 2) or "AI"
+                return f"{subject} goes global"
+            if "ai" in low and "chip" in low:
+                return "AI chips enter a new contest"
+        if topic == "politics":
+            if "peace" in low:
+                return f"{short_words(base, 4)} reconsidered"
+            return f"{short_words(base, 6)} debated"
+        if topic == "entertainment":
+            return f"{short_words(base, 6)} takes the stage"
+        if topic == "health":
+            if "nobel" in low or "prize" in low:
+                return "Medicine's breakthroughs take a bow"
+            return f"{short_words(base, 6)} reshapes care"
+        if topic == "sports":
+            return f"{short_words(base, 6)} in tight contests"
+        return short_words(base, 6)
+
+    segments = []
     for k in order:
         items = topics.get(k, {}).get("links", [])
-        if items:
-            t = base_title(items[0].get("title", ""))
-            if t:
-                picks.append(t)
-    if not picks:
-        return f"Daily Reflection — {entry.get('date','')}"
-    selected = [shorten(s, 70) for s in picks[:3]]
-    core = " • ".join(selected)
-    if len(core) > 140 and len(selected) > 2:
-        core = " • ".join([shorten(selected[0], 60), shorten(selected[1], 60)])
-    return f"{core} — Daily Reflection"
+        if not items:
+            continue
+        t = items[0].get("title", "")
+        if t:
+            seg = compress_phrase(t, k)
+            if seg:
+                segments.append(seg)
+        if len(segments) >= 4:
+            break
+
+    if not segments:
+        return f"Notes from {entry.get('date','')}"
+
+    if len(segments) == 1:
+        title = segments[0]
+    elif len(segments) == 2:
+        title = f"{segments[0]}; {segments[1]}"
+    elif len(segments) == 3:
+        title = f"{segments[0]}; {segments[1]}; {segments[2]}"
+    else:
+        title = f"{segments[0]}; {segments[1]}; {segments[2]}"
+
+    words = title.split()
+    if len(words) > 100:
+        title = " ".join(words[:100])
+
+    return title
 
 
 def main():

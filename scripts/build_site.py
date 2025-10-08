@@ -48,53 +48,87 @@ def generate_topic_summary(topic_news, topic_name):
 
 
 def generate_headline(categorized_news: dict, content_date: str) -> str:
-    """Compose a clear, human-readable daily headline from top stories.
-    Strategy: pick the first headline from preferred topics (politics, technology,
-    entertainment), clean it (remove trailing " - Source"), join with bullets,
-    and end with an explicit "— Daily Reflection" suffix.
+    """Compose a smart, poetic, and captivating title from the day's news.
+    - No trailing suffix like "Daily Reflection".
+    - No ellipses; keep phrases whole and intentional.
+    - Prefer narrative clauses over keyword scraps.
     """
-    def base_title(t: str) -> str:
+    def clean_base(t: str) -> str:
         if not t:
             return ""
+        t = t.replace("“", "").replace("”", "").replace("’", "'").strip()
         # Remove trailing source like "Title - Source"
         t = t.split(" - ")[0].strip()
+        # Drop secondary parts joined with pipes or em-dashes
+        t = t.split(" | ")[0].strip()
+        t = t.split(" — ")[0].strip()
         # Collapse whitespace
         return " ".join(t.split())
 
-    # Prefer these topics for the headline in this order
+    def short_words(s: str, max_words: int = 8) -> str:
+        # Keep the first N whole words without adding ellipses
+        words = s.split()
+        return " ".join(words[:max_words])
+
+    def compress_phrase(s: str, topic: str) -> str:
+        base = clean_base(s)
+        low = base.lower()
+        # A few gentle, topic-aware rewrites to feel human
+        if topic == "technology":
+            if "now available" in low or "available" in low:
+                subject = short_words(base, 2) or "AI"
+                return f"{subject} goes global"
+            if "ai" in low and "chip" in low:
+                return "AI chips enter a new contest"
+        if topic == "politics":
+            if "peace" in low:
+                return f"{short_words(base, 4)} reconsidered"
+            return f"{short_words(base, 6)} debated"
+        if topic == "entertainment":
+            return f"{short_words(base, 6)} takes the stage"
+        if topic == "health":
+            if "nobel" in low or "prize" in low:
+                return "Medicine's breakthroughs take a bow"
+            return f"{short_words(base, 6)} reshapes care"
+        if topic == "sports":
+            return f"{short_words(base, 6)} in tight contests"
+        return short_words(base, 6)
+
+    # Preferred topic order influences the story arc
     topic_order = ["politics", "technology", "entertainment", "health", "sports"]
 
-    # Collect cleaned top headlines
-    picks = []
-    for key in topic_order:
-        items = categorized_news.get(key, [])
+    segments = []
+    for tkey in topic_order:
+        items = categorized_news.get(tkey, [])
         if not items:
             continue
-        t = base_title(items[0].get("title", ""))
-        if t:
-            picks.append(t)
+        headline = items[0].get("title", "")
+        if headline:
+            phrase = compress_phrase(headline, tkey)
+            if phrase:
+                segments.append(phrase)
+        if len(segments) >= 4:
+            break
 
-    if not picks:
-        return f"Daily Reflection — {content_date}"
+    if not segments:
+        return f"Notes from {content_date}"
 
-    # Use up to three concise headlines
-    selected = picks[:3]
+    # Compose a narrative line from 2–4 segments; avoid ellipses and dull endings
+    if len(segments) == 1:
+        title = segments[0]
+    elif len(segments) == 2:
+        title = f"{segments[0]}; {segments[1]}"
+    elif len(segments) == 3:
+        title = f"{segments[0]}; {segments[1]}; {segments[2]}"
+    else:
+        title = f"{segments[0]}; {segments[1]}; {segments[2]}"
 
-    def shorten(s: str, max_len: int = 70) -> str:
-        s = s.strip()
-        if len(s) <= max_len:
-            return s
-        cut = s[:max_len].rsplit(" ", 1)[0]
-        return (cut or s[:max_len]).rstrip() + "…"
+    # Safety: keep under ~100 words by trimming tokens, without ellipses
+    words = title.split()
+    if len(words) > 100:
+        title = " ".join(words[:100])
 
-    selected = [shorten(s, 70) for s in selected]
-    core = " • ".join(selected)
-
-    # If still too long, fall back to two items, shorter
-    if len(core) > 140 and len(selected) > 2:
-        core = " • ".join([shorten(selected[0], 60), shorten(selected[1], 60)])
-
-    return f"{core} — Daily Reflection"
+    return title
 
 
 def main():
