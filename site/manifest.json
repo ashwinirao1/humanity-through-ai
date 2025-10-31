@@ -1,6 +1,164 @@
 {
   "entries": [
     {
+      "date": "2025-10-30",
+      "title": "What Southeast Asian history tells us debated; New tools in Google AI Studio; 'It's culture': Amazon CEO says massive takes the stage",
+      "image": "entries/2025-10-30.svg",
+      "note": "entries/2025-10-30.md",
+      "topics": {
+        "politics": {
+          "summary": "What Southeast Asian history tells us about a multipolar order - Aeon. Soft power: Not just winning hearts and minds, but saving lives - Harvard Kenne...",
+          "links": [
+            {
+              "title": "What Southeast Asian history tells us about a multipolar order - Aeon",
+              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONlVfMk03OFV0MjV1NUJfaTc4SzNNazBQTDNRQ0kzZ2dzYVJtUWlGX1UtVVQxbGlXeE5ZM1ROZTEyRlZzbHlqcXM4M2hObVg4MVg1clBGOFBfenhOMmpYN0xaX3N5a1hMRzFPOWtQNWJKMERSR2tSSUpSb0o4VDBoNnFjbWowd3hId3U3bS13?oc=5",
+              "source": "Aeon"
+            },
+            {
+              "title": "Soft power: Not just winning hearts and minds, but saving lives - Harvard Kennedy School",
+              "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUlY5bV9JZjFEelR6bFVtVXlMVHhSdERIaXZlVGdfdmFJaDJoS1NlVGlicHF6NkRGeE94NjZtTUNHbHdOWWdqQzAtdzBDNDNpVGtyb25DZ1d3YjRMV1NuaUtEMHZCbGpjVUlCb0lfTnBkcEtCMUd6QTFzNURsNFIwdVVLS3FrNzJGV21PcjhZSGY2d05hV01KYlhuSDl2Mi1uUEZkS185WVg3d1dJNmNFVC0tMFFUc2xWOUVFTEQ4cEk3OGFW?oc=5",
+              "source": "Harvard Kennedy School"
+            },
+            {
+              "title": "Democratic peace | Political Science, International Relations & Conflict Resolution - Britannica",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1NSElSNkoyY3RLUWN1YldrWG93YTBJbEYzemFfVndWUTY5QTNPUDEwSjhQaUl0clF6XzRLZU1NM044d05fVDYwSnh0NzZUREwzYzJWOHc5NjR4RmRubHc?oc=5",
+              "source": "Britannica"
+            },
+            {
+              "title": "Argentina’s Struggle for Stability - Council on Foreign Relations",
+              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBMeUFjeHpnM3lybGoxUnhKZzA4TzFuZWtaRDB3WEdJVTJKQmlBbG1lUEpoa1BoRUpweDF1eDEzZGx4azhsUEI4QW1GNURCblVLelB5d0ZoekRVSzRQMGtxUE4zWVdBR25SNXp0RVRfVQ?oc=5",
+              "source": "Council on Foreign Relations"
+            },
+            {
+              "title": "The role of identity in a multilevel interdependence in international relations: exploring popular understandings of international politics - Frontiers",
+              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZjE4cVhSV2tkVmQ2VjlZYWZzY0Vlam9SMzJKd3hmckwwWlRaZ214Q1hOc180SE05Qkh0aDQ0M2RZNE5uQUhSYXJvNk8wSk0wVTNLOHFoeVhLekVxT1BaeWlCeGhOVHBBc0JkSFBldmlleTBSZGwxMVppWnVYSFFfV3BVb3pFME12Vy1ackVJMGRfS0ZyRF9xQV93?oc=5",
+              "source": "Frontiers"
+            }
+          ]
+        },
+        "health": {
+          "summary": "Xavier Ochsner College of Medicine announces leadership team, advances accreditation process - New Orleans CityBusiness. Marthe Gautier, 96, Dies; Had...",
+          "links": [
+            {
+              "title": "Xavier Ochsner College of Medicine announces leadership team, advances accreditation process - New Orleans CityBusiness",
+              "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTVZfU1dVd2V0U3lKMzlMY29TdEI5SV82OWVqNldVc2lCdVhOUTBGTGx6N0w2NWpxN0Z0NDdnRTJqZloyc3FTbEpUTFVOYlRKQmVabzctR0Z6RDhzZ0xMM1lWNTZFQmJzQ1AtQlV2dU9Ub0tKQjVNRzBsaFJLdU03WEFHMDhhSmRDNHh5ZlVQbHljdVVOTGZZU1FYWGtJUF9hUlQycXh6aG1EbVNK?oc=5",
+              "source": "New Orleans CityBusiness"
+            },
+            {
+              "title": "Marthe Gautier, 96, Dies; Had Key Role in Down Syndrome Breakthrough - The New York Times",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9SX25LcFBYdVYtbWF0dDFTV29YR1BURThPQ3ByM1dXZWpMNzI4RkpqM01LRHZ2LWpMaXc0RGFkOFJFbzY2X2dYZHQtRGhGeC1lejJ1NDNVX216ZWJiTWl1VG9vUmI1dUdQY0V3VUNxT05RYmJG?oc=5",
+              "source": "The New York Times"
+            },
+            {
+              "title": "Congress faces pressure to end shutdown, but breakthrough appears unlikely - PBS",
+              "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaHBJUzNzbnFfeEJ1akFCMjA2YnEtVDcyYmZmSDV0RjMxQ25kcmJGbzVwb1NIcGF6WE5wVG1WVzFRN0pTX3VQc2JXa2k5SVR6ODVKV0tucEpfOTdCQTlUMFRuNVlxV3lyQ0xZbDd3RnoydE5IUWtmSm1PNXhkc0haTHM1VUpUWktMd0tFTDl1ZEpQcTdnTWJCaU1oXzMxbUlIM2lmdEhTY2FjTGdYc0g2ctIBtgFBVV95cUxOeTJ3LU9Kb0lMTjFkVUg3NS16bzVMOVZEcEhQTWxxS3ZSdDZIVXBjbVRDU2VsdlNBQUxaRmphSG8wYWlmdEpsSXhSU09OOHd5X0ZEdjl6ZERnWW1yTmNLQWo3TFRscmxDeFRTemhTcHdwWnJaRlNkejdEWXhRcVJjQVFyT3h1bmlrYnZfcUFZYWhTQU1veW4zNXUyWFJBYktSaUQyNUdaRmdWNDVIbzZxWk54QjB1UQ?oc=5",
+              "source": "PBS"
+            },
+            {
+              "title": "Conexiant Announces MDspire®: A Breakthrough AI-Powered Engagement Platform and Tool for Medical Professionals | Newswise - Newswise",
+              "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMWNKUHdPT2JPTDdPNk9hWVZBM05xdGQwajBCLXBPdHZQWmpBZk5OSy1JdHFnN0JIcUd6UE05ZVVtNVRYTGI4VmVIMUR5T2N6UXFDS2k1eHdybkZnX1VHOXZSYU1BQW95RDRnZVd3ajkzYnY2eGJUeG0zc0dleE1BTHhldHVsVWlHUkIyUzVoZGMxeXBpREgtMnZGaENRLUNQWWh3Rk1zYjlYUGY1cXVhN2llUFB5TG81V1pYSzVVckp1cnEyRGsxakVQQl9nemg3b181ODFLS2lFZ9IB2gFBVV95cUxPMWNKUHdPT2JPTDdPNk9hWVZBM05xdGQwajBCLXBPdHZQWmpBZk5OSy1JdHFnN0JIcUd6UE05ZVVtNVRYTGI4VmVIMUR5T2N6UXFDS2k1eHdybkZnX1VHOXZSYU1BQW95RDRnZVd3ajkzYnY2eGJUeG0zc0dleE1BTHhldHVsVWlHUkIyUzVoZGMxeXBpREgtMnZGaENRLUNQWWh3Rk1zYjlYUGY1cXVhN2llUFB5TG81V1pYSzVVckp1cnEyRGsxakVQQl9nemg3b181ODFLS2lFZw?oc=5",
+              "source": "Newswise"
+            },
+            {
+              "title": "AI Breakthrough: Transforming Mental Health Care - Mirage News",
+              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdEJjSlVsUW1ncHBmazBweDhuYzV3LXNVNUlETUlsUkpUS0dJUm9RT2ltRzU1b1pHREpzenRNSnQyYl9MRldwcXhrVE4tTDBiQ1RuSDZXNVh2U0diZV9UenBhcnJ1STF1TWVsUlN4Q0hKSDBFTnRsSHBBRWtEYzY2akwtTE9iTlptdDdB?oc=5",
+              "source": "Mirage News"
+            }
+          ]
+        },
+        "entertainment": {
+          "summary": "'It's culture': Amazon CEO says massive corporate layoffs were about agility — not AI or cost-cutting - GeekWire. An Interview with Institute for Diff...",
+          "links": [
+            {
+              "title": "'It's culture': Amazon CEO says massive corporate layoffs were about agility — not AI or cost-cutting - GeekWire",
+              "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVE0xbFQ0ZlpwS2JabWpMWGJTR1docE9WOWNfYlVlZVYxeDZNczcxelN6MEh3bS1uY3BkLXdHUGxIUkw3YjZLTmNBZXlTUHd3aFBCUjdsVENteUFERzZFTWl4eW1ndHJQS0ZnYUlvandNeDhGYTlBemdPMW9JY05DWEZZdlNkYU5EUjg4Q0F6c1owZzhHSVRQWlY4dU5mQjdYM1ZockpYb1g1STlXdHIzRHhseHVHX3I2LW1NNm1nN0JNVzBn?oc=5",
+              "source": "GeekWire"
+            },
+            {
+              "title": "An Interview with Institute for Difference and Empowerment in the Arts Director Robeson Taj Frazier - Zócalo Public Square",
+              "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVzJiZ2s4a3BrNEw4X0VhU3VGVHJUNHhsREtzQVFVZnZLbjRucXZuX1B2Tjd3ZmVsbnIwS2hXU1V2OFYtbmJ0UUhFVE1QcE9sNnJHNkI4SzhpZmY5MnJsU2pfSFJFbUJwTllwWnZDaWF2ZTd0SlFpaGpYSG03NTQ5MGVtdUw0UXhYRGNwa0lqMFZYWjg0MV9iOWdXcUljNjRCOUNWcDFlNmt4M3ZmX0ZSQjZTbmFZX3hQ?oc=5",
+              "source": "Zócalo Public Square"
+            },
+            {
+              "title": "Australia's Star Entertainment narrows Q1 losses sequentially, warns of AUSTRAC's impact - Reuters",
+              "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbF9pRVZqZ1cyUVdvNVRqbTNVT05kRnFoaUoyU3VYemFYS2c0WnJQMkdLemhfN3dnaGhuTUdhbVVtZEFLWFNIX3BCcUljTE00Yk5yY3dQTS1CeV9ieGloSm0yUUhPanJ1TEZpTlZPRHNRanpIU0trYlJXa0ozNzhuaWZ6aFhtSEp5eVdwZmxUdk42Yy1nbFdSYjQ2RHFjWHNXS25GeXRKSGgwMDBvcXVoX2U4cWdEOXF1Z19pdGxiM1UtbGlTRmt2N3Zn?oc=5",
+              "source": "Reuters"
+            },
+            {
+              "title": "Seabury Hall Performing Arts presents ‘Once Upon A One More Time’ high school version - Maui Now",
+              "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdU5Ndm9HLUh3bmp1TFlZLUNzUkZta19NNEZ2VlV2ODZqeklNQW5rb2lsLURVdDAyWWRxOTUwZ3dLMlVabWtGREQ1clNkVHZZeVA3QzFKRURGajNfSklWUWx3WkROcjhNdHpyVXBtWjd5Yk5VbFdiM2VlTm5tTlBoSFNJenBVeURRUGMtZGZxLS00WnhKalVJdVpoNmd0MkRyTXM0SkNYR0VhV05nT0dBM0pDNG5aQQ?oc=5",
+              "source": "Maui Now"
+            },
+            {
+              "title": "Amazon's CEO says its 14,000 job cuts weren't driven by costs or AI: 'It's about culture' - Business Insider",
+              "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdFJaRHlUemZkNVhlS3BWOTRTclpGbVF4Y1JGSVE1WndSRFNkVEowMmluOGlBOEpLNmwwd1pSemVVQWQ0dHJERW5kakR1b2xyUEgyUGZLS21kYVU0Z0pvaEdGSm04WDhmU0Z2RlRsNjV2djg0SzI5TDA4TkdNbEJIbm00VEpBWlM3YkxPQlNzWU9uUzA?oc=5",
+              "source": "Business Insider"
+            }
+          ]
+        },
+        "sports": {
+          "summary": "Mustangs Fall To No. 21 Louisville In Regular Season Finale - SMU Athletics. USF Athletics Releases Men's Basketball Promotional Schedule - University...",
+          "links": [
+            {
+              "title": "Mustangs Fall To No. 21 Louisville In Regular Season Finale - SMU Athletics",
+              "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNzNCZlNrNEFtaVhIVkhRdzYxMEt3M2VXT3piSzJTeWNnbktJcmZwUFNudTctLWJKb2dEMmRZNE1zUG10RFBlOUo5R0FMYzVCTzFtemVqbmpxaDk0ZnRIRmJUWGpUQVkxMHIzT0RqTXFzcWlkTkpQLTJfdXJEQzNDNk9jSVlYNVFtNXRQXzVRY3hKTWd2NzlYaFpXSFFid3FiNkEtRUtwU0RTQ3FiemkyRVJSZUNhU0cz?oc=5",
+              "source": "SMU Athletics"
+            },
+            {
+              "title": "USF Athletics Releases Men's Basketball Promotional Schedule - University of San Francisco Athletics",
+              "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTFFIbTZlQUg5aFJFQ3cyQ2Q1UTJfUGlHbzZxa00tbmF2ZEFCcDJ0TjJ6TWdMSXNRWm5VdV9oUm0zS3lTZkMzblZfTFUweTNVSnN4dHNjNmxMcldfSnh6dGE0Q0NhbmlFUjliYWdOTjAtV0J5R0NEQ0RRNTN4cHk2eXdSb2JVWUdNb282SXR6SmtzNUtlMEhURXVwSmdON0c1dnc?oc=5",
+              "source": "University of San Francisco Athletics"
+            },
+            {
+              "title": "Women's Soccer Closes Out Season with Victory Over Lamar - UTRGV Athletics",
+              "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOFlhWkxLUVQ3YUZydkVkd3lWT1hPZm80QUhPNXdUZWlpUXdRcGhUNC1rVVJqMmZ4Zkh6ZWo0NWtrS3VsSGprTHQySnJiREFGOVBxZnRvb2dCZXhRUHYtb1VaV3IxektZelRMVE5JMDUtbUYyRGRoOU1uRWFaVG8tY3FQTHBBQ3lwTWtvQlFVbEVSN3NIaEM4YXlpZjg?oc=5",
+              "source": "UTRGV Athletics"
+            },
+            {
+              "title": "Derrick Brooks Joins USF Athletics as Chief Operating Officer - USF Athletics",
+              "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTksxM3RSd2M3MU96c2l2dlFOSV9PMy1qNFFXeVFmTnhOWGlxbUs0WGUtbU9fYkxZeUt1X3pTNWZXVEdtNnFQbzBtMEI5SDFMdWg3SERSQldmWVYyVEF0NXdOU0lpRGFERlNYMlhtMzNDenJtZVRIVkVnRFhpRWwxVDlKSXpJUjdTNFBJSFB0UUpOekN2TEVRNGVIb3JXZHVTazBZTjZEbHR5ODhzb3pRMFZiMA?oc=5",
+              "source": "USF Athletics"
+            },
+            {
+              "title": "Insider \"systematic theft\" of $1.75 million shakes World Athletics - 3 Wire Sports",
+              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdjNFSEhUbjJDRTl0WUlxaXliNjF1U3dXWTcyYWc1S1BrUGVpTkV3QXlNQ01qZVZibW9jcDFuMWJSd2N5UnE2Y1V6MjRpbnh4OGxsWjBuT0xqMEtMaU8xVnRrLTN3a05vRFBaeFNtdnMtVUJsTzFnVG96b0FsRWFvTmFJeEU?oc=5",
+              "source": "3 Wire Sports"
+            }
+          ]
+        },
+        "technology": {
+          "summary": "New tools in Google AI Studio to explore, debug and share logs - blog.google. Tech leaders boost AI spending, but Alphabet's cash flow wins investor f...",
+          "links": [
+            {
+              "title": "New tools in Google AI Studio to explore, debug and share logs - blog.google",
+              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4tSHlldzZsaDBQR1RhZ1JKeVBIRms5NG8yS1JSQ0R6TVhyVHM1OUJqdHZ2TzB4LVhiMl80cy1jUnpEcl9HSzVPMlo1TjdLSXFlZXpLb3hDbEdSdjlTZW1qUVRwNklBSVhxSzBGclVGd0dqV1NpTWs2QTN1ZWtfdw?oc=5",
+              "source": "blog.google"
+            },
+            {
+              "title": "Tech leaders boost AI spending, but Alphabet's cash flow wins investor favor - Reuters",
+              "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSV9qREtHUVl6bFN4b3IyNlY0a0lHWFkzY1RkR0x4Tld6Y28yOGQ4NHE0TEsxQ20tNWhhTTRFdzlJY3M3NU5XVy1ZMV85R3VLVzhfMmRXV2NpdFdweFh6S3I2ZnNyZEtTVklIVE5EQm84SkZjaTVCdE1SazlrejNHSlQwWjFYVDZzNC1MZXQ1X2JlRnJMdXVYVTZYampoQU05SjdZcUota2FveFo4anA1WTZsQ0JzLWtkMUxQMHd4U2owajBEZDNEUkJDcUE0QQ?oc=5",
+              "source": "Reuters"
+            },
+            {
+              "title": "NVIDIA and Samsung Build AI Factory to Transform Global Intelligent Manufacturing - NVIDIA Newsroom",
+              "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBSdjlFaG9VWGZsbHltQ291RjZjeWFzUUlTRDZ1ZnFHS19MaHEwTS1vU21PV1BQUXBtLUliQXpvYjcxQ0VMa0JNYmc5Q0dQLUEzNFNjRzlKU3dJUHRLQ1NSaC1sQQ?oc=5",
+              "source": "NVIDIA Newsroom"
+            },
+            {
+              "title": "Nvidia Is First Company to Top $5 Trillion in Market Value Amid AI Boom - The New York Times",
+              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBwaWQ4ZW92elFuaFhJUm85NnljYjlaQ3Bick5vTkV6NHFkSExZVVVGY3YzcngtQzZXbV96ZnJpZC0yTzd2QUhjLVVuVkMxalFJZVBhWHRzalBwMk4teDFDOUgzNHpOZnBzYW80dEJrbHJyeUgtY1AzR1d6b2NsZw?oc=5",
+              "source": "The New York Times"
+            },
+            {
+              "title": "“Tron: Ares:” The God of War is an AI now - The Mac Weekly",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrNjc3ZVlBb00zUkFhSGpjX1p4d3JscGRXT3NZbHVlTDRXeE1zS2EwS0FyaGR6UlhWRGkyQXV3QUt0cUkyOWhiLW8xblNHWmduajkzTjd5Z0toZzlSSHVMYzVQRnNfQ2FkeFZZdFNrVUZ6LXlyVWdmZDBiUXhmQ1k?oc=5",
+              "source": "The Mac Weekly"
+            }
+          ]
+        }
+      }
+    },
+    {
       "date": "2025-10-29",
       "title": "Transnational Political Networks debated; Their Professors Caught Them Cheating. They; Exclusive takes the stage",
       "image": "entries/2025-10-29.png",
