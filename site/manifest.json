@@ -1,6 +1,164 @@
 {
   "entries": [
     {
+      "date": "2025-11-18",
+      "title": "Santa Fe Council on International Relations: debated; Exclusive; CMA Awards 2025: What to know takes the stage",
+      "image": "entries/2025-11-18.png",
+      "note": "entries/2025-11-18.md",
+      "topics": {
+        "politics": {
+          "summary": "Santa Fe Council on International Relations: The Dry Corridor - World Food Program USA. Symbiotic Realism: a transdisciplinary approach to understandi...",
+          "links": [
+            {
+              "title": "Santa Fe Council on International Relations: The Dry Corridor - World Food Program USA",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWEFOM2FJeEJHTWhjMzlEOUo1VTN3cmJyZnpRbjBkZ25UcC15ZzdjSlhqOVJGelZVNThOc1Jwc0RkTDNRQ0FQbE5RNGRjSFhNZ0x1WmtJTEp1SlhoemlFU1ZlbWxXa21QUjNabGM4Zzl3VmlkSnp2VlVRcWlsR3pTQUQ1aHh3SlFvbG9PU3p3cw?oc=5",
+              "source": "World Food Program USA"
+            },
+            {
+              "title": "Symbiotic Realism: a transdisciplinary approach to understanding international relations - Frontiers",
+              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU3h6YWcwLVZmY3pLYjhPREo2cHotN1NMTVYyTmNmU1V0RG5rTnJyV0t3UmV3U3E5M0JfWno1dk02MWtiNFhTOW1IMmtFd3otUm9ubk5QOUZUQ0tLQXJQV0tUUXpxaVFnVGJkbWNuNUlhaVBKeXlQc0h6aHpBbHVMWHl2dmRfRnp3dE82Sk5iOG1BdDM3ckFGWTVB?oc=5",
+              "source": "Frontiers"
+            },
+            {
+              "title": "How to Put IR Theory Into Practice - Foreign Affairs",
+              "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBfLXNhZC1EX3NDanE1b1Iwekw5ZWJKNENLdER5N2NTT2VSZ09CMV9zZTZyVkwtWm5ibG4ybldQWUlEYVJZeEJsZHpleTZ6YlcyR0E4V0xYSjZXSnBkTC1Rd0hDMFRMQmxMWFQ2SmJwV2ZEcENrVDN0WjYtRQ?oc=5",
+              "source": "Foreign Affairs"
+            },
+            {
+              "title": "Press play: how a Boise State professor is using video games to explain international relations - Boise State University",
+              "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMzFtbWZ3bFFMZXViMG9VYTVQTEcxVlYwak1rSEh5WTYwRHBRRm9kZVlVb2lJV0Ezd0lJaXE4WDFsMmRRalE3Y3NuZ0Nicm1jYzlYUF9IamlqOHZhbjJQdkcycTd0ZkJuMTkyS1F0MU5zVFRtSmR0N1d2cEhaSzlySzhtNE9TeGlNd1N5MEd2QnVaeVk2Mng4Yl9LMUNsWkE5WWxDU3pYNlViVVp5WVZoYkk2RDVxNGFqT3pTb0xkdVpEQzNqcWN6UEp4TGFpT2NPQkxoMw?oc=5",
+              "source": "Boise State University"
+            },
+            {
+              "title": "Transnational Political Networks – Oslo Workshop - Northeastern University",
+              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMGJwWEprOHAwX1BaSTRmRjI2R29nUGtWaGx5VzluV1F1MXo0c00wT1c2ZXBibTBIbFpSZDY5OE1TNWlmU3l5dFdGcWZCWVhYUHN5dFRzdVpaaklYQ1k3SEw3eUZ1czNIRWltTkVMamJtbE1ZRG5kVW8wOVQ0OWxzM2ptYkx0VlBFRTVSUFR2MWRzQTF3anhCV01MaFlFQQ?oc=5",
+              "source": "Northeastern University"
+            }
+          ]
+        },
+        "health": {
+          "summary": "Type 1 diabetes cured in mice with gentle blood stem-cell and pancreatic islet transplant - Stanford Medicine. 'Breakthrough' HIV prevention drug set ...",
+          "links": [
+            {
+              "title": "Type 1 diabetes cured in mice with gentle blood stem-cell and pancreatic islet transplant - Stanford Medicine",
+              "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9QVzd4anZzbmoyeFJoLUR5Mkk0MnpiRlFQTy1QT2ZlNHhkVmRnN2h0Ym5HZVdJTUk2WEpIb2FlR20yRUs1ZmNHQUtvRlV1Ml8zbUJzQ1lpNUx0Y25nVmJZdFE0T2JOVUFJeVJMS09ZWG5DUUpGdWVUeVJVYlc?oc=5",
+              "source": "Stanford Medicine"
+            },
+            {
+              "title": "'Breakthrough' HIV prevention drug set to roll out in Africa : Goats and Soda - NPR",
+              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOS0k1Qk1iOE5fZDJIUWNDRmpPMm5OMndvV3pDTFpjZjl6R2hnMGRLRG5ZbTRxUUk3WHNRNWdROUR1by13eE9LakotMTJJam8tdm9id0g4SmRyNVA5cW1heFI2eEFKVjdvTEdUNGNlZGtiSjNVYUgteGhYZUtqbFdyd1EzTmVqZkMtNTVITC1kd2FJWnk5RVpkS2twSXZTdw?oc=5",
+              "source": "NPR"
+            },
+            {
+              "title": "Brain activity associated with breakthrough food preoccupation in an individual on tirzepatide - Nature",
+              "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE10RHJVNXF0UzZTVXZ0U2pHaXFnN20zeHNOdVhVcmNWdFlTcnpXQWNYc0d2QzBublI5eUc3aVZBRHZoYnFqRkcyQXNCU2lBbmZCMExLUjM0RFJsWVZvTUVV?oc=5",
+              "source": "Nature"
+            },
+            {
+              "title": "Duke Health researchers announces breakthrough in breast cancer vaccine trial - ABC11",
+              "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVFJLVUt6SkhzZFp6RnloYXB4MjRsMU1QS0hKWHBYZmQ1VGRKdml3MWpldkVFUkc3Sk04ejIyZGt3MzUwejNoeVFlR3JFTnB3aXV2OFM3S2YxdkhTUVNTbU1XNVNwX3FPaGFYTmp2c0FDYVRpcmxSSy1XRnJ6aUJmWXlwLXhQaEo1YXQwRnYzbFE5eC1iMDl1Vm9jZjRVRWpjYlVaczQ4QVhoY3PSAbABQVVfeXFMTTk1N0RiMVBHYmNtVXZwUGpFTmpLVDNPcW8xNURmMUtXV29XOFJXRTdYUG1lSDNxVFVBWEtOb0YxaEp2dUlQdExmMDVwYzkzXy1yNWdodlVObXgwanVVWHBZNTdZNUM5QVh5bGRUa0xlU05vWjZWVmRXWUhkNU5XYkJSVzhzRTE3X0xORkF3YTZlVzdseDItU29JRnE3a2pwVnhSRkdkWXdKbGE5THNsUTI?oc=5",
+              "source": "ABC11"
+            },
+            {
+              "title": "Miller School of Medicine Diabetes Day: Breakthroughs in Prevention, Treatment and Technology - University of Miami",
+              "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU3Y3NWdXVDRUdkliRUh0SWtiZXdzT1Vic3JxdmJqT3pYS2k3Q2R5QTZVejBRcGk5MEJhanVYNDZWR1E1c0twaEJsaml1YjlZeS1jSHRqdXdUUU5MS1l4TmVuVGZPLV9DbzdSQmZtNnNsT09pQ042cUJBNzlCYUFjZnV3b0MyckdDZXR4bUM4dkZyUTVWX1BiU1NMMDFTY0pTaHBCdy1Fd0pzUjdweUtsOGNvLW9sY0dSODZZ?oc=5",
+              "source": "University of Miami"
+            }
+          ]
+        },
+        "entertainment": {
+          "summary": "CMA Awards 2025: What to know ahead of country music's biggest night - abcnews.go.com. How Music Gathers Us: Zach Bryan and the Spirit of Notre Dame -...",
+          "links": [
+            {
+              "title": "CMA Awards 2025: What to know ahead of country music's biggest night - abcnews.go.com",
+              "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZjdxQ2x4MU1EX1VNQm5VRnBVejlXRXdXWHYxT1hIU2RvMnFTQTFlZHlYRVhCWXM5UUtjOF9YREVraUk2MFBQbFBkdWRTYy1BNlpNdlRLUjF2aF9vSURIb0RCMnJKUEZmSHJWci1UYV9NZlJxclhtaVlsYjBUX2JfcWhEdVhkV0EwbGfSAY8BQVVfeXFMUFdrTVlYUDRpYXkyRXdhTVBIWXk5THlxbk9GTF9QT0M4RS01cGNvbEJCM3I4RmxnT00yeEVkSW4yTEtHaDRPcmNHeWtLUDdjWVlDZUExTkFwWC1pQVQ4STQ0WHNiVjZscHBJMXFQTDVVSFh5U0ViV2hIZUJrNTQ2akRaVElXQW04VlQwRk5EZU0?oc=5",
+              "source": "abcnews.go.com"
+            },
+            {
+              "title": "How Music Gathers Us: Zach Bryan and the Spirit of Notre Dame - University of Notre Dame",
+              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRXM3NDEtZDAydkYyWFRsclBiS0Q0R0hlbHFBV1YxUDFCbjBkQzNTQkxFSGdKVEJEQVdpZy1oSW5nNkhud2RSVlhyellJZ1k1ZDlYUjNnQTZjeDRnYjhyYWVOTGp5aTJ0bWlWdmZqajN6Y3NUR1N1ZlNJYU5adjNucTVsaEttQmh6WkYyWjFzUld2dGJmNDFVdW1R?oc=5",
+              "source": "University of Notre Dame"
+            },
+            {
+              "title": "Sweet music a special part of life - Brookings Register",
+              "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdll6YVdiOGNzRS0zRFJaYmZjQVhDUmJrZjNyY096WHEwX2R2T2dlWVIxa3lyZVhyc1l0U0daZEFYUFo2R2VJTHA3YVVxZ0tKX1lmbkhxU3dtZjhHaDlCUFpIem1nRUFpWWhnMGtXbVdrazhxX0JTZG1iM3Uxa1k0bkQ5M3VVWUxwZ1E?oc=5",
+              "source": "Brookings Register"
+            },
+            {
+              "title": "SBU’s Quick Arts Center to Host Southern Tier Symphony - St. Bonaventure University",
+              "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObnpBbDhwWVdGV0lTRUFON2JySmJKMW94aWlfczVacHBOenJ3NXFDSFE3RFFmcGtxTzBrdFdYZXNJU3ZtWjFCQU5iSnZPYTEwNXVpRDNFaE02SFhPaUFQN2J1b3dOaG9kU2l4UXdkY05rUUpPbDgwaDNoMUxWY3AxLVFkV2xJVVNwNThFbGp1alRHRHFE?oc=5",
+              "source": "St. Bonaventure University"
+            },
+            {
+              "title": "15 new movies to stream this holiday, from 'Knives Out 3' to 'Train Dreams' - USA Today",
+              "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbFlvT1hLczBJc1dfd1p2NWJ6WFJrWGUyWkk4NXd5M0ZjdE9Nc0haMzZ1U2pwSWU0ZzlCSjgtSWxhYzB5M0liWXljX1RnTWFwZ0NVaVkwUWRNdmJVUi0wM0VoY1h0aHhNcVNnTXlvb3NoSWl6c0dvMnNrSVRHemlZYndfV3FlUDVBeUthMGJldEJVczhvWE5GaDNyb0JFWkZENnkyWTBMckotOWljV0lvWlVvcEd4Zw?oc=5",
+              "source": "USA Today"
+            }
+          ]
+        },
+        "sports": {
+          "summary": "2025 NCAA DI men's singles and doubles tennis championships: Brackets, schedule, scores - NCAA.com. Second Half Rally Comes Up Short at Boise State - ...",
+          "links": [
+            {
+              "title": "2025 NCAA DI men's singles and doubles tennis championships: Brackets, schedule, scores - NCAA.com",
+              "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPM0M2bzNZVU9pd3dINVh5MnRTbWhXc0piQWxxRWwwV0JOMnF5eUN5aWpmc3VYUjZsUlJWejR2bm4wSHpTMW1relBaN1VKR29Mbk40QzMtblhGcDlQbVdUZjJIdnQ2bGhzSDkyRUNmR2RxdUlqNExSeTQwSUR2OWpVUnJVZ1FVNzFwUzdjOFBPSUJ1em9HckxtVlNpUWx3a3BySEVxTlJoenYtbnVvVERjTnRUMzdOb3J5NS00SmFzcmRMWDhkVVRDYVZnUjl5SFU5TEpZV0ZB0gHbAUFVX3lxTE5GY2hwcE9nTk9zNkVEb2JWM25wbzJBRm5qeGxLYVlZYV9CRGUtSDRXVGoxazNIanNDYno4THdIbEstcUhEeVNfQ2lrZFpyUlowa0t0OUlwaDlLdUg5a1dQaFk2eVlMblBqVEtHSXhGWXdacTNpbTROQmkwSUhHUlNhanI4bXZsaGRhSFJQU0NwQUR2bTZxRzRNZ29xZFNhZXJkUWZhY2d2bmVRNWlDOWxvbkhOMTNhN005bXVyWUdKS0RVR3RmOFBKaTVzcjFfeWlJcDlyUEdhR3Q3aw?oc=5",
+              "source": "NCAA.com"
+            },
+            {
+              "title": "Second Half Rally Comes Up Short at Boise State - Wichita State Athletics",
+              "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWGoydUZHLWktMVJmS0FacGtQdDlBZE10RFpFX2FxYmxmcV9SeGRuU05IQ180S181OTI0aTZwMGdRYVl6OElycHNkdjVMN0p4T0dLNm1SU2M4T3Nic0hrMzJuNHZnSDdaQVpMd1pNOEo0NzNNeHdtWGZPZ080R01NbktWMW9vSWhpVDdra3VvVFJxeW1mMkFzLUZWVXhwSGhoUWZDaUtyV1pvclk?oc=5",
+              "source": "Wichita State Athletics"
+            },
+            {
+              "title": "UMD Men’s Basketball Trounces St. Scholastica 89-58 at Home - umdbulldogs.com",
+              "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNkNSdGZCZTQtOVNWS2EyQmZlZTdORHFwMTJRcjdkS0xOTkZtYlA5TzZ0MWhpUHlFZUFkQkFXQk9WTXh0OElsMGN1TEwwN215UGRMRUhIb3JSTk00cV9vUVZydnJOWFBfYV9VNVctRW9qTmJ3QUt0UWdwTGdaWGltRF9sSHFZRzBOZ3lvTWdiR3hqaGhqbzc3T3AzWkZFbkZkTV96c2VhMllnWVk3aGpjLXltNWJjeV9CbXc?oc=5",
+              "source": "umdbulldogs.com"
+            },
+            {
+              "title": "Dukes Stumble at Robert Morris - Duquesne University Athletics",
+              "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWWU2ZUQzazZOcExxTUlrSGtDVUZHZlBCaGlCNEtYZ2hIR2dkcDR2c2taX3dMVEYyeER0VkUydW00cVBkNzRaa014MXhQUGF5cF9FLWlFbU51VkRiUmRrcDlqclBfN1NuSVZrWHhNZXpUMjM1LWhQV01ueW55SU9tVGxuOUgyQXdvZERJWDB4cUVWMjZPZGpJ?oc=5",
+              "source": "Duquesne University Athletics"
+            },
+            {
+              "title": "Schwartzman Concludes NCAA Singles Appearance - Rice University Athletics",
+              "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSVBKR2oxSGd2ZVpadGFQdk5LN1BMZnVseGREMkp6Mnd2SEFkOG94UHRreHota2ZVeTlpT2NjdDRvazM0b3o0TjUzTmlXeU01dkFIeGZRY1VpSnlNTjlSLUpaMGhXcnN1RGVOR2h6anNqbVZiaEZ2cmpHbTVLRG5hRDdNVHRXSHJBamFDWC1rRDctSnc?oc=5",
+              "source": "Rice University Athletics"
+            }
+          ]
+        },
+        "technology": {
+          "summary": "Exclusive | Brookfield Is Raising $10 Billion for New AI Infrastructure Fund - The Wall Street Journal. Trump warns against AI 'overregulation,' says ...",
+          "links": [
+            {
+              "title": "Exclusive | Brookfield Is Raising $10 Billion for New AI Infrastructure Fund - The Wall Street Journal",
+              "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxNajN6QkpTaDJLaUJfOEJheVY4UGVDLUt3MG5pT2RJQzVRNHNnbDIyTjFyb3pKZDJZbzdvR0R0R25GSzdPeHphZlpuOExuRFREeTR6Z1ZvVnJ4NXBteTlYWWpQVU1aMktRU0pSRXJ0MTR5UkFlQlNNZDRhbldMX2tsODRhUzh3b2JyVXByZDczYWlMcnJyVUhuZXVrcHVWc0duTDg1N2ZwUEJ0S1pNcG5saktYTi0yWkNNQlQyMHlCQTVPYXFjT3lGZVNDUWNXNFZzdWsyeWlPcjJyQnFDZVZXclRKNDl4eHVDVC1iMFNMRUtCOEx0WEhrLUMwb3NwSFdyaUxDYVh5UENLMGxrbHlmWS04aEZjbTN6bW9jQVFfbERDU3N4MC1aMk0yV3NBM2xjRWFfMWg4MVo0enVLT2tfd1V4bEd6U3lVXzRZSElLMTBXQklLZFhnNG43a2pURy1vX2NhY25xTEFYSExJc2RqekkyYmo1YzhoWkQwNkl4MlkxYjJQMmp3WHRYaVplN01EdzQxZ2EtZ2Y5bFhsYVNuRE0yUFYtMEE?oc=5",
+              "source": "The Wall Street Journal"
+            },
+            {
+              "title": "Trump warns against AI 'overregulation,' says US needs to have one federal standard - Reuters",
+              "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYnBQQlRJZ1d5UjFJaXZTeE1YSWYta2NEVkYwVWc1eEJ1RDdHV1pPRGlGZ3ZkcEtuc2JkMlMtSFpRMDRqZG5rODRSa3p5V2k5OUZJMFZ0WGdrNE91bTRDalVUNUZBSDg1My1wTEdEV1MzUTBsTFplVllDUHZ5dVBMVy1PbFBkeVlaVTFkeWIxaUhCU1ZuTHhMSVhqOU5SWkFJMmhGWVFMUFlYVHhJa21jZUxndjhnRUlPcGFF?oc=5",
+              "source": "Reuters"
+            },
+            {
+              "title": "From idea to deployment: The complete lifecycle of AI on display at Ignite 2025 - The Official Microsoft Blog",
+              "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdUlPcU5oSldKS29adk1ZYXU4YVBER0h1aGdXejdaUkFheGVHODhVOHNlT09YeFl1UlR4aGlGU1EyUnhoODF0b19odnBEaWZ4aFdQbi1Ta25ydURrTVltclVPcW9UYThhVHN4Vlpfb282aGlzcFNnbkRpcks0ZHhFOG5lc1ozMlJkT01iTlNfS0pielR2MTZaT01CYWs0TkpWRTB5NDBlNjhHMlA1eFZxYnJSX1VlZXJjRXlUSm1Md04?oc=5",
+              "source": "The Official Microsoft Blog"
+            },
+            {
+              "title": "Gemini 3 is available for enterprise - Google Cloud",
+              "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMjl3Q09zMVAyYW5XUk8yTlI4RE4tYmFvUURpUDNxd3Z3Q2RQa0RjZVVwV3c3eEZGS3YtSXBZOUtIZ0ZlMWpRSjhjd2wxcUZJbFExNEdVVDlRVGFRejhWcmI3Ym1OSlVpMERUdnZFMk42em5ERlllNld3VUZqTnJTMjFkY0ZJU1ppV2FqN0tiQUJweUdMTTE2cURGOA?oc=5",
+              "source": "Google Cloud"
+            },
+            {
+              "title": "US Plans to Approve Sale of Chips to Saudi AI Venture Humain - Bloomberg.com",
+              "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN05IbTE4ejBaQUdDUzdZWkhxbjlwdTk3dDNUTWdwUHFlaFhOdGl3aExNX2NNZE9MMHI2QnZfcE1DUEJZekVBVnEyNGxLT2Jwb0VLZTRDcEh0dmlTLTFqZTlMMzB0Y290MDZnQnRBbjJWSTVWSUVTSmxtTEtTa0pfQXpiajB4azZYdlp4YjQwNTdPQUhtU19QMjJfa3NRZmdkVzBjN0VrMmdIQ3l0LWQ5YQ?oc=5",
+              "source": "Bloomberg.com"
+            }
+          ]
+        }
+      }
+    },
+    {
       "date": "2025-11-17",
       "title": "How to Put IR Theory Into debated; Jeff Bezos Creates A.I. Start-Up Where; Kenny Chesney Pulls Back the Curtain takes the stage",
       "image": "entries/2025-11-17.png",
