@@ -1,6 +1,164 @@
 {
   "entries": [
     {
+      "date": "2025-11-26",
+      "title": "News and current affairs from Germany debated; AI chips enter a new contest; One genre, many audiences: A quarter takes the stage",
+      "image": "entries/2025-11-26.png",
+      "note": "entries/2025-11-26.md",
+      "topics": {
+        "politics": {
+          "summary": "News and current affairs from Germany and around the world – DW - DW. The 5 Most Important Global Trends of 2025 So Far - World Politics Review. Soft ...",
+          "links": [
+            {
+              "title": "News and current affairs from Germany and around the world – DW - DW",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0ZWlYZDNMaFVsZ1NnYnZfaVR4RHVjNnRkYTBnUUpJWjBHbUZGOVhnVFIteVU2TzFPcHNJdE5LdlNIbk54bE5CUjRDdVoyb2pNd3c?oc=5",
+              "source": "DW"
+            },
+            {
+              "title": "The 5 Most Important Global Trends of 2025 So Far - World Politics Review",
+              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYnBEUkNEMGVGaS1LYXNFbFJreFI1ZDNtWmlrT3JJZDVPcXpjSnFvdkxEYUtpVzUwcEluaFZKNVllemwybHRxUkJ6YjNzaVNNaS1JcDZrQ01RWEU4SldxVk1XajZ2UUpHSmJQUGd1Q05pOXE2bXNCNGIwRi1GTFNQOXk3aFA?oc=5",
+              "source": "World Politics Review"
+            },
+            {
+              "title": "Soft power: Not just winning hearts and minds, but saving lives - Harvard Kennedy School",
+              "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUlY5bV9JZjFEelR6bFVtVXlMVHhSdERIaXZlVGdfdmFJaDJoS1NlVGlicHF6NkRGeE94NjZtTUNHbHdOWWdqQzAtdzBDNDNpVGtyb25DZ1d3YjRMV1NuaUtEMHZCbGpjVUlCb0lfTnBkcEtCMUd6QTFzNURsNFIwdVVLS3FrNzJGV21PcjhZSGY2d05hV01KYlhuSDl2Mi1uUEZkS185WVg3d1dJNmNFVC0tMFFUc2xWOUVFTEQ4cEk3OGFW?oc=5",
+              "source": "Harvard Kennedy School"
+            },
+            {
+              "title": "The role of identity in a multilevel interdependence in international relations: exploring popular understandings of international politics - Frontiers",
+              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZjE4cVhSV2tkVmQ2VjlZYWZzY0Vlam9SMzJKd3hmckwwWlRaZ214Q1hOc180SE05Qkh0aDQ0M2RZNE5uQUhSYXJvNk8wSk0wVTNLOHFoeVhLekVxT1BaeWlCeGhOVHBBc0JkSFBldmlleTBSZGwxMVppWnVYSFFfV3BVb3pFME12Vy1ackVJMGRfS0ZyRF9xQV93?oc=5",
+              "source": "Frontiers"
+            },
+            {
+              "title": "Introduction: How the Trump administration has upended international relations and increased existential risk - Bulletin of the Atomic Scientists",
+              "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObmpxNjM2WHQxdjhiVFpfN0hlUTMyemdvUm5uNWRfUjJ1MzE4dFNxV0JFbnFHcDJxVE1UNUxsaTZxcGZjU2tETHNxeXRoN2pvb1JPdGozQUxNRk01X0x3aTQwZWZjTmZKWmswZVV2MzRkeGVhRDMxZ196NlB3RUhXQjdvTlIyTTZuX19zNlVxWEJHNGt6eGg0NkM5S0pXZnpfc2UyMFZiZ2U3VDB6TmhYQ2dhQm9xay11Y2RVa1BROE5nNFVIb3FrYTZtanc4SEh3eGpheWZsaGd2TGQwcHR6NHlVTQ?oc=5",
+              "source": "Bulletin of the Atomic Scientists"
+            }
+          ]
+        },
+        "health": {
+          "summary": "Medical advances shorten radiation, number of treatments for breast cancer patients - The University of Alabama at Birmingham. New institute to accele...",
+          "links": [
+            {
+              "title": "Medical advances shorten radiation, number of treatments for breast cancer patients - The University of Alabama at Birmingham",
+              "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX0ZSdzZvaE9KbXZCZi1pSWxpQS1wOUlxdTIzQ0RwTkp4ZlhJTHowNzZkd1ZNQVFtb2Ezdk5HRTlfekRIMzRJZHlrLVVPekJmZi04VVY0VkdEakgyMjRXeEgtRWlNQkx1NzkySXY5SkcteFVsT1VBNDhNVDhQbXZmaGVDQ3E3aTh3c3BsYXFHZS0wcjZfMEVYMkZFNXJRNFBpLUxFT0RvZjV5YlZSMEYyclAzbThzN1FVWlJHc0REN24?oc=5",
+              "source": "The University of Alabama at Birmingham"
+            },
+            {
+              "title": "New institute to accelerate adoption of breakthrough medical technologies - Northwestern Now News",
+              "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYzNmallHeVpfT1hkWTg4cElTRUllcGR0RXlVbTVjNTV3eFlmUXNCUDVJRzlzSWluYmNiWWRfSVlWYmZYc3pQYWFuVVFIaXZfTnhTTTVQcnBYVmFXUE85NDE4NHRHU1U3bWJkNTRmZ3pxMG9UclE5YzN2aVR6RlpZMWtVY1ExNURXZDNhQjFBenAyS0xGY3VwclFmTi1PMlo4bzU2ekV2aEo5UlVUSTNhM0xEZ3pLbmotQ2l3?oc=5",
+              "source": "Northwestern Now News"
+            },
+            {
+              "title": "See Medical Affairs. See T1D. - Breakthrough T1D",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUS0wckd3aEw4eEtQekNlYXk0NW93dGh5VEdFUmV4a2hCX0lFdjNwUkJicHVQd085UERZWTRzaHJhdXJycHpnSzVfNER5SE9TWWJubXpfamJSVXdWNG5IT3lJZGx6YzlfQ0JHUzU2YVZDaFNGVFoxbFNad1QtamJIeEh6QQ?oc=5",
+              "source": "Breakthrough T1D"
+            },
+            {
+              "title": "A Cancer Blood Test Shows Promise — But Is it the Breakthrough Clinicians Were Waiting For? - Discover Magazine",
+              "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTzFCZEcxSTBSdWdVU2FMeUlqLV83N1hiTjVRQ3A3bC1LbzlFRklPcDBrUVg3UUI2dXNZMks0dVhQRG9zZlVXUGg0c2pZSHlYYTFaR3J4cnZWVUJzdlJHRXNibnZwLVF6bTdoU0MwUDNnSU8xSXY5ZmpWbU84aHZJR1lsUUsxY29tcElFSmp1TzFjNTNiOUc2dXNqRFVkRjFqQ1pxWmh1eV9nWHcxbzF0LXFnREJxNWxWSlNJRWxCOGt5UzZMLUE?oc=5",
+              "source": "Discover Magazine"
+            },
+            {
+              "title": "Weds 9:25 | New material designed at OSU offers breakthrough in medical imaging - Jefferson Public Radio",
+              "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMHhwMGphemxsMUV6WEZqUWhRMmVSbnZlWmJkZENkLXZXQ0duVlZVNy14OXhaMVJyeXRKcEx4bWREa0VuV01XY3Z3ZkdFM01OdjJsazd6aTFqdnRnSXVJQmxVaEtUUmtiZktCeWhiTGlqaHlDMmNOUWtWb2RRSV95clBoNm5veU5QMGo3Nnl6dHpidFdTWVVsNDZzT3NaMFdJR3lYRTQ2MDFmX3VacWlZbjJPcFQ5UmlrTXdpbnA0WXlTWmxzSnc?oc=5",
+              "source": "Jefferson Public Radio"
+            }
+          ]
+        },
+        "entertainment": {
+          "summary": "One genre, many audiences: A quarter century of sports movies, ranked - ESPN. Last Word Features: Thanksgiving movies to share with loved ones - VailD...",
+          "links": [
+            {
+              "title": "One genre, many audiences: A quarter century of sports movies, ranked - ESPN",
+              "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBsTFRROWNiZjNncGFKaUxnblB1aWhnaTB1Y0luTWVsNGJnd0t0eldGUzFjVXVxcG1GalZiWHF5Ul81Um5JdndEUmtGMS1PR25UVWFZMlkzT2tTMjFNVHBERVdBTUY5UldsNFNhVnR5ZFJJN2Rvc2ZwR1BTbw?oc=5",
+              "source": "ESPN"
+            },
+            {
+              "title": "Last Word Features: Thanksgiving movies to share with loved ones - VailDaily.com",
+              "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTFVacy1PcHZUeWgtMmp5MnQ4WTVhVVdBdW5CV3VVaEttWnZoajJCZmJwWVRnZXdneTZFS0NVX3VaaEV2d2NqVzkzX005eEN1Y2FPYllVeHR5QmJSZDVnQlQtQTU4TENzaUJPTmNuVFBkNC1aRjEzWENaMG0tZkQtd29iWWxWdWgyYm1zZ2tKNzdCaUV1MEJpNkFEdDd4bnBEQnVxN1BtQlMwQ1k2NGl2ZWp2MEZuNjJnMG9F?oc=5",
+              "source": "VailDaily.com"
+            },
+            {
+              "title": "16 Thanksgiving Movies to Watch Over the Long Weekend - cosmopolitan.com",
+              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMzNkcE9QUmJUQWdnMHVkUlJyUTMzZWZRQ1VVcXoyclprankyREFpajZEd1BOT3hwcHQ2SlhWdXJsX1c3dUh6MXJhTkhQTnBZWmdFQ2tEYUlLX3pCdDJfVXB4VmhHS2tUWFhTVlJVcU9BTnpqeFBqaEhCUURHdVVwTm0yak52R2FHdWU5NTBB?oc=5",
+              "source": "cosmopolitan.com"
+            },
+            {
+              "title": "Music therapy helps Chinese elders in Boston overcome trauma - PBS",
+              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPY1FrUGFnb0xXLU02ZEVtOENhWGhkUnRFRUJGSFVyd2szTlZpQXlSbkNVQl9PVDZiUGFwT1ZlZFhtb3pTWlJ5aEluci00QjBFb0t2NWxFRVZYbkZtRkVTYTdlZGlnU1NqNGxrVGZSUUljcEc4RG1IeDNuTmpfQm5wNVVMbDdpX2syTlZIdkN1T0dLRVgwQ1pLeDVn?oc=5",
+              "source": "PBS"
+            },
+            {
+              "title": "Anthony Fantano on Music, Criticism, and Why Artists Should Unionize - Home ❧ Current Affairs",
+              "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWm9EZGJmMFN2OEhVWG1SWnlmTzdqWUNoeDluQndvUHRTQ2Rib1A4SmNBM2Fwa0hKQ0JZeGxQSlh3OV9iVzlyZDR3aHBDOVJ1c3dSNzhBTzVOREtKcDQtNzRsMWZjYTdKSWZLYktwT2l6TEhQT1VnS2pqQjQ1SjVrLUZ3bnpGNkZJQ3pQbXNkX0tZcDJtMExQWWtheWFkTDhCb2ZiWm1yOElfMmlxdzd1Ykd5UmxqRlBm?oc=5",
+              "source": "Home ❧ Current Affairs"
+            }
+          ]
+        },
+        "sports": {
+          "summary": "Owls spoil Ellerbee's record night - FGCU Athletics. Men's Basketball Drops Acrisure Series Contest with Fresno State - Pepperdine University Athletic...",
+          "links": [
+            {
+              "title": "Owls spoil Ellerbee's record night - FGCU Athletics",
+              "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMExIMXRhUGxkZU0yWElLU2ZUbTVXRDNnekNKNUN6bXd2c1BVZG5zb1RJa3VreXRLVG51eGU5SUYtNU01NmZ4WVVaVlgxMXZna2tDQ2NSUkI0RzBZVjRSeVlwS3V6Sm1jMTJKZHNCbTdHUko0QjFfamtkc2tTdWRrLXp0TmVOaDFkMXJuaFI3VmdrbFVLLThDRDdOU2s?oc=5",
+              "source": "FGCU Athletics"
+            },
+            {
+              "title": "Men's Basketball Drops Acrisure Series Contest with Fresno State - Pepperdine University Athletics",
+              "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaVhxNUtNSzdsOXpPMGI1Tl96eUhKaUlZcFVWTUtRVWhFdHRTUnRuUU5iQlhYT0cyVWRzODRKeEtzenN4RlNleXVaenUwOWVIa1p6NHlfX21xbUpQMVRGaHluVG9IT0VqMTM4SVI2Q09pTnFIeVVVTkIyb1BOcFpLX3dsUDl1SW82YjZqLVJndUlmSG1KS3VrUzQtTmxscHZjZzhVNk1FY3QzMVRDMDctUG1B?oc=5",
+              "source": "Pepperdine University Athletics"
+            },
+            {
+              "title": "2025 college football conference championship scenarios - ESPN",
+              "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOME0tdG5Da1NkM3dlbDdHbnpoNDlNX0ZhYnZ1QmZZVFdVUHBNQXA2UU9GY2dHaGVxTHZEX2ZkaUpUajFNNEVIRlZNYlZqSXYwc2kzZVNwQjFtX0J6MWhaY0xCbnBBQ3pqN0FfZDQwbzl1cWZhcnVaeGtwZ2hXdC1nY0JodklYSTVLZW1CMDc4SUdXZUxxUmhNZzJ3aGdFVkJlZ1h4VEpVMUpTMVZhckFueXRKZw?oc=5",
+              "source": "ESPN"
+            },
+            {
+              "title": "2025 Players Era Festival: Schedule, scores, TV channels for the college basketball event - NCAA.com",
+              "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNX0d1QjdRRko5ZmFZdXk4NFltTURja3FnNGxMOEJwdmUxYUFjUTZjMk9HcE1PS0h6WVoyYzJnS1MyZE5uaE1GWlJvNHNRb2sxVXlBdEZDWHVFUV9jTTF2c2ZVTkc2SGYtZGxGNndSaHRPNDRJNHJucmUwZzNvbWk0Qklza2tDTTFLaUc4TkIwaGhZNnZnS052Mld4Z0Z6bDV5RnEyVWRPR21qa284NXJWMnNkQl9oeWVGZ0NONzZnazcyV0dfWE5Ed3ZpaTRtdEVhU0x0RtIB2gFBVV95cUxOVURWS21TQUJOT1FMNWJGZ0ZMcVczeHBtZ0xVaEdLQnc0S0tCNEtkUlV5RnhLOEpvbUg1RlRYT0xpX0hnQXpLd3Z4UlhvSUl6WDU5RDFrUUNhR2ZQdHZQTHFLSGMtdDd1Q0dZam84OXdaSXp0Z0hJcHg4dUpwbnFRSzNoeGJuOUhCQXNnUWRFZ1RQczlzUk0xNEVhUjI3Qi1YeTdNTXZoRm5JQ1Yxek1obzFUVjh4dUZrU1BwMjRncGpPbmY1VklScnE3eW54X1N1YVl2NjZoSHpRQQ?oc=5",
+              "source": "NCAA.com"
+            },
+            {
+              "title": "Dukes Sprint to Victory Over Marauders - Duquesne University Athletics",
+              "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMHpTQWh1MzRWejRXY1pfYmR5anFXbkJVWi1WSXByQ2pYZzk4TnZrN3hMOXdVVWREc0VRd2lzSURzUzRyR0Qzb0lyU0ZEaXBKNVc3M254ZnZ4VlBFSjZLU282TEZwYkd5bGlQUk5hX2psMnlZaGRodktaQ1YtTnQ2Y2cyQXBkaFVEcWhfU1VmdmNrN2RzWGVhX0ZLMUNIcXc?oc=5",
+              "source": "Duquesne University Athletics"
+            }
+          ]
+        },
+        "technology": {
+          "summary": "China's tech giants move AI model training overseas to tap Nvidia chips, FT reports - Reuters. Investors expect AI use to soar. That’s not happening -...",
+          "links": [
+            {
+              "title": "China's tech giants move AI model training overseas to tap Nvidia chips, FT reports - Reuters",
+              "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYzVJeTN5ZTBJZzJ2UXk5ZjluTUxKZC11aDdmRmdGWEtVLUF4TVdrQjVlWHoyY0pGakxyWlFNLWhQa0UtRk5NYUNyWktGSFdUbDk4Q3VGQlJoQlpDSTJ5aXRyOUdQQXU0dllKa2ZraUF4dFctM2o3ZkpFR1NrN29QTEZsUDhuanNOSVdTeUQxQzEtUnY2WHpDSWVZMGpJZ2dNQmE1N2xQekhnai01aFppcXNtb1NUNHpxN1g0a0RyS0k3eHUz?oc=5",
+              "source": "Reuters"
+            },
+            {
+              "title": "Investors expect AI use to soar. That’s not happening - The Economist",
+              "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSkpHa2tpX01zLXh5eXdTS2NWUi1ra04xeHlpSHhXbkZWUHdLdUxib1c5T21UTlIwd3JBRS1mUGdUcnVvbmduV1h0UlZaOEJObDI5Q1hneEJVTTlfN2s1NmlMbjJmMkNoZ21XdUlySG9zc3lUYk9IcG11YTNjZGdSX3hMVDhaMGxVT0RlRmlrQUlQeS14LUFjLW9HSkU1Wkpwc3g1VXMyMno5SDhiX2cw?oc=5",
+              "source": "The Economist"
+            },
+            {
+              "title": "Jeff Bezos’ New AI Venture Quietly Acquired an Agentic Computing Startup - WIRED",
+              "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWks2T1BjbjVIdDFtY2kxVS01VzFQZmFIOGVLa1RlWDYwOUQ2ajNCSm9ZOGY2dnpuNFY3RXZ0dHk3bHFhVUNIazZTY1czYjd6UmhrNjFSWjM4OUZYMWx5aGR2dngySjBGdHl1ZEN5VzZjUWtMRHlrenpmNmRscC1sMVhVUDVmYXNQbk13N1dIakxWSEE?oc=5",
+              "source": "WIRED"
+            },
+            {
+              "title": "AI can already do the work of 12% of America's workforce, MIT researchers find - CBS News",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44UF9fODFDSXVRY0g2eGR2OUZDeWJNNXkyazdpTXBiaVFVcU1nazhnMU5FZjJOX3JIN09HZDgyM3RQa3pLV1B4RThrTUNtWEQ3YkRzOVo4YjMtdlFIWjh3aXk1Wk11RTVTck1TU3Y2X3BXYnYtSjBlWmR5Z09vZ2PSAYQBQVVfeXFMTWxzZTJtZkdtRk9TVG9rb2hoN2xqU2dJZXAxd3M4Yi1HTXl6NkVxeUtaeDFhN0JTU21IcVBLUXpLMUlKX2RvV3NVcVEwMDhqZmJWS0d3NGVtbXcxVFYybjdMeFhONnBHblhCT3otVXI1RjdrOWhzX2lOTE9EMHRicXdTMG1n?oc=5",
+              "source": "CBS News"
+            },
+            {
+              "title": "Astronomy Picture of the Day - NASA (.gov)",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUd1FseWNRN0Q4T2xjNHEzZThtRnlSeEZhY0tIU3FzNlVLRW1maTZtTGo0c3BBRHdSUmRzRTVPQzlTdFk2MllpZXFodnJtNlVSakE?oc=5",
+              "source": "NASA (.gov)"
+            }
+          ]
+        }
+      }
+    },
+    {
       "date": "2025-11-25",
       "title": "Between Capitalism and the State System debated; I'm a Professor. A.I. Has Changed; Underground Arts Club Episode 21: Have takes the stage",
       "image": "entries/2025-11-25.png",
