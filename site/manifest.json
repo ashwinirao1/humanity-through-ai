@@ -1,6 +1,164 @@
 {
   "entries": [
     {
+      "date": "2025-11-29",
+      "title": "News and current affairs from Germany debated; AI helps drive record $11.8 billion; A Holiday Gift Guide: Presents for takes the stage",
+      "image": "entries/2025-11-29.png",
+      "note": "entries/2025-11-29.md",
+      "topics": {
+        "politics": {
+          "summary": "News and current affairs from Germany and around the world – DW - dw.com. Democratic peace | Political Science, International Relations & Conflict Res...",
+          "links": [
+            {
+              "title": "News and current affairs from Germany and around the world – DW - dw.com",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0ZWlYZDNMaFVsZ1NnYnZfaVR4RHVjNnRkYTBnUUpJWjBHbUZGOVhnVFIteVU2TzFPcHNJdE5LdlNIbk54bE5CUjRDdVoyb2pNd3c?oc=5",
+              "source": "dw.com"
+            },
+            {
+              "title": "Democratic peace | Political Science, International Relations & Conflict Resolution - Britannica",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1NSElSNkoyY3RLUWN1YldrWG93YTBJbEYzemFfVndWUTY5QTNPUDEwSjhQaUl0clF6XzRLZU1NM044d05fVDYwSnh0NzZUREwzYzJWOHc5NjR4RmRubHc?oc=5",
+              "source": "Britannica"
+            },
+            {
+              "title": "OPINION - Navigating the Trump maelstrom in international relations - Anadolu Ajansı",
+              "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdFVDMGRHN1ZWeUtHYTFXZHE4c2c1LWhyYUpOcVVDa2hhdTduNnpKTGJsenlZVWtPaXlqMVNNY3lrcTU0TnczV3pFeFBnc2N3QkZuNGp2RHZjUnNEN05FWV96LXVVY2ZpZUszZ3R4bFJqV0pveEVtb1NTczlvUEJyMk9HbGdoT1lDZDBrTTlJS2NkSmNPOHRWRExIeGphQ1ZaSU5hTmNYcDJvdw?oc=5",
+              "source": "Anadolu Ajansı"
+            },
+            {
+              "title": "Interview – Nina Hall - E-International Relations",
+              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE15VUZqaXVseUNfSi1KUllEV2FlUGdKalFqUjRwMUZxRzJrSGJObG14cHB2WnZ3RGZtNE1DXzEzNUhfYjlqc3UtRE9wd3otbjBWS2RZZlE3Q08xX2gyQTdfREZwVW5Cdw?oc=5",
+              "source": "E-International Relations"
+            },
+            {
+              "title": "Cambodia Strengthens International Relations with Europe, Promoting Tourism, Heritage, and Investment Opportunities at Key Forum in Bulgaria: What Global Travelers Need to Know in 2025 - Travel And Tour World",
+              "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxOaGtwMGdTZHhUQWhFSl9kTnJFU00yZDRBckk5N2FaUDhUbGh0NnoxcVAyYTltQ2lVNHhMLTJjT3BnMWd2dTJVb1R3dnRwd3pPT21EQUF3ZFJjdFRXN3Jtc2ttNkloY0otWThnaTVqOGxSSXpRRHRESDh0MXJ2Yk1BdkFzZk1IOWk2Z0lfb2FxZ3N3WXEtZFBIVVlRcm9PVmhWWXpMd3BQa0VVSFNmdWVnQVA3bzJ6V1ZWRC1LSnpoQmo5eHVHWVpHbVRXWDZsNlNnRjNkTXJGMmVfOTktSFZwbVJjSzBKZWhrQmYxUzlRMF9vcW80clFmUUgtYWZXUjJ6Ym9kdC13SUktdENYVUIyVjhkc3g5ZDZOeUVaWGhjeGN5MmlrYlg3N09qUlBXWGlVLVFyQnlqN1RESGNsREVJem16eHd0MW8zdUlrNFZn?oc=5",
+              "source": "Travel And Tour World"
+            }
+          ]
+        },
+        "health": {
+          "summary": "New institute to accelerate adoption of breakthrough medical technologies - Northwestern Now News. Inhibiting a master regulator of aging regenerates ...",
+          "links": [
+            {
+              "title": "New institute to accelerate adoption of breakthrough medical technologies - Northwestern Now News",
+              "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYzNmallHeVpfT1hkWTg4cElTRUllcGR0RXlVbTVjNTV3eFlmUXNCUDVJRzlzSWluYmNiWWRfSVlWYmZYc3pQYWFuVVFIaXZfTnhTTTVQcnBYVmFXUE85NDE4NHRHU1U3bWJkNTRmZ3pxMG9UclE5YzN2aVR6RlpZMWtVY1ExNURXZDNhQjFBenAyS0xGY3VwclFmTi1PMlo4bzU2ekV2aEo5UlVUSTNhM0xEZ3pLbmotQ2l3?oc=5",
+              "source": "Northwestern Now News"
+            },
+            {
+              "title": "Inhibiting a master regulator of aging regenerates joint cartilage in mice - Stanford Medicine",
+              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5yak1WWXE2RHZPRGNUM2poZk1xV09FcjhLd1BqOEJHS1VVdGJ0ckNmNjg2X0lnQ29UMmJ6bUhYRTdRLTl3SFpqMUV1Q0JjX1g4TWpsVmVlUFRzNFRsc0E4M2c3bC04dWFEOXczNmZFZ3R6dGRYbXJoUzdDekhFUQ?oc=5",
+              "source": "Stanford Medicine"
+            },
+            {
+              "title": "G20 Leaders’ Declaration Marks Breakthrough for Women’s, Children’s and Adolescents’ Health - PMNCH - Partnership for Maternal, Newborn and Child Health",
+              "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOHg2QlE0RVhZRWZfU3JiQ3hRSlVpXzJyb3dzdEo0d3JWa1E0aEVlYzNYQWt3TjZ1dFZWdVBlU3FCUHdnSFQ5N1FhVnRQcUtGc3kzZUM0WWlTcHkwRzBMejRaak10dlNDNHZNQ2RQVzJhU1ZHTDZ0azZseUo2eF93RFFjMmR1QU9uSDdINXRNOFBGZlNKNXZ1aGNOdWtmZ3JXOGVBa1lndllESmNLZnY2bnRpWHNpNEFleUl5SXBSc3ZmTDRnZGNVN01LdGR2eERkakxjN1hiZ0FLUGVhTlUwYQ?oc=5",
+              "source": "PMNCH - Partnership for Maternal, Newborn and Child Health"
+            },
+            {
+              "title": "See Medical Affairs. See T1D. - Breakthrough T1D",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUS0wckd3aEw4eEtQekNlYXk0NW93dGh5VEdFUmV4a2hCX0lFdjNwUkJicHVQd085UERZWTRzaHJhdXJycHpnSzVfNER5SE9TWWJubXpfamJSVXdWNG5IT3lJZGx6YzlfQ0JHUzU2YVZDaFNGVFoxbFNad1QtamJIeEh6QQ?oc=5",
+              "source": "Breakthrough T1D"
+            },
+            {
+              "title": "Israeli doctors use breakthrough tech to treat blood cancer - The Jerusalem Post",
+              "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBmMGxJMHVicUp6TGZxdGs0OV9qcWNDQlFBc0N2ZmphNmJrSHJWa0gzVmJoN05tRWlSbUg2VVVhS1VSSjBHbHVFU3hNOUhBbVhoSE1xNnVZRQ?oc=5",
+              "source": "The Jerusalem Post"
+            }
+          ]
+        },
+        "entertainment": {
+          "summary": "A Holiday Gift Guide: Presents for Music Lovers - The New Yorker. The Best Classic Movies You Have To See - GQ. Iggy Azalea Says She Has ‘No Interest’...",
+          "links": [
+            {
+              "title": "A Holiday Gift Guide: Presents for Music Lovers - The New Yorker",
+              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdWhyZmM1ZXlOZEtVVU5EclNDc19INVVESXNKY19ua2xSMm1tWG5MQm0wQnB0My1FSWhsX0tNZWliRmxuTjZqaXNQcm9yUVcySDNjYUZpSzBPSmltSk1PMjdLM0JXaHhicjJGelliS3k0WktzWVJCTlpWbkNxdjlISTQyR2ZTWkJtb3hFNGVR?oc=5",
+              "source": "The New Yorker"
+            },
+            {
+              "title": "The Best Classic Movies You Have To See - GQ",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBIWTdDNDctaG5KY0pTOHlSWmhfMmFLM0JTYW56aDdySXdSdm1ZeHVQeFI5LXM1Nk1XY0FtM1prS1ZBd0ZRQjVnbDc5VENld2dNdVFMbDhqV0J4SUFmWTdXSjJ4YlloQkN4akpEcHhUclR1UQ?oc=5",
+              "source": "GQ"
+            },
+            {
+              "title": "Iggy Azalea Says She Has ‘No Interest’ in Returning to Music - Billboard",
+              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVlBzZ3ZRSkt2czR5RkRsNTVHVkMwdFg3SDd2LUp0ZDIxQ195V28yaFhLUkQzZHh2aC1xdWhIVlZ4ckNPbkhLUUJzQ2NmZUdVeF9ZUUZRSnB4ZEpGNmVtX09ZU2FRV1h0U0J1SXNuUHR3UFg5VXBtTGw4d2RNUTVGWVBMT0RRQl9LMGJYeTNWclM?oc=5",
+              "source": "Billboard"
+            },
+            {
+              "title": "‘A Night of Words & Music’ set - Journalaz.com",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WQjdjcXFLb0lqLUVjdkRCNzhwbXZpMTRIUW85OXhYbGJtbVdYd1Zna0tDMG5PMGNlOXB4M3dqc1ZyQnJYZ290ZGswOUFFZnRvQUtUSWVLUTRJbEJPb0liTEFBem9OZFp0TjRHR9IBbEFVX3lxTE9WQjdjcXFLb0lqLUVjdkRCNzhwbXZpMTRIUW85OXhYbGJtbVdYd1Zna0tDMG5PMGNlOXB4M3dqc1ZyQnJYZ290ZGswOUFFZnRvQUtUSWVLUTRJbEJPb0liTEFBem9OZFp0TjRHRw?oc=5",
+              "source": "Journalaz.com"
+            },
+            {
+              "title": "Black and Indigenous artists stand out in Portland Art Museum exhibition - wildhunt.org",
+              "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN0JWVndERnJLcTJsbFl0bXBZVlVaeG9DcUVoWDJRMjhDaGJjS2lDd2hhaUtEbk82X2xQcXplYlJmLXJ0SkxrTnBTdW81RUttQ2x6MnVKLTktZHJpRmFYY0VMbHdkak9fQ05pWUwwT0RTeTVnX0RLSXF4RFkxU2dzTDJieTR5bE4yYUw4Mi0zTkM5bW85X1o5cXFNdE4wMUdWSXFmamFoc2VKUQ?oc=5",
+              "source": "wildhunt.org"
+            }
+          ]
+        },
+        "sports": {
+          "summary": "Tulane Clinches Berth in 2025 American Football Championship presented by LLH Healthcare with 27-0 Win over Charlotte - American Conference. 2025-26 F...",
+          "links": [
+            {
+              "title": "Tulane Clinches Berth in 2025 American Football Championship presented by LLH Healthcare with 27-0 Win over Charlotte - American Conference",
+              "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOWVFLRk94ZDVrT3dFX2w3VTlPd3F1dGtqeXZhSmlpOG9mbDhPWTRqaHVOZjRqNXFYaUNuLVdwa25EYVZucktOeHE1T01YVzBqWFZmbllvT1NRa3dKSTR6VFhqbkJELW43TmI4Y2ZqdXlQUHo1akx0Mjl3ejF0VktMd2hZaUdQcktwWWZscUFZUnM0SlVObjliS1NGOXEyTzFNa1J6THBMcG1XMnR0TXRRbmRCaWhxNGUtazhXX0dFTnRlSkZPUHlLTGdMMlpyMm44WURYems4a21SckZPd25LTHpIT0FFT2xmaUt5THJwX0FDVFZU?oc=5",
+              "source": "American Conference"
+            },
+            {
+              "title": "2025-26 FCS National Championship Game: Date, time, TV channel, history - NCAA.com",
+              "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQUJtX0RoT0JCZFZHUEU2bFFiZzZtVENULTJuRVJJcDVHY3BEckplc3JBcG9fcXlMRGE2RDVBMHg5MV9jUUhCYmRGMUo3SmlHNk5VcVZGTERSRmNSTmZDcFQxUlR3YnZCS2pJUkU4QS1BT0c2NDUxdEhkcExpRkptX3VKYUg1RXNXb0c4WGJhTFRpNDFVdXpXR2VaQzZvWll0NnA0NGxWTHowOGVlOU1FTE1qNWc0djB0WUpudWxn0gHDAUFVX3lxTE5zZDFwVUxsU0JoUkFTM0UtSk9Cb01kZTBkYlFOVWtkZ0NaQjdpVGFYWFZqVGZKYVJLb19pOGVQY3EwZjY1NUFSRENsZWRZbWRrdGZQNTFhYVN4c204QkZkSzUwdFhSa0JDazc0b0dPQjR6cHRjNENQdmZXcF9nbWpLSmpTYU1VRXhLQnoxRXJMLXh4aTk2NkRNbTN3a2p2WUdNUnZZNHJYeTlUa3I0RzJRdnhxeTFrd2ZlVXI5U3JSd2QtSQ?oc=5",
+              "source": "NCAA.com"
+            },
+            {
+              "title": "Duke Clinches Spot in 2025 ACC Football Championship Game - goduke.com",
+              "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOE9xcEZkZjAxclBYZno5am9VSWRCbFVhT2ExZzA3ZGFtSW1tUHphN2gzMXk0Qks0bGFZem93ODVCRHJaNFVDaUxvVVFWNVYzRWt3WC00VWExNkNKSjd2RS1uM3dsMTlnMmY0enhpcERLZTdtTXpJX0FiZVVZZ2U1bHlJWUR5N0QyNDRlOGZKZWFDNDU1QVJJ?oc=5",
+              "source": "goduke.com"
+            },
+            {
+              "title": "Duke football secures spot in ACC Championship game - The Duke Chronicle",
+              "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNkpqVG80X0RQV1gxVHd3TnVJNk4ybTcySlZ3WHZMWGJSbjFrejBNTkc3Z0lFVS1oTW1LaHcxWmpYMjFJOU5GQ0huNkotOUZfMmE5NFhFbDBaWEpnOFRDMEp6dHB2WVBRUk9mcnhDZ29wMjd0dnlUQ1k2emplMERGYm9EbjdpRkVKSE16NnBib01melNsSE01RkE3MVJxTnN1R1JmLWxVTC1jMmNyaHg2WkUwZ1dyWVVGRHNvVkpqYUNZUQ?oc=5",
+              "source": "The Duke Chronicle"
+            },
+            {
+              "title": "Alabama vs. Georgia prediction, pick, preview for 2025 SEC Championship Game - CBS Sports",
+              "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNTN3cEZacjI4elVGQzRTUWRyM0k2TGRFQVZ4bjdndlZvOUZwUk9qR2U3bFp0VmtEX3JXemEyOVRHNmFJTHRCbDBMOWpTYmpMbGt2T2tCLXItalhvZDIwS1gzTnJpWklYWnVGOTFfVXlSYS1FSW81cVZBN250N0Z4VUJNSF9qNWNOS0wwOUpqZkZKVS1Kdi1TUTRwblFhSnZJd21WZXFaRGNyeEpaZWtr?oc=5",
+              "source": "CBS Sports"
+            }
+          ]
+        },
+        "technology": {
+          "summary": "AI helps drive record $11.8 billion in Black Friday online spending - Reuters. Black Friday online spending hits record $11.8B as American shoppers em...",
+          "links": [
+            {
+              "title": "AI helps drive record $11.8 billion in Black Friday online spending - Reuters",
+              "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQa2w0YUo5cGdad3BCYml5R2pIS25CNWwtVlNIMER3dGViMnpYTDIzdzlSTGpWMkJWT191TUNHQjZ0Mzh3em9fOE5waGp4UkxnekMtYXc2elFMMVZwOTdrTlI4REVDcVk3OTlGNXZwMHQ4eFpNaUFFTVhfdkFGT2JBYmZzTUxNN0lkOTJWYjBfOU40VlY1bjVob3B5UEpOTXJWR0RXeU5scE12MkxvN3FvMEtBaU9WdGxfT2FRTlhLLWtfaEk?oc=5",
+              "source": "Reuters"
+            },
+            {
+              "title": "Black Friday online spending hits record $11.8B as American shoppers embrace new AI technology - Fox Business",
+              "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdG1ZSWg1cEM0Yk1aUS1jcUw4WEVScWFBWjRQSkRjdUdKY2VqQmpYT1FDNXhMSEE5QVFUX0F1Rnc3S05xa3ZBN3dncHBjRF9NZm9kYXNCUWRCU21xWlkzWUx2YWo0ZDBHUUc4cHJjM2dqZHctczNXeG9NRFRGYnlkWUQweHkzZENYbzhkbF90OUhHbTB0UzJPRTJ0LXZrZ1hWOVlUTVZXUWlQc2Jsc0trV1ZUaGtHdEdINUkw0gHAAUFVX3lxTE1NVGp3eWYyOEl3Q1BCYU9fRmQzbi1zMWNJRmNRR3ROWC0ycGFXUlRFR0loNV9BNTQ4eUFkclpuRGpkc2FpMVlzaHFfcGdvSGwxY1R2cVFENG9hTV9iRENNRFB5M25ybUowNy1hd0x1OXZRSm85aVVnUTFxbGZBbkdMekdEOUR5d2tHLURqTDZPWXlMOFU3SWQ3ZEg4Z2FWcHRBMWxHSkVYcGlteWFUd0VSNjltV2ZZb1U3RFVBbHM0Tw?oc=5",
+              "source": "Fox Business"
+            },
+            {
+              "title": "Anthropic Researchers Startled When an AI Model Turned Evil and Told a User to Drink Bleach - Futurism",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSlUyTFdqaEpDb2laeEFERTVnS1hvY2JKRktyWGRJMTR4dV9QVk5mOENpV2hpMFJyZENOR1cyWURocm1UVldSTEViN0pKeWJvLVZ4eUJQakhONnp0cURsdkNOX1oyUzdjYVZIdVNhRURUVmV0bGhWVVdaNUpyY21UYQ?oc=5",
+              "source": "Futurism"
+            },
+            {
+              "title": "Leave me alone, AI - Financial Times",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5QY1dXaVJDRy1DWTlabnV5TmpBMUdWTGNid2hrYl82MjhtalJ5Q1U5RUNGUkNlbnFqN3E2MG91RzlxMnA0NU1mODJndFlWN3J6QjJrNk81Vk5oLXVZaHZQRDlLYTNRQWNnSnp1UWFDU0s?oc=5",
+              "source": "Financial Times"
+            },
+            {
+              "title": "Can We Opt Out of Facial Recognition Technology? - The Nation",
+              "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQblVDck9pUWFlQkRzV2QwaXdueVF0S2tFQjNzVERqeWJ1TlZ0VkM0VEpQdGZMMENvMHpLcnptalI1a2F4NW9NaHpVT1lDQXZZZ2hFbzVPOVU3TzFReVNVd2JkbTJValdRUmJMOUxVRjFKNEc0RXkxUFJCbXd3aTJ6RHo3U3lvZE1oT2fSAZIBQVVfeXFMTllFNWZ4WURnR0pLQkJyNDZPVHI0Q0Zobmw2T0haYnB0eUpLcjhaZ09fNjRuaGlMQWdScy1jVGN6a01ZU25ObXU2bVBRTTgtdHF6R1pnbE5sZS1WZDVBdU5QbFVHaUNNZ3RseFRBRnlnaTNrSGZ5YnAwRm5Nc3RsZV9LQjNxeWFnOVRsOEF1V3o4c0E?oc=5",
+              "source": "The Nation"
+            }
+          ]
+        }
+      }
+    },
+    {
       "date": "2025-11-28",
       "title": "Democratic peace reconsidered; Will AI ever make big profits?; What's new to streaming this week? takes the stage",
       "image": "entries/2025-11-28.png",
