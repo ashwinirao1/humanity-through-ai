@@ -1,6 +1,164 @@
 {
   "entries": [
     {
+      "date": "2025-11-30",
+      "title": "Democratic peace reconsidered; More of Silicon Valley is building; Why some movies grow stale takes the stage",
+      "image": "entries/2025-11-30.png",
+      "note": "entries/2025-11-30.md",
+      "topics": {
+        "politics": {
+          "summary": "Democratic peace | Political Science, International Relations & Conflict Resolution - Britannica. Interview – Nina Hall - E-International Relations. T...",
+          "links": [
+            {
+              "title": "Democratic peace | Political Science, International Relations & Conflict Resolution - Britannica",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1NSElSNkoyY3RLUWN1YldrWG93YTBJbEYzemFfVndWUTY5QTNPUDEwSjhQaUl0clF6XzRLZU1NM044d05fVDYwSnh0NzZUREwzYzJWOHc5NjR4RmRubHc?oc=5",
+              "source": "Britannica"
+            },
+            {
+              "title": "Interview – Nina Hall - E-International Relations",
+              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE15VUZqaXVseUNfSi1KUllEV2FlUGdKalFqUjRwMUZxRzJrSGJObG14cHB2WnZ3RGZtNE1DXzEzNUhfYjlqc3UtRE9wd3otbjBWS2RZZlE3Q08xX2gyQTdfREZwVW5Cdw?oc=5",
+              "source": "E-International Relations"
+            },
+            {
+              "title": "The 5 Most Important Global Trends of 2025 So Far - World Politics Review",
+              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYnBEUkNEMGVGaS1LYXNFbFJreFI1ZDNtWmlrT3JJZDVPcXpjSnFvdkxEYUtpVzUwcEluaFZKNVllemwybHRxUkJ6YjNzaVNNaS1JcDZrQ01RWEU4SldxVk1XajZ2UUpHSmJQUGd1Q05pOXE2bXNCNGIwRi1GTFNQOXk3aFA?oc=5",
+              "source": "World Politics Review"
+            },
+            {
+              "title": "Soft power: Not just winning hearts and minds, but saving lives - Harvard Kennedy School",
+              "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUlY5bV9JZjFEelR6bFVtVXlMVHhSdERIaXZlVGdfdmFJaDJoS1NlVGlicHF6NkRGeE94NjZtTUNHbHdOWWdqQzAtdzBDNDNpVGtyb25DZ1d3YjRMV1NuaUtEMHZCbGpjVUlCb0lfTnBkcEtCMUd6QTFzNURsNFIwdVVLS3FrNzJGV21PcjhZSGY2d05hV01KYlhuSDl2Mi1uUEZkS185WVg3d1dJNmNFVC0tMFFUc2xWOUVFTEQ4cEk3OGFW?oc=5",
+              "source": "Harvard Kennedy School"
+            },
+            {
+              "title": "Symbiotic Realism: a transdisciplinary approach to understanding international relations - Frontiers",
+              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU3h6YWcwLVZmY3pLYjhPREo2cHotN1NMTVYyTmNmU1V0RG5rTnJyV0t3UmV3U3E5M0JfWno1dk02MWtiNFhTOW1IMmtFd3otUm9ubk5QOUZUQ0tLQXJQV0tUUXpxaVFnVGJkbWNuNUlhaVBKeXlQc0h6aHpBbHVMWHl2dmRfRnp3dE82Sk5iOG1BdDM3ckFGWTVB?oc=5",
+              "source": "Frontiers"
+            }
+          ]
+        },
+        "health": {
+          "summary": "Diabetes breakthrough as century-old medicine 'helps manage type 1 diabetes' - Daily Express US. New institute to accelerate adoption of breakthrough ...",
+          "links": [
+            {
+              "title": "Diabetes breakthrough as century-old medicine 'helps manage type 1 diabetes' - Daily Express US",
+              "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNb1ZoOFg0OWNJdDBvdUpPengtb1dXaGNyNTJHNUZMOThBYjBENzE0LUhUdDZIdC1ybFJ3Qk1kN25PQm1yNmFMSWpBOE1mMWlQTFNPUEdsOVRxMEo3a2owVjlqdTUtRzhzOXhtUkx6NlFCcUhlWUtQQzBOaVFwSDQ3NV9QZ1I0UdIBiwFBVV95cUxPX05zZ0hLRl9WRE9FdzJlOFdKQlEyenlnb0VXY25LTXFPWkVQa2liOWQyYTBKR1otTGpBblhBOHVvOHFCNVFmdVltS3pFOVltTDVqQTFGSWp5MTAybE10cGVmWWVKNlBxVDhoMDZRODdlc1NEaExMYWdUT0FMT2ZsQU4wY1J1cTVWNFBN?oc=5",
+              "source": "Daily Express US"
+            },
+            {
+              "title": "New institute to accelerate adoption of breakthrough medical technologies - Northwestern Now News",
+              "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYzNmallHeVpfT1hkWTg4cElTRUllcGR0RXlVbTVjNTV3eFlmUXNCUDVJRzlzSWluYmNiWWRfSVlWYmZYc3pQYWFuVVFIaXZfTnhTTTVQcnBYVmFXUE85NDE4NHRHU1U3bWJkNTRmZ3pxMG9UclE5YzN2aVR6RlpZMWtVY1ExNURXZDNhQjFBenAyS0xGY3VwclFmTi1PMlo4bzU2ekV2aEo5UlVUSTNhM0xEZ3pLbmotQ2l3?oc=5",
+              "source": "Northwestern Now News"
+            },
+            {
+              "title": "Inhibiting a master regulator of aging regenerates joint cartilage in mice - Stanford Medicine",
+              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5yak1WWXE2RHZPRGNUM2poZk1xV09FcjhLd1BqOEJHS1VVdGJ0ckNmNjg2X0lnQ29UMmJ6bUhYRTdRLTl3SFpqMUV1Q0JjX1g4TWpsVmVlUFRzNFRsc0E4M2c3bC04dWFEOXczNmZFZ3R6dGRYbXJoUzdDekhFUQ?oc=5",
+              "source": "Stanford Medicine"
+            },
+            {
+              "title": "Avandra Acquires DatCard Systems and Sorna Corporation to Create World's Largest Medical Imaging Platform to Support Patient Care and Breakthrough Medical Research - PR Newswire",
+              "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOZTN3X0RvTGhOV2FRcF9tWlhJNWlEcmhGb2hRc3o2N2ZWbU1RaUR3eWN2ajNCU05RN0kwc3BTUFhMY0dlZWNqTC1ieGxyWlFqcTNBTXNJRTNrMkpibzJ2Zi03ZnMyY1lpSTlBR3ZFVVZCSlN0MEZFM2thVDFtbEVQd25MMTd5RVlySWhfdnNDMXRQVWFmaWQzRVNyemRmVWVFdlh3Um1FcnNYLUpkeURUVXd4c1N6ZUJCXzgtSWpMQlBBcXE4NU9wdjJVU1Y0QWhkY0d6MXlYSnRsblhubFFBZkoyZnVfalpLdHk2cUVVNjRNUXR1TzlCSVI5WGdnVXJBOXAtbHBTd2NzU0pudlMxVnZ4dy1PMlNkNzJ3VEZ0anlLbG8zWkxqaUtXamFxc3J5R3BnSWlOcC1VcGlrZzlR?oc=5",
+              "source": "PR Newswire"
+            },
+            {
+              "title": "G20 Leaders’ Declaration Marks Breakthrough for Women’s, Children’s and Adolescents’ Health - PMNCH - Partnership for Maternal, Newborn and Child Health",
+              "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOHg2QlE0RVhZRWZfU3JiQ3hRSlVpXzJyb3dzdEo0d3JWa1E0aEVlYzNYQWt3TjZ1dFZWdVBlU3FCUHdnSFQ5N1FhVnRQcUtGc3kzZUM0WWlTcHkwRzBMejRaak10dlNDNHZNQ2RQVzJhU1ZHTDZ0azZseUo2eF93RFFjMmR1QU9uSDdINXRNOFBGZlNKNXZ1aGNOdWtmZ3JXOGVBa1lndllESmNLZnY2bnRpWHNpNEFleUl5SXBSc3ZmTDRnZGNVN01LdGR2eERkakxjN1hiZ0FLUGVhTlUwYQ?oc=5",
+              "source": "PMNCH - Partnership for Maternal, Newborn and Child Health"
+            }
+          ]
+        },
+        "entertainment": {
+          "summary": "Why some movies grow stale - NPR. The 15 Best Hallmark Christmas Movies Of 2025, Ranked - Forbes. Stream Movies Written by Tom Stoppard: ‘Shakespeare ...",
+          "links": [
+            {
+              "title": "Why some movies grow stale - NPR",
+              "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBsbVgtbTluWngycDJQVy10YjBVc1BTM2Q4aEFBTHZwQXY5cVBuTkN6dzVWRklmNHJKMDVkMGUyLW90UlNHM0laU0pKNy1rWFJIQ2Jqa0h2M2FIbkFLbVg2U05MbUpWSk1HWWNSdjExcThpeFlLRURqTlJJRQ?oc=5",
+              "source": "NPR"
+            },
+            {
+              "title": "The 15 Best Hallmark Christmas Movies Of 2025, Ranked - Forbes",
+              "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc3BTUkJVY2pHQ0RZMVVrVF9YN1BNaTZDekZvdjV3aXpoUVlXQzA1WVFScXVITldGbTdId0F4TzFjcWFqc05sUjhpOTZRcFprenMyVWN2WDJacDl2N21tdEdFUFNuaWpHclAteVRULVE1Q2xiV3h1Yy1ZX051VkhzZ3FNU0d4eFptTVp1MWlYb2VwZk1qbnZBUTZ2Mk5Pb25kdXRRamNDY1M3ZGtU?oc=5",
+              "source": "Forbes"
+            },
+            {
+              "title": "Stream Movies Written by Tom Stoppard: ‘Shakespeare In Love’ and More - The New York Times",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOG1jcVdiSDRfOFRIZnZhWFVQWkhVbko5YUliNWw3cjBzRXFtNHgtLV8ydHVDOEJ6T3JUZzdEc1hDVU9LcjlEVzViZmJlQkZ2aElZR1N1dGY4eExwUFY3MkpjUG1JaFljZWFjLUdzMVZwcmRxUkpJZm9VamtmR1plUXVtRQ?oc=5",
+              "source": "The New York Times"
+            },
+            {
+              "title": "5 new holiday movies to get into the holiday spirit - The Daily Texan",
+              "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcFZ3R250QndySTZxek5DOVBaNDFHTmc1RkJFSGlxWUVKMVh0WVljakdiWlJ1QjN3NDdnT2w3ckp2ZURMN0ppcDlFMUdrQUYwQXJvdEV1OVd0WkNLbnJwazE0NGZnMzh6cWswWDhsWkVKTjJ1Z0gtcHd0bG5CWDBrT0NiSmhaU0EyaTRTVklnaURJVVE?oc=5",
+              "source": "The Daily Texan"
+            },
+            {
+              "title": "Arts Access Miami launches Central Dade Arts Alliance - Miami's Community News",
+              "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaXlnYWpnbHF2eUhZZklveWlObk4tZHdQdjM4cnNueUdOREZOc1EzdU91ZTVPTVJTOVdOeDZVQlJPUXJPVzdwTWNOSmxhTUpVVHk5YmRoaXZsR19oT29lMkdRXzEtdGRCdWwtRlJIaFZCQmQ1cGk2RmptYUo3eWQ4Rlc5c29FNkxlWlVfWmExUjlpRy1DS003YzJoYWRkeWVS?oc=5",
+              "source": "Miami's Community News"
+            }
+          ]
+        },
+        "sports": {
+          "summary": "College football conference championship games: Schedule, matchups, College Football Playoff factors - NCAA.com. Boise State to Host 2025 MW Champions...",
+          "links": [
+            {
+              "title": "College football conference championship games: Schedule, matchups, College Football Playoff factors - NCAA.com",
+              "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSEZsbndubWJqZGdKanVWM3A0TFFqX2MtUGJDUGx0V25PUGpfSXZlVlUtMzJBOVpvRE9QRWY1ZkE5M01Kd253c2VVUHZvREdXUGY1M04yc0lsLUM1RG1LUDhqM1RWTllqZ0ZjMVZhWU5oMmVIdTA5YXhXOG83bzkwOW5RcGcwc2tmYnNfaTJROW5aMXF4aDhPQW0wMEdLR3l4UklGUmFzSjBIRk1nYUh5UlBkR1Rid3Q4T3JIcGxkWDcyR0VlenRReDdlUzJhOTJ30gHWAUFVX3lxTFBQM21sOTVaak5DWXo4WGpsclNYTlROaEpZTDRqRHFjRmhyemhrRVdZSnZyTl9HeHZ2OVQzdmhSRlZoSlIxMTEwSmMzM1JyVEVacVQ0VkZNbzZpWUItQzRaUVd5R05Cc3BONmVscHVOYWVIN3U3bjBRSXkwVFNGbDgyYVEyZU9KRGxaYUpmNm1LM2haWmFCQTYtNWtqc3U0YkFJM0xobW1CUEJvLVg0V1lERWV0amhreE1EOGNXVjJuX1BXZHhBeXh4TU5HaGIwZVgxcWJKa1E?oc=5",
+              "source": "NCAA.com"
+            },
+            {
+              "title": "Boise State to Host 2025 MW Championship Game - Boise State University Athletics",
+              "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWVc2alFyQldvREFTMDdEWV9YRUNPTDFyd2ZqLVNSa0pDRzVhQm80Y29FN0NKY0pnSkY3MnB4amxPTWc2Mmh0T2FkWlE3SmxrRC1KM3hGalp3WUh0elNFN3BhV3RWcW13TFhGa0VnT1lIN2ZHd1NibXA4VFhTT1d1NjMxSFNCRUwybmNwcWhWdkg3TEZQa2xydG56OA?oc=5",
+              "source": "Boise State University Athletics"
+            },
+            {
+              "title": "Boise State to Host UNLV for 2025 Mountain West Football Championship - Mountain West Conference",
+              "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNy1NQ1hzanVfQ0U0TmdhdTR6dHdUa2lSQy1OSS1wM1B3V1lzWGdQT1lnM3RXQmNFbVdxZ0VWbmxxOF9BM3ZQWTFzUFdYNVZMOUFaT19rMThKbXRuQ1R5blFIYUVwMlpqXzVGa09lLTE0a2JWVXZmd256U2dJZUlHVnZFXzU5Zzh1RkFwcGZaTFVFbDRmNG1ub3pMaXpEUEMyclZVTA?oc=5",
+              "source": "Mountain West Conference"
+            },
+            {
+              "title": "Kentucky Earns No. 2 Overall Seed, Begins NCAA Tournament Thursday - UK Athletics",
+              "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQd1RWUjZ2ME5PZ1BSZDBqQlo1MU80T3AtajhjdGJlUXQ3LXlfNE1STTlCa3FwbVI1TkVYMFJWbWp4N2ZyZnlHMkFIRkdkWmVWUzB2Z3JxSzNnZElpRTdOSmh2R3kwNDFpejRUWEJUN1UxNXVLT01DQUZRN1FpR1RMSWtTTmJZSzN6RlNuNHZKNnc5SDZvSEZ2YWQ4N2RSNDFmNmtFLQ?oc=5",
+              "source": "UK Athletics"
+            },
+            {
+              "title": "Volleyball Earns No. 2 Seed, Hosts Central Arkansas Friday - SMU Athletics",
+              "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeXJGdEtQMk1pUDVUN3BCNktHYVNoTktiS0NOSFNkMWdYZXoyNjRyT0RPT29UOF9Ua1FzUlpGMGJ6WllfWjIwNWFOci14bjZZaGlPdlhvcU5rN1dVME1PRDBuTmc3Nlc3SW5hLU8wdU9hX24ydU1Fb3FCN2kzZXBtcTJvR2hNMUpLMkNXc0NPZGtzMk53azBXTm1wQ0tiTlBGTmFpdkJ4anp1STdkYkE?oc=5",
+              "source": "SMU Athletics"
+            }
+          ]
+        },
+        "technology": {
+          "summary": "More of Silicon Valley is building on free Chinese AI - NBC News. Top consultancies freeze starting salaries as AI threatens ‘pyramid’ model - Financi...",
+          "links": [
+            {
+              "title": "More of Silicon Valley is building on free Chinese AI - NBC News",
+              "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcG9TS2JkaHFxTGxiWlZoSjlhZDYtOVZ5TFJRTW92VTNTUHg5WVl3d0ZaU2NWV050ejlWamdwSURGYkE1WWFSZU8wcVc1TDJ6VlZhem1SV1F2dkU1ZnZnZXJ6cFVlTXRES3J0MXMzWmpiRmtOMTdFWU9mSjlhVlhuaWpNWml1RVVDOXNCd3hSZXpUT3JJ0gFWQVVfeXFMTXlyQ210ZmVEM1BDd2xDTmh6bHBhMGJGd2RfV1JYcW1WdUJNVU8wR1ZpV1h4MUEzQzhhTzBXT2JFY2NQRDZYVG5KNTZ4cTBaS3NhQ2pFdnc?oc=5",
+              "source": "NBC News"
+            },
+            {
+              "title": "Top consultancies freeze starting salaries as AI threatens ‘pyramid’ model - Financial Times",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zVUtOcGs1QnBiQm1sU0YxVEhEWWVwakZYWW9NWFBob2tSdVcweTZRNktadjR0WDhPTzVhVElGVEFHcHpOa01zNFZxWEdlUThPd0k2Q1d0bExrZzhfbkZGRzIxV2U5aEkyRGxXUU9SM3A?oc=5",
+              "source": "Financial Times"
+            },
+            {
+              "title": "HSBC taps French start-up Mistral to supercharge generative-AI rollout - Reuters",
+              "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPX2xkVEJUZ0FuOTQyTXV3dkRiRFNpSGFGM0RqYzhhdkZxZUpYOWwtaXFkcHcySW5mLU1sMEZqSzN2NWJINjBkRDhtXzdzZkcwTnNETldnLWNzenhBUVhvU1NRZkczM3B3dkx5UFNkSjVzbGZOYlJ4SWl1aDI2LUpudmNjY0xxVy1Md2FZa0lDU2VnUUJ1ZE1UT0R1M3hzVzg5MTJ3TFF6eTB2bjZrTEZySVNoSEQ5MXZBUWszNw?oc=5",
+              "source": "Reuters"
+            },
+            {
+              "title": "Slopocalypse Now - Artforum",
+              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOFVjclJBZGc4WE1UMV9DMDRnLU05VnU3X056VmRyYkxjWDdNc19ha0E1M2s5SnRsb01fSUNjSVVLX3Y5NV8xT3FxSDllREtkc1ZCZXJxcTllWG44UlJIcGpfTXFOWHZ5ZUtIUS1QYVFScm1oR1hZSEVocmhibFZRZUVleGhEeGtsNVpMbVRB?oc=5",
+              "source": "Artforum"
+            },
+            {
+              "title": "Forget AI spending — the biggest risk to this stock market is speculative junk - CNBC",
+              "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTGZpejdNRk5JbWJZRWV5MDhPQ3JoQldfQ1FWNF81NkhaRkxwRUVDZzMxSlJGLTFBVUQxV0Z3Yy1UZmVBMG40MjZRSDBRNWo4eG1LYnVVSWo3ZkpTTXB4bUhZZlpKcU9pNXM4eFJKdk1TbVNlZjZmRUxGb3ZpVzR1QnZoMEJ2VjZmOFlneVpXaWVXeHZLbFZJNkpjSWRjSlNoazh0c1d1andmeGpIM3c?oc=5",
+              "source": "CNBC"
+            }
+          ]
+        }
+      }
+    },
+    {
       "date": "2025-11-29",
       "title": "News and current affairs from Germany debated; AI helps drive record $11.8 billion; A Holiday Gift Guide: Presents for takes the stage",
       "image": "entries/2025-11-29.png",
