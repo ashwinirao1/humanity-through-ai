@@ -1,6 +1,164 @@
 {
   "entries": [
     {
+      "date": "2025-12-04",
+      "title": "Interview – Jaehan Park debated; How AI is rewiring childhood; The 25 Best TV Shows, Movies, takes the stage",
+      "image": "entries/2025-12-04.png",
+      "note": "entries/2025-12-04.md",
+      "topics": {
+        "politics": {
+          "summary": "Interview – Jaehan Park - E-International Relations. Democratic peace | Political Science, International Relations & Conflict Resolution - Britannica....",
+          "links": [
+            {
+              "title": "Interview – Jaehan Park - E-International Relations",
+              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sNThrV1MxaF9LWm1meGhOUEtUWjYxOFVOTmhTQnd6VW1qc3djdW1MeXRqeURYaVJFM0dSdDAwVTNGN29fMjhtaU1semI2SFl2cDJsNG80VHNBdWFvSTRxMElHUUdGdw?oc=5",
+              "source": "E-International Relations"
+            },
+            {
+              "title": "Democratic peace | Political Science, International Relations & Conflict Resolution - Britannica",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1NSElSNkoyY3RLUWN1YldrWG93YTBJbEYzemFfVndWUTY5QTNPUDEwSjhQaUl0clF6XzRLZU1NM044d05fVDYwSnh0NzZUREwzYzJWOHc5NjR4RmRubHc?oc=5",
+              "source": "Britannica"
+            },
+            {
+              "title": "The 5 Most Important Global Trends of 2025 So Far - World Politics Review",
+              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYnBEUkNEMGVGaS1LYXNFbFJreFI1ZDNtWmlrT3JJZDVPcXpjSnFvdkxEYUtpVzUwcEluaFZKNVllemwybHRxUkJ6YjNzaVNNaS1JcDZrQ01RWEU4SldxVk1XajZ2UUpHSmJQUGd1Q05pOXE2bXNCNGIwRi1GTFNQOXk3aFA?oc=5",
+              "source": "World Politics Review"
+            },
+            {
+              "title": "Symbiotic Realism: a transdisciplinary approach to understanding international relations - Frontiers",
+              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU3h6YWcwLVZmY3pLYjhPREo2cHotN1NMTVYyTmNmU1V0RG5rTnJyV0t3UmV3U3E5M0JfWno1dk02MWtiNFhTOW1IMmtFd3otUm9ubk5QOUZUQ0tLQXJQV0tUUXpxaVFnVGJkbWNuNUlhaVBKeXlQc0h6aHpBbHVMWHl2dmRfRnp3dE82Sk5iOG1BdDM3ckFGWTVB?oc=5",
+              "source": "Frontiers"
+            },
+            {
+              "title": "Soft power: Not just winning hearts and minds, but saving lives - Harvard Kennedy School",
+              "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUlY5bV9JZjFEelR6bFVtVXlMVHhSdERIaXZlVGdfdmFJaDJoS1NlVGlicHF6NkRGeE94NjZtTUNHbHdOWWdqQzAtdzBDNDNpVGtyb25DZ1d3YjRMV1NuaUtEMHZCbGpjVUlCb0lfTnBkcEtCMUd6QTFzNURsNFIwdVVLS3FrNzJGV21PcjhZSGY2d05hV01KYlhuSDl2Mi1uUEZkS185WVg3d1dJNmNFVC0tMFFUc2xWOUVFTEQ4cEk3OGFW?oc=5",
+              "source": "Harvard Kennedy School"
+            }
+          ]
+        },
+        "health": {
+          "summary": "Opinion | The Data on Self-Driving Cars Is Clear. We Have to Change Course. - The New York Times. Waymo Robotaxis Are Saving Lives, Doctor Calls It 'A...",
+          "links": [
+            {
+              "title": "Opinion | The Data on Self-Driving Cars Is Clear. We Have to Change Course. - The New York Times",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5pV0htYVA5WHRwZGR0Wk1yLUpVdFlSMDNwQzNVOVRSbm1ZeXlOSDZxM3hzNWFtTGhmWmpUaFJ5YmxGa0RuQmV1V2JrY0k3SHR5enBuTFdrV0RTZFdINDQ2bENyaEEyU3FFelhDcFEwV1FHVHc?oc=5",
+              "source": "The New York Times"
+            },
+            {
+              "title": "Waymo Robotaxis Are Saving Lives, Doctor Calls It 'A Public Health Breakthrough' - Jalopnik",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMkt4ZGtZSkJ3ZHlaZ1JkU3hEU1l6UzVuSWpzYjgxUmRmcWhscXNfSlljWnlIN3RzUE9Zdy1ObUkyaDFLZGtCOEJiTlR3QkVITTV4VUZjeXJxNWtKOER4Ty12MXpBNjVCbUN0TTl5OW82eHNUc3pYMGNpS3JEcVdDMGJn?oc=5",
+              "source": "Jalopnik"
+            },
+            {
+              "title": "Scientists make breakthrough in cholesterol research to combat heart disease - Clemson News",
+              "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZGlJbXdySWY4SFltQ1d0d0JKRWdDM3JURU4wbjdiMFhpbVE5aUd0NFhnQXBiNHR1dUpQVnVURDVLR1N5bE1lY1d6RWFab2Z1UTAxTU1jc1lWaGZvbXBmMDkzSy1DQlZQSFhZazRPMzgyVS1EelNXVzdPZnpoS05SemdTcjB0UF85R2ZaSEhMT3NfalhxWFo2SlFpYjZqZTByXy1xVw?oc=5",
+              "source": "Clemson News"
+            },
+            {
+              "title": "‘Major breakthrough’ blood test can find dementia risk before symptoms even start - New York Post",
+              "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMm80S3E2Nm9lbmFJbWRpWlVNbXdiNHRKSU5GV2VHREJRT01zZW10V2Uxa0FVVFl5NE5JRnA2RGNNQXBqZlVtN21OTnNmdDlCT2N5MDRYY0xLb0huSkJabzMwOFRpWWstWjF1RlQwYnZyYVl2QXdkZWZxbkdacWpjU3VLaG5WMlJJb2JJVHdwdnhQLUVkczVCNHN3eXBOaDVWVmt4Z3o5MUxPdw?oc=5",
+              "source": "New York Post"
+            },
+            {
+              "title": "10 groundbreaking advances that grew out of HIV research - Duke School of Medicine",
+              "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbm9FeGRsUzFSbUwyNTA4Znd2RDVqV1VleDZpN25WaWczT094MnhZSjRIN29RY3VKbDhGdU1TWGdjZXpwQmJ6ZXF3bXlxV1p2ZGdnd3p1TzNNbGlfZVE3QjhhSWh5NTJDaFdvbnVjZHktdDdWZzJCQWhVUVFFRWJyQ3d5cEhpNmM?oc=5",
+              "source": "Duke School of Medicine"
+            }
+          ]
+        },
+        "entertainment": {
+          "summary": "The 25 Best TV Shows, Movies, and Pop Culture Moments of 2025 - The Daily Beast. The Dean's List: the best indie music of 2025 - North Country Public ...",
+          "links": [
+            {
+              "title": "The 25 Best TV Shows, Movies, and Pop Culture Moments of 2025 - The Daily Beast",
+              "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNc3FBTVVvZ28zUVZUUndKdEhKYVhNMHoyLXJCSUJwaXBjc0NkVjFBTFd6TGQ0dTdkUTFqN2Q4ZEpWRnBIY3gyZzQ5MFJfejdFYTUtWGhqM1ZWM0FZNkVneU1VX0RMNHoxMVNCWV9oSk5ORENEaDBLRWVRNjZoeS1qeVVPQ3J1dW9lelhlLXlWaEt6a1BZU2s0dHlTZ2pCTFg5?oc=5",
+              "source": "The Daily Beast"
+            },
+            {
+              "title": "The Dean's List: the best indie music of 2025 - North Country Public Radio",
+              "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOXzFaWGRlZUY1M1U2bFB5YmRGY3NkZ1NzVHVic1NHSDl3U1RBN0wyTnppcGVDRUtmWk9tcm9kSXZuX3QyQkptbVZYZ0lVSmhIY2dLaHZQdmV0LWh6OWVUSEYwRnJrVTVmVVFEYUw1a29JVVdzdDBxUGIxcnhSak9WOWNaa0x1WXNMUi00MUJpRXhWMjlhNVI1VGZVTUNCdGJZQkhCSnI0LTVFUkpoaW0w?oc=5",
+              "source": "North Country Public Radio"
+            },
+            {
+              "title": "30 Most Popular Movies Right Now: What to Watch In Theaters and Streaming - Rotten Tomatoes",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GX3ZkcE9xX3RWckRnSTM0Q3p0aVoyWVRMdnB4em9qN05aUkQwd3dfYkk0N3l3bW92ZlhwSWw4dFJWYVU2UjFkeV9hbl9QNFJLdi1qOXNLd1VEUFVDQjkxa3BXbW1fd0dEMGc?oc=5",
+              "source": "Rotten Tomatoes"
+            },
+            {
+              "title": "How old is your music taste? Spotify will tell you, though you may not like it - NPR",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yR0dBRk1tSzhGRWdTM2cxblNsdy16d1g3di16LWFLR09oXzA0ZEhqZ0p2S1Y3OWJidnkxQXdqdmppaEVMd1hlYi1KSjc1TE40Ujd5Y3FLa1gyVl9TZVhEc2hLWTVwQWdROE14SWhXVmR0VFZzSFA0bmZ6YWt4MTA?oc=5",
+              "source": "NPR"
+            },
+            {
+              "title": "Dashing Through a Season of Holiday Movies - The New York Times",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNnNuLUt6Sk4xb0w4bWhnLUs5WENydTdiTjZ4ZUV6SFE2LTZXMG8tWmhDMFBaMWg3UHVmcU1HaTJuU1VEd3JRV1lta1cxVHlFNWlURk42MlpMei03SFcyT1hwZEpNMFBkanZJenk3SFdDMEQzVThDNVlPTG9BOVpzNEFn?oc=5",
+              "source": "The New York Times"
+            }
+          ]
+        },
+        "sports": {
+          "summary": "2025 NCAA women's volleyball tournament: Bracket, schedule, scores - NCAA.com. Mustangs Take Down Arkansas In 78-63 Home Victory - SMU Athletics. Scor...",
+          "links": [
+            {
+              "title": "2025 NCAA women's volleyball tournament: Bracket, schedule, scores - NCAA.com",
+              "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOWJVVnpuVm1GNHBzeWltRnZ3bXVYdExCSURPVnZWUS1ZdmhJb3hQVkFJR0lxX0hvV0VITXpoQjRJSlFiTTRETjJDOVpubEZCMVQwQU5ZeXhaTVNKMEtibmx0c2ktMGpOZ2N1S3dnZHBOcFI1dUtpLW9rdmZza2poN2J1eDFJZWs4eW1aOGdsempnUmRzYWY2TzNVVFBwN09jUFdSb1EzbC1KNEthcGkwQ1ZkeFZkcVRtd3hEenpHVWZ2d9IBxwFBVV95cUxPUzRtMjVDTmdwdk1oTkJ4OGdHRzdpUlVNVG1xUFVOMEdyS3QwREd5VTItMFJXbm13NzJiX1lpcFVXdzg4RVpkTWxreU8tT3BweWhYVlFUQy1RbndiUDFRcmViLUMwUGhHczJRU2NLa1FqRW5uRjMxY0Vzbk9vRHZQQ1ZfaENiS0J1NmJIckxqREI2a2xMT0tTZktkOHVGRWRUU0dqTWpEdEdjSlhFVTRkSnNZb1pRRXBvNHZoV3NIWXhsRS1RckZR?oc=5",
+              "source": "NCAA.com"
+            },
+            {
+              "title": "Mustangs Take Down Arkansas In 78-63 Home Victory - SMU Athletics",
+              "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQc2xJMVR4NFZMcG04R0hkQ2o1RU5Vcm5uOXdjeWpSc1BrdXptM3Z5NU5EN29DVVVyWEdnWmlkVEhOZW44UURNZFN2YURXUUFXcDZhRndaWlV5dmw0UnBTUHdTbjNMQVR6QVNkU1NOVjh3YVlEenJYOG5uLTBZVjVQZ01PUElJOFVBamZBdlhwaEpuRVplendWZUVnRk5iYmYyd3ZrNVJsTVpLU19CWVRsXw?oc=5",
+              "source": "SMU Athletics"
+            },
+            {
+              "title": "Scores for 2025 PIAA state championship football games - CBS News",
+              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE96UUtHbjFKNjMzU0hBUjdIQXBPTTFWcVB0czNQWjUtSmNxa3d6eHBmZG1BRmhuR0Eza3I0dUYzcUFRbjhkNzd4Y05qYWcwQ1hTZzJTdVJvWmpVWjhKeXhXc0pCRzZRTjd6R3VWbE1BMV9DcllHWDJZbUx2NXEzQQ?oc=5",
+              "source": "CBS News"
+            },
+            {
+              "title": "Moody runs past Vigor to Capture Class 5A championship - AHSAA.com",
+              "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaDhfZm9OMFZFdXlfRTRyM2ZKbkU1TzZZUFFtWDlBU19hUjVuTGFITkFpTWhYVGdpbXltMllTOFhrXy0xSXp1cUl3bmRmdzhMSVJHcnFkNktmZlZGMkZjMG5fM3VLdkpKX1RJYS13NlRHa2NjV2RWVzVqTUlheDdYdmVnOHVWM3BndENOaDgybTZvdFFfZC0yakpWQW44Q3RFZmVFbkJmc1A?oc=5",
+              "source": "AHSAA.com"
+            },
+            {
+              "title": "A fan's guide to Alabama vs Georgia in the SEC Championship Game - The Tuscaloosa News",
+              "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOWZVcF9fTl81aERZNmFrMzV5S0hBWEVBbWtZRS1wejIzZ2ZjdEFfdHhxRS1lMUJmWHlDNHc2SVZzcXVaTnZNRS1zdDhFS1BOcDgtdXlEOVBBaEdBOGFheDRFejVlSW9sNmFsY0piMEFrQkJJWjZEQU9HNE42UDlBeGlQZ2pqTUdJUFRhdlBfc1JJYVl2aTBGNlJWYV9nd283YWJMNENPUWU3OWtSRXdSdHo5VG5wQzlsemdES3V1bXBPemM?oc=5",
+              "source": "The Tuscaloosa News"
+            }
+          ]
+        },
+        "technology": {
+          "summary": "How AI is rewiring childhood | Dec 6th 2025 - The Economist. Want to Shop With AI? Here’s How to Start - The Wall Street Journal. NASA Completes Nancy...",
+          "links": [
+            {
+              "title": "How AI is rewiring childhood | Dec 6th 2025 - The Economist",
+              "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3aXJCZWUwV0tMQ1E2Y2EtNG5LVmNITnlfT2JWLW9UV0M5ekNNUlVuUDBoakNMeVVtcG90bWYzY2pZVFowblRaN1Q3WTZyelJjN3UtQjd6d1doLXZNeWpv?oc=5",
+              "source": "The Economist"
+            },
+            {
+              "title": "Want to Shop With AI? Here’s How to Start - The Wall Street Journal",
+              "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNck1DNmhRcnREa0hzUjdacC1sajZfNFczVUFRQVFJbmg1TkhwTUdaTklYbHZ5Q1FxVVJDTkpCQmxVT0w1R0R4NV9rYTNPQm1VWmkzV3BvWm9NWjU5eXVxc0RrUFlONFhZelIwRXdadlR0eFpiclJaZUtydGRMbDBCdW54TlY0TnBycFloczRmZEtUOENUTk94Q0NDaHBjZFRzUTlNMDZzYThUblprQmZzYnlpa05oaHhYTWgyc1RXc0ZQRnNUVkhreEU1VDNNSWYyQWFiVmJXX3k0Q3p6WWJLdTRkZjVGWjlZQ0lSbHpLcExwR1Zjb0ZacXkxRXJWcUVMZjZJMnJ0MmNkNFpFdGtFNi11ZnZMWi0yNXJ6RkY3UkZrWDJkZnpPd1JleFB1d2dwdmlhTTFxcDBIU2lCM0prVkgwWkc1eWdLbHRXazJrbXpUeGFsRzY2eURfTVdXWXJfV3dLT1A1VzFncGswUGhheWZpTWo?oc=5",
+              "source": "The Wall Street Journal"
+            },
+            {
+              "title": "NASA Completes Nancy Grace Roman Space Telescope Construction - NASA (.gov)",
+              "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcDM4SmtMRU4za1FMOXd4NmFSeWVuaGFpZ1M4cEF2b01TQmYxRzVMTTF4QkMyRkhqZzBpemtyNGp6cFYxSU1ETXh1RlhoVGdfZloxa3lDclB2YW5sMDFzRk1SNFBvZ0hlNDBHWml5MVJrWlJoRV9yemUxRnJYYjlOVWhlejNicmU4Wm0zT001RnZtMk9Jd3E5c0RaclR2bW5vVW9HeFBLOEhLYXp2bmxuN0VsQkI?oc=5",
+              "source": "NASA (.gov)"
+            },
+            {
+              "title": "AI chatbots used inaccurate information to change political opinions: Study - NBC News",
+              "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR0dPZUNRWWNKandkcWZ0VnZic1MtWUlibHlBY1JoWjdkOFQ5RkxMdEZhSlI4QllDTEhRSlZveU44OGpxV1NtWWdrc0dFZkdqZ2dLNzhpcnIzMVkwcFQ2RmdLYzN6WG55VmxhUTk3alUwODRLVUZTX2F0RkV5UGNPZVYxSmpERzRNdXZiWjNtMGFUTFlTU0RfNWpyUFdDc3NabjVPREt5d3J4NVh3bDFMWkZ3WWpxN0ZHQjJiY9IBVkFVX3lxTFBUWUtkVlREVDlieGNzNTlna3lhcTNGNzJfd3NLQl9jNmRtV0txWkkxWDVBcTd2ZU5VRWJ6alVwekdNS2I2WENiMklwX0ZlX0RDTVNZdjVn?oc=5",
+              "source": "NBC News"
+            },
+            {
+              "title": "The AI boom is heralding a new gold rush in the American west - The Guardian",
+              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBneVRydDFuam1rcEpvX2YxN25wM181dENRS1dwdE96Xzdja1g5aC1saUh5S3lwSGhOc0JLdy13SG91UVhseWhPSEJSSjY3b0trZ3lxd19UelBwclNOVmNfZ1NQM25vRGtRS2gxUVlUak9taTRhOU9JTkJKRkpfUQ?oc=5",
+              "source": "The Guardian"
+            }
+          ]
+        }
+      }
+    },
+    {
       "date": "2025-12-03",
       "title": "Interview – Jaehan Park debated; Dartmouth Announces AI Partnership With Anthropic; It was another great year for takes the stage",
       "image": "entries/2025-12-03.svg",
