@@ -1,6 +1,134 @@
 {
   "entries": [
     {
+      "date": "2025-12-05",
+      "title": "Interview – Jaehan Park debated; Appreciation: Frank Gehry was the architect takes the stage; Expion Health Announces Qlare™, a Breakthrough reshapes care",
+      "image": "entries/2025-12-05.png",
+      "note": "entries/2025-12-05.md",
+      "topics": {
+        "politics": {
+          "summary": "Interview – Jaehan Park - E-International Relations. Textbook titled “English for International Relations” published - Azərtac. The 5 Most Important G...",
+          "links": [
+            {
+              "title": "Interview – Jaehan Park - E-International Relations",
+              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sNThrV1MxaF9LWm1meGhOUEtUWjYxOFVOTmhTQnd6VW1qc3djdW1MeXRqeURYaVJFM0dSdDAwVTNGN29fMjhtaU1semI2SFl2cDJsNG80VHNBdWFvSTRxMElHUUdGdw?oc=5",
+              "source": "E-International Relations"
+            },
+            {
+              "title": "Textbook titled “English for International Relations” published - Azərtac",
+              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMndEM2k0WDBYU29fX3pNdHBkRkc4b2VsMlJhM0JMbVp3UV9kNnJlWUZqSDRMSGlOcjljNE0wLV9yZWN3VF90NUxGeVRWczk3V1pFLU5Lc0ZTYW5FUlhxZUlhWklzWVBLM3lxa3NFc2hfVEdzX21kWmZ1WlpBRmpTNHpveHNIbEd5VXBlMHFCeWl5VEs2WC1jUkNqRHo1UQ?oc=5",
+              "source": "Azərtac"
+            },
+            {
+              "title": "The 5 Most Important Global Trends of 2025 So Far - World Politics Review",
+              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYnBEUkNEMGVGaS1LYXNFbFJreFI1ZDNtWmlrT3JJZDVPcXpjSnFvdkxEYUtpVzUwcEluaFZKNVllemwybHRxUkJ6YjNzaVNNaS1JcDZrQ01RWEU4SldxVk1XajZ2UUpHSmJQUGd1Q05pOXE2bXNCNGIwRi1GTFNQOXk3aFA?oc=5",
+              "source": "World Politics Review"
+            },
+            {
+              "title": "What Do We Really Know? - Texas National Security Review",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPWHJoOFQwamQ5Wk40THZmRmpvdnV4V0ZqLUdUMXVDUk9VQjV4VldkSUhHQ05YNjBwamltU3VWNGlPXzN0dU9iSFR1eVk5RXhCOXM0SWJYdUwwLTd4?oc=5",
+              "source": "Texas National Security Review"
+            },
+            {
+              "title": "Symbiotic Realism: a transdisciplinary approach to understanding international relations - Frontiers",
+              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU3h6YWcwLVZmY3pLYjhPREo2cHotN1NMTVYyTmNmU1V0RG5rTnJyV0t3UmV3U3E5M0JfWno1dk02MWtiNFhTOW1IMmtFd3otUm9ubk5QOUZUQ0tLQXJQV0tUUXpxaVFnVGJkbWNuNUlhaVBKeXlQc0h6aHpBbHVMWHl2dmRfRnp3dE82Sk5iOG1BdDM3ckFGWTVB?oc=5",
+              "source": "Frontiers"
+            }
+          ]
+        },
+        "health": {
+          "summary": "Expion Health Announces Qlare™, a Breakthrough Conversational AI Tool Transforming Prescription Cost Decision-Making - PR Newswire. Scientists make br...",
+          "links": [
+            {
+              "title": "Expion Health Announces Qlare™, a Breakthrough Conversational AI Tool Transforming Prescription Cost Decision-Making - PR Newswire",
+              "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOMUdBTm56VnM3SUdiSG1LSVIzX3RUTklWYkJXZUI4cGV2OWR6WnY5elZoYXp4dHpZZTZpNUZBNzNFX04xMXNOX2E4R2pmOEJDdWV3WlVCZjBjR3FLdndjNUFUbkdmd3VQOGhVMFpCeW4zellNTm9uYWRmRXJZLTZOeG1rZEp3d1lvZlE4dk9YT25xTmdaYmI3SVhXaTZrb2lIT0lKUmVqSURRbmVYYmNhNzRwLVY0eUszS3JkdHp3cmdyc0JPU0J6NnQ1UDdnZFdublY5bXM5aHFnYWpQR0JVSlFHMERhcDVLNWJMX3p1VkJ6LV9lZHdsZVphN1dCOXM?oc=5",
+              "source": "PR Newswire"
+            },
+            {
+              "title": "Scientists make breakthrough in cholesterol research to combat heart disease - Clemson News",
+              "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZGlJbXdySWY4SFltQ1d0d0JKRWdDM3JURU4wbjdiMFhpbVE5aUd0NFhnQXBiNHR1dUpQVnVURDVLR1N5bE1lY1d6RWFab2Z1UTAxTU1jc1lWaGZvbXBmMDkzSy1DQlZQSFhZazRPMzgyVS1EelNXVzdPZnpoS05SemdTcjB0UF85R2ZaSEhMT3NfalhxWFo2SlFpYjZqZTByXy1xVw?oc=5",
+              "source": "Clemson News"
+            },
+            {
+              "title": "Waymo Robotaxis Are Saving Lives, Doctor Calls It 'A Public Health Breakthrough' - Jalopnik",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMkt4ZGtZSkJ3ZHlaZ1JkU3hEU1l6UzVuSWpzYjgxUmRmcWhscXNfSlljWnlIN3RzUE9Zdy1ObUkyaDFLZGtCOEJiTlR3QkVITTV4VUZjeXJxNWtKOER4Ty12MXpBNjVCbUN0TTl5OW82eHNUc3pYMGNpS3JEcVdDMGJn?oc=5",
+              "source": "Jalopnik"
+            },
+            {
+              "title": "10 groundbreaking advances that grew out of HIV research - Duke School of Medicine",
+              "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbm9FeGRsUzFSbUwyNTA4Znd2RDVqV1VleDZpN25WaWczT094MnhZSjRIN29RY3VKbDhGdU1TWGdjZXpwQmJ6ZXF3bXlxV1p2ZGdnd3p1TzNNbGlfZVE3QjhhSWh5NTJDaFdvbnVjZHktdDdWZzJCQWhVUVFFRWJyQ3d5cEhpNmM?oc=5",
+              "source": "Duke School of Medicine"
+            },
+            {
+              "title": "Precision Medicine Advances Highlight Ongoing Equity Challenges: Tina Bhatnagar, DO - AJMC",
+              "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd3VpWHpJT2FaRlUycFlVTnl4OS1vZFlKYU1OVEQ3dDdCY2tGaUZiekp0TTNiLXBnU2Vyem00RnBqUlVTQlpPRnBrRUo1dE5SVTROc3NuNWg4UFR2QkpsZmhTcnUydEdCNFRuMXZWdmF0OUhtVEt6aHJ1ZHE1VGdyQ1htQjlzc0h2TlN5aXllZGNGTlRWdGlpNnZhTHgtanRlVUtDZWtWa3ZSakk?oc=5",
+              "source": "AJMC"
+            }
+          ]
+        },
+        "entertainment": {
+          "summary": "Appreciation: Frank Gehry was the architect who changed music - Los Angeles Times. ‘The Sound of Music’ is one of my favorite things - The Maneater. 2...",
+          "links": [
+            {
+              "title": "Appreciation: Frank Gehry was the architect who changed music - Los Angeles Times",
+              "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNFRIeS1YdFZWb1U1T2FOb1M4cTA4TEJ5QnI1RGZETkV6WnhRbkVqakU1M0V6cGNTdFVDT2JVeS1EcWRxaGRaVTF2bEhBTVhrOGF2alVCaTAxZXBmWTlFSlVyb2dtbVpjdXBjNjJpMl9haWFwYVhEOE9vNFNVeS0zMDgyc0gyUHI0c29ZWkluSXdjSUdldjI0ZXgwTGZDdTVlZ2pNMFZn?oc=5",
+              "source": "Los Angeles Times"
+            },
+            {
+              "title": "‘The Sound of Music’ is one of my favorite things - The Maneater",
+              "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOd2xUR2xVSm1NaGVKRlA3RjZEeERWYTRNZHo3XzFvT3o2Rjh2VGwwUTN4amNxSUJiWWkwNGpPRW5IbG5PVUF0cFlaeGU0cEJyallrTmRTbHA1STVwLTNKdzI1NnhjN2xzNjFIWlFvcTJtS0ROUHR6cGpOT0xEYlRkUE05THNmNFp5dDFXWA?oc=5",
+              "source": "The Maneater"
+            },
+            {
+              "title": "29 Best New Movies Streaming in December: ‘F1,’ ‘Mission: Impossible – The Final Reckoning,’ ‘Die My Love,’ ‘Roofman,’ ‘Together’ and More - Variety",
+              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBjbHQ0Z3RPSFZrdFZEcmJSZTNDeGg3RXV6alBILWx5MjR1a0JRRzZLdmstYV9sTF9wTUJ1aGJSVDhfeDJ6X0ZVVjBXVy00RzhFckw5TUNhc1hpTlcyVFpVY04wcUhEMmZrM0o2aXZFQQ?oc=5",
+              "source": "Variety"
+            },
+            {
+              "title": "Sojourners’ Top Movies of 2025 - Sojourners",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IQXFqc19pQ0xpMFNheUd4VV9nbDRTMjB4ekZWVFFRMEpNcWZ5SmZQUXVKZ1FlSktjN3hqeEttcXFVYXh0OVdRSnRxQUdibmFJd1k5UTRaVmktanBJU0xPbWFuTVM1d3N5NHlwWQ?oc=5",
+              "source": "Sojourners"
+            },
+            {
+              "title": "Best Albums of 2025 - The New York Times",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9LQ0ZmblZUNVRZQ0dlWHdMbFhpeFNwWWJxZXFYR2d6dnBTUEpYR1Nfc0pZcHZfVDRZSExwT2FXeDIyMVVkX1htTzY0VlRBRlRScDJENzJDdlZSVHB5Vm1laEFSNkF4Z0dKRmN1X2YtYk9YbGFFUmc?oc=5",
+              "source": "The New York Times"
+            }
+          ]
+        },
+        "sports": {
+          "summary": "Top Dogs: James Madison Captures 2025 Sun Belt Football Championship - JMU Sports. How the conference championship results affect the playoff: Tulane ...",
+          "links": [
+            {
+              "title": "Top Dogs: James Madison Captures 2025 Sun Belt Football Championship - JMU Sports",
+              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZUxPam5UUUZIUUtzSTB1MVVNNjlLaG1ySW0zc0V1RzB2TXU5dThwWVlVNkxtRVMwejhDVEVFREdUWlRhTlFNc0M4MGNuZVVpQTUwNkNEQ3dGSUNnOHhTOEltWEZoZ08xWUJUSXVKOWFZUlc1MENiQk9oVlpvaG1BY2ZDdDF4enRLY0NOcVp6Q0JYNk4yWmRRS3d2YkJpd190Q01IRHdVWQ?oc=5",
+              "source": "JMU Sports"
+            },
+            {
+              "title": "How the conference championship results affect the playoff: Tulane finishes the job - ESPN",
+              "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSVo0YXhXYU4yX3kxRmR6LU5BU3loR2pIMVhBMGc5aUpIMExJVkJSSXNRY0lkRGF3OGMwOG5XOXZuMmFYdmlkVThFaVZUUW5KOUN5NUxUeFowRlhPakZINU5aQWt0ZkdHMzNIZW5WUllVdVJ4aUdMZUxtelQ1QWU5eUxyYklvb1ZsdV9NUG9CYkRSMFR3TEdka1F3TTNSX1VrMlE?oc=5",
+              "source": "ESPN"
+            },
+            {
+              "title": "CONFERENCE USA CHAMPIONS!! - Kennesaw State University Athletics",
+              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE04Sm50ZG5qS2pWSFczWGw4SkstQ051dWNKZTR0VnYtR0pGNk01MENSZG83X25pVnlvT2xXczBoRXZNWXo4TFc5TUgzbjJ0WDY4dGdkY2I5a2w1Z2lROHdaSkxQTkdEY2VZblg5VGxCMWNYRjhDMkRqQ0RqOXNQUQ?oc=5",
+              "source": "Kennesaw State University Athletics"
+            },
+            {
+              "title": "2025 FCS football championship: Bracket, schedule, scores - NCAA.com",
+              "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNnF0MnRrVExpRVUwY2ZucEt2enBsOWt5WmN3WDNtay1QR0VfUWZ5RUx3dGNvM3FTM0dhQm1yemJTSFJrcUdienpZdXQwWWRVS3A4TU9RV3N2TmY0VGpZNjhxUV9jY3hZVXlhUHpkb2oyeVVFMFBnUjZvOGlWTnE3ZDN1LTFhdWdBWlc2MHBSQ3IwajdzN2lYWXFKUDQ3Vl9rblZLM0oxTnYxRE1Z0gGyAUFVX3lxTE84UXY1WXRZeXQ1bHFxcEc3RS1vTmdTTVBTeTl0S05pOHNnRExpNVZnSzNwenY2NTk1SmJCQUZyUHg0RnhpMEtnWkRFRzg2Ujc5R1Y2QU83LVVyY3dQaHpNSmJXeG0wZGFmMDhueXF2X2VCVGc4UlJGVnNaS09BN096dFVQalB5OEswTDVJSHRHM2RZdnlST0I2eGtFby10Tlk2SVdjempJWU9jNEViNFZxdFE?oc=5",
+              "source": "NCAA.com"
+            },
+            {
+              "title": "Regents Approve $67.5M Privately Funded Capital Projects at UNO for Omaha Athletics - University of Nebraska Omaha",
+              "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQ3dzRkhBZkd5NlBtOV8zdWc3dEw2MzNDbGRCT2xWUTQ1b0hOZVZFVkpDNDlNbHRPM1F1bHhOdFN3NlV2QzcxWmloUW11MlFSbTFRRVVGSWpXRUV3V012QTU1SmR1bzJQak5pOER6MlEwTzQxc1lLd3JNWHpUWkh2OHA0NFpvT29HNi1tTHk4WWVkVGc0Skg0SGU2NEtYdEdYYWJxaHBiYlUwM3pYeHdnbFN0b0hQSDJ1M2swblNEVzc?oc=5",
+              "source": "University of Nebraska Omaha"
+            }
+          ]
+        }
+      }
+    },
+    {
       "date": "2025-12-04",
       "title": "Interview – Jaehan Park debated; How AI is rewiring childhood; The 25 Best TV Shows, Movies, takes the stage",
       "image": "entries/2025-12-04.png",
