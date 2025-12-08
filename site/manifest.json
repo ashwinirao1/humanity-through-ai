@@ -1,6 +1,164 @@
 {
   "entries": [
     {
+      "date": "2025-12-07",
+      "title": "People, Game Theory and reconsidered; The power crunch threatening America's AI; #23 Tennessee, Illinois To Face Off takes the stage",
+      "image": "entries/2025-12-07.png",
+      "note": "entries/2025-12-07.md",
+      "topics": {
+        "politics": {
+          "summary": "People, Game Theory and Peace: Can Citizens Help Achieve Nash Equilibrium in Global Politics? - Fair Observer. The National Security Strategy: The Goo...",
+          "links": [
+            {
+              "title": "People, Game Theory and Peace: Can Citizens Help Achieve Nash Equilibrium in Global Politics? - Fair Observer",
+              "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYmhZVDRzeVVYWE5URDV4b1RuSmkxdkNyVXZ2NFN6Y1JzWlUzeTEyeGdLZzVxeEM0RzdfeFNxYXB6Zlc5S0ZrWE80NjQwUEUyQVUwSDdfc0VENVNxOFVVZnd0eTJkVXIxcDdab1lFbGd2cW9qcDNXNUNncE1xQ0hicnhJNWtfZmJKY25uejRiQXQ3RW1NY1MwMUFqM0FfRkZyVXpYblByQzFrR0Eya1dqOHBGSFYyMnNfNkQ1T2F3ZkI3d3hVbThySTNoUQ?oc=5",
+              "source": "Fair Observer"
+            },
+            {
+              "title": "The National Security Strategy: The Good, the Not So Great, and the Alarm Bells - CSIS | Center for Strategic and International Studies",
+              "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeXZWV1ZWLW5YT3hXVU4yWmtvUUlyRUVDYmdLQ2gzLTNkTlRkTmVnUXctVlJsRnU2QTYtUkRTVXRmbTlnZC1lVGFlME1BUDUyWmFfNE1UODIyMkhoNjVTY1N6ZzhlbTJwc2R5OE5RRkViMEp0dy10cnphYlotY2VSZlVtbTNnbkk2WDFCbnpSUHo0b3VQ?oc=5",
+              "source": "CSIS | Center for Strategic and International Studies"
+            },
+            {
+              "title": "Interview – Jaehan Park - E-International Relations",
+              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sNThrV1MxaF9LWm1meGhOUEtUWjYxOFVOTmhTQnd6VW1qc3djdW1MeXRqeURYaVJFM0dSdDAwVTNGN29fMjhtaU1semI2SFl2cDJsNG80VHNBdWFvSTRxMElHUUdGdw?oc=5",
+              "source": "E-International Relations"
+            },
+            {
+              "title": "Trump’s Security Doctrine Leaves Europe at a Strategic Crossroads - The New York Times",
+              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeWxjWVp6MWtqMTV3WEhqUU5fbFJLU1ZWdVI4S3A4bDU5dmZidVJGMmIwVHBuQXFzTHJGNUM1NkxFSURMUndnSmIyMDV0Y0JXV0FHZW41a0pSb3EtaWVnaGNsS1dqYTEtcWR5V0dJRU5GVjR5UHpLUmlNNTBBYkZGcHpzYWQzV3VhYndn?oc=5",
+              "source": "The New York Times"
+            },
+            {
+              "title": "Democratic peace | Political Science, International Relations & Conflict Resolution - Britannica",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1NSElSNkoyY3RLUWN1YldrWG93YTBJbEYzemFfVndWUTY5QTNPUDEwSjhQaUl0clF6XzRLZU1NM044d05fVDYwSnh0NzZUREwzYzJWOHc5NjR4RmRubHc?oc=5",
+              "source": "Britannica"
+            }
+          ]
+        },
+        "health": {
+          "summary": "Kimchi Breakthrough: New Study Reveals Powerful Immune-Boosting Effects - SciTechDaily. Brain activity associated with breakthrough food preoccupation...",
+          "links": [
+            {
+              "title": "Kimchi Breakthrough: New Study Reveals Powerful Immune-Boosting Effects - SciTechDaily",
+              "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWDFQWlA4dk1Nc251RG9ZRXpjLXI5LW5rMlM5bE5qRzNKLUxvNi1naHI0Zm5HNGZZRDI1LTFNMG1LX1dpUDBOVFdaRGRXLXltSmVWRy1jQWVuVXp5YVBYVEZwbWF2VzU3aTJ6VHN3UHRaQVpQd3RlT01nal8xMEdrcUhBMjRhQ3F2eVFKRVluUEc0bGR4azhMXzJUelY?oc=5",
+              "source": "SciTechDaily"
+            },
+            {
+              "title": "Brain activity associated with breakthrough food preoccupation in an individual on tirzepatide - Nature",
+              "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE10RHJVNXF0UzZTVXZ0U2pHaXFnN20zeHNOdVhVcmNWdFlTcnpXQWNYc0d2QzBublI5eUc3aVZBRHZoYnFqRkcyQXNCU2lBbmZCMExLUjM0RFJsWVZvTUVV?oc=5",
+              "source": "Nature"
+            },
+            {
+              "title": "Expion Health Announces Qlare™, a Breakthrough Conversational AI Tool Transforming Prescription Cost Decision-Making - PR Newswire",
+              "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOMUdBTm56VnM3SUdiSG1LSVIzX3RUTklWYkJXZUI4cGV2OWR6WnY5elZoYXp4dHpZZTZpNUZBNzNFX04xMXNOX2E4R2pmOEJDdWV3WlVCZjBjR3FLdndjNUFUbkdmd3VQOGhVMFpCeW4zellNTm9uYWRmRXJZLTZOeG1rZEp3d1lvZlE4dk9YT25xTmdaYmI3SVhXaTZrb2lIT0lKUmVqSURRbmVYYmNhNzRwLVY0eUszS3JkdHp3cmdyc0JPU0J6NnQ1UDdnZFdublY5bXM5aHFnYWpQR0JVSlFHMERhcDVLNWJMX3p1VkJ6LV9lZHdsZVphN1dCOXM?oc=5",
+              "source": "PR Newswire"
+            },
+            {
+              "title": "Precision Medicine Advances Highlight Ongoing Equity Challenges: Tina Bhatnagar, DO - AJMC",
+              "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd3VpWHpJT2FaRlUycFlVTnl4OS1vZFlKYU1OVEQ3dDdCY2tGaUZiekp0TTNiLXBnU2Vyem00RnBqUlVTQlpPRnBrRUo1dE5SVTROc3NuNWg4UFR2QkpsZmhTcnUydEdCNFRuMXZWdmF0OUhtVEt6aHJ1ZHE1VGdyQ1htQjlzc0h2TlN5aXllZGNGTlRWdGlpNnZhTHgtanRlVUtDZWtWa3ZSakk?oc=5",
+              "source": "AJMC"
+            },
+            {
+              "title": "Waymo Robotaxis Are Saving Lives, Doctor Calls It 'A Public Health Breakthrough' - Jalopnik",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMkt4ZGtZSkJ3ZHlaZ1JkU3hEU1l6UzVuSWpzYjgxUmRmcWhscXNfSlljWnlIN3RzUE9Zdy1ObUkyaDFLZGtCOEJiTlR3QkVITTV4VUZjeXJxNWtKOER4Ty12MXpBNjVCbUN0TTl5OW82eHNUc3pYMGNpS3JEcVdDMGJn?oc=5",
+              "source": "Jalopnik"
+            }
+          ]
+        },
+        "entertainment": {
+          "summary": "#23 Tennessee, Illinois To Face Off In Liberty Mutual Music City Bowl Dec. 30 - University of Tennessee Athletics. Illinois Accepts Invite to the 2025...",
+          "links": [
+            {
+              "title": "#23 Tennessee, Illinois To Face Off In Liberty Mutual Music City Bowl Dec. 30 - University of Tennessee Athletics",
+              "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdFBveTFjZjNnbElGa2lFclFLVXY4NEhoeFQwY0FsRDZmeEpQNTZJWlVGSEJhU1FIcm5oUzktclZNMHNFblZrRGRpcW42MnFPNjJzenRBLTBUV243VzRZekl0SThOeGNtcDkxaURWOC1WVTEzWEVFWS1FZC1EMGVjeXVWY0ZTcGJubHN0TTBNekN3MnVDbVQtU0o5alhZWGpUa05IQ3BDQ2ZaYWJvQnJ2TDRDd2VZTV9wdjZr?oc=5",
+              "source": "University of Tennessee Athletics"
+            },
+            {
+              "title": "Illinois Accepts Invite to the 2025 Liberty Mutual Music City Bowl - University of Illinois Athletics",
+              "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeHEzVXhYcnRMY1VPVkpCand3ZlY5TXVsYUxFZkMza0d0Nk1KVl8wM0JYbndZWTdQV2pweVdYV2tSRWg3dGt1S0tHZ1ZNNTJSMUdsSndPNEtISWcxelpPaEdQZ2dxNTNhVEhNcW14bTVOZDJpQmFxOEhOZ0xvb2Q4OU5HejY3NmlNVlBlcWJ0VzhYczdoVGd2dlFlNm12bEZLVkJTNFg5SVI1NTdqaThDd1R6Y2dXUVhxaDVhV3h2cw?oc=5",
+              "source": "University of Illinois Athletics"
+            },
+            {
+              "title": "“We’re All Growing”: Pianist Sumi Tonooka on How Music Binds Us - JazzTimes",
+              "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeHJXbmNVUlhFWi1jNUxUUllXb19TbktPTzU4YS1CU2xvLVBLZ1JEMW13QTBRM2lMaG92YWoyVmdxSFZRT3p2Q0dFcldKTEwwUmRLTFNYazA5VTZrSV92UFYyNUFOMEQ2ajZZUmFlYWdEWndoQjNyNkZKa0RVZEV3VjI4WVByTnF1M1N5dVgzU1RTSzhzelZkRlNFRHp5aW9vQXc?oc=5",
+              "source": "JazzTimes"
+            },
+            {
+              "title": "Rafael Ithier, a legend of salsa music, dies at 99 - NPR",
+              "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNV21GdWlyVE5EcDY1Y3Z6dlgtTFB2NTNHMEpKajhMQlhaaWpqWnByQ1ZhdzFVM3FzemhaM0FJeTdoNC1KLWI0dTgyWUhUY2NPUUtqZ05WUWVHUEwwWVJBeXE1WFpsYWdKY1Y5Q1NHWnJtS0M3djhjdkk3RFdLMWNkRTBSUF8xMVhVTDczTmQtQmg1cVI1LTVtLQ?oc=5",
+              "source": "NPR"
+            },
+            {
+              "title": "Second Sunday of Advent - December 07, 2025 - Liturgical Calendar - Catholic Culture",
+              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOek1lMHlxOGs0N1k1UjRYVDJ0aHlDYjd5eGc5YVA4cFRSTk1va1lmWGlRRnZZRFl5Y1UxWEs3TTNuZlFCZzF1RlhjdklGclE4cEZiaHZHLVY4TWRyRm9wOG1DbFdhdXNQQnRNbzZiN0ZYb1lTcldUZlBqRGRxUV8wWG4xY04wNVZNRDR6QVI4ZUo?oc=5",
+              "source": "Catholic Culture"
+            }
+          ]
+        },
+        "sports": {
+          "summary": "2025-26 college football bowl game schedule, scores, TV channels, times - NCAA.com. Charlotte Falls at Mississippi State - Charlotte Athletics. Miami ...",
+          "links": [
+            {
+              "title": "2025-26 college football bowl game schedule, scores, TV channels, times - NCAA.com",
+              "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV0g3ZHNYWl9ScFNGM3VkcVp6QmRxUXQtYnRiaks4Q2pQQWp0b3JkRklHcHBaeU9WYWd4X04yTU9wY0pEQURQSmp0RC04c1o2OFJpSnpQUjBsMXJHUHpFWWpGOUZOZFNUSzNIcnZqbUhSdEVtUjRSaU1wdDY3TUEtOTV5QVROSUUwNVI5ZGpuUzlvS2N2dHI0T2VaSmtOVUJwQ2dDcUxTNWMtc21oOEw0RlVvTnJudElwSmRZQzFaVdIBxAFBVV95cUxOQ2N3SHBXYzRXaDJEdjJCME9XRE55eUZBLWZhZXBhVEl0TjZYZGRwdzU2enpxZjN6ZERqS1Y2UUk3OWtOOGh0ZVc5SDNvOFNTdkgteGhEQ0gxa09qM3N1a3YtZThYLVN0ZUE0MFBFWWVIV2dNa251QnJJZ3R4a0poaldiLTlOZXh1bzRaUG52a1V5Njg2SWRWdlpJQmY3NS12Z3dpYlJabUx4ZDlDWl9zMlRsamNnQXd0QlpIUF9RZjJPemdo?oc=5",
+              "source": "NCAA.com"
+            },
+            {
+              "title": "Charlotte Falls at Mississippi State - Charlotte Athletics",
+              "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRGJsTzkwbmN6S2dOaWhoOTdfV0JjZWF4UFo4SWJGOVhmYUVldDV6aTdnMUpoaC13RG1UZ09YOGJPSUpRTHdhRDVtdlhzVzZRUktjVmVTVDZSdlpJM3BhRzFCTGNWelozUXctVTJveEFjS196cVl5Yl81Zl9lZG9PSWdINFEyR0lQRkl4OHEyNmRmbXpnTUxuYk05eHM?oc=5",
+              "source": "Charlotte Athletics"
+            },
+            {
+              "title": "Miami Leads the Way as Eleven ACC Programs Qualify for Bowl Games - Atlantic Coast Conference",
+              "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONGZfMzJDZWl4a3BtTFE1ajNZWkFoa3dVQjdYOHR3VFRzcENveDVrYU5aM21LWEJodndhd2dQWDZud0JGUWI3YVZyV1BhTUhkS21qR1pwNU5kUldqZUxPMWxDZlZzdVZwX2JFcnlwTWxGWnBNSExaQ19KakEyblRoTXEwdTFmMy00a2VDclNMTzNHT2g1Sko1VVhXTlNWeWFPYmFoWXpsWWdSM3kza01qUmNqVQ?oc=5",
+              "source": "Atlantic Coast Conference"
+            },
+            {
+              "title": "Bulldogs Rally Late to Take Down Cornell - Samford University Athletics",
+              "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQXIzZ0g0d2xlTmtGcUs2dHhYUkJzR3NlTFZ5NE1sUk1LZkVBc0IyVUJrM0pUdDRlaTVXRVJJTXBXT0dnRkF0RW1vbDBXTUJOTzFkMTc0M3pfNXlsUmpUaG9hTDJUMFhVeDNkNHpROVpCQTNKVEhudWQxTjAwczhjMjBNa01qeDRsQV9RX0duTmZoRk1pdWhDM2JZMjN1QmpLSFQ4ZQ?oc=5",
+              "source": "Samford University Athletics"
+            },
+            {
+              "title": "College football bowl schedule: Games, dates, kickoff times and TV channels - CBS Sports",
+              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdTNibGJpMzVyTlI1OHdMeEwxczY3b0I0R2dUR0RLNnJOczBZeVBuVXlhR0ZfT1UzX1Nyc25sQmV1d0xUdW92ZjRnLU93VWVVbTJlNmR6cElCdEpyN2N3VnFOYjBYSFZyX2tlQWliRGFVdTB6WVZQU05pNG9xU1MyQXFZVG9BYlVKenltMXg2NHZGaHVpQWtKRVNn?oc=5",
+              "source": "CBS Sports"
+            }
+          ]
+        },
+        "technology": {
+          "summary": "The power crunch threatening America’s AI ambitions - Financial Times. A mom thought her daughter was texting friends before her suicide. It was an AI...",
+          "links": [
+            {
+              "title": "The power crunch threatening America’s AI ambitions - Financial Times",
+              "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE53aW00anNlNjQySmVaMHN3aU5MSmx2Q3V5dVUyQnRuLXM1dG1iTXlVV1B2SUdzQ0U5TXVwZHpHSUE?oc=5",
+              "source": "Financial Times"
+            },
+            {
+              "title": "A mom thought her daughter was texting friends before her suicide. It was an AI chatbot. - CBS News",
+              "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUncwX2tyblNGZDZLNXJCcWx5ZHdJajJDSXFUS09OWm04NjdnSDgxU3lLTnFJMjUzQ2J2MGpILWpsWjd6bFo5YTlkUTZpb2RfcVFaRFlyMG5HYklTWnFDb0RYYkhWWTVYYjh5YXp5OWlsTzdBX3ZUMGllR21jS0w1ZlBKVFZHNTlOZnp1anFQQ2E3YXIyVC1V0gGcAUFVX3lxTE96d3NURU9IN3JNZkJ0LVdmYmkwd1RLVzVMYy1sQWNfSGVfYnZvSGlfRGlaR0U2T0pMQTZQUGhWYnJxXzEzM2JodFQxdnlTQ2NfY0RyRWsxRG5fT1hsUUplclJOYU5HT252YkN0c2h0VnRuelcwdThvRERiZ3dLT2dhc1I3V1pMdFN0T1BYMWpBalJaWWllSWNIRlFpaA?oc=5",
+              "source": "CBS News"
+            },
+            {
+              "title": "Jamie Dimon on AI: 'maybe one day we'll be working less hard but having wonderful lives' - Fortune",
+              "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUGNKQUV1V2VlaU04S2E3STUwVEYyTTJ0WE44c000T2ZXQXMxR2I2UDVCSGF4T002Y1VFbWV6OElLa3BERUxFdFRLZDN4SUhDZHNkOUtEajJzS0NNLWpwNWhZSUpfQjJINWFiSTlYUjB4ejZzUENBa3puR3c5d2xxc2xhcnE0SGN1Nnk4WW56b0pVT25EeWp6S1RMVXBUU19fRmVlTXlaWVk?oc=5",
+              "source": "Fortune"
+            },
+            {
+              "title": "Japan is facing a dementia crisis – can technology help? - BBC",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SLUtScW1DSExRZTZrU0pXblZMeFFFTTh3NFBnU1R2bXRqNUphOTM0Qk41X2NOUHZScDZUSmRNQW04RlRyU3Y4WlM5SENUbWJ5NFo1QWtha1p4UdIBX0FVX3lxTFBvNkQ2SS1NRVdVVXZfMTZhdEdtTHVhekdWQ3hyVUktb3l4ZXpkb21JSFltMnI0QU5wWGtrOVMwR2ttZXJqMXZncFZOVVNnVTZvZjZRQ1FTcTZiakdYTzVV?oc=5",
+              "source": "BBC"
+            },
+            {
+              "title": "Young people aren't getting hired, but it's not because of AI - Business Insider",
+              "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUzYtVTNjZHQ3VFBxejF3YW1Xc1pOYTNHaUY4ODI4X0JBSVBTZFVQaHFSVUNCUmRhSVE2SHBOcHlWc3BsMlpQN0dmUkh6b3hPWXNHQmVleDY2Y0xTZ09ZN01CckZzLWV5S1dMbDk2NzRyV285QjFlbEZOWkEzT3BZU2s3XzFvUWhyQXlyM3UtVGVMRXVFbDJDZTdXU2lHdW9oZ3ZPTEFsOVdLTU0?oc=5",
+              "source": "Business Insider"
+            }
+          ]
+        }
+      }
+    },
+    {
       "date": "2025-12-06",
       "title": "Interview – Jaehan Park debated; How AI is rewiring childhood; What To Watch This Weekend: New takes the stage",
       "image": "entries/2025-12-06.svg",
