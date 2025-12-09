@@ -1,6 +1,164 @@
 {
   "entries": [
     {
+      "date": "2025-12-08",
+      "title": "People, Game Theory and reconsidered; What's next in AI: 7 trends; The Best Movies of 2025 takes the stage",
+      "image": "entries/2025-12-08.png",
+      "note": "entries/2025-12-08.md",
+      "topics": {
+        "politics": {
+          "summary": "People, Game Theory and Peace: Can Citizens Help Achieve Nash Equilibrium in Global Politics? - Fair Observer. The National Security Strategy: The Goo...",
+          "links": [
+            {
+              "title": "People, Game Theory and Peace: Can Citizens Help Achieve Nash Equilibrium in Global Politics? - Fair Observer",
+              "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYmhZVDRzeVVYWE5URDV4b1RuSmkxdkNyVXZ2NFN6Y1JzWlUzeTEyeGdLZzVxeEM0RzdfeFNxYXB6Zlc5S0ZrWE80NjQwUEUyQVUwSDdfc0VENVNxOFVVZnd0eTJkVXIxcDdab1lFbGd2cW9qcDNXNUNncE1xQ0hicnhJNWtfZmJKY25uejRiQXQ3RW1NY1MwMUFqM0FfRkZyVXpYblByQzFrR0Eya1dqOHBGSFYyMnNfNkQ1T2F3ZkI3d3hVbThySTNoUQ?oc=5",
+              "source": "Fair Observer"
+            },
+            {
+              "title": "The National Security Strategy: The Good, the Not So Great, and the Alarm Bells - CSIS | Center for Strategic and International Studies",
+              "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeXZWV1ZWLW5YT3hXVU4yWmtvUUlyRUVDYmdLQ2gzLTNkTlRkTmVnUXctVlJsRnU2QTYtUkRTVXRmbTlnZC1lVGFlME1BUDUyWmFfNE1UODIyMkhoNjVTY1N6ZzhlbTJwc2R5OE5RRkViMEp0dy10cnphYlotY2VSZlVtbTNnbkk2WDFCbnpSUHo0b3VQ?oc=5",
+              "source": "CSIS | Center for Strategic and International Studies"
+            },
+            {
+              "title": "European Council president warns US not to interfere in Europe’s affairs - The Guardian",
+              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMlYtUHF3My1TUGVoZFpvblM4dW1PQzNwRU52OUVSeU5ra0VWemkxYzVORVplLVlPUGhOMWRuRkxXVnEtZ09fSkJETW5yWTdPX3VWU3VlTHBNYy1ra0t4aEUwb2NIZnpRdjdQS2dtT0FKSGo1Q193ZDZBY3lJeW9tNmtKcEc3Z3F3WWtfWDEwdEZWUXpJUE53N1FJMnRPM2YtbVVybEo4aw?oc=5",
+              "source": "The Guardian"
+            },
+            {
+              "title": "The 5 Most Important Global Trends of 2025 So Far - World Politics Review",
+              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYnBEUkNEMGVGaS1LYXNFbFJreFI1ZDNtWmlrT3JJZDVPcXpjSnFvdkxEYUtpVzUwcEluaFZKNVllemwybHRxUkJ6YjNzaVNNaS1JcDZrQ01RWEU4SldxVk1XajZ2UUpHSmJQUGd1Q05pOXE2bXNCNGIwRi1GTFNQOXk3aFA?oc=5",
+              "source": "World Politics Review"
+            },
+            {
+              "title": "What Do We Really Know? - Texas National Security Review",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPWHJoOFQwamQ5Wk40THZmRmpvdnV4V0ZqLUdUMXVDUk9VQjV4VldkSUhHQ05YNjBwamltU3VWNGlPXzN0dU9iSFR1eVk5RXhCOXM0SWJYdUwwLTd4?oc=5",
+              "source": "Texas National Security Review"
+            }
+          ]
+        },
+        "health": {
+          "summary": "Reverse kidney damage: A breakthrough treatment that may transform kidney treatment - The Times of India. Brain activity associated with breakthrough ...",
+          "links": [
+            {
+              "title": "Reverse kidney damage: A breakthrough treatment that may transform kidney treatment - The Times of India",
+              "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOZWo0UnN0RFZSV2Q2RWR0WDJGNkVMZUtiakk0cmlncllhUTBtY1puVFF3VEloZkdvTXI2UU5GMmNwSzVmUXhjTENRT252TmsyWmpvMmpBZEJ0Y1YwUm93cWg2MFQ5RjdhTVVHOFQxV3Y4WEtBV3V5SXhaVGY4UmNIWTJGMnhMWG9fTjVLV0dMUUtwQnVwamVMZXUtR0xkS29EX01MYTR6aWFza2wxVXlnb1RmM2xFQjNmSE9qNUZfejZpNlhiMmtiQmhRU2wzWFdIT3pHaGdNcjFaaUpyWkRVVnd5VGg0b09rd3haX3p5dEk1RS1PSzFqRFpUQ3RuZEY3YWsxb3BMV3RtelU1Y0s40gGUAkFVX3lxTE9uaUphSm8wQVVwelBwWFktRFhkeUdfcGw3dlYxSnBDN3Q5Z1FsdlVSdEwwX1RIaklKeGRIcm9oaGhWQkR1RmtBM0swT1VkS2t0eE9TTFQzVFIwMThGUTJhdzBVSWtHeE9XNUFpb2EyaEEyUW5hSkhqNFdrQ191Vk94RXdvanJSYW1yMXhxZjdnaG1GYXdocU4xbTZoNlpNRkdxRmFoeUZlTmFaRDhMeXRrc0xWSGZFOTJkdHh6YXpJZG5CVWFYeHNuLWZCNV9teVNqdlcwWTB1b01qVGNiSnZUWVNkQWxOUl9jSEw3NDJjTlA5UkRxREVlQ2oza2Z0N2N6SnBJNkxFRUpmeDBrX0dETFpuSw?oc=5",
+              "source": "The Times of India"
+            },
+            {
+              "title": "Brain activity associated with breakthrough food preoccupation in an individual on tirzepatide - Nature",
+              "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE10RHJVNXF0UzZTVXZ0U2pHaXFnN20zeHNOdVhVcmNWdFlTcnpXQWNYc0d2QzBublI5eUc3aVZBRHZoYnFqRkcyQXNCU2lBbmZCMExLUjM0RFJsWVZvTUVV?oc=5",
+              "source": "Nature"
+            },
+            {
+              "title": "Kimchi Breakthrough: New Study Reveals Powerful Immune-Boosting Effects - SciTechDaily",
+              "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWDFQWlA4dk1Nc251RG9ZRXpjLXI5LW5rMlM5bE5qRzNKLUxvNi1naHI0Zm5HNGZZRDI1LTFNMG1LX1dpUDBOVFdaRGRXLXltSmVWRy1jQWVuVXp5YVBYVEZwbWF2VzU3aTJ6VHN3UHRaQVpQd3RlT01nal8xMEdrcUhBMjRhQ3F2eVFKRVluUEc0bGR4azhMXzJUelY?oc=5",
+              "source": "SciTechDaily"
+            },
+            {
+              "title": "Expion Health Announces Qlare™, a Breakthrough Conversational AI Tool Transforming Prescription Cost Decision-Making - PR Newswire",
+              "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOMUdBTm56VnM3SUdiSG1LSVIzX3RUTklWYkJXZUI4cGV2OWR6WnY5elZoYXp4dHpZZTZpNUZBNzNFX04xMXNOX2E4R2pmOEJDdWV3WlVCZjBjR3FLdndjNUFUbkdmd3VQOGhVMFpCeW4zellNTm9uYWRmRXJZLTZOeG1rZEp3d1lvZlE4dk9YT25xTmdaYmI3SVhXaTZrb2lIT0lKUmVqSURRbmVYYmNhNzRwLVY0eUszS3JkdHp3cmdyc0JPU0J6NnQ1UDdnZFdublY5bXM5aHFnYWpQR0JVSlFHMERhcDVLNWJMX3p1VkJ6LV9lZHdsZVphN1dCOXM?oc=5",
+              "source": "PR Newswire"
+            },
+            {
+              "title": "UAMS Showcase for Medical Discoveries Features Arkansas INBRE - UAMS News",
+              "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQnNRbVh4TUdDQ0swb1NEeDVzNWlwYkFOaUx4UG42YjZsRWRYZWM2OU5xVWZSNExMblJIWTZWRWhGLWlNTHFDVW9iRDV0cXFlR1J0X1hjbUlsWEZSM3lKRnlVSWY1UmdQZHhkbXBTRFFlak9QZU82dEVVWjlOaUtfdmpDcGk5SFc1NnZ5NVhnYmo0MkNDU2toNHprZw?oc=5",
+              "source": "UAMS News"
+            }
+          ]
+        },
+        "entertainment": {
+          "summary": "The Best Movies of 2025 - The Ringer. I listened to AI-generated music so you don't have to - Iowa Public Radio. Long-running Alabama beach music fest...",
+          "links": [
+            {
+              "title": "The Best Movies of 2025 - The Ringer",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GQ1diVFE5OENqRjNLcnhqaGdZMEtuWHBFY19GMEhkNUp0SVBqeEVQcVRTWWs2a2UxMWc5NEYzcklHLTVKY29YMHN2RDlPQWxLLVRvOTFiTTMyS3RnWG1NbFBQQ05qaUlXZnFBNw?oc=5",
+              "source": "The Ringer"
+            },
+            {
+              "title": "I listened to AI-generated music so you don't have to - Iowa Public Radio",
+              "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdGIxUjI4TVNEZU5PNWc0OUxJS0tscmdJbE14TFFuWG4ySjBPd2tVOXQ4ZXJDWm9YbTc2cmtoUWN4QTU5bkpKZUgzbDI1eG1qZ0RZMkptNW9TNDZsRmd0UGdFTkxqTzB4LU9tM1RMbDlUV2NzMTJ4Z2VTZ29hNDVfMWc0NTgxTzlzQ0NiNTNhSEVsTlRjRDQ1cWF3cTQzUW40Tmw3b2dsanl3RFhxeHhXMUctT0RmdFFk?oc=5",
+              "source": "Iowa Public Radio"
+            },
+            {
+              "title": "Long-running Alabama beach music festival called off for 2026, Gulf Shores mayor says - AL.com",
+              "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMjFseGNiYkdxbDF0V040Z0JjdHZXZGhaV3VFSWEzSEE0eWgxRG01X0pfNUpRWkl2SXd4R18tSk5udnhoX29LTi15OUFBelZuYmM5ZXdndTR0eElHaWdxNlJMd21JSFFFaWlYRWJwNGJrbFppYkprdGVRaVVnLU5ZUDFqdmRCWUNveEZObTZZdXdmYzVEWGNyamRvdUdQOUYyaFNQRVF2bHhreXJNTkZfZmhwT3hmbDNsTlJXM2ZB0gHSAUFVX3lxTE9DbjNBdUpaVTA4WEl5YmxyaFlGYVRTNXk0ZUFTT21ReTVYTEctcmNZbzNkRzMyaXYtdGdtYk9yQVA0b1dqamgwemp4c2NieXRSeHM2cDF5cE5tZU01R3NYT09EZUE1bXpIcThfamZMRE5ZdUtpUTI0REcxd2R5Q3Z4ZmR1RkU1NV94NjBPY1h1Zzd1UXJvZVlBNHlkTjcwTDJzcWdtZEdIRzlBdUZZR1BIWTdXTWROYU5WQ1JyZkFiclRHUkFNb1JicVRoMndxVzQwZw?oc=5",
+              "source": "AL.com"
+            },
+            {
+              "title": "Stream Jesse Stanton’s 2025 local music ‘mixtape’ - Cascadia Daily News",
+              "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeDdVLUdVeHdJREl1dEdCeXhUTUNzcHhVZ1UxcTZMSldkckpsZk1WWGpQMXJ0THpnWWw5TmlRMEhqSUdfZ1RmYzZucmNJZ0g4WjVrNXNJczN6ZUJILVI1bTBUNE1rY3BwZTF4ZFYyUVBGZTZCaTVqMG1wVmJlNkpRNlV1amExSUl2ak5UX1VUQjNKcVU?oc=5",
+              "source": "Cascadia Daily News"
+            },
+            {
+              "title": "The Nightmare Before Christmas: Holiday Music in November - 34th Street Magazine",
+              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSHliSXVUNF80bjJ2QTlHci1aVlpjc2YwTmxuSnRpWVhBTlYtVUdIczV5NTNwOWc0RUFweDhrWjE0c3Y4TTB2QWJJQ0ZjRWV0REJrSnhHQk1HeFIxTUVqS2JDTVdzbGk3TVBfd2JscE1hNkJ5QXlUdFlNTmQ3aDFOXzhCVjBwT3FQZHhF?oc=5",
+              "source": "34th Street Magazine"
+            }
+          ]
+        },
+        "sports": {
+          "summary": "2025-26 college football bowl game schedule, scores, TV channels, times - NCAA.com. Tucker Family Commitment Provides Transformational Gift to Propel ...",
+          "links": [
+            {
+              "title": "2025-26 college football bowl game schedule, scores, TV channels, times - NCAA.com",
+              "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV0g3ZHNYWl9ScFNGM3VkcVp6QmRxUXQtYnRiaks4Q2pQQWp0b3JkRklHcHBaeU9WYWd4X04yTU9wY0pEQURQSmp0RC04c1o2OFJpSnpQUjBsMXJHUHpFWWpGOUZOZFNUSzNIcnZqbUhSdEVtUjRSaU1wdDY3TUEtOTV5QVROSUUwNVI5ZGpuUzlvS2N2dHI0T2VaSmtOVUJwQ2dDcUxTNWMtc21oOEw0RlVvTnJudElwSmRZQzFaVdIBxAFBVV95cUxOQ2N3SHBXYzRXaDJEdjJCME9XRE55eUZBLWZhZXBhVEl0TjZYZGRwdzU2enpxZjN6ZERqS1Y2UUk3OWtOOGh0ZVc5SDNvOFNTdkgteGhEQ0gxa09qM3N1a3YtZThYLVN0ZUE0MFBFWWVIV2dNa251QnJJZ3R4a0poaldiLTlOZXh1bzRaUG52a1V5Njg2SWRWdlpJQmY3NS12Z3dpYlJabUx4ZDlDWl9zMlRsamNnQXd0QlpIUF9RZjJPemdo?oc=5",
+              "source": "NCAA.com"
+            },
+            {
+              "title": "Tucker Family Commitment Provides Transformational Gift to Propel Wake Forest Athletics Forward in New Era of College Athletics - Wake Forest University Athletics",
+              "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNVWJwRFg2bHZHY1dJV1pWT190NS1LS1FlUlRfTTRNZ3RDbno5d0JIZ3dkVnhnNDh0b1hTbGFFOXBTOHVMWFBmSG4xTXRWekJTazlqaHBwUDhPdWJTLW5sei11MVhBVS1fZFpFazlzdHlWS3V4UFBfUWlaOERhSHNjWkl6Vjh3T3ktd3EwWlRtcGpHTVlrYWlFOVY2bThqVVJPYVI4bTBrN0t2RTR6dDlLQVpMLUR0THZpdVBDMDNfN0hZbmx5VkdHcm5HaVpOSFVURGZpV3JXTjJqa1kwdDdhNHduVGhtRkJnQ2ZYa243N2Jmem5meG1yclZDa3hvcnN2ai1yR0Rha09FUQ?oc=5",
+              "source": "Wake Forest University Athletics"
+            },
+            {
+              "title": "Notre Dame opt out amid CFP snub is further proof bowl games won't last much longer - CBS Sports",
+              "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPX08tbTViTldvUC1CeWhPakVfTlJjYUU2eGEtWVdTR2NpTWJuTEY3a25Fam9OLV9SeUx2LUhPRTNld0NKYXZkSUx1TDJvMThHeFJxb1Vld21FdWtwcG9WMF9rVDNXZ1lQYlN2WGVfRklSZVk2ejZWR09rVXdrN3FhbmtUUEEzS3ZHeEp2TDFVOHBVcFRGWFZlejJPb3hXYTZGcWZqc3B3?oc=5",
+              "source": "CBS Sports"
+            },
+            {
+              "title": "Hiring a Head Coach in 24 Days - Colorado State Athletics",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sZTZfZ1B6eFhnZmFwb0FjQ0o0Qk1LNHVNNlBGOUNVQVVzUFlBazRuQm14b1JISWhvRzRteTd1X3kyV0MxZjN2LTJLMTZRdHFnT0hQWUtHb2RocWhqcl9Yc3pWQTFyamRGUmZmQXhZNHhPUGZDc1diZjB5cGVJXzA?oc=5",
+              "source": "Colorado State Athletics"
+            },
+            {
+              "title": "Trojans at West Virginia Tuesday night - Little Rock Athletics",
+              "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNX2xJdUNlWXdBZmJTMFE3QmtwTHdsZWZGYnFud0s5MFN1OFRfenhuNTIwOG1iYnJuNm1NejhTVFl0VE9GN3dKS056eVBldnVzV25mbTlhMkhBZnVoclBSMG1TLWI0eXdwdWd6cDdibnJzSUN0THpoODNKOHU2R2JhRlRhQnBtSFQ4azhfU0dNZGwtLVI4cFZiNHJaaFk?oc=5",
+              "source": "Little Rock Athletics"
+            }
+          ]
+        },
+        "technology": {
+          "summary": "What’s next in AI: 7 trends to watch in 2026 - Microsoft Source. How AI is disrupting shopping - The Economist. Trump Promises Executive Order to Bloc...",
+          "links": [
+            {
+              "title": "What’s next in AI: 7 trends to watch in 2026 - Microsoft Source",
+              "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcGhNRHlROFNiZVJrQXFuRzVHLVlHZ1ZxZV9HQUZZNldUbmVrRmYyQ01qYmUwWlk2b2NyTDFlYThrbTkyVUhnWUZTQkNwMXRaSG15amVHVVpmb3Q3c0xxX2RjeDZ5M3VsbHhsSE9wdnVDS3p5NzRCbDZYRVZUdVQxQzd4QXpaT2hib0plQUdSeWZzQmc?oc=5",
+              "source": "Microsoft Source"
+            },
+            {
+              "title": "How AI is disrupting shopping - The Economist",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTVdHQkg0ckFnMWp4T0hKS2RSN2Fnd0VRT1hvV1Z0LUk3b3ZXdjFFVlprMGc2ck83SlYtVHpVb1NsV2pIWGVlSTk1LTZaRHB2TlBkR0phZkhsc3ZNNDEtNVlhOVhwc01PMDQ5VjhVM2VCeGYxc3I4cnZ2STYwNURaaA?oc=5",
+              "source": "The Economist"
+            },
+            {
+              "title": "Trump Promises Executive Order to Block State A.I. Regulations - The New York Times",
+              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUy16eVBRTGhZQlIxSF81S01LWGpVV09BQlk3SjR4MkRtandKZ284VzRIME5UYV9FaXBKeEFuVjlxWU5ERGZ1UEVjMlcyTEx3OG5jazRsQjA4TmZKSE40UmxCOG5idHBoZFBrRDUybjAtbEptc3p1bFBjbGlLekNRRlRDMVhDVGtQ?oc=5",
+              "source": "The New York Times"
+            },
+            {
+              "title": "Why there's an AI bubble and why you shouldn't ignore it - Axios",
+              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9DcW42eHVWWk5EdXhWYU5tWnpJemE5OWlIcDhteXZ0TDRJRDZtcTd2Q3VCV0czMEZnR0YyWUlWTm8zMXNsWjlDYjRUMzhkaFdBV0hIQjY3SllnaHJRMGlmSHJxTFpPYTBsSEdFMkZQVVJvZThNVW1IMg?oc=5",
+              "source": "Axios"
+            },
+            {
+              "title": "Trump to issue order creating national AI rule - Reuters",
+              "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQelZ0MW93dDhGVUJTaVJXTTBrMGRYY0VEZHJCQ3JkQXBjbExUc2NCNlUxQnZROGJ0RDN3SlIybEJmYlhxVWhGbEptcW02eHMxVnBYcV9qY3NDU2g1eDFpRFBqY3RJZUxneWVhRURjYS1SXzhCS3NFalZhM2pmaGM1cjRERmdoWDE2TWNTS1g5ajBJdV9qTDd4Q2FIU2lvc0JoWFVsSmVkN2JnVUFSamVSMQ?oc=5",
+              "source": "Reuters"
+            }
+          ]
+        }
+      }
+    },
+    {
       "date": "2025-12-07",
       "title": "People, Game Theory and reconsidered; The power crunch threatening America's AI; #23 Tennessee, Illinois To Face Off takes the stage",
       "image": "entries/2025-12-07.png",
