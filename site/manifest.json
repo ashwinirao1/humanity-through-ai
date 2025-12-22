@@ -1,6 +1,164 @@
 {
   "entries": [
     {
+      "date": "2025-12-21",
+      "title": "News and current affairs from Germany debated; Why Do A.I. Chatbots Use ‘I'?; 2025 Faces Quiz: Culture takes the stage",
+      "image": "entries/2025-12-21.png",
+      "note": "entries/2025-12-21.md",
+      "topics": {
+        "politics": {
+          "summary": "News and current affairs from Germany and around the world – DW - DW. The world in 2026 - Chatham House. The Illiberal International - Foreign Affairs",
+          "links": [
+            {
+              "title": "News and current affairs from Germany and around the world – DW - DW",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0ZWlYZDNMaFVsZ1NnYnZfaVR4RHVjNnRkYTBnUUpJWjBHbUZGOVhnVFIteVU2TzFPcHNJdE5LdlNIbk54bE5CUjRDdVoyb2pNd3c?oc=5",
+              "source": "DW"
+            },
+            {
+              "title": "The world in 2026 - Chatham House",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQlNLMzNqM01wLUNodVVWYzdiTlpicm5mZUVPb0pPZnNCdDRjTGFZYjg3SHVEQXc2LUUzUkU1UXpnM0FoZnBpQTNKRGNlX0xTeGtWVl9acUxCbVQtbTBZZkUtcTgwYVRQdkl0N0ZYdEJCX0FlalF1dldtTTZNOFZyMmxB?oc=5",
+              "source": "Chatham House"
+            },
+            {
+              "title": "The Illiberal International - Foreign Affairs",
+              "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaHppTE5DRkxzZWxURkstLXZHVjYzUE9GTm1rOVNfTjhxdkNhVUlPaUl1TnRvem9Wc25KVi1vc3V5RHV3Um1vb1YtQU5pNnhoak9ZUk5MTWJwSllFNjRIcm83SXg4OEVRWWJhOTNPcFdPcU5aQWlwSVpuTGZVXzZHZlRVa2ZFVlI0SkE?oc=5",
+              "source": "Foreign Affairs"
+            },
+            {
+              "title": "The 5 Most Important Global Trends of 2025 So Far - World Politics Review",
+              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYnBEUkNEMGVGaS1LYXNFbFJreFI1ZDNtWmlrT3JJZDVPcXpjSnFvdkxEYUtpVzUwcEluaFZKNVllemwybHRxUkJ6YjNzaVNNaS1JcDZrQ01RWEU4SldxVk1XajZ2UUpHSmJQUGd1Q05pOXE2bXNCNGIwRi1GTFNQOXk3aFA?oc=5",
+              "source": "World Politics Review"
+            },
+            {
+              "title": "Symbiotic Realism: a transdisciplinary approach to understanding international relations - Frontiers",
+              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU3h6YWcwLVZmY3pLYjhPREo2cHotN1NMTVYyTmNmU1V0RG5rTnJyV0t3UmV3U3E5M0JfWno1dk02MWtiNFhTOW1IMmtFd3otUm9ubk5QOUZUQ0tLQXJQV0tUUXpxaVFnVGJkbWNuNUlhaVBKeXlQc0h6aHpBbHVMWHl2dmRfRnp3dE82Sk5iOG1BdDM3ckFGWTVB?oc=5",
+              "source": "Frontiers"
+            }
+          ]
+        },
+        "health": {
+          "summary": "Harvard Medical School’s Top Science News of 2025 - Harvard Medical School. The Ten Most Significant Science Stories of 2025, From Medical Breakthroug...",
+          "links": [
+            {
+              "title": "Harvard Medical School’s Top Science News of 2025 - Harvard Medical School",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yN1l0RHNHQTl3UUhxUnpaNTJRY2hmbzRkdHpxQV9TbFdUaHVTaXVCNkNIOFctVHNkZ0pMQWl2UUNwLWtaZzB6X1lXemp1aUF5OXRpQlhmZHpScXpoc3I2NlZSNzVCM2lVVVFaWGxwbzQzWEF0Uk55RFFrSldxYlk?oc=5",
+              "source": "Harvard Medical School"
+            },
+            {
+              "title": "The Ten Most Significant Science Stories of 2025, From Medical Breakthroughs to an Interstellar Visitor - Smithsonian Magazine",
+              "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbDF6OHRBcFlBTzBiM0s3b1RKams5MFJDbFU3M3Q3X05qVXM4ajBNYUZVUGxwakhqbFZDRzNYLUV3OUl6QlR2Z3ljU2lWWHBadmdFa3kyQjJsWnFzTkNwUWYtZnBsOXdLNkd6Qnc1dFRfRGY2RGJiUkFNTXZXakl5RmY4ekFTeHNLdUt4N0cxLXgyU0RmS3FaYVE3bkpyMzlxN21iQ1dCenUzckFBMFhWbnRkUUlkUXZuSWRaU016YVJ6X3B4ZDhQTktKZG1DZWg3MlhQN3FUU1FNWVNQVHdkVlVuSUZxZkdtckp6YmFsb3c?oc=5",
+              "source": "Smithsonian Magazine"
+            },
+            {
+              "title": "Five Medical Breakthroughs Of 2025: Cancer, Heart, And Genetic Diseases - Forbes",
+              "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTV9BT0FfNVF1M3Z6Q1VnZWhkd3VGMXVYNU95TTlBUXU0SVVMMWJEVnR0clhvZ2g5MlhQUHI0Uk91d1FPZTZJdGdYS1VlWnEycGlRaDZIU1RIRWVJTVNYdEpoS0w4TEx5SzhiX0thZmJqclRnWk1nTGxRVzVBMTRKQkJxLU50cDNZMldCYzh2b3BYSUpneE90YnA4S2FSVFQ0V1RvalB6S1dGNnZhSHRrU3NCWmIwN0s4UlFaLWtzYld5ZDA?oc=5",
+              "source": "Forbes"
+            },
+            {
+              "title": "Supporting Breakthrough Health Advancements in Eswatini Under the America First Global Health Strategy - U.S. Department of State (.gov)",
+              "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPcXZzUEl5QjNtUjd2Z1NmSE01NVFmWjNIM3dHVFk4OTg4a1FNaGVnUUlJelFMbVNNVWVLcUVLTHFuMUU0Wlg0YVF4ZEJxdmVsNkczVGh6OHZDUXl5bF96NFdxZUVNQm83ZWdDSDVWTjFCN291THl5eGFPR2RxamNMX2ZGOTdnbnpJTV9FMmVUVHpmY1drZURDTW50ck10OXRKWmd3aTlTcVlZLWUtWEJSYUg1bnBXVFhfeTdoOVQ3WjJMMElERjRPN2t3ZVNKcGluZnZNT1YwRElReklua2RUSlpkclN2dDJETjN5cmR2TWU3NXpqY2dzMkZDR0o?oc=5",
+              "source": "U.S. Department of State (.gov)"
+            },
+            {
+              "title": "Medical Miracles at Penn Medicine: Breakthrough with Customized CRISPR Treatment for Patient with CPS1 - University of Pennsylvania Almanac",
+              "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbkhFZXZpQVRXUlA3bGxZbDJaaXJjOVA0UXVNb0htNXExbmhCM0NtZ2Rjd0owTnVLdXVaTk9IU2FJeDdmcjFwZ21YVm1RWEFMRU1xeGRQZGN6d2E3YldDYTJ5V1BDSnY2ZjBlTE5HWVBMRC1SRVM5UzRzSmRSSmVwV2pNNUM5X1dPWUZMbFp0MVdOM1ROUS1OMU4zZUNIVlc3WUZubVBCV2xId0FmaEc5OWExX05nbGFmX3pycG1pUXEyZVJqcEdWU2JiZmlqZXQ4ZHc?oc=5",
+              "source": "University of Pennsylvania Almanac"
+            }
+          ]
+        },
+        "entertainment": {
+          "summary": "2025 Faces Quiz: Culture - The New York Times. With violins, pianos and cellos, the Kanneh-Mason siblings keep music in the family - CBS News. Spotify...",
+          "links": [
+            {
+              "title": "2025 Faces Quiz: Culture - The New York Times",
+              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNT2JhX19ySWZZa3lzZ3pKU3pFWVo2WVBfdHJZbWM1ZjJxaXgyODN4MmVpMWRVU0lqUUFOWDNKSXN1dFJQYURMR0IwLU9NLXdWZkpkZXBPZEdzTW9tQlZYRDRwY21Pa1d0MEJ1WVg4clRmcnJuUm1vSG5xSzM4QXI0TE15VXU?oc=5",
+              "source": "The New York Times"
+            },
+            {
+              "title": "With violins, pianos and cellos, the Kanneh-Mason siblings keep music in the family - CBS News",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTEhlS250aFFjRXVKdmowdWxaVnFhWTMyUkNjTTEzNFNlUHVNLVkzUDZZaXp0dTRPa1kzOFplN0R4RW0zbmgyb3FpLVZxZVB0RnRGUTVsd1ZFOGc2b25iOFVsS0ZHYmtSQ3hLWFRzdHd4cVN6alN0RXVMb2k4dGNtMlBB0gGHAUFVX3lxTE9wY1R0OTFZU1EyOEVIMHRobnVFVFJqNzgzSHlVSGx2RG1FeEEwcmpGQmNwcHYydHp2SmoyVW1WMHkzZE01bGV1RzV3WVRKUV9mblZ3ZGJ3RkEyR2p4RGlfSlVkYWN6Z0ZBWEF1b2thWFRTMG5iRlBNOUhYM1BsRFAzaU9uQTVsMA?oc=5",
+              "source": "CBS News"
+            },
+            {
+              "title": "Spotify Music Library Scraped by Pirate Activist Group - billboard.com",
+              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPV1pkNkxQenlnWm9HUTkzSkJ6NjlJa3JUSUllejZuVGctb2k4a3AwQktRRnBNdFNQREdrZFA1cURJbDd5Ql9GZHAtSGlPSkw1ZHNobkZ0ZkhMcnBwb2Q1WVBrN3h0a0xtT1kzRDJnVmc0QU9yc1ZSc0FzbldYOExyZmhYLU5mRVRySElZ?oc=5",
+              "source": "billboard.com"
+            },
+            {
+              "title": "Here Are The Top 10 Highest-Grossing Movies Of 2025 Worldwide And Domestically - Forbes",
+              "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPekJPRmVuc0RPc281QUNuN2ZWQTBUZXFPS0RuRjBUU3ItVWtRa3FQR3JRWE9aZ0JxTWRiYms5VzYwV2hEZnVtQUtrUVBaTmxLcDhrYVgyS0kxZDZlS1ZVNW5ZOGpRR3NaeUtrM2Z2TGUwS0JCMkhHT01RMnBhazFWOXQ4YkptVjJqWXByazVNYjNVSnJTMC1VM0tJY3U5aTB2R0tFWmplWjlqVDJqZEh4Tkc1YldORlBhVzQtMGYtV0prZkVuQ3M1eHZn?oc=5",
+              "source": "Forbes"
+            },
+            {
+              "title": "Nine Non-Christmas Movies to Watch During Christmas - The Atlantic",
+              "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSTRRNC0wb2JlcXVqZEhfa1Y1U3lZSWFTRHNkSjNFSXdYUldVdXN5SzNyY2RnZlVzZHdWNmFCZjFkQnRwVm9zM3lVMm5jRWdTSnlLNExBWTdqbTl0Yjc2Y2UtOUlDTWt5R2xaQVRheURLYWRkazZkZWhsYVYtekNieGJlTVIxQ3Y0OGc?oc=5",
+              "source": "The Atlantic"
+            }
+          ]
+        },
+        "sports": {
+          "summary": "2025-26 college football bowl game schedule, scores, TV channels, times - NCAA.com. Trojans Hosting Hendrix Monday Night - Little Rock Athletics. USF ...",
+          "links": [
+            {
+              "title": "2025-26 college football bowl game schedule, scores, TV channels, times - NCAA.com",
+              "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNFdIVi1FdWhJZEJqUHIxOEJhQi1WVEo4cXZodEs3dVd0UTY3eVBXS0xiUjl5ZC1GeDBLRHYtaTZVZmRIOFc3T0hqSHR6QWhHcHpuc3NNek95dzA1bXhmS01lUTlMOE5BNEJaaXhWV0VNOWJZVGxTQ0JWUkxIQ0JuMVItamh5SS01NGlpNHJJRjJITUtCRXNIQkxwQUd3dXd0OHRfTGwyOHptZUU5akVuR0FZcHpDbUt1ZEJUYkhFMNIBxAFBVV95cUxNZldIVFU3bXoxTmRPcXc1Y0JTckJsZHRXMGl1ZFByOVVwWDRyaTFqck10aUZqbVB1WGxseUE1ajFWODJGYzB0NGFkVVAtUFdreURrYmM4bG4zWlRCZ2d5YkJxYkN5ODB5YjRvaDBMNnNsY0RMX2FKQ0xwUC1nTUUyMEI0a09HMVU0RDVFbE5ieHF2c1hHU0NOc3lMQVdiM0UyOUtDbmQ0emlhcmJ5bENtS0lqamFja01GQ29JM2RjT01Ydmc1?oc=5",
+              "source": "NCAA.com"
+            },
+            {
+              "title": "Trojans Hosting Hendrix Monday Night - Little Rock Athletics",
+              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOamYzbVJVZjRERExLY0VTUkJmTU1tWmNaY1ZwVVVQYjBJTzJnQUprbUFfYTZYOTRDZmpYc1FFaTRoQW5iNGpkN085ZHNPVDVXdHQyRmktOEU1bW9DakctSnBtSG9QNmZWWnk2bm5sX0oybS15aWQ4aU5aYmJSeG5BanhaMVZISDZ6SnRxbzh5X3RhazBoQ3dILU53MnNWQQ?oc=5",
+              "source": "Little Rock Athletics"
+            },
+            {
+              "title": "USF Men's Basketball Defeats UMBC to Stay Unbeaten at Home - USF Athletics",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE83M0FUUU9CdTBNVUlMRUNzdXFWYlNSeF9oOWJzcmVhSC1GYU5WREFCdm01U1ViSmpKLTZBcFYzRjZKTE52QXNvM1BLdWtJb2ozYjlBejh3dUlzZTA4YXJNSnk2cTE4SklhM2I5eFoyNUc?oc=5",
+              "source": "USF Athletics"
+            },
+            {
+              "title": "New rotation clicks entering nonconference finale - Grand Canyon University Athletics",
+              "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVFJVWnJrTE00cmxWbHV3U2xkQjNLRjZNSjQ5NTFwLWZlOWJzVUVjaEd5dFdJRGNzMUZ4UTVYc18xMjNCWmpiYUxUMVJ6Sm9Bc3FNRXpuRlpaUW1YRS1BWGwtdUk0ZmxTaXRnSnZxVzBZYTZUVXdTNDFwYkxlbHdrenFfVjRsOEVFWnlxM05Ia2lwOW5OVHozbW41ZFlrZVBHQjVZeDc2Q0gtZzBaZUUxSFUzZmM?oc=5",
+              "source": "Grand Canyon University Athletics"
+            },
+            {
+              "title": "Famous Idaho Potato Bowl Pregame Press Conference Transcript - Utah State University Athletics",
+              "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdEFpMTV6by03SFlKV2RfSzJod3FQVElDRnJOUWNiU0hDTk9kV1NPZ2JnNjJnNFhrcU00ZV9Qajk2M2pKUW8teTdyVHA0NlNpRFR5dTBEekIydFhVdVhTa2pWRlY3a05aUklYbnlsZk9Vd1pwWGlGZTBCQVp3aGZjNzF1VnF6V0RRRDhfTEdReTIySUQ1Nm9tamkzZTVSWmNBZHBSanRtY2FEN0lhLV8yNDlhaFRkX0RWQnc?oc=5",
+              "source": "Utah State University Athletics"
+            }
+          ]
+        },
+        "technology": {
+          "summary": "Why Do A.I. Chatbots Use ‘I’? - The New York Times. These Teenagers Are Already Running Their Own AI Companies - The Wall Street Journal. AI Data Cent...",
+          "links": [
+            {
+              "title": "Why Do A.I. Chatbots Use ‘I’? - The New York Times",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVDZCX0M2eXJUVGVlbS1SRUVVSE9xejNaRzdhbEpndVVvSzY2V3FaYU1zTDJ0V2R2VTJWVVJJaUpJRTUzcEEwNFpfUndsZVZNYnNhdUNZNmstU1JIcXdTTXlCYThEWGwtYXZaREZET19KTlZ5ZWdXUkdJSUJZRTN6Nw?oc=5",
+              "source": "The New York Times"
+            },
+            {
+              "title": "These Teenagers Are Already Running Their Own AI Companies - The Wall Street Journal",
+              "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxQN1lWMzdoV0pQMlpKTm5fa3dXdDcyMEJTRWhfVDBjT19FRWtZRklOWkNfUnIxb1IxOGsway1Uc3lBamNDbGFrY05EdjdYbXhDSWZGbWlfWVJ5UThnbkRnRkxWNXJPUExfVzZaRGNQaXBXS20zb0pqcllmUjFGSmszQVNqUlY0MkFJT1VKV244NENxdHh6cUJnNlVlV2JyeEtqQ3NoZDdyTWM5MWU5VFl0WWJ3QVlXT2pfM3UwZGNPaFVyaGZPOUhoSDZjQXMwd3NlMnluaXVsQjhCU3YxeDlfRE1xOE1JUWtCREU2V1dGREs0XzdVT0Y5Y3J0cHJ2VlNQRm04dGktXzVnaURENzdNUXJLc1FGZFBabjRmbEFMOXBuQ2JHQ3otVFBjQ3AtdnJON1g5c05pcXVPUVRLZUE1SDBkUXNnMDF4SS1xazJkU3N3R29CLXBsZGdwNUN1TDBVcDMtTnA1QUhra2pNUExhSmpyMEpTckFxWVdpbVVtMTc?oc=5",
+              "source": "The Wall Street Journal"
+            },
+            {
+              "title": "AI Data Center Gold Rush Driven by Thousands of Newcomers - Bloomberg.com",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0zR0FVQ3JwMFA0eHRhUTFhRVo4QzJEMk80a3dILUhfaE5zZEp5MzRrWURKNkJoczlSNGU4ZmpzOFd2NXVKcWtHMkNiVFJQUF9TdW5hczNXbk5EVlg2eGthY1BxYnhFdlRkQkV3VFg1cVE2RTQ?oc=5",
+              "source": "Bloomberg.com"
+            },
+            {
+              "title": "How Oracle became a ‘poster child’ for AI bubble fears - Yahoo Finance",
+              "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaXVqQmVIVEw2c2Z0MmdQamN0RGtzSkxaemxoSFpUZk9TZVRMeDVUcjcyWlctUlJtRXQybnZ0RWhMOVhoNEFRX3AzRzBocGpXUHVQamxpTlFrakNfa3BkYkcwYjlDeGptdmdIQTRjX1lCLUhBcHBtbDFreUUwcGNwdUdGMkJwVDh4TjBmM0VDb2pVbS1jcGR1dkliUk1semM?oc=5",
+              "source": "Yahoo Finance"
+            },
+            {
+              "title": "This AI finds simple rules where humans see only chaos - ScienceDaily",
+              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5sc1BZZnNvOFFUdW9ZVDh0NmxSb3cwbmxvYmR3Zi1na0diSkdOZjN2ampFUVh2SmhvSVJySUpxVldlR1NvZnN0alpHYUdqcWZiV0N0X0ZKdnk1ek0zUjJVUTBjcFRZamN1aEJVNng0cw?oc=5",
+              "source": "ScienceDaily"
+            }
+          ]
+        }
+      }
+    },
+    {
       "date": "2025-12-20",
       "title": "The Hedley Bull – Ali Mazrui debated; Synthetic soul: AI-generated gospel \"Mississippi\" singer; 2025 Faces Quiz: Culture takes the stage",
       "image": "entries/2025-12-20.png",
