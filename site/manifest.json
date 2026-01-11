@@ -1,6 +1,164 @@
 {
   "entries": [
     {
+      "date": "2026-01-10",
+      "title": "The Transactional Trap debated; Astronomy Picture of the Day; Movies for Grownups Awards With AARP: takes the stage",
+      "image": "entries/2026-01-10.png",
+      "note": "entries/2026-01-10.md",
+      "topics": {
+        "politics": {
+          "summary": "The Transactional Trap - Foreign Affairs. How the Increasingly Wide World of Sports Became the ‘Swiss Army Knife’ of International Relations - NYU. A ...",
+          "links": [
+            {
+              "title": "The Transactional Trap - Foreign Affairs",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ITUY4ZkZDMmZHWFNtZlJVVndiRGdBeXpIdUE4VFlmZEVWQ0h3Zml3ZFVaVUgtejhkNWlaczFRdTNDNDVoYXZoZ1M0dGNDbDRVSEpQSGw5X0h3ZXJubm4walAtY1dWNzdEc29laHBVOUE?oc=5",
+              "source": "Foreign Affairs"
+            },
+            {
+              "title": "How the Increasingly Wide World of Sports Became the ‘Swiss Army Knife’ of International Relations - NYU",
+              "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTm5vbDJUNmpFZlJRODdOVFliTENsckFhV09XNUxDenVycXFlbFk4YUVCeEQ5bHh5LXRPMU13OHlxVXpNWEgtWW5Xb1VCbjViREdSZ2RzRGdWV3FMYUJoYXZ2dkptbEdmUUlHVFUzbVQyanBQazV4XzJEcWZ2QWxUQWM4UG9jSG52UTNoYkxGMk5xVnJ1M1NaUENDOUlTNWZ6T19MTTNvQkl6TGZoYllSdHZhRGRQVzI1dkphdThWWkctU19xTzE1QnBqSQ?oc=5",
+              "source": "NYU"
+            },
+            {
+              "title": "A World Safe for Autocracy: What China Wants and the Domestic Politics that Drive It - Stanford University",
+              "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTWFBcUZzd0RCa2YtM29TSTMxWjVja1h3NGVPVnF4TTlYUExfOEhCcG40UnRxaF9QZTRQQjAycTBNV0xBZXRkUXA5MGpTaFN3TUF1ZktVTExFUV8wSjd2NHEyQ0tEQ3lLWTA2eXJGeE9tWjRkT2hzRURMTElVSVFZNHE5QWNoM3RtVWlOLVRFYlBTT2Z2ZmFrdkRYSVBzNnZ6M1ZURWJMQWlUZw?oc=5",
+              "source": "Stanford University"
+            },
+            {
+              "title": "The Theory That Gives Trump a Blank Check for Aggression - The New York Times",
+              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQd3cxNk1Gb1djQkxPRUNidTVvTXBEcWNMZVh6RDhRX2owdkdYSl8tMThNbkF3ZGxMdXNmd0Y1MnVyTjJidjFXY0p3T0hHa0FRMXN0X01DOHBoVkhIODlWNWIzWFdSOEFBTEd3cXlrSVRCNEM2dF9sZmpmZ3VaT1Y5NzVCcHlCZGprVHRMWWRGYlhMWTJVM21YTVJsakNndw?oc=5",
+              "source": "The New York Times"
+            },
+            {
+              "title": "Symbiotic Realism: a transdisciplinary approach to understanding international relations - Frontiers",
+              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU3h6YWcwLVZmY3pLYjhPREo2cHotN1NMTVYyTmNmU1V0RG5rTnJyV0t3UmV3U3E5M0JfWno1dk02MWtiNFhTOW1IMmtFd3otUm9ubk5QOUZUQ0tLQXJQV0tUUXpxaVFnVGJkbWNuNUlhaVBKeXlQc0h6aHpBbHVMWHl2dmRfRnp3dE82Sk5iOG1BdDM3ckFGWTVB?oc=5",
+              "source": "Frontiers"
+            }
+          ]
+        },
+        "health": {
+          "summary": "A Medical Breakthrough for Lung Disease - AARP. The top medical advances of 2025 - statnews.com. Drones used in breakthrough approach to monitoring do...",
+          "links": [
+            {
+              "title": "A Medical Breakthrough for Lung Disease - AARP",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUWVveE5OTEs3cmhMTXlaUl9LT3k1WXJDa0huRlFNdXUyeDRaTFNselgwT3RVc1JvT3k2eFFmM1RiRXJWbW9KNURrWkdReE54dlRncldYTFN5UzdpTHJhQUUxWmJKZHJtSmN2bTk3ZkliQWhaVlZLbFN3VERNMVNQeDZR?oc=5",
+              "source": "AARP"
+            },
+            {
+              "title": "The top medical advances of 2025 - statnews.com",
+              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNamJCVFE4M0NVNXhMVExQMWV5ZHBta3VncGZfTnBna2NVYlpITHNhUDVlMTRseUU4M3NVTE1yLU1uZ1g0blU5Q1o0NVhfREdxVF9qVFdrakU3Q3h3M0ZPRERBWkYweFZaUHduRXMtdW43VUxJaWdyY2FjMTVQaVRfS0I3VmFaazMzZzhqSWZsY05nZFpPb1g0Q19B?oc=5",
+              "source": "statnews.com"
+            },
+            {
+              "title": "Drones used in breakthrough approach to monitoring dolphin health - Oceanographic Magazine",
+              "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONXV1MC1IM0ItYks0QzhEQVREb0J1dlJPaUhEMTg1SGFVZGRDTWtwNWZHQ3B1eEJ2M3QtQTNOdlhWR2toQVQ2WjJyTTlPSVBPS09yRWtGWERubmY5bFlEX2w4aHVXTlhLWWZ5a0F5cEprclBNM2tPLTlIZTduTmpmMkdrN2pKdUVld1BsNEZBZm8xdkN4VHVsVXVMZkNmSkxrMHI2cFdCeWgwWndSZkdMQUpzQQ?oc=5",
+              "source": "Oceanographic Magazine"
+            },
+            {
+              "title": "Evidence-Based Science Is Essential to High-Quality Health Care - HealthCentral",
+              "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcDBJUTBrYUhuZm00T2tZWFlFa1R0bERDZEk2MTdrRkw4SXhGT0U0OUxuX2ZMb3pDU2tzOHBrTl95dUMzZzB3NjdrLWZheDRGYWpQeGlRVEozdDEzLUFqQzVxZmlTemJrSi1nVVhPR2YzdnROV19FRHJQajZ1aFJFS0l4c0pQMlFrNDRjdVFFQ3UyM3lsR3hfYUNuc3ZJTG13S1FtUXBWSnl3d19D?oc=5",
+              "source": "HealthCentral"
+            },
+            {
+              "title": "Health in 2025: Medical breakthroughs that gave us hope this year - Euronews.com",
+              "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeWFnRXZKWXFQQm9pNVNScWRfNVVRZnBDSUtNWkw1MFVHQXQzWUtpdmdXRzdKMkJzMHBxMzlCZEZ2djJhQ0I4RDg4MVVmZDJlNTdSb3ZiZXBQejZFQ0UxZHQzOU9PNnZ0MlhVMFBUbG5sTS1LTHpGbmhyMWVobFUxZk9LbzBJblk5SjQ5dWdYQ2pKRFlWeDNld3l5UGhfMkJZQjB0WU9R?oc=5",
+              "source": "Euronews.com"
+            }
+          ]
+        },
+        "entertainment": {
+          "summary": "Movies for Grownups Awards With AARP: ‘Hamnet’ Takes Home Best Picture - The Hollywood Reporter. A Con Artist, a Music-Industry Legend and the Feud Ov...",
+          "links": [
+            {
+              "title": "Movies for Grownups Awards With AARP: ‘Hamnet’ Takes Home Best Picture - The Hollywood Reporter",
+              "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdmVKMWVibkxxNm9FYzZkNWptcnNTZjdRakloQnRNOVdlSmo0WGoydXFqTVlKYXdqTGZseGcwMkFOSzRnRnh6cGF0bjBPVTJFYVJjVW4tTUVRNjA4MnZ4SVA1X0NEYXhOVmxuQVM4MjdhTjQ2NzFtY3dNTENEVzR5SGJCT0NtN0tZbk8weldqNVVWVk1ZRkZLS3lFMmx1cTNDM3RBdXJwejVjeE5HZ2hR?oc=5",
+              "source": "The Hollywood Reporter"
+            },
+            {
+              "title": "A Con Artist, a Music-Industry Legend and the Feud Over a Masterpiece - The Wall Street Journal",
+              "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxNTDlHbENjenFaeE41TU9SYWRndjJpS0ZsdWNlaWJTYkRCMVJ4T2o1UkE1c3lVeFc5bTQwcTRnMUZ4Vl9Ldmg4eHRVWHJ3SW5LYmpDMWxWR0kxdXRiNk1hZjVLbDEyNEFWVzk3N2RPaHdpVldoa0hNbFRJcmdSUUJfdHg5TmJwUE9TQkprRFNuVEVKbnZQV0pST1lfM1k1N1E3el9URHhBMTB5cXo3WkhRbmFjY1NKZDJyLUNLRDJWRTdmQ1NlZHZYT1d6YWVjZkplSms4YzJpX3oyRGltd19PaDlyWW9hbXZpMG12M1l1dVZSN29yWG5rUGE0clRqd2tYQk9PMm9MLVY5ODJ4cGVncXZ5c3R1akpKRjE5am5Wa2pZTUxmTWM5OEJOMVViTmFKZ0ZKRW5mTjRhY1Vjc2dlUXl6QTF3cjV6QTNTWkN3b29pUEpWNDhnb2xyUi1HdzJtMDNIUVpvcC1mRzUtbkUxQUdZTjRnbW1Ka0dXUDdUbWlNUUFHa04zVG0yZjd3dE0ydXlPbjNuRkRNYTNt?oc=5",
+              "source": "The Wall Street Journal"
+            },
+            {
+              "title": "Buffalo Galaxy: Ozark Mountain Music Festival 2026 - Northwest Arkansas Democrat-Gazette",
+              "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORGl2LW40V3Z0UE1TYktCYXN4dEJtdVR4aHpBYjNMQldVWm9PZzVPMjl3U1VwbjZzTk5MMU54LThoN1pQTzd3ZnlkVUI2RUZnc01iX2E2bDQ5QlJDdk1NclNsWjB5Yk9IRmZudllCV29GQTU1aWE0WnBkOFE1dzFZMW5ablMtMEpndExGU2xCby1wd2w1S0lKcER0QmlCaExzOHRVWkd1NXBDMFUtbTFkc2Vyb2NmYzl3YlJ5RWdB?oc=5",
+              "source": "Northwest Arkansas Democrat-Gazette"
+            },
+            {
+              "title": "The top 10 best movies of 2025 - Substack",
+              "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM1g3bHRMWk5BaURxM2ktNEJ4M0pyTXNIZ0IxYThWTVF2OFFOTjdIaEc2ckZTRDZHT0NWdTI4ZEMwWDVOYmlsVUpyZDZaN1VpRjlkODgyX21xaFdFOFhETlFYbDJGMXhVdms3aVRVdXVUYWYzeUZlb05pTWNrRFMydVljSWVZbW5ST3lLVG0tb01Fcjdrc3lrelEyZWx5bHZkWTJZdUJFX05seVk?oc=5",
+              "source": "Substack"
+            },
+            {
+              "title": "Seabury Hall Performing Arts presents ‘Junie B. Jones The Musical Jr.’ - Maui Now",
+              "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQXRSS1NEQW5Xc0RoelhqWUVCbzNNMVo2bUJ2UGFDUWJIYXNqbFRtTGQwdVAwTDM1U2xyVGp6ejMzLWtLNllFYnlZUDRxSWNmN3c1RDBIX3dTMjI0UFVneE9Pbkt2OVNmZkM4U3BweXV0enNuRUktZXJyRlRLa1BMemY1OUE1UmswWnRkbFJKSnVNWkNTeUk5RGRVVVZ5VEE?oc=5",
+              "source": "Maui Now"
+            }
+          ]
+        },
+        "sports": {
+          "summary": "2025-26 college football bowl game schedule, scores, TV channels, times - NCAA.com. Blazers Cap Strong Weekend at Birmingham Crossplex - UAB Athletics...",
+          "links": [
+            {
+              "title": "2025-26 college football bowl game schedule, scores, TV channels, times - NCAA.com",
+              "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOUNxeDc0QlZsNHhkeS11UzZtSldhSUJwaXpzT2w0aGtVdks3Sk9rYi0tOF95MUJ3Tm1ZbUljb3hQMW5aaGwzci1QaGdac25xd1NkdnplT0VZbWtwa0h1Nk1mS3FpWEJ3V1BYa2tzWTFqWnozTlR1RVUyMW5hQlVielFQZ0FMWEp6Y3hVanBtZUlxbEEwVmduUkdaTV9nZjdqcERBWDdScE5vck1GRkt4SVN0cUdEY1g1Y1VnOWF3b9IBxAFBVV95cUxPSjBMa0Fsa3lqaW1TdGpkeS12YmZkeVV1YnNlUGJobkVzTjRjU0psS3NUakRybURiV2xBSHBWRHRIdDVEVXF6M0RwdWtROURsSVR3T243VkFuWWlDZVhaSkZ6a0NGMm1rS05hOTRZc2dDRExFWGJNR3ZOcUhYM2ZKZzJ3UzZqampMNDliN19TcGFjZjM4YjVmVXVIcVlBLXZnSmFKcGg1NDZaelc3M25SRlJaVU9nWkxqWjFxb1VTQlFmazV3?oc=5",
+              "source": "NCAA.com"
+            },
+            {
+              "title": "Blazers Cap Strong Weekend at Birmingham Crossplex - UAB Athletics",
+              "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTmdBWi12Rkd4Tkk4cl9hVnIxTjZTOHlBSzUzWF82ZGctRU9KYjNJTWh2U2RnUzkyZnBxeW96RktMTmxEdndwS3gtd1BGRXFVY080NDlURDU0Q0xkWF9tcVQxaTlwbzYzN2s3Qk5qYThmcl9vcnpjdmk2a2FaaXZROEc0ZW1nNUswV2E2eDFIVmRJQkw3QzJvUG5DLXhmYTFzdDlZR3FCQ2kwZw?oc=5",
+              "source": "UAB Athletics"
+            },
+            {
+              "title": "Men’s Tennis Draws Record Crowd in Loss to Arkansas - UTRGV Athletics",
+              "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbzlBNTRtMUtpLURFcVJialNZaTRGWm9TdXhIdDJYLWtKbDJMcmNMMDllTmx1V3dYV01lUEwyWWNsR05JT2k1YmtLUmZfbUJnNzNFMTU1c1V6cTFnZkFjWlVQbWQtLXJWSVJPQ0tKdmRKZUVWOUd2WlI4cnFseWhRcnNnZDMxcmx6RHRPUkMxMHhzU3ZoekdNRUdUc0xDY0Z3Nld4bw?oc=5",
+              "source": "UTRGV Athletics"
+            },
+            {
+              "title": "Milwaukee Slowed in Road Loss to Golden Grizzlies - Milwaukee Athletics",
+              "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPelhaWmtiOXV3TkdBdHV3eHhYeTVNZ0dOUVp6eHVoN3ljWlZCU3BXLTJFTG0zbWNlNWcwS1RiMnVHYzVCOHdZQ3pNRDFxa2NpbXpEZV9RZndaUmJIYUxRNm5PWjBrV0ZQaUMxYTRnb1lhbk5GQUJDYVAzd0tVbGE2Q2dsTkI5SnpxelhjS3pjOTNXTlpwQWtxelp0NkdrRDYxZ0pza1pfYWN0UWlzQkJGSw?oc=5",
+              "source": "Milwaukee Athletics"
+            },
+            {
+              "title": "Women’s Basketball Drops Sixth Straight MAAC Contest - Niagara University Athletics",
+              "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMnJ1cXMtN1RnaUlfMUY5N1VERm1rbGdzdkI5aVROZ19TZWlTeGE1T2FNUkZyRTc1YW1sR1hXckstdEREYW1HbUpYMWxwRUJfUjZXTDJXQUNBcm1CWjdVMlNZM0xQWjJseVhBVHlQYk54TXhzcWZyc3gtNFI4cXE5bEZiTHA2cTBKVVpVV2xGT0h0eGhub0tjc1ZpbVVHTmkzclNkeGhpZHhYR1BxaUtMbzhDV2c?oc=5",
+              "source": "Niagara University Athletics"
+            }
+          ]
+        },
+        "technology": {
+          "summary": "Astronomy Picture of the Day - NASA (.gov). Are we in an AI bubble? What 40 tech leaders and analysts are saying, in one chart - CNBC. China is closin...",
+          "links": [
+            {
+              "title": "Astronomy Picture of the Day - NASA (.gov)",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUd1FseWNRN0Q4T2xjNHEzZThtRnlSeEZhY0tIU3FzNlVLRW1maTZtTGo0c3BBRHdSUmRzRTVPQzlTdFk2MllpZXFodnJtNlVSakE?oc=5",
+              "source": "NASA (.gov)"
+            },
+            {
+              "title": "Are we in an AI bubble? What 40 tech leaders and analysts are saying, in one chart - CNBC",
+              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaFlLSHBtRWFudDJESHVyTUw3Qlc3VXFkSmpHclEtbGppYXZLUmtDTXh4V3VaLXJTaERQOEFBbjkyT0pKMGZNLXJ3aWRmbEVxREtIa21FWjFNOGZ2TnliZ3FxYVBueWlUY19kcGFaZkQ2Q21rNEkxUFJtbnBBSnEwQ2hLRHhRUnhu0gGOAUFVX3lxTE56Tm9sOEhMcHcxMldWeDNnQkNVTzY0UWpncFFDV05KQ3BrNTM1UVhXRmtFMld3S0J1dVpUZ01FMjRoOW8zNkFSZGZKbHEtRzFOOWsydHB1RHMzMWNNM21MMVJsOXpsRVdPSW5XWVR6REhuUE8zVHgtbmo4dHk4Q2RpR2RESjdWaDh3dHRNeUE?oc=5",
+              "source": "CNBC"
+            },
+            {
+              "title": "China is closing in on US technology lead despite constraints, AI researchers say - Reuters",
+              "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVU96MFdXTGNteVhobVFPLWE4ZTR3Yl9FampJd0dMZmlhdHhGOTBVTWFkVG52RjU2UEYzZ3EwLVVRUGtEZjR5c3lwaG9uMUpkclp5SkhOcmZHSHJjNE1KSi1ZbXNaRy1lbDVTckRfTThUcVBrTkEyWE45czFHX0tZTnE3X2NZTFdaci1mSUltTVRhRjJWcmxMNkJHY3lkNzJ3NHJVRWpHTXBBbndjRVhHT25DNTJmUngwNTI1LThvVQ?oc=5",
+              "source": "Reuters"
+            },
+            {
+              "title": "Indonesia blocks access to Musk’s AI chatbot Grok over deepfake images - Al Jazeera",
+              "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRzFBcTRGaGZ5ZFNfUU9DaG0xZXhlZXhiMk5GT3pTUTltY2lMNGJqVlc4Si1mYjZqYW5pQ2ZPaHNTTlhrMGFLbVRvam5xUDhyeUdDYzYteUlEZVEzbEx4S2FwRHEtMFpTZGZXLXltdGNQWkhFeks5N3ZBdzdjS3loTGpPUlZiWXBUdlBFZGMyZlhwOHUwSEcxTUJMaG03ZG02Y1ZUc29semo3d3Q0d0V30gG0AUFVX3lxTE9NVlhQNXhtUEM3cWhGM09HTlZINC0wS2hlT0hWQnBtTUNYdDFBXzUwRzBscXNhb014WmRicTVESTJHYjJfbjlXZEJ6ZFNTN0phNVpFMjYtWDlKOTBuY1diQWdiVW9meGdpYjFLbmZwSXRna0pjcE56dWFBYllwbk5zLWdTMlB5Z205MENBeVJPY0FEVVE3dG9sT00zaUxqU1g4ZlpQZjVoOGNiLXk0cXlLNjFocA?oc=5",
+              "source": "Al Jazeera"
+            },
+            {
+              "title": "Self-learning AI generates NFL picks, score predictions for every 2026 Wild Card Weekend game - CBS Sports",
+              "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRUhBamdWWE9rSG5HNjRMeDZPNUZjTExRWHp2ckJEX3NiUFF5MXhNS3hLQ3JFTU5pMTZOZ2tqUHh1M2N3ZkhtSDBfS0sxSTBSVFRWRzE1WjlicHNieUhKTk5naUN5QUMyVV9xckhkOXBrRGxNMnRoYzNwZGdlXzhldl9pRXdCUDBrcG9TQS0wMExfQm8yLUJ2X3ZwSW1mampadXdLdWdQN2luQ1k?oc=5",
+              "source": "CBS Sports"
+            }
+          ]
+        }
+      }
+    },
+    {
       "date": "2026-01-09",
       "title": "How the Increasingly Wide World of debated; AI's Memorization Crisis; Fall in Love on Vacation with takes the stage",
       "image": "entries/2026-01-09.png",
