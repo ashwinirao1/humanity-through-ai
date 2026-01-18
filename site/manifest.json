@@ -1,6 +1,164 @@
 {
   "entries": [
     {
+      "date": "2026-01-17",
+      "title": "Political Science and International Relations debated; How AI can balance competitiveness and; Memorial of St. Anthony, Abbot takes the stage",
+      "image": "entries/2026-01-17.png",
+      "note": "entries/2026-01-17.md",
+      "topics": {
+        "politics": {
+          "summary": "Political Science and International Relations - Carleton College. How Trump is making China great again—and what it means for Europe - European Counci...",
+          "links": [
+            {
+              "title": "Political Science and International Relations - Carleton College",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90a2tVM0NOaWRoendDTnJGTVQxUEc1REJNODdQMUpJWl8wLVl4c1VOZURmblZXQlVFbWhKcFhoaW9Fc3FJbHVEbkFaWHZ1WEdpbHEtaW1n?oc=5",
+              "source": "Carleton College"
+            },
+            {
+              "title": "How Trump is making China great again—and what it means for Europe - European Council on Foreign Relations",
+              "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObXpJMHZaWjBoYVU0QlR4OWR5ME1UZ05NQjRveEhFUFNaU1ExR21rcmZwcnUyTEJueGgxeWpIYlNoYmxTbXZycDk0aU9iTTgyajRNZExxLW5oREs3NExYN3BrYWNhcDl4ZFJ6UnhUYkRjMU5jZzVxUk42ck5vcnBwaUhlbGFYMERSN0RHQXZFVk5TY2hzb1k4M19nbw?oc=5",
+              "source": "European Council on Foreign Relations"
+            },
+            {
+              "title": "Trump’s New Old World Order - Council on Foreign Relations",
+              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lbWphR1lPV05HN0NINm4zUzBhRm5jU0FzWDZwLXl2X3BXd3czTVg2UG5jVTB3bXJxd3hCa0RuQ0lfWjFCckRRcHliRkRzVExlSWxlZXladGdpd3BjMWw3NFktVWs?oc=5",
+              "source": "Council on Foreign Relations"
+            },
+            {
+              "title": "AMA’s international involvement - American Medical Association",
+              "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOX3Z0Z1g1UFZsSlhzSkFGS2M1bHhRZVh4LWdLYU9iMEgtYzltTHVpMy1LWEZBTTJCcDFTSS1hRHQ2bnJLdTFKQ2dHRHhHZm5ZQXdvNlBWRzRXbkF6Wk5MZUVpbVZvb3lqZm9pVTYzNXhheU8tUDhxb0h1YThXSUc0SHRQUHE4MEpxbXBEdjlRQ0M0ZWJ3Q2lPTg?oc=5",
+              "source": "American Medical Association"
+            },
+            {
+              "title": "A World Without Rules - Foreign Affairs",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9uMFhYTFNnZndqMUM4Y2tFeUJSbGppMlJXNlJTNlFqSWdtNkdNSUdweWVza3BpUEljQWYzdjJCNGtnV29CVWFaVnNFMlk0a1YyM21ud09uci10YTBmSUF4dFFLSHlvaXo3X0pCTUtKdXVzUQ?oc=5",
+              "source": "Foreign Affairs"
+            }
+          ]
+        },
+        "health": {
+          "summary": "New program at UT Health San Antonio delivers breakthrough care for limb loss patients - UT Health San Antonio. Should Medicare automatically pay for ...",
+          "links": [
+            {
+              "title": "New program at UT Health San Antonio delivers breakthrough care for limb loss patients - UT Health San Antonio",
+              "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcDB3ZEhQTExnZWxmcXM0UVpmZXAxMFZWUkl0cFdTOUhydjNlM1lZTF80Y2R5NkpGLVFKbFg1SW9DY1poaUpvaVBDQ21ja24wcWJVSzNWd1FQVVdEZE1WTHA3WFNhdzdVcVFNOW55ZVhrLUh1N2pQNTBqLU5VVVE5TnJGeDFqVU5oM1dVMkpMRGQyaUFRbVZjdVFEQmFySW1VcGhDZmJjQXRxUG55RFMzY19n?oc=5",
+              "source": "UT Health San Antonio"
+            },
+            {
+              "title": "Should Medicare automatically pay for medical devices that the FDA deems ‘breakthrough’? - statnews.com",
+              "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcVpGb3F0N0FTbUd0ZThNWWxHTC15TE9BVG4wUFdLRy1DdXMxendUcExUM1BhdEtHZEFqbF9XM0hVcGZwcjJqWTBLWjE3TEp4U1NfbjBNSlJUcUxrb0FOdkozTzJ3ZktBWk81Y1BJd3dra056OWVOSUxON2YxeVFIZEVzOWtyclBwWG5wTUpPenV6eUM3U1FrQ05BWFFaS1RER0NSNDJR?oc=5",
+              "source": "statnews.com"
+            },
+            {
+              "title": "A Medical Breakthrough Decades in the Making(1) - HCP Live",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcUt1aEdGbGZCZG4wQ1NrV0dpNklNZHNxLW5iblNaQ2hvYmVSU0pwemFfQUdZY2VTd1g2Q1lVY3AwYVBzY2V0ZlZjT3hQY3dmN1pOd0s0Z2RlZUx3azJiSGc4VWlHM2Q3am9ReDRONWxuX1JmT2lvU1RkU05wemE0UA?oc=5",
+              "source": "HCP Live"
+            },
+            {
+              "title": "Breakthrough T1D Awards $1.5 Million Grant to Blue Circle Health to Expand Access to Care for Underserved Adults with Type 1 Diabetes - PR Newswire",
+              "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPVnY3TW43Qk8xNVhscTV2aHFYZ3FUWDh5SWpoSEhuUG1KTlFTalRaQko5VkFUUkNJUUdfTVBQT1BRaFVjX3UxM3B5Vlh4UTItd3NRMVVuUlVhb0lVVGFpdlFRcUFYQmdVa3NKc1FPeXJuSjJPVXZxZjZsZk5CSjhrOF9vbFR2RDNmbndINXBTaTlsVmNmMkRZV3lRRnh6TzBtOWhqVVVzcHhyd0pxcHdNenNpQW9TdjdXaWVzV0ZmV2ROTUJjNmZaeVYwU1FMMVBrclQ2UDVVZEo5S1Ric3JhOU80a2hjX0wwbUQwZTltRmtXcm5oa1NIYXFyTmd3My1tYTBhSnBlaVB0MC0tb181Nk9yb2laZEE?oc=5",
+              "source": "PR Newswire"
+            },
+            {
+              "title": "7 incredible medical breakthroughs that changed the world - Worldwide Cancer Research",
+              "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUDVCTXNNc05XYkloWkFPLXdiaWF2dmFfUEtFZjAxbTN2ZWhGbVhMcGdIZC1rLU9Ma1AtYlNfbFRiWXpZNWp2TEtadlRhcVhueWFZVG1FS19VUUNlRDR4Nkd6Rk5lWi1INjFaUTdVanRtMHdRVFp5LVNqclRjcDlsajZLdmtUUEhZYnBXakxiZnRSMjRtUGJuTkstekJuaVEzLTV2NnhUbzhQOE04bnlSc1hkVkFpS3NRb2s5QzdMc0s4c1h4NWtiT3VjczB6a2lUYk9hVkN1bFZrc2hXbEROLXBsbWRNYVlqUmlkazJWeEY3WmFVVHc?oc=5",
+              "source": "Worldwide Cancer Research"
+            }
+          ]
+        },
+        "entertainment": {
+          "summary": "Memorial of St. Anthony, Abbot - January 17, 2026 - Liturgical Calendar - Catholic Culture. Annual music fundraiser honors late instructor’s legacy - ...",
+          "links": [
+            {
+              "title": "Memorial of St. Anthony, Abbot - January 17, 2026 - Liturgical Calendar - Catholic Culture",
+              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSDBQc0l1d0RIclpPSUdvRml0NEJRS3pEbTdHSUNWSHJqNlNZeGR1NEVoS3BUYVBmMEdTOXRIS1B3XzZRWTQxRmp2VEpsZkNxWm9YM0kwb2l2NGFYRlJRWnRTQlY0UkJEX1F0MlN1OGh6X3NJMFl4a0VyWUdHTjdfSW5LQWtBVTFPQW5QQ1czN2o?oc=5",
+              "source": "Catholic Culture"
+            },
+            {
+              "title": "Annual music fundraiser honors late instructor’s legacy - WIBW",
+              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPX2JLb0NIWnJNQzBDMGdweE1Qeml3aDFmQWFObjEza1czdmxBcm5LR3F1WDlTamVzaVFKTTZWM2JFeW9ITkdFM0FaX1A2MzA0OG9Qbllja05YcE9pWHVjeEtna3dDNFY1RmpsWEdKcW12cU5XNFk1Q0IzSlQtZldXWmIzVTZDY3N4ZURDZDA2d3bSAaQBQVVfeXFMUG1DdXU2eXlObnk4ZGtLRXVDSmNpaFhuSmtNMUdRSXRkVXpaTHAwOXBUV0pHMDVQMWV3ejdld1B0a3dnRGlWQjd2dTBndHdlWTZnUDFGMU5SOHZPUkk4TWFxbl81QW1KQXFkQVFEUk1nNzlBcDlDMzlpY3NQbS1ZZXpRSlg5NWE0anVVNnJSc2g0RGRxNUdvNVhqMDktVUg4cVBvYnU?oc=5",
+              "source": "WIBW"
+            },
+            {
+              "title": "CRITICAL MASS | OPINION: How music helps us stay oriented after the news - The Arkansas Democrat-Gazette",
+              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQXpKZkkyaHkxeGt6NlpmMC0zYjFMdm45aEpUeE5OYlN3a0xXUm95UDFoMU1QQUlsSExRdzdIU2tvN3pSQWhVMGlWb1QtZ0I5RWtqbXhKZmM3bnVPVWpxOE5kQy1FZGNhQ2ktc3pTTzJmWkVkYjRVRUhKbktpMmY2ekNzc3Y3RVo0QUNSQUIwUXJ1UzhOTzFmVUtn?oc=5",
+              "source": "The Arkansas Democrat-Gazette"
+            },
+            {
+              "title": "From 'The Rip' to 'People We Meet on Vacation,' 10 movies to stream now - USA Today",
+              "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVTB0cmtGdzJJeng5NzZMVWxVRFhUTXcxVTcwMVR0TTBoMm9WY3hjdkp6bHQySG84TGJ3WjdBQk9VVTVYTDNoemFFeEdDelQtLWFxSWtlNlhzU2psWER1QmNyTG1EQWlCXzJOVWdUS1g1ZFR1cGtxZzI2aXdORllqbzRWc3hxV1RQdkZ0dllJOHU0VzA4TGFaRGpvVDBRamNpMU9BanF6ZmhMMGpJMk40SkUxdjhMSTZxcXhXbzg0M0JZYmdfRk9nOXJwUGRLM051Zkt3?oc=5",
+              "source": "USA Today"
+            },
+            {
+              "title": "34th Annual Venice Fine Arts & Crafts Festival - ABC7 WWSB",
+              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWThzOUxIVTZHek5PYTM4WnZZMk9Td2RKcmRUZ0ZXbnZzRmtMZklMN0F1ci11MUlfNUlTdGRWTHlZdWR2Wk91ek5qVHlCdlREeVliT2VnWDdkSFhIZGlVZ2VsTnRNalNoRHk0MTBlZEY4WGVZR3VDSG1IN2lsbEtVYl90SHVlQVZLbDQ0?oc=5",
+              "source": "ABC7 WWSB"
+            }
+          ]
+        },
+        "sports": {
+          "summary": "Broncos advance to AFC Championship Game - Denver Broncos. Rapid Reactions: Seahawks Dominate 49ers To Advance To NFC Championship Game - Seattle Seah...",
+          "links": [
+            {
+              "title": "Broncos advance to AFC Championship Game - Denver Broncos",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMndwbFVZYmFLMTdkQ0s5MGV5ckFJdEhmczFWN0ZNZ3JObC1DbXNoN0hCYTB6NEFnMDM5WlVrbXpBNDJUZWEyVW85MXdJVk5TYzJLa0RteHNfODVzYTdxVWx3M0Jodl85ZjdmcV9YeEJxMWQ0Wi1lRkFTX0c1b3Ficg?oc=5",
+              "source": "Denver Broncos"
+            },
+            {
+              "title": "Rapid Reactions: Seahawks Dominate 49ers To Advance To NFC Championship Game - Seattle Seahawks",
+              "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUGdoN0ZFSlRacnFaTUZPTWVNdV9wLTBxb3U4ZnFadEVCTTdsbmZPd1F4RGNyaTVuZHk0aXFIbVBIOTZCa1VGN1JhV1M4RG9nd29fbUNfREtRZVZTb2QxNWM3RC0yYnVKS1p2Zm9UVjRpc3ZyWGNNc2x0N1VvV1JJWkdKV24yaGVnd3MwTGxXNk81d0tfR2VKaEgyb3A4R1kzM0dWUTV3S1piSnBtRHRncGlNOUg3TUY5Nm9IUzZQazVFTWxyNFpVbU44WQ?oc=5",
+              "source": "Seattle Seahawks"
+            },
+            {
+              "title": "Panthers Open Road Trip At Purdue Fort Wayne Sunday Afternoon - Milwaukee Athletics",
+              "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdDl6RV94WWhmQ1VRMVJ0cDh6cEJMeGFMR3BPOEJoSmhfZlJsNU1oQ1Y2d3Q5ZFdvRmdWWVZtTl9NZnZ4cFh0QzhwYnFhbzE5eXdwV3NhNjd6NzJSeTF4WTdMMjF3Z3ZXRUU5dFNiaUl0amhUV2VYdE5mUjVuei1ZcWlHT1B6OFh0VFlnN0p2TTYweW1adExKYWM0cUhnTzBkZnJpejVMVzlKSHlmWi0yOFh3dUNrQzZ4WWR1dURR?oc=5",
+              "source": "Milwaukee Athletics"
+            },
+            {
+              "title": "GCU pulls rank on No. 23 Utah State - Grand Canyon University Athletics",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOVNZaGRIYTNFRFYxYmJjSGV6Rm83VjFLam9QM1J4RHBTVThPUjI0Qk9MUTZtVjJaMWFtTG5EY0dNYVJtcllkNE8yUU5fWkpJLWxxMXNzV2FtNTJSSzdDR2F1WmJUSi1mbVh4SU1oTmNqQkp2czBhQzJYMVE4UkdmemZ6QkN6eWc3ek04Vy1yZw?oc=5",
+              "source": "Grand Canyon University Athletics"
+            },
+            {
+              "title": "Women's Swimming and Diving Dominate Columbia 244-56 - Brown University Athletics",
+              "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRkVVUmk5R3hNYTJlZUFaenBQWnhVelktcTRfNHdjR0pUM2xzN3J4QVFfTF9iOWlCVzJoOGI3b0VFZkhIWFF5TlRZRGpqSno1bXA4MW5zeHp2M1Q5YnBCcHkwRWJBRml5QldINU5Yby11dXJiTlo3eklaWjRaN3NHdlg3M1ZZMGxrZHI5Z3FDWkFlLVk2R2J0V1ViMExOSTBIMXBmcUVwQmFfT1dpN08xZEZn?oc=5",
+              "source": "Brown University Athletics"
+            }
+          ]
+        },
+        "technology": {
+          "summary": "How AI can balance competitiveness and digital sovereignty - The World Economic Forum. NSF in 2025: Keeping U.S. scientific research and innovation on...",
+          "links": [
+            {
+              "title": "How AI can balance competitiveness and digital sovereignty - The World Economic Forum",
+              "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSV9qRHZraHhtOTNyajd0a1JaNVFod2toamtYN1QzUTc3Y2tYNl9CUlpfUGIydVNQZGV1Y2xwMTRvUTZQMWJ2dnBneW9Ub1lETmhkWnF3ZmM1RkV4c2pXNDJkT0lVWXU2cmJEYzhUdXRrT3lkdmRLWU1ITlJLYU03RzdUbmlHajg4SEh5Ulh0MGdaZTMxbGxZVDNhb1FzMGNPNHhKNnJlYkhPaVBZZkI0aDFhVFc3akVSZGc?oc=5",
+              "source": "The World Economic Forum"
+            },
+            {
+              "title": "NSF in 2025: Keeping U.S. scientific research and innovation on the cutting edge - National Science Foundation (.gov)",
+              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOR2VmYlRueDBZMURZYS1rTGhxU0FQU2dGVHlGWkFlNW9PQWFFZVlCQXhHZU5fdGZ2WjFrTHpMWlJoTE1NbzN2Y09jZGl6TTZRQ1ZpcVAxR25ZZUMwLTU1UHZpVU4wUHFOYnJGNTJWQVhBVE9FOWFsN05mTDMxWW9QSFphWks4NHdzYUllSTJmN1dOcmthN3k0dXln?oc=5",
+              "source": "National Science Foundation (.gov)"
+            },
+            {
+              "title": "China blocks Nvidia H200 AI chips that US government cleared for export – report - The Guardian",
+              "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQU5xSExrUTRFajQtWU4wMUxHVkZQd2prZ0VraGxCb0hEa2pRRnhaWjNHSFQ4UHlOZGcwczJFcGZCbkgwd2VncXozRmJzWXpNRHBITnJnNGplQ01HSjNmdEdmQzFyVW9qQXpPRWl5TUJCa3k3QldZa2hOa3UyY2tSRE9MWnlzSWVqZTY1d0RQMHY3TVlMR2xyMkJBLUk4WUpTb1AtMWo4cnFVcVdXQ1Z1VFRodkRaYlJnY3dHZUFtMWpuYW5NdDBLVg?oc=5",
+              "source": "The Guardian"
+            },
+            {
+              "title": "AI Mental Health “Therapists” - Adventist Review",
+              "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZjgxOFJfN2J4OHRBOTItbWwwTlVYX01fc2lrUWRQUXYyVDBMUVRoMEFFZ1EtMk45SkR4R3lCcDEzOUllQ0pJTE5WSGZWNnZ4cmpPRWlUbTc2X1ZCbWt1UlVYNFoxejhKTmt5Yjg1SF90X0Fwb0VnOGFyMTVvU3lZUUVCTk12cGU1QktfY0JWUXpnbmU0clM4?oc=5",
+              "source": "Adventist Review"
+            },
+            {
+              "title": "Opinion: Remembering Ai, a remarkably intelligent chimpanzee - NPR",
+              "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdW9nYjJkLTBiV1o2RGRGR2NBRDVobEEwckVzSTNuVlZCaDhxZ3NTVFJBb3dRYTBKYVBsamdNM1NrSXllMVdCeDJ2UVREcEJOSHZVN3FnMTJscW5qUGVhWlgtYlMzdmFNU3cwcTA2alRFMzczRXEtb2VPdkxvSjV4TWZqSUtlbUNGMjZ4MWFvZXZwWGpHY2lQQkctWHlNUjVFazRib0lR?oc=5",
+              "source": "NPR"
+            }
+          ]
+        }
+      }
+    },
+    {
       "date": "2026-01-16",
       "title": "How Trump is making China great debated; Musk's Grok AI faces more scrutiny; 2026 EPCOT International Festival of the takes the stage",
       "image": "entries/2026-01-16.png",
