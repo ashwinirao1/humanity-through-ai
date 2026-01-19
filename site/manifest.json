@@ -1,6 +1,164 @@
 {
   "entries": [
     {
+      "date": "2026-01-18",
+      "title": "Political Science and International Relations debated; A.I. Is Coming to Class. These; Sphere Entertainment, the State of Maryland, takes the stage",
+      "image": "entries/2026-01-18.png",
+      "note": "entries/2026-01-18.md",
+      "topics": {
+        "politics": {
+          "summary": "Political Science and International Relations - Carleton College. Trump’s New Old World Order - Council on Foreign Relations. AMA’s international invo...",
+          "links": [
+            {
+              "title": "Political Science and International Relations - Carleton College",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90a2tVM0NOaWRoendDTnJGTVQxUEc1REJNODdQMUpJWl8wLVl4c1VOZURmblZXQlVFbWhKcFhoaW9Fc3FJbHVEbkFaWHZ1WEdpbHEtaW1n?oc=5",
+              "source": "Carleton College"
+            },
+            {
+              "title": "Trump’s New Old World Order - Council on Foreign Relations",
+              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lbWphR1lPV05HN0NINm4zUzBhRm5jU0FzWDZwLXl2X3BXd3czTVg2UG5jVTB3bXJxd3hCa0RuQ0lfWjFCckRRcHliRkRzVExlSWxlZXladGdpd3BjMWw3NFktVWs?oc=5",
+              "source": "Council on Foreign Relations"
+            },
+            {
+              "title": "AMA’s international involvement - American Medical Association",
+              "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOX3Z0Z1g1UFZsSlhzSkFGS2M1bHhRZVh4LWdLYU9iMEgtYzltTHVpMy1LWEZBTTJCcDFTSS1hRHQ2bnJLdTFKQ2dHRHhHZm5ZQXdvNlBWRzRXbkF6Wk5MZUVpbVZvb3lqZm9pVTYzNXhheU8tUDhxb0h1YThXSUc0SHRQUHE4MEpxbXBEdjlRQ0M0ZWJ3Q2lPTg?oc=5",
+              "source": "American Medical Association"
+            },
+            {
+              "title": "A World Without Rules - Foreign Affairs",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9uMFhYTFNnZndqMUM4Y2tFeUJSbGppMlJXNlJTNlFqSWdtNkdNSUdweWVza3BpUEljQWYzdjJCNGtnV29CVWFaVnNFMlk0a1YyM21ud09uci10YTBmSUF4dFFLSHlvaXo3X0pCTUtKdXVzUQ?oc=5",
+              "source": "Foreign Affairs"
+            },
+            {
+              "title": "Global Survey Finds Much of World See China on the Rise - Time Magazine",
+              "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRmswMGVDYlBaV0JrVFF5bjBnaVBfeEFrYm5id01qTllqZGpBdEVMdGU3eUFVaGFkYm9nRk9RS2ZMNmoxbEZuNXd5SkhKMzJoc1pCdEY3ZjNKb21pNERZZXlPcDYyU0NtREZfY3pvUFVpX3d0OUtveGhkWHpObEtsSV82cGZueGVsREE3WFNhdm4xVFBZSi1YWXpFMWduWFQ3NWtuTlNVNEMwYnM?oc=5",
+              "source": "Time Magazine"
+            }
+          ]
+        },
+        "health": {
+          "summary": "Should Medicare automatically pay for medical devices that the FDA deems ‘breakthrough’? - statnews.com. New program at UT Health San Antonio delivers...",
+          "links": [
+            {
+              "title": "Should Medicare automatically pay for medical devices that the FDA deems ‘breakthrough’? - statnews.com",
+              "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcVpGb3F0N0FTbUd0ZThNWWxHTC15TE9BVG4wUFdLRy1DdXMxendUcExUM1BhdEtHZEFqbF9XM0hVcGZwcjJqWTBLWjE3TEp4U1NfbjBNSlJUcUxrb0FOdkozTzJ3ZktBWk81Y1BJd3dra056OWVOSUxON2YxeVFIZEVzOWtyclBwWG5wTUpPenV6eUM3U1FrQ05BWFFaS1RER0NSNDJR?oc=5",
+              "source": "statnews.com"
+            },
+            {
+              "title": "New program at UT Health San Antonio delivers breakthrough care for limb loss patients - UT Health San Antonio",
+              "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcDB3ZEhQTExnZWxmcXM0UVpmZXAxMFZWUkl0cFdTOUhydjNlM1lZTF80Y2R5NkpGLVFKbFg1SW9DY1poaUpvaVBDQ21ja24wcWJVSzNWd1FQVVdEZE1WTHA3WFNhdzdVcVFNOW55ZVhrLUh1N2pQNTBqLU5VVVE5TnJGeDFqVU5oM1dVMkpMRGQyaUFRbVZjdVFEQmFySW1VcGhDZmJjQXRxUG55RFMzY19n?oc=5",
+              "source": "UT Health San Antonio"
+            },
+            {
+              "title": "Breakthrough Experiment: How We Can Stop the Spread of Flu - SciTechDaily",
+              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQVdySmxxQnhxV2NoUlhQYnhRV2pfVU1ZeHhReWVEMU5Sb2lYdWdOLTJ5aWZNc1dRY2p6eVJMalg5QkQ3NVlSc2hUTFN1X3VtM3o2VjQyN2NkTFdwTzVLMmdmOE1JQW1RLU1DUXQyeVcxZnBWVGN3S2llSlhHWE1JVm5yY29GaGFFZE9J?oc=5",
+              "source": "SciTechDaily"
+            },
+            {
+              "title": "Out of This World Discoveries: Space Station Research in 2025 - NASA (.gov)",
+              "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSnNkR01ZcUV3dWEwdE5BOWhjTzA3eWp4Szhhc0NwRXZoSG5zQjhXMUtnTGt1NXVXSUNEMXM4Tm4wMXI0WEI5TUVoV3dqcWJEZkdDNWNVSEFyV3NhZ0U0cmczOG9CWXotMXF4cS00VDdxVkdHa0UxSkJHTmt5NnVTbUlIN0JlX3ZfM21qejNRNzlIZmU3czJKYXJDLUtHTHlNVzRhU2VicFl6YUVyVzZoTkRR?oc=5",
+              "source": "NASA (.gov)"
+            },
+            {
+              "title": "7 incredible medical breakthroughs that changed the world - Worldwide Cancer Research",
+              "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUDVCTXNNc05XYkloWkFPLXdiaWF2dmFfUEtFZjAxbTN2ZWhGbVhMcGdIZC1rLU9Ma1AtYlNfbFRiWXpZNWp2TEtadlRhcVhueWFZVG1FS19VUUNlRDR4Nkd6Rk5lWi1INjFaUTdVanRtMHdRVFp5LVNqclRjcDlsajZLdmtUUEhZYnBXakxiZnRSMjRtUGJuTkstekJuaVEzLTV2NnhUbzhQOE04bnlSc1hkVkFpS3NRb2s5QzdMc0s4c1h4NWtiT3VjczB6a2lUYk9hVkN1bFZrc2hXbEROLXBsbWRNYVlqUmlkazJWeEY3WmFVVHc?oc=5",
+              "source": "Worldwide Cancer Research"
+            }
+          ]
+        },
+        "entertainment": {
+          "summary": "Sphere Entertainment, the State of Maryland, Prince George’s County, and Peterson Companies Announce Intent to Develop a Sphere at National Harbor - S...",
+          "links": [
+            {
+              "title": "Sphere Entertainment, the State of Maryland, Prince George’s County, and Peterson Companies Announce Intent to Develop a Sphere at National Harbor - Sphere Entertainment Co.",
+              "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOcE03Qm1faU44clVOU2g2QXViZ0JhendmM0Y2Vjhsbk5wRm5faUxaVXc2TU1HX3pqTnFTa3g0cHRxdDVaS0xoem45YURkaHBTcGZJTjlMdUdPemFVdG5aOXZwc2dnNWFoVnprV0c0NGRrbkRTcTBGZHMwN3lKLUN5UGp4OEVIR1h4NUhjQnZMdW91MHNTVkVGQnNZNnI4a3FYdlJDc1RzNmxBV0Z4aWNTRGpFTnJIMGRjWkdsRXY1aUdhUmdtQndHZnhZbllTcTlUb1lsdXgycUdaQjhfZW4yTDVpcVlMSXFVWm5ucmFHRUo1MmV3R0swUUxKTHdwRTBJSzNjQUI2T2Ruemc1bnh5ZUpjanZvSjhUOHY0RS1SX2ZVZnFBeFJodjNaaEZEd1lsbEduRzljV0NTc3VUaGZST2pSRnVhTlEwOEtlRUVqdHQ?oc=5",
+              "source": "Sphere Entertainment Co."
+            },
+            {
+              "title": "Live Music with Joe Hunt on the Deck at Trapper's - Jackson Hole Mountain Resort",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMjJGOXB3N25HamtCOHhIZEFJSUxhMVZXbFc4MUFPYlZ5ZTlvQ1ZTSFhHd3E2aGxmMWpJbG1wSUpSZzhJQnREQXVDcTFsdDFBWnRpR3J4ZTBfWHcyLTNrQ3oydUFOUWtTWWRISUhPMkp4Y0k0UVp2aW9DMl96aGhkYg?oc=5",
+              "source": "Jackson Hole Mountain Resort"
+            },
+            {
+              "title": "Music, song and dance at MLK Commemortaive Commission's Night of the Arts - Knoxville News Sentinel",
+              "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOS29nVjdFUWlaZEpxd0luU2VYaGM5WEMwOWZldko1aXlwSjBSNkJVQmM0WkwxZjZZUFNIcElMczB2WURHbUFueWM5YzM1TFAxbDk2VFZJcmFjajB2dTl6WjJXR3oyUGd6TW9YeGFvcFFPQjRya1g5MkFMM2JPVHFfRE1PTjlMYmE4ak92c3VjVmlqcTA4MUQ1R19hR00wa19rVDNNSnBjaW13YXRtT2NCLWJvaFF2bFFVTVV0My1FUERmQWcyZ0JPa01vY2hsVExJ?oc=5",
+              "source": "Knoxville News Sentinel"
+            },
+            {
+              "title": "Your holiday week in Duke arts - The Duke Chronicle",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNDZnUmY5UWpSNzhsRUItcnFqdHF0NUV1azdKRTJYaVh0eXRJTThONkNjSUI5TjFGTWR4UFNIcDEzdzExbzhqcTQyT2oySHVaNnVycHo0d0ZLQ09xN3d6SnlNQUhVYjNuWjlYM2lQZzdJTElkazZCM0ZpZDU5YW9RalJPTQ?oc=5",
+              "source": "The Duke Chronicle"
+            },
+            {
+              "title": "I'm a Parenting Editor, and These Are My Most Anticipated Kids' Movies of 2026 - Good Housekeeping",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQ1BnMHk1Qm1abGR0UzhVaWJjNDM3UG5JUWRTUGZJYmtrbEZIZWlWa0FJOU9uVmp1X19JbExESzJFMXVSY1FXTGZLR0M5MW5JZkFORVBERUpkelowV3ZScHQzYkJYalVic0d0V0RQVE8zaGZjMjRqWVlaNXBLX04zTVIwcFJDU1hsRFJBaGNzRQ?oc=5",
+              "source": "Good Housekeeping"
+            }
+          ]
+        },
+        "sports": {
+          "summary": "Rams to face Seahawks in NFC Championship game - Rams. Game Notes: Patriots Advance to 16th AFC Championship Game - New England Patriots. AFC, NFC cha...",
+          "links": [
+            {
+              "title": "Rams to face Seahawks in NFC Championship game - Rams",
+              "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZ01Ub0cxakQ5UlI2Y1FPODF1S3JQakc5YlVZOG9DX3VMclk3NGoydktOMXVyTzVxeDBzTnJjOHhValFURmwxS0R5dE9DT201LVNVTDB5YWd3NVU1T2NLcHlWbm9hTHlkVEZCX2JBTWVPRFhONWRQQzUxV1pZUnBYcnlFUzZlVHM?oc=5",
+              "source": "Rams"
+            },
+            {
+              "title": "Game Notes: Patriots Advance to 16th AFC Championship Game - New England Patriots",
+              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQkhXNEd4M1AyRUtvWjJuS21jRGFPa2dXNVFDeW1oRk9oRWtvRzNsakJqWDFQOGw5cXZqRFVxdkJpTXMyNHIzNG5wMGxnWmExMHFtdC1lRHBQTFJSaUFRNFNYVkxLZHpRRmZsSXJIajZpUkNybFdoclAxVG0wa1dzR0EzTEU1Rl9BbzZISUhIa2c?oc=5",
+              "source": "New England Patriots"
+            },
+            {
+              "title": "AFC, NFC championship preview: Schedule, X factors, stats - ESPN",
+              "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNc2ZpUlRZMmhSdnl5NkRjZlJUcmFKbEV0aHRzV2lYUzRUd0VYZW1OWW9NYWF5TkQtdGFwWVhjOW9oX2RRRlBkVjdta094bGZtMklGVUZpRjVjMG0xT2w4b2hqb3VnT2hsTEw3aXBOVHU0c3BraVp4NUk5RzNVUlFYaE5YamlGSjJjQzRONDVOX1JnLXZjQURObjg1bnJ5SW1YVUgzU2hxd2ZNbDRWUWJLOVpoVjFzQl9Lc2c?oc=5",
+              "source": "ESPN"
+            },
+            {
+              "title": "Seahawks Will Host Rams In NFC Championship Game at 3:30 p.m. Sunday - Seattle Seahawks",
+              "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR09rdVRuUHBNdU8ybThFZjZ5RFg3cDNCMk41Skt2MVl2RGQwdl9tMkpKZUhZbWV1MUNxNW1BTDBZalVqZUtXMzZZUE40YjJuSDhwa012Q3JIUFBOMlJVeUFCYVNQWjVlM1R2MHNTRWRNcWhiNG1MV2R4YlRKd2Vxci1CaEFWblByY1RGdUNZVTloTG9kTHg2amk4SDNyT0d1OGVLUmFQY3JDMnVESTJTRnpua0NsZXBPT0lN?oc=5",
+              "source": "Seattle Seahawks"
+            },
+            {
+              "title": "How to watch the Miami vs. Indiana CFP national championship game - NBC 6 South Florida",
+              "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbUFxcmlvMWJJSTI4ajY1Vk5XbHkwLVFqNzctdEpScTBsRlNablZ3ejl1ODJvb1N1V3V5clR3VlBXcjJoVFREN3JsdkhrS2wxdllaTjE5OVBheUotRlRnaDVfNW1xczlucnlidnVGSlQ1YXViRVcwY0VVM21XbWtjLUZxR0FjSnIwcVdLR1F0S1g3bTJOal9YbXI2N3V5aEk0UDd6Zzk2OVVvMEdYRG5DX0kxYjBsQVHSAb8BQVVfeXFMTWY5QXcyakVNZkh6NDFPd3Z6YWtvalVjR05za1hXOV8zMFo3TzI1VVhIbW1kQ3hLaDUtckwzRUYwYmpfcjlVWkhSX3NRODVIQm9VMTA3eFBXYlEweXFPTmlUX1VQS3h4bkoyN2Ffa2g2YkJhdU5kaG9iVnpDX3FsM2VsSndjOFhhcHdjVWx6V2pnWEhVRGQxeFZuUTNkRUc1QXhxelZ2NU9nZzdTWlh5V1llRDVGN2lLY1luWDVscW8?oc=5",
+              "source": "NBC 6 South Florida"
+            }
+          ]
+        },
+        "technology": {
+          "summary": "A.I. Is Coming to Class. These Professors Want to Ease Your Worries. - The New York Times. 2026: the year AI stops being optional in drug discovery - ...",
+          "links": [
+            {
+              "title": "A.I. Is Coming to Class. These Professors Want to Ease Your Worries. - The New York Times",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sZzRZMURZdk43S2hkaE4zZzQzbUZFUC0xUF9lbThnUWV6b3lwQjFjUWNHZmduenN6T3BYTGJBbVE3U0YyQmk0V1JVaDM3aGhxdDZZcFpxejctUlJkdEEzN1NiLVNKRE1VekhkZzliNFZsT1RZcEE?oc=5",
+              "source": "The New York Times"
+            },
+            {
+              "title": "2026: the year AI stops being optional in drug discovery - Drug Target Review",
+              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOFlYTF9oUFhMMXhFMmxYWjRPd01ERGVkbVJ4Z0N4TERkb3RQSzRhbV84aTZGZGFxQ1p6R19JMDM3LXBJRHNYSFFtS3JTOXVCU0pQd1R4NTI4ajFtd3pBVnB6cUZWSlF2X1NwaGtMWU9wNjFQUlhoVG5VV3d3SXcxNWhaV19FQnNRREcxZDBQT3FOYWRyY1FFUURwdW1oOFVzV09aQkhjRQ?oc=5",
+              "source": "Drug Target Review"
+            },
+            {
+              "title": "Review: AI Strategy and Security - Help Net Security",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMmhNT1dKR2Q1OFBuNE9aR01ScmJmbktGSGRla20zV05KSGVYdGJzd0h4b1FtVHZoVVV4ODRYbFVYZmRjRXhzRE1qSW8wUXJHRFFCVTcyc2s3Snk3b3Atb3hZTWdJdHZVdkx2eDBtR2czUGV2Q0JoVHdOMllMUHN3Rg?oc=5",
+              "source": "Help Net Security"
+            },
+            {
+              "title": "‘No Reasons to Own’: Software Stocks Sink on Fear of New AI Tool - Yahoo Finance",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOd3AyRUVkdmZtYXNqM2Z3RXJ5UXhMNHVzWHd2N1hWOVdGM3A1NldvVjFJVnRMaXZUd0ZfVmVfa0xnLWZ3M1NhZWdzbFd4YjY3WjlhOTh6X2w3aGJzckhNZWdKc1JQck1VdWFadFBFZUFEVWc1QVVVWG5tcUFzWFVsWUN3?oc=5",
+              "source": "Yahoo Finance"
+            },
+            {
+              "title": "AI Won't Lift Human Productivity Without Learning, New Pearson Research Finds - PR Newswire",
+              "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPM19PWmZjRWRONlgzanRmcWZhaVh5dUFuMXRXZkNlbkZMd01rNHVleDBmUFFxN2VaSkltTXlXMzdpRWJuMWFjUEIzSS1UQzQ4aEp2RkxkaFdHYThNV1o1M2FnWW5BRkJLSEhRTnltU3RETDZIR2hIVDZUMWRkb2ZNaXI4SlFWcHdHTXUxSjN4S2tpWmVyYnA5eTF5Sm83SXF1Wm0zOXp1RTJmQjVyal85NEUxZ0cyTXVRWGExLVNfcjhTMk5IOFhHbHVMVQ?oc=5",
+              "source": "PR Newswire"
+            }
+          ]
+        }
+      }
+    },
+    {
       "date": "2026-01-17",
       "title": "Political Science and International Relations debated; How AI can balance competitiveness and; Memorial of St. Anthony, Abbot takes the stage",
       "image": "entries/2026-01-17.png",
