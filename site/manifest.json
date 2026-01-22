@@ -1,6 +1,164 @@
 {
   "entries": [
     {
+      "date": "2026-01-21",
+      "title": "America Revived debated; South Korea launches landmark laws to; Music Business 104 Wraps Fourth Edition takes the stage",
+      "image": "entries/2026-01-21.png",
+      "note": "entries/2026-01-21.md",
+      "topics": {
+        "politics": {
+          "summary": "America Revived - Council on Foreign Relations. Is Donald Trump the Dumbest Block of Cheese in World Politics? - CleanTechnica. GU Graduate Wins Top I...",
+          "links": [
+            {
+              "title": "America Revived - Council on Foreign Relations",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XdTdrV0tESGg1ekVhdlBLMm9kWVlTZnpVSDBfUmh5ZGszcE5LZm03V0lwRVN5dmJLRWtoVWRxT1IzLTdnZjRENFh4US1LdmtKYTlKTjF3?oc=5",
+              "source": "Council on Foreign Relations"
+            },
+            {
+              "title": "Is Donald Trump the Dumbest Block of Cheese in World Politics? - CleanTechnica",
+              "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVzZjSXF3dFp2bmdrbThSY3p6dU14djZGUW9fVGFZc19DdGF2T195dG41QTNkS3FSRjRPNjE0ZXk4UVhCWjBYZVdIUzhsZHRkeTRNZU9CTWpsaFNFZG9rZTFDTkFCUF83X2J4azlRNk5qQnd1Y1o5R043YVQ0eGpxb0dwbmVOWnhGV0EzWjBDcTZiM0ljVTJRNk4zbWVYbmhm0gGmAUFVX3lxTE1sckdwVWh6U2xDd2I5bFAtMFVjYnpmRFluWkpuYkJWQnpNNmpKaFF1blRDbUhxUmZKdEdKZHAzQU4wTmFSTXRUREJDb2Jfbm5KRTNrRjJJRkw2bGNKdGRvSFZaRnJXWWZMU2czVWVRSDJCUWJvZUQ5UjI0Y2tVUHM5azJ2LXZxNlVBTTdJclJlZFVuUmpSSmp2ME5oN2R6TExLa2ZUbmc?oc=5",
+              "source": "CleanTechnica"
+            },
+            {
+              "title": "GU Graduate Wins Top International Relations Award - The Hoya",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMVN6WjR1M1lqVExaZGlxWEFDaTNEMUN6LUZIcGpqdk1hbVd6TndwZFd1bVdUZU10QU1lSnJmNmlIVXdJYk1TTi1lQmpFX2FOQVpLZS1USFlsdGFXMHR2d2JzV3p5ZTY4MFA3dkNpMWtlQkJDTFc1VlZERk1jbkU5eGhB?oc=5",
+              "source": "The Hoya"
+            },
+            {
+              "title": "A World Without Rules - Foreign Affairs",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9uMFhYTFNnZndqMUM4Y2tFeUJSbGppMlJXNlJTNlFqSWdtNkdNSUdweWVza3BpUEljQWYzdjJCNGtnV29CVWFaVnNFMlk0a1YyM21ud09uci10YTBmSUF4dFFLSHlvaXo3X0pCTUtKdXVzUQ?oc=5",
+              "source": "Foreign Affairs"
+            },
+            {
+              "title": "Diplomacy - International Relations, Negotiation, Peace - Britannica",
+              "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB2MlFHejlOSkZtSW9KMENDNDhDS0F4OXd3MjV6RUdfdklwYm5xTldoa0tMY3pSUm1IQi1xaGdFUUZyMF9hM2JROHYtUHotOWNoNkRsWWxWWnUxT2dCNEVuWDlNVHh3ZUdpSE9Ba2ZxOVJFZHJwT1R4NHpR?oc=5",
+              "source": "Britannica"
+            }
+          ]
+        },
+        "health": {
+          "summary": "At Davos, Rice provost makes case for ‘faster’ global research university - Rice University. Four Penn studies named among nation’s top clinical resea...",
+          "links": [
+            {
+              "title": "At Davos, Rice provost makes case for ‘faster’ global research university - Rice University",
+              "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVTNzNW9EejZIYWNsRU9BcXpDbDd3Smw3M0JYbVE4MDFuUDJUeU1PdTdSc1BocEdMU3V5d0VTVGJTTFZaWFA1LTJkVTBkRG9QcG1fbk1wUXdsOHhTeFBYTEE4RHZrYi1vZ2hOVU5FOUFkdHF5QkNpTUdnZDZ6TFZRalhQQk1NaFpHcjFWMGpQWV92WS1McGlYSVBaWQ?oc=5",
+              "source": "Rice University"
+            },
+            {
+              "title": "Four Penn studies named among nation’s top clinical research advances - Penn Medicine",
+              "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbnhtejc0QjVMa3U4b0E3d0lkOXBWX3JpajJLX3Mtc3dKbVVfUER2RU0xLUdld0JlMkxsNmFkeVRSNFNJVHV6eVdnYmZCOTZPRV9sbU1aemdqMlFnbHFjSmVOSWlRbW9ZaVg3cHFfZlZtbTM4T2NEbzNSaEZmejVyT3B5cjR4RWJXZWtZYTc3bHhPNXJlZzNjX0VmTEozc0ZCY1pZeA?oc=5",
+              "source": "Penn Medicine"
+            },
+            {
+              "title": "Roupen Odabashian: The Vision Behind Counsel Health's Breakthrough Telemedicine Platform - Oncodaily",
+              "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBNeUNIR3lWZzdqR0ZZSmZLR05SUmIyQ0llaFNuU04tR2RoUHcyalNQYkJHRlV0UXh6Q3RrTm9GbVFSb1R1U1BVSWsxZlhxNmU0ZXhIcGRvVGhjeFZiZ2JOdnV4NA?oc=5",
+              "source": "Oncodaily"
+            },
+            {
+              "title": "The top medical advances of 2025 - statnews.com",
+              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNamJCVFE4M0NVNXhMVExQMWV5ZHBta3VncGZfTnBna2NVYlpITHNhUDVlMTRseUU4M3NVTE1yLU1uZ1g0blU5Q1o0NVhfREdxVF9qVFdrakU3Q3h3M0ZPRERBWkYweFZaUHduRXMtdW43VUxJaWdyY2FjMTVQaVRfS0I3VmFaazMzZzhqSWZsY05nZFpPb1g0Q19B?oc=5",
+              "source": "statnews.com"
+            },
+            {
+              "title": "7 incredible medical breakthroughs that changed the world - Worldwide Cancer Research",
+              "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUDVCTXNNc05XYkloWkFPLXdiaWF2dmFfUEtFZjAxbTN2ZWhGbVhMcGdIZC1rLU9Ma1AtYlNfbFRiWXpZNWp2TEtadlRhcVhueWFZVG1FS19VUUNlRDR4Nkd6Rk5lWi1INjFaUTdVanRtMHdRVFp5LVNqclRjcDlsajZLdmtUUEhZYnBXakxiZnRSMjRtUGJuTkstekJuaVEzLTV2NnhUbzhQOE04bnlSc1hkVkFpS3NRb2s5QzdMc0s4c1h4NWtiT3VjczB6a2lUYk9hVkN1bFZrc2hXbEROLXBsbWRNYVlqUmlkazJWeEY3WmFVVHc?oc=5",
+              "source": "Worldwide Cancer Research"
+            }
+          ]
+        },
+        "entertainment": {
+          "summary": "Music Business 104 Wraps Fourth Edition With Global Growth - Gospel Music Association. Out to Lunch: Chef Ed Porter uses food and music as vehicles fo...",
+          "links": [
+            {
+              "title": "Music Business 104 Wraps Fourth Edition With Global Growth - Gospel Music Association",
+              "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOUxuZ09wT0wxc1FwN1FYSm1Gb2tTbXZ4RWZSN01UU1FOdGo2NUZJZEpRTEpTWmh1Y2xnNXBvdDNDN0Y2LXRUS1F0V21SSUpjdWlwQm5CZGM3NklId3BQSl9QOHpucWo4M2lyOTNuRUxNUFN5NE83Qks5eDBvWm1JUlF5dHNLcDd6SnVjcExhcXZQc21lX2tPWEhZZlp3eUo5dXpPZWVrb1hZVjJwOS1rWFliRUUtUUk?oc=5",
+              "source": "Gospel Music Association"
+            },
+            {
+              "title": "Out to Lunch: Chef Ed Porter uses food and music as vehicles for connection - mprnews.org",
+              "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV3pCc3N3TGF5QUJReGtXRkdBTlV2bThYOWFIR2dPZkI2NEhFUHF2cklaSFhZSVBCSmtSclZCUTFRa1VpSzNwcVAyemU5Um1WdFBJSXRGdDFnMEg5UWxTOUt1NGYxRVNxMS1zaTQ1ZG1Nc1F1OHNGQmRVTTZ2ZWFVNDJzZzg0LVA3MXlQcHNwWmcwQUJ0R0J0RVlUT1kyTHdwY3c?oc=5",
+              "source": "mprnews.org"
+            },
+            {
+              "title": "New renderings show what's next for Riverbend/Coney Island site - cincinnati.com",
+              "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPU09wZFVTOGl2dTU4TUFydjRidlpOUml4RWpCY2trTzktbXllT2JLMG9VdlRfN19VQ2xlQ0lwWnV5emhzV29LRDdPSlU2eXNwWnU2YTFJd0dKZkFfbHpPamNjeVNEb3lhR0ZnUGZ0MGlGXzBDeWpvNEMxRW5tWVRBdFJPUGQzbHdFSTR6T052ZWNRYVJmRVF5S1RkeW5sRVdsRFdpN0lhNk5RMjh1VF9Rb1ZXU0J3WVZfNlFrNHMzdlhZQXNtS1l2bA?oc=5",
+              "source": "cincinnati.com"
+            },
+            {
+              "title": "Delaware Division of the Arts Announces 2026 Individual Artist Fellowship Awardees - news.delaware.gov",
+              "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaHlTdjRmRjc2Q1FPOTY5MU9hOWtDYzF1WW8zTWVJRVVtQkR3aHRaUElTM08wVi1NaWFxZzFSUmtXWVd5cWFNcGdnR0Z6Rlp0UGprTmVhR2dFeDhsUnpoWThrdnROc0g5UDhyRFJHUlotMTVNVFBBNVNraC1iS05XaDNVelN3cERRb1E1ZmZJOWMxZjRYdHJ5RjFuVTNYZU1NSXA4U1BJREg4RG0wTHVweWVZc0FWX0xEZ05SZQ?oc=5",
+              "source": "news.delaware.gov"
+            },
+            {
+              "title": "How Donors Stepped Up to Keep Bay Area Arts Alive - sff.org",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4yNHFxTUtkMHJxUVlwOWhURF9xb2N4ODJTb2RjWjlOcE9uYnhteFpmSlNkMlEtVzN6SXVacXZpOUJSZzBNOEZVVlV0dmNZWHU4SzRjdksydUVhVXNJbWhGWlN0aExiVjNKaWY0RGtUQmE4dXFa?oc=5",
+              "source": "sff.org"
+            }
+          ]
+        },
+        "sports": {
+          "summary": "Seahawks Unveil Uniform Combo For NFC Championship vs. Rams - Seattle Seahawks. Sorensen’s Season-High 22 Points Guides NIU Past Western Michigan - NI...",
+          "links": [
+            {
+              "title": "Seahawks Unveil Uniform Combo For NFC Championship vs. Rams - Seattle Seahawks",
+              "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZkxyeFlJYU1PbUFGeWNCdG5sV29qV1liRTROZGU0NlZVa0lzSzZVSUlsODNFd254Z1dqWTBWb3FhUEdHMHl1TFhmekJ2VHdOa1h6czlOYTNVOUE0R1B6SUNpOWw0S2poVzhMaVJCTUNyQmprUUNaMjhKYkVIZWpraUlTRFVKZ3FjZ0VZR1RYR3o5MGM?oc=5",
+              "source": "Seattle Seahawks"
+            },
+            {
+              "title": "Sorensen’s Season-High 22 Points Guides NIU Past Western Michigan - NIU Athletics",
+              "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQU3FZY1hsX1JlUHVWclBkSE9VWmlmeVpuSjR0bHhLN0ZuMWlFU1pqS2FVdUt5VGhReVNOd0d3YVVnUk9uLWtGSE9hTVVic0Zhblpfd0xfWG9VRDY5OEdrcGs2VU91ZzdnSHVNZ3h3b1FYWDA2YVcxblBKM0Rpd1o1OGNpejF3OTBzYTJydk0zNjh3ZUw4aVJpMDExbDN0SmlrYnRXMHdTbDNGejRBNF9tNTBiS1NSQ3hkUmQ4X3JHa2VrR00?oc=5",
+              "source": "NIU Athletics"
+            },
+            {
+              "title": "2025-26 college football bowl game schedule, scores, TV channels, times - NCAA.com",
+              "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMmh0a193b0ZLc2gtNm1fWjRqbmhZY0xfZVVHS0VGdjRraDlQRXB3clI1SnBvT2NIdlVLazQ5QW5pV21UeFVrcUxoaGxGUGxTNGFMcmpLU3lkTlpaeGMzdHNiV21XR25tb3hfenJac0dJWF9oYkVZU1RaN1c3RUNtbTNRQWlkby1XbnRGS1AwanJDVnR4N2hPVGFUdHhid0cxY3JHZjlYdWZlWHpWMU5OOXhneXM2Q3ZfYkdxYzJXTdIBxAFBVV95cUxPcDlMb0RBVlJ1c0ZoaWZYaGQzaUNQaWFsQ211c1IyN2d3cWR6UWxiSVFvTXRuMlNSZHNwamZMQ1JYNWZXa0tvQ1AxczRkOFJnRWszNVhjRW4wLU52Vk1SRXpSY1Z3RG5WOTNFVjZwRWhxS043RzEwWFdnUExXTkxYVGpVdU1IYjVTRjdfc1UwSDBBSWFkNHQxbkxBektMLXlSSDNOeGJ1d2VaaFdkMTFUUFhoUUpudlJOQ1A0b0pzS1JGZnUw?oc=5",
+              "source": "NCAA.com"
+            },
+            {
+              "title": "NFL conference championship injury report as Patriots, Broncos, Rams and Seahawks manage key absences - CBS Sports",
+              "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSXJqOEtrTVh3UjdIYWhnTUNDZTRYc25xNXo3OEd0RmNZaTRxcW5FQy1wS0xYUUI2QkMzcHpfNzdxeXNlSzJkRWFTYW1FaGk5QklRUG1GTUtLS1RKTWp3OTI5SGFzZXpFbUNSWVFOQlo0VUVJb0lfTHNRRzlCMkRZTlhKMjhkZGxwUzltTEJUbzBtX0JEOG5oZEhlU19kb2tRYnlfRmtManhhQ1pB?oc=5",
+              "source": "CBS Sports"
+            },
+            {
+              "title": "Greg Abbott calls for Cy-Fair ISD to cut ties with Houston Islamic Games - houstonpublicmedia.org",
+              "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTWQ3bXA4ZkI5R0tNMkVzMVh6RENUUmcyYnZtaU5WcVJGZ0xOWVpiMThzY2xBOWhVVHhJSFdxNHhSTnZaT2hZb090REllTC1LT1RraWd6Y2lYX2FLcWtQbjFreFd4UEZ3bjg4QWNvVkV5d1BnQmY2SV9GME5UdmRKVE04WVJKU3JWVkQwWTRQUTJoYzJVMXlrTjdSbTBTNzRCZDJyVktqY29ucGNNOHVzbk01WjVGWHlOUHBuQWNiYUXSAcgBQVVfeXFMT0ZRUXVfXzYxV3M1ZXZpZ0hlUUpFRzNmT3AyS1kwRUVTeEhGS2x2XzZWYkVrTHY0ZGNHc0JieFEyT0ZfeEp1NHh3RmljeGtsUzhSckFJOG15ODJiZGtpd2E3UlJuaHF5V2RrbGx3TnhIMk1kd2lLTTlpaFFUdkJZblFHbl9yMXF1dDBrYUUycWc2emtkQnp4Z3kwN20wUDA3SHF1NGllRGJmVVlGcGtVazZfQWREcnpiSXpiVzlMYTRQeGFabzg2Rko?oc=5",
+              "source": "houstonpublicmedia.org"
+            }
+          ]
+        },
+        "technology": {
+          "summary": "South Korea launches landmark laws to regulate AI, startups warn of compliance burdens - Reuters. Chairman Mast, HFAC, advances AI Overwatch Act - Hou...",
+          "links": [
+            {
+              "title": "South Korea launches landmark laws to regulate AI, startups warn of compliance burdens - Reuters",
+              "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaWpCQl9kMUtNMFhoVnFiY1ZvVVdST2NERUVzQktpTlJVbFc5Z3EteDhkWUdQWTMxVEpGZ0p3c1NIZG9WcVFERDg3ejFybGpQalZLM1dQSXFVSFFQcGZEY0VUWTB3Tjl6WGlla3l2NWxhRjRnUmNVOTN1cUM3MDFVRjJpRmdCXzZKRWE0a3pwaGFzdEh2cjRWcEZxbFVqcC0xcHRQUE9mNUFiaTFEYkJycDVQeUNNR1ZaWkZ2dFpxZ0QyaHJCY3Z5Q0hQR0xic0U?oc=5",
+              "source": "Reuters"
+            },
+            {
+              "title": "Chairman Mast, HFAC, advances AI Overwatch Act - House.gov",
+              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcWt5Q3hULTUzWnZuc09yUE9Cd3F5bGd1dXJKbG9BWnEyMmRWNFB3T0xzSno0RlZaZzV3NWhTNHUxZlhJRUxsVUp3V0tOVWtOUXlUdTNwNk10eXhPVU00czF4MWJETEtabGVfTGExUG9yQ01CWlNzSHI5ZEVBb1FwZVN2bE8ySjdjUm1wZ2ZtRWhQRGRvX0Y0amxyR1NOZw?oc=5",
+              "source": "House.gov"
+            },
+            {
+              "title": "House Seeks Say Over AI Chip Sales After Nvidia’s China Win - Yahoo Finance",
+              "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBDc182SWNlYmNWbHFFbG14ODFYVnJKNEh3d2pubWUzdW04bzRSZGIwMjU3emhCbE1FbjBHT1pDZ3J0NmxlYlZMUHJmbEM2emsycjZuTkdVaW9RQm1BV19hQVhrRFdJNHIzUlFwLTFpRjQ4aFJSN280TWln?oc=5",
+              "source": "Yahoo Finance"
+            },
+            {
+              "title": "Designing AI-resistant technical evaluations - Anthropic",
+              "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9WbVpXYmhIZ3NaLVIycEJlWHk2dXJ3T3VPa0pQZEpkN2FNbXBmYU1aWTVwdWJORHJENHpoQjlGMDQweVFycm9Fb2syZ1ZZRVVnQTI4dW8zcF9zWmFuclp0X2wyV3pMME4tUHI5SkZIWGJYQ28tLUNiSE1TRlk?oc=5",
+              "source": "Anthropic"
+            },
+            {
+              "title": "One of the First Big Anti-AI Campaigns From Hollywood Is Launching Now - hollywoodreporter.com",
+              "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUDg1TDNGSnFQaHpOeVM0c0lFMTYxVllGSkpiejVxSFNOYkpnS1Y4dnUyM2pSV0xrSmZPRnRQMFNRaDBqVjktLUZ1eW1aRDRTdkZVcTd4RW9zUjdIbTF1YnhTSjZmX2x5WkNmWU9rZXV4ZTltTmw2dng5OGpkWnhfcDFjWG8zODZnTURfbEJDYXJSZkhjU0tYVnZLMnMtRXpKQ3U3QTlGNzBuTlBVM2ZZeGN0VWoxei1KMC00SW5BZw?oc=5",
+              "source": "hollywoodreporter.com"
+            }
+          ]
+        }
+      }
+    },
+    {
       "date": "2026-01-20",
       "title": "GU Graduate Wins Top International Relations debated; Exclusive; Is Apple Music down? Outage tracker takes the stage",
       "image": "entries/2026-01-20.png",
