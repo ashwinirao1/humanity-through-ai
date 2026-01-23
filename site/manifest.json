@@ -1,6 +1,164 @@
 {
   "entries": [
     {
+      "date": "2026-01-22",
+      "title": "America Revived debated; Applied Digital Breaks Ground on Delta; Lend Me Your Ears: On music takes the stage",
+      "image": "entries/2026-01-22.png",
+      "note": "entries/2026-01-22.md",
+      "topics": {
+        "politics": {
+          "summary": "America Revived - Council on Foreign Relations. GU Graduate Wins Top International Relations Award - The Hoya. At Davos, the World Rebalanced Against ...",
+          "links": [
+            {
+              "title": "America Revived - Council on Foreign Relations",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XdTdrV0tESGg1ekVhdlBLMm9kWVlTZnpVSDBfUmh5ZGszcE5LZm03V0lwRVN5dmJLRWtoVWRxT1IzLTdnZjRENFh4US1LdmtKYTlKTjF3?oc=5",
+              "source": "Council on Foreign Relations"
+            },
+            {
+              "title": "GU Graduate Wins Top International Relations Award - The Hoya",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMVN6WjR1M1lqVExaZGlxWEFDaTNEMUN6LUZIcGpqdk1hbVd6TndwZFd1bVdUZU10QU1lSnJmNmlIVXdJYk1TTi1lQmpFX2FOQVpLZS1USFlsdGFXMHR2d2JzV3p5ZTY4MFA3dkNpMWtlQkJDTFc1VlZERk1jbkU5eGhB?oc=5",
+              "source": "The Hoya"
+            },
+            {
+              "title": "At Davos, the World Rebalanced Against a Bully - Bloomberg",
+              "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMDQ5N2hmMlFaNndXdS1MMTUtM3BCZkZwNmRTaV9nMjdyaEVjMEZVSG01QkluMU02eW9xNXJ2RHk4ZFpMSVE2WWVpNmMwWUxpa2RWVHhtWFNGeWJ5RF9ITDhnZnRPbnZ5Z1NlMXp3VEhVd21yNzRucTgydWhQWG40SUVYbXo0Y0hJall0Z2U5YThGS2hzWEgwd2NPa2tPd0cw?oc=5",
+              "source": "Bloomberg"
+            },
+            {
+              "title": "Is Donald Trump the Dumbest Block of Cheese in World Politics? - CleanTechnica",
+              "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVzZjSXF3dFp2bmdrbThSY3p6dU14djZGUW9fVGFZc19DdGF2T195dG41QTNkS3FSRjRPNjE0ZXk4UVhCWjBYZVdIUzhsZHRkeTRNZU9CTWpsaFNFZG9rZTFDTkFCUF83X2J4azlRNk5qQnd1Y1o5R043YVQ0eGpxb0dwbmVOWnhGV0EzWjBDcTZiM0ljVTJRNk4zbWVYbmhm0gGmAUFVX3lxTE1sckdwVWh6U2xDd2I5bFAtMFVjYnpmRFluWkpuYkJWQnpNNmpKaFF1blRDbUhxUmZKdEdKZHAzQU4wTmFSTXRUREJDb2Jfbm5KRTNrRjJJRkw2bGNKdGRvSFZaRnJXWWZMU2czVWVRSDJCUWJvZUQ5UjI0Y2tVUHM5azJ2LXZxNlVBTTdJclJlZFVuUmpSSmp2ME5oN2R6TExLa2ZUbmc?oc=5",
+              "source": "CleanTechnica"
+            },
+            {
+              "title": "A World Without Rules - Foreign Affairs",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9uMFhYTFNnZndqMUM4Y2tFeUJSbGppMlJXNlJTNlFqSWdtNkdNSUdweWVza3BpUEljQWYzdjJCNGtnV29CVWFaVnNFMlk0a1YyM21ud09uci10YTBmSUF4dFFLSHlvaXo3X0pCTUtKdXVzUQ?oc=5",
+              "source": "Foreign Affairs"
+            }
+          ]
+        },
+        "health": {
+          "summary": "CU Boulder joins Medtronic in strategic partnership to drive breakthrough health innovations - colorado.edu. School of Medicine advances clinical reas...",
+          "links": [
+            {
+              "title": "CU Boulder joins Medtronic in strategic partnership to drive breakthrough health innovations - colorado.edu",
+              "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUTlVQzUwS3FrUXozTGZHNm11QzVKQkFGbm5lRU82WUNWYzlac0JWMFRDNVNPNjMzVkE0ZGd1WVlzZkRxSHllVm85SnlXRlM5TXpUbS1pbWYtU0U3UlhERHItZjdXQm5ISVdtaGVuZXlCcXRTUy1ERWJNNlJoVmZJNEZsMEZSQ180TXVOZkJ1WnZfakJUeEVyWXBnbFcxYV80TUE1aU9pTHRhTTFyLWVyUHZrdUUtandvS1Z0dkVHa3J2bkxNUTVJ?oc=5",
+              "source": "colorado.edu"
+            },
+            {
+              "title": "School of Medicine advances clinical reasoning education - University of Missouri School of Medicine",
+              "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUlAxTGZzdEt6WG5ZX09DVnUycFhGZWI4WEF2dXV1WXBmdkpsVU9mLVV4TGVoUUdiWnNtWlZuQzFUXzdmb2puTEV0VDBvZ3VzMlIwU1dQT2w3bHp2ZlFSTkJtTWJnUGJsWFBoRHJNcXVONThXdEdNbHlDTE9sSnBQSXNoZWEydXhub3QzVndNQ1BFUQ?oc=5",
+              "source": "University of Missouri School of Medicine"
+            },
+            {
+              "title": "From Lab Bench to Breakthrough: How a UT Mentor-Student Partnership Sparked a Rising East Tennessee Biotech Company - UTHSC News",
+              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hTkVESVp0OVhGdFAtcEJQX01rSFh0SUg0bUNCaTIyZFZZX2dTYXI0LXExaDQ3a1JRdnM5Q1UyNlpXbFBPcWJDdnA0SVp4dmVTUmt5XzZVZW02aUNrTDZxU2hLa2U?oc=5",
+              "source": "UTHSC News"
+            },
+            {
+              "title": "Video Pancreatic cancer research breakthrough - ABC News",
+              "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZWFNSFZPUXVNeGpCTHpUU2VfQzJhdE9OX0pWUGFGZzZWVHJpcV9mS2dlbXZEN2pUZTJXNXJudHlvMkd4dUdqWEt6dkVIQmc3MUVCQnBiTUdRUllxeThWa05JdUpBSUJlenhLVENvVExYTUEwd2c3VVAwakI5MnA5Y0FOakM1QzE0dkUzNTVDNU9DQlRPTkE?oc=5",
+              "source": "ABC News"
+            },
+            {
+              "title": "Medical advances, like 3D mammograms, save lives, according to experts - nbcdfw.com",
+              "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYmRpckhjNm5yTkhfQWVHTjRMWVRIZDVNdTFVQXRwZ1J5R3A1NWVic2d5dUNEYWJJUHpId3lYTEFKWGJRbjVDTGpTekVicDFKeGVzSzVoemZvZWFRUDlDWkd3UVFvc05EZHNKOWxHY2JZUWFyLVdQYk9jbjF5SXctakpsZnJjejVLX1dmWUxiRGRSY1ZkVnFVd2pFbFhGX1ZDdWZoX1U3cDJQcHNuVUFN0gG3AUFVX3lxTE1hVDVtWjZnRklrM1JkU1BTSkFOeEw4cXVVTG05UzZOOElCM1VZS2JRd1dNaFNWM1JhYkU2eEdLVEp3aFVvMlhRaGtxT214WFNuTWlTVUwtSm5Ca2EyU0pwZjVSRUVoZnpRNGMweG94M3JOUmNFeGxaa2hUc3ZwMG94cmZrTVhzemdSWld0ZUFJd1U1T05QSWtuQ1JReWEzRFJhZ2syaWtYV291c3lqdERJVWt2UjdwQQ?oc=5",
+              "source": "nbcdfw.com"
+            }
+          ]
+        },
+        "entertainment": {
+          "summary": "Lend Me Your Ears: On music and mortality - Yale Daily News. RAYE Announces New ‘This Music May Contain Hope’ Album — Here’s When It Arrives - Billboa...",
+          "links": [
+            {
+              "title": "Lend Me Your Ears: On music and mortality - Yale Daily News",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONW1ranRHdzNUYk85VGdCUGhRS2FVY0RxOGJKd1RMVkFIWmN1ZE51NnAxcHpwSDRKbThHdm9rLXZCQnZYUm5DeWlSVndTeWwxa005WUpGU0pUUDJCb1ZjRTNPZ3ZTM3ROYm4zT09nVzVob1pST193Y2ZnMnlmaklZSw?oc=5",
+              "source": "Yale Daily News"
+            },
+            {
+              "title": "RAYE Announces New ‘This Music May Contain Hope’ Album — Here’s When It Arrives - Billboard",
+              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZmhiRmlCU2pMNDZpZTJuRlU4a0VKdWhhZkF3aXVfd05ZckY0QVMteUdmZnc4cHZnd2ozVnhqX0JZYjFsVDQtaU8tVnE2YmZNS0c1MHVPaUY5UkdvZlpHbkMxOFVEVkF2NGEtY25ubFgtOVlOcDgxOFZGeWNPVDl5YkpDcjBDdmEyV2Z4YXFkZkZvaFhKSDhRWkx4Nm5FRnRnVVhSWlg4RQ?oc=5",
+              "source": "Billboard"
+            },
+            {
+              "title": "Arts Commission Honors Faculty Artist with Merit Award - news.utoledo.edu",
+              "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbWFIYUROcmxFRXdNOWJhX3lTVGVBX2FwUEhaUXlBREc2U1YtTW9XNU1IVENvWjc2Y09PZDJ0cEVMMFN3cV9DYW5URWJ1VFBtNV9lQTdNSWZpQjJzUTZrLXFYLTdYU0MxYkh3bnk1UnZVTlY5cE1uQmpnX2UzWDg1a0pxZ3JIQUtjUENnWFJCZlZXLWJDZHVMWWk3dzRhakx1dnc?oc=5",
+              "source": "news.utoledo.edu"
+            },
+            {
+              "title": "How to Watch 2026’s Oscar-Nominated Movies - Vanity Fair",
+              "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbi1XUnc3b0R1bzFQMFotZUg2LUxmSGtkNXVYUVU0dXhhcEVIa0lXaHpwelNjZEY3MFNsM2szMWpJaTV0SHlKN20yVDllYk9ReGYxYVR3NWhmbVVyVnRaSlFJbzBQaU9VWUQyVjhNT0hEMEFJckp2MndsT0pyRmFZX05zT3Q5bVJWZGs1Qw?oc=5",
+              "source": "Vanity Fair"
+            },
+            {
+              "title": "Thursday of the Second Week in Ordinary Time; Day of Prayer for the Legal Protection of Unborn Children (USA); - Catholic Culture",
+              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPLXRQSXJBME5TUkNULU54d3BzUWN1V0V5d0lBWVpnZ0VuejhFZHVGYmhrUkEyLW5rQ0d1bkhxWG1PUjhwZko2TFlCVW1XRU5uUHFuLVM3QWZYT0lHcjZtYnJEUzV1Q1ZRcHh3R1Rac0ZBdndERVFaekQ0amdpMWFwZUU3VUswbGxsR1lTb1BrWE0?oc=5",
+              "source": "Catholic Culture"
+            }
+          ]
+        },
+        "sports": {
+          "summary": "Rams vs. Seahawks prediction, odds, line, date: 2026 NFC Championship Game picks by proven model - CBS Sports. Seahawks NFC Championship Game Week Eve...",
+          "links": [
+            {
+              "title": "Rams vs. Seahawks prediction, odds, line, date: 2026 NFC Championship Game picks by proven model - CBS Sports",
+              "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdV91Q3FlVVdsN1Zudll4TURHNUhaWS02Mlh4N0xtTTFiZ0tKdDcyUXg1T1Rsdzl2YkhGUDlUa0JfaDIzSWlRcEZoVmRpT0xtTW8tSVh1RG5uUXAwekZ3aEdIbUIzbGlmMmc1djNfQ1JGREd4eHBSZVYzbUIwVUd2bW5FXzc0Z2JvMUxtU1d5U0NFRHZtUmRDZDhEaF9iRVBoUU12V2RjRmVpcWJlS0djemFLRQ?oc=5",
+              "source": "CBS Sports"
+            },
+            {
+              "title": "Seahawks NFC Championship Game Week Events - Seattle Seahawks",
+              "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA0V1FEMEl1eWVVOUN3RkpWenBLZ200NGJNWHZHRGxrcTBwSFhLd3BDMGRvWHl6YTN1RFNCVF9RUm1oQnNZeElia28wcTVKUER4UlZqWUNGV1VIdkh1NlRoakVxVGJvVkRTUjFrMmR1S1p1S3ZFa1U0X3Z1RWM?oc=5",
+              "source": "Seattle Seahawks"
+            },
+            {
+              "title": "Predicting conference championship weekend's top 30 most likely anytime touchdown scorers - ESPN",
+              "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQekxWbmpYc0dFVTZEdXQ4SjM1SmJ4cnQtcUlDTTduQk1oajZqd3VLcWZXcF84VFY3RFg1TnZoU0dWWXcxdFp1andRY2NNV1FGLUsxQmVTaVpabEw4S1RjZ0ptcVNEQUhteEpKdFNoZ3dLcmNINDhlUXU2NkZVWXdPeW1rXzA0dnlpYTZZLW5sN1NNMGk0alhVZHdJVkRHNmxOWVhtaTlJYVJYN1FYSWgtSktvRm5NNVBj?oc=5",
+              "source": "ESPN"
+            },
+            {
+              "title": "Lady Techsters Keep Rolling, Beating Lady Bears 60-51 - LA Tech Athletics - LA Tech Athletics",
+              "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa3B6ZG9kOFQ2a09EWXNnZmFYWlBRT193bjJRXzlscGlaYlZYMWtsZnlxWFVvTExmUHd5M2VfQlkwbkh3QnROV3FadEU5TlBiQjdlV0l5ZzVrNVluYXktYlNSdUF1NzA4SUpZbjdvMnRKb202WHZrWGNCTkdCQTVKZm42SVlSaUt4ck5zVXBPTUNQY254ZWxaSWNxdXNWNkV5ckRSUk10dHlNVGFqbTNCdG04c1ZDdw?oc=5",
+              "source": "LA Tech Athletics"
+            },
+            {
+              "title": "Last Second Shot Sinks Colonels At North Florida - Eastern Kentucky University Athletics",
+              "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVk1LX1dMamhLYTJRbnFJTlhnYndfRll1b1J2TUxnNERJY1JmalE1VDJSUlAzVUZlRktEc215ZGozSV8zeDlNYzNjYVhMYXlWRTBMRjY4eThLb3Rmb1d2MFltaGhwUFRiMkNXWUhqNWVhTHM0WklwVk9TeEUycHpPQTFzX3Mtb0tLeW9GSjdTN2ZWb1B6Rk9mRS00T01Na181TjZwR2ktb0RFQQ?oc=5",
+              "source": "Eastern Kentucky University Athletics"
+            }
+          ]
+        },
+        "technology": {
+          "summary": "Applied Digital Breaks Ground on Delta Forge 1, a 430 MW AI Factory Campus in a Southern U.S. State - Applied Digital Corporation (APLD). OpenAI Plans...",
+          "links": [
+            {
+              "title": "Applied Digital Breaks Ground on Delta Forge 1, a 430 MW AI Factory Campus in a Southern U.S. State - Applied Digital Corporation (APLD)",
+              "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPemh5d2NqeDRGWWdmRFgxaW81ajlrRjJrSHhub2lKem5EYW9VenJ2XzRRS1RwWUVGRnRIT0ZBU210NHFpQi1xUDNVNTBOV0ltNnJjOWJTNGxsRW9rQzdCVlRkSjNoLVZ6S3VnYjI3cXJfeFpFbkhpbi0xR3NDb0dVbDRlSWpRcFlvRkNpTFdRMXI1OGpka2VpNlFUcF9YRjFReFNBY29IcmxXYndfOGVpNGI4dTg3WHJiV0hSa2lsZmd6bU9k?oc=5",
+              "source": "Applied Digital Corporation (APLD)"
+            },
+            {
+              "title": "OpenAI Plans to Take a Cut of Customers’ AI-Aided Discoveries - The Information",
+              "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcHdxSmlWVVZxSnAtU05FazNqajZjeThEV0RvVG9SU1BGU2VmODF5QmppXzdOYnRLSnl6NmVFZk5IZ19Md3hlZjdxVGlvY3Frc2lFZGtDWkhrM2g4VjFyRmlHRnRNOTRXaFIteEVEWVR1Wk1rWFZIR0dxVXpoOTJaa21uVkpKY2NZc0hsSjhSU2x2bzEtRE80cTRGVFRaa1EzTnBwR1gwdFBwQQ?oc=5",
+              "source": "The Information"
+            },
+            {
+              "title": "South Korea launches landmark laws to regulate AI, startups warn of compliance burdens - Reuters",
+              "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaWpCQl9kMUtNMFhoVnFiY1ZvVVdST2NERUVzQktpTlJVbFc5Z3EteDhkWUdQWTMxVEpGZ0p3c1NIZG9WcVFERDg3ejFybGpQalZLM1dQSXFVSFFQcGZEY0VUWTB3Tjl6WGlla3l2NWxhRjRnUmNVOTN1cUM3MDFVRjJpRmdCXzZKRWE0a3pwaGFzdEh2cjRWcEZxbFVqcC0xcHRQUE9mNUFiaTFEYkJycDVQeUNNR1ZaWkZ2dFpxZ0QyaHJCY3Z5Q0hQR0xic0U?oc=5",
+              "source": "Reuters"
+            },
+            {
+              "title": "Science Is Drowning in AI Slop - The Atlantic",
+              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRUhHT25DVEphUzRVT0k0RzlTSENGWXpXbjU2ZHdNY1VIMGtUZEhTV3d3UE03T2VsY2N6XzNEcUxYNjR2TnNtZzdhU01ET002Mnh2UmwxclAyQkVxZHdQbU9TMnFvSHMtNzlNOTBNWmRqR3FzWEpBcV9pUlBLX3FndjVWVWM?oc=5",
+              "source": "The Atlantic"
+            },
+            {
+              "title": "Personal Intelligence in AI Mode in Search: Help that's uniquely yours - blog.google",
+              "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRUp6WEt1dXpxTUt1YXNNM1dIVEpfUXRJYlBUal9OcnRSUmhJQ0NJUXp4QmwtZS1TVGpMUjZnbm9UTkZwVmJWM2ViZzUwSG1lbVFEVVBSdV8tSnZ6NWJNTmpQWDc0WXVQNDNJb1d4YUxiOHVSTDhHRk5qbk4zRnJ6emhPVGVUMzBvS0t4eDFxRWJ0Y3UzQTJqTEtXUkU?oc=5",
+              "source": "blog.google"
+            }
+          ]
+        }
+      }
+    },
+    {
       "date": "2026-01-21",
       "title": "America Revived debated; South Korea launches landmark laws to; Music Business 104 Wraps Fourth Edition takes the stage",
       "image": "entries/2026-01-21.png",
