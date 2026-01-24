@@ -1,6 +1,164 @@
 {
   "entries": [
     {
+      "date": "2026-01-23",
+      "title": "News and current affairs from Germany debated; 'Jobs, jobs, jobs' the AI mantra; Five Fronts in Trump's Culture War takes the stage",
+      "image": "entries/2026-01-23.png",
+      "note": "entries/2026-01-23.md",
+      "topics": {
+        "politics": {
+          "summary": "News and current affairs from Germany and around the world - dw.com. America Revived - Council on Foreign Relations. Is Donald Trump the Dumbest Block...",
+          "links": [
+            {
+              "title": "News and current affairs from Germany and around the world - dw.com",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0ZWlYZDNMaFVsZ1NnYnZfaVR4RHVjNnRkYTBnUUpJWjBHbUZGOVhnVFIteVU2TzFPcHNJdE5LdlNIbk54bE5CUjRDdVoyb2pNd3c?oc=5",
+              "source": "dw.com"
+            },
+            {
+              "title": "America Revived - Council on Foreign Relations",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XdTdrV0tESGg1ekVhdlBLMm9kWVlTZnpVSDBfUmh5ZGszcE5LZm03V0lwRVN5dmJLRWtoVWRxT1IzLTdnZjRENFh4US1LdmtKYTlKTjF3?oc=5",
+              "source": "Council on Foreign Relations"
+            },
+            {
+              "title": "Is Donald Trump the Dumbest Block of Cheese in World Politics? - CleanTechnica",
+              "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVzZjSXF3dFp2bmdrbThSY3p6dU14djZGUW9fVGFZc19DdGF2T195dG41QTNkS3FSRjRPNjE0ZXk4UVhCWjBYZVdIUzhsZHRkeTRNZU9CTWpsaFNFZG9rZTFDTkFCUF83X2J4azlRNk5qQnd1Y1o5R043YVQ0eGpxb0dwbmVOWnhGV0EzWjBDcTZiM0ljVTJRNk4zbWVYbmhm0gGmAUFVX3lxTE1sckdwVWh6U2xDd2I5bFAtMFVjYnpmRFluWkpuYkJWQnpNNmpKaFF1blRDbUhxUmZKdEdKZHAzQU4wTmFSTXRUREJDb2Jfbm5KRTNrRjJJRkw2bGNKdGRvSFZaRnJXWWZMU2czVWVRSDJCUWJvZUQ5UjI0Y2tVUHM5azJ2LXZxNlVBTTdJclJlZFVuUmpSSmp2ME5oN2R6TExLa2ZUbmc?oc=5",
+              "source": "CleanTechnica"
+            },
+            {
+              "title": "'New world order' brings politics out of textbooks for these university students - CBC",
+              "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaEVSNFRlX1ptdFd2QTNKZThuX0dZLWgyTnBfc21PRS03RVVwRWhRcF9JckFEZElYd2xKU0NReHdiay1iUU1KV2UwR0xnbHdJOE1TeTN3SGxrbVNYTFBkSU5hQWhlTWl1R3lzODFSNXRqZDYwWGZkOTREUTRDNlpZS2pZSnhBNTBBSWtNM2xYVFBGU3VJcE1UZjNQNGFBc2xJcnBqMlRiNEJldF95UE0tUzdMbXVIZkNQMVB0U3QyT3FVY1NG?oc=5",
+              "source": "CBC"
+            },
+            {
+              "title": "At Davos, the World Rebalanced Against a Bully - Bloomberg.com",
+              "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMDQ5N2hmMlFaNndXdS1MMTUtM3BCZkZwNmRTaV9nMjdyaEVjMEZVSG01QkluMU02eW9xNXJ2RHk4ZFpMSVE2WWVpNmMwWUxpa2RWVHhtWFNGeWJ5RF9ITDhnZnRPbnZ5Z1NlMXp3VEhVd21yNzRucTgydWhQWG40SUVYbXo0Y0hJall0Z2U5YThGS2hzWEgwd2NPa2tPd0cw?oc=5",
+              "source": "Bloomberg.com"
+            }
+          ]
+        },
+        "health": {
+          "summary": "CU Boulder joins Medtronic in strategic partnership to drive breakthrough health innovations - colorado.edu. School of Medicine advances clinical reas...",
+          "links": [
+            {
+              "title": "CU Boulder joins Medtronic in strategic partnership to drive breakthrough health innovations - colorado.edu",
+              "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUTlVQzUwS3FrUXozTGZHNm11QzVKQkFGbm5lRU82WUNWYzlac0JWMFRDNVNPNjMzVkE0ZGd1WVlzZkRxSHllVm85SnlXRlM5TXpUbS1pbWYtU0U3UlhERHItZjdXQm5ISVdtaGVuZXlCcXRTUy1ERWJNNlJoVmZJNEZsMEZSQ180TXVOZkJ1WnZfakJUeEVyWXBnbFcxYV80TUE1aU9pTHRhTTFyLWVyUHZrdUUtandvS1Z0dkVHa3J2bkxNUTVJ?oc=5",
+              "source": "colorado.edu"
+            },
+            {
+              "title": "School of Medicine advances clinical reasoning education - University of Missouri School of Medicine",
+              "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUlAxTGZzdEt6WG5ZX09DVnUycFhGZWI4WEF2dXV1WXBmdkpsVU9mLVV4TGVoUUdiWnNtWlZuQzFUXzdmb2puTEV0VDBvZ3VzMlIwU1dQT2w3bHp2ZlFSTkJtTWJnUGJsWFBoRHJNcXVONThXdEdNbHlDTE9sSnBQSXNoZWEydXhub3QzVndNQ1BFUQ?oc=5",
+              "source": "University of Missouri School of Medicine"
+            },
+            {
+              "title": "Four Penn studies named among nation’s top clinical research advances - Penn Medicine",
+              "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbnhtejc0QjVMa3U4b0E3d0lkOXBWX3JpajJLX3Mtc3dKbVVfUER2RU0xLUdld0JlMkxsNmFkeVRSNFNJVHV6eVdnYmZCOTZPRV9sbU1aemdqMlFnbHFjSmVOSWlRbW9ZaVg3cHFfZlZtbTM4T2NEbzNSaEZmejVyT3B5cjR4RWJXZWtZYTc3bHhPNXJlZzNjX0VmTEozc0ZCY1pZeA?oc=5",
+              "source": "Penn Medicine"
+            },
+            {
+              "title": "A Medical Breakthrough Decades in the Making(1) - HCPLive",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcUt1aEdGbGZCZG4wQ1NrV0dpNklNZHNxLW5iblNaQ2hvYmVSU0pwemFfQUdZY2VTd1g2Q1lVY3AwYVBzY2V0ZlZjT3hQY3dmN1pOd0s0Z2RlZUx3azJiSGc4VWlHM2Q3am9ReDRONWxuX1JmT2lvU1RkU05wemE0UA?oc=5",
+              "source": "HCPLive"
+            },
+            {
+              "title": "From Lab Bench to Breakthrough: How a UT Mentor-Student Partnership Sparked a Rising East Tennessee Biotech Company - UTHSC News",
+              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hTkVESVp0OVhGdFAtcEJQX01rSFh0SUg0bUNCaTIyZFZZX2dTYXI0LXExaDQ3a1JRdnM5Q1UyNlpXbFBPcWJDdnA0SVp4dmVTUmt5XzZVZW02aUNrTDZxU2hLa2U?oc=5",
+              "source": "UTHSC News"
+            }
+          ]
+        },
+        "entertainment": {
+          "summary": "Five Fronts in Trump’s Culture War - The New York Times. Your guide to Oscar-nominated movies and where to watch them - NPR. Defund Science, Distort C...",
+          "links": [
+            {
+              "title": "Five Fronts in Trump’s Culture War - The New York Times",
+              "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObFZncnFNTU1JT0ZqSkFvZ2JNTkxFWEM0NmgxWWlwQzgxZnc1SkVqQzVZVFF5cVZJSS1nY3BJNWMxU1YtaFkwMW1Rd3hQQ1ZVVC11N0x6MkZyNUNNTGF2VlJWYlhnazdSaV9yTHhYZ0RiQUlaMHBlUW12UGdiLWQ4R29hbllqd01uVWZ4Si1FS0JmLTA?oc=5",
+              "source": "The New York Times"
+            },
+            {
+              "title": "Your guide to Oscar-nominated movies and where to watch them - NPR",
+              "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQajFzdTlpanZUdDlhNGpqWWNkTF82RU54NDI4NjFYaDc1LUJHVHZlb0t2MWJROTIwZXhTVlA2THo5em1kY3RBS2pIdHFjN1pkdWlWeFgzTWsyb1kweGZac09xcllLLUh4dlNVTDY2Z25rc1JJLXY4eXdCUm1tcVBlT1dvNnRkTEU?oc=5",
+              "source": "NPR"
+            },
+            {
+              "title": "Defund Science, Distort Culture, Mock Education - The Atlantic",
+              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5pTVdQa0otV2M5dzVOWjRDN2twZG1lM0NDS1VPOW1SRHlsaWwxemZxT0lPc1FCRS1NSVZYYnVzc3hqNjVyMHR4UnREeE5PR0lTejhjSEx0UkxHbGhOMk11YUdnMGZab244TW8zR29sbkk5ZkNGWUFGUw?oc=5",
+              "source": "The Atlantic"
+            },
+            {
+              "title": "MGSA 50: Mason Gross School of the Arts Golden Anniversary - Rutgers University",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONHR4cWd5WHBtTGEyVHdsOVpMSXVjeUhTbUJKamwtMVMtaWJtYzNHbTJxTWlIOUVxR01YOUc5c1N0cU9tRGdzNS1JQ2lkSjdnNnMtcEx1Z1dCaXp4ZlNNeWd4MVN1VTd3S09CTmpMRWhKRmZPandUcmtsYXdza3kydTh3?oc=5",
+              "source": "Rutgers University"
+            },
+            {
+              "title": "2026 Oscars: How to watch or stream all of the nominated movies - boston.com",
+              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWDJUdEpNQVJqTXVMWUx1bHRZRm9kTnUyRnpsVEIwT29pamlLcW1JT3Q4bWdITkppTmZaVUVHeXYzSl94bXFXRGRTVGlZNnlEWVRRNXB0MzlxTGhOMUl2M05pUHF4VUFoS0VzTXJfV0tsdi1OanluOFFYNUFCZWJxY1RkSlZtTkEzVWdOSUhNU28wd1dMRHJjbkV6RzVXdw?oc=5",
+              "source": "boston.com"
+            }
+          ]
+        },
+        "sports": {
+          "summary": "Seahawks & Rams To Decide NFC Championship at Lumen Field: 'This Is Why We Do What We Do' - Seattle Seahawks. Game Preview: Broncos set for AFC Champi...",
+          "links": [
+            {
+              "title": "Seahawks & Rams To Decide NFC Championship at Lumen Field: 'This Is Why We Do What We Do' - Seattle Seahawks",
+              "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdUtEbXNHd0pWTUx2NmcycWotNXVNdTNQTk5YOGd0bHlWWHd2NUdyOGoxUmEzM3hZVnhYaHJsdk52cG5tRHJhVWFXWFZ0eFVMZ1pqLVVVaHNzYm1ZYnZZOXlxM3ZqcmpicUtKenNlYnRzSnpJc2ppZFNvYnF4cXIwaFlnRm84dmlkQndLcTRvTWU0cC1nVlNEVGNtQmNEcEZNWVp1Wmc5TEJIcDRZTzhtQUttT3dNbGhqQTdRb1l1YlUyZUoyNi14YWtXWVZnMnFnX1Z6RGhwUnhhbTB6?oc=5",
+              "source": "Seattle Seahawks"
+            },
+            {
+              "title": "Game Preview: Broncos set for AFC Championship Game showdown with Patriots - Denver Broncos",
+              "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTFBHalBoR3VIYk1uY29NTF9tVnYzZXRGSE95ODFxUnBUbkhmYk54R0NVbHdXQTRxb2Z3SU5rX0ZxU2llVTdZbml0a0VhTWYxZU5jYVFvRkt0VEpvVFBUSWFFQU1GYWtxQ3hla09adFJ2cHRKNUhsZWR4YVVra19pd2xEZ0ZuOXhfUE9taDZXbVhIejBMdGZtZG5IU083WFJxeWV0V1Z6TGFiR0FM?oc=5",
+              "source": "Denver Broncos"
+            },
+            {
+              "title": "2026 NFL conference championship game odds, lines, spreads: AFC, NFC title picks from 10,000 computer sims - CBS Sports",
+              "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUld2M1JBX0xOdGpCX3R6RkZuUHNGbXZkNW96QkRlSFpLenNybVBIaEdPcUVUSTlkc3VlU2VLV2FhRlA2SlVkTUE4cC00M2hYT0hIOHNPRzFRaWJxU1RJc21Lb3J1RGpFWnJkbFdTbkdVTDR5R21NbjVMYnhVdW9rN21aNk9BamtKSENfb1puOGM3T1BqbFRsRDZJdFhmNGhBa19oOENIREE4WVluSzlfTkR3WU9ZWGhNd2xiRC1R?oc=5",
+              "source": "CBS Sports"
+            },
+            {
+              "title": "Athletics Provides Weather Update Ahead of Weekend Events - University of Missouri Athletics",
+              "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRXpHbV9QRFpnLXRZdDhYWlg3bUprWEhYTDJpd0Y1ZGdWV1dNZWpBWk1QeXdhSWg5Mi1oZFdHdjd3UzZET1VlOThtSDVDVUZJVWdwTkJxNWNJVG5GeXlWTHBzNl9DQ01ZV1lGSmt3anVGLVVoY2FfQ0xENUotaDZ5QkZKRTM2VmxSUHR0NmtCZFJEOC1ZRXRpRG1PZzZFSUVrUzlr?oc=5",
+              "source": "University of Missouri Athletics"
+            },
+            {
+              "title": "Patriots vs. Broncos: Three must-know storylines for Sunday's AFC Championship Game - NFL.com",
+              "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOUpOYnczbWF0dlhQRnphMmg2R2tsMXNJdXd1dy0tdTJzOW45REVERXpNUlRWaWlMcXRwSzJ6dnhmRHNEWWE0YUJQem5QaEk1T3BFZ2kwTXFvOUs2Vk1pS1VobWMtLUpiRGIxeEduZUhfaW1jRlhCN3h3czZIbWtJdXFPTy0xN0phV2dycERvT0tObV8yS1VQdg?oc=5",
+              "source": "NFL.com"
+            }
+          ]
+        },
+        "technology": {
+          "summary": "'Jobs, jobs, jobs' the AI mantra in Davos as fears take back seat - Reuters. Why Apple and OpenAI are reportedly betting on AI hardware in 2026 - Scie...",
+          "links": [
+            {
+              "title": "'Jobs, jobs, jobs' the AI mantra in Davos as fears take back seat - Reuters",
+              "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRXZXZ1Z2WEozYnlJaVZreHBfbU50UGVGdkcyLUdoUVhNd1VIRlRfTFlWNnBoM0R6M0F2X2ZwMjZyY01vdXJKa2FfUXFVRUZMU25QZnVNVkp0YWlUcDRqc1c0NUF5NFdLdTJpdVF0WnpKYlNjcWpFOHBuMTYyUHRiRG9RLTBXWkZadC1raXlnWmpLUWZ3V18zVXdGQ1h0eFBQdXA2Ng?oc=5",
+              "source": "Reuters"
+            },
+            {
+              "title": "Why Apple and OpenAI are reportedly betting on AI hardware in 2026 - Scientific American",
+              "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVEppNGJnNUt6ZENCakZSREl1UGtvekpSTGE2c2R6YmlFWG1GbjNmeUxIX1p0RDVuc2t2dW5kQWtxNkxaMzJGanZfZ09DLVdYakxKR0JESDNiVHY1amZfa1l4ckZnN3Y3cEZ4UElveTNQUmxwS2dzV0F2WVpSQUt0UTBFaW9QRUZJN0FsWm1nakJxcnptM2pkNW1mWmhNQ2xfZ0VKMXRiU2ZpNkVDdnVF?oc=5",
+              "source": "Scientific American"
+            },
+            {
+              "title": "Davos 2026: Leaders on why scaling AI still feels hard - and what to do about it - weforum.org",
+              "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT0ktYTRfSnp1NHNtMndlbjJjRVlxYkw1VGpyMnd3NUFNUGhzakItcV94aE1BaTZWaWRMcVdUMS15X2hhV1hVRVJNS09MZ011VTZNbUhJckQxbGtOQWJkanlRRWxJajI1MDhKWE9waTNvaW02SS1tN3FpVnllVmZiN0phdk9JeXhUVUNkNU5Cc2wyQVB6?oc=5",
+              "source": "weforum.org"
+            },
+            {
+              "title": "The Math on AI Agents Doesn’t Add Up - WIRED",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tN1ltdW5aOVREdlBqRkgxdTc5UVBmQ2FiWkVEeTNjVDdSdFhmRFMxdVpXb0t1QUl3Z3E5TXpvQ3NHTVJiX3NiMk1vQVhlbHRkMlhsM1BuRmlFbEsweFFyQkt0WVVWcDlO?oc=5",
+              "source": "WIRED"
+            },
+            {
+              "title": "Is China quietly winning the AI race? - BBC",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YSEtTN0tJMTQ0eEN1OW5PbExSczJRa1RfSmE1TnJxWkFZQXJlMk9QdkFoNzFrV0JLaThtbUMxWTBaREpBb2t0NVBQamNYVF83cU5YRnc3YUJaZw?oc=5",
+              "source": "BBC"
+            }
+          ]
+        }
+      }
+    },
+    {
       "date": "2026-01-22",
       "title": "America Revived debated; Applied Digital Breaks Ground on Delta; Lend Me Your Ears: On music takes the stage",
       "image": "entries/2026-01-22.png",
