@@ -1,6 +1,164 @@
 {
   "entries": [
     {
+      "date": "2026-01-30",
+      "title": "Coalition debated; Astronomy Picture of the Day; Opening Up the Arts and Humanities takes the stage",
+      "image": "entries/2026-01-30.png",
+      "note": "entries/2026-01-30.md",
+      "topics": {
+        "politics": {
+          "summary": "Coalition | Politics, International Relations & Benefits - Britannica. A World Without Rules - Foreign Affairs. Starmer and Xi Seek a ‘Sophisticated’ ...",
+          "links": [
+            {
+              "title": "Coalition | Politics, International Relations & Benefits - Britannica",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1PaXplR1R2cVNzZERMN0dHWnNRTDlDYmYxVWJSdS1PU0oxVklrWjBPck1qRUFXWHd2blduWXoybG9wdTZNOU1EcGRpOXlXWXF1RFIyaQ?oc=5",
+              "source": "Britannica"
+            },
+            {
+              "title": "A World Without Rules - Foreign Affairs",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9uMFhYTFNnZndqMUM4Y2tFeUJSbGppMlJXNlJTNlFqSWdtNkdNSUdweWVza3BpUEljQWYzdjJCNGtnV29CVWFaVnNFMlk0a1YyM21ud09uci10YTBmSUF4dFFLSHlvaXo3X0pCTUtKdXVzUQ?oc=5",
+              "source": "Foreign Affairs"
+            },
+            {
+              "title": "Starmer and Xi Seek a ‘Sophisticated’ Relationship - World Politics Review",
+              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5yRE1qY3dHWjFZUkctbGp0aUF1bzNBSmxFdkZWS1diblcwY1FQR1kwNWtodUlwZVFJdFRLLWVPOE9YSTA4aEFQWGVxX3NPOERueWV2cHJKaXFhbEI3TDVCUkRHd3Y0c243dEN3VVZHaUtWY1hSMVJUb0JHeV9vdw?oc=5",
+              "source": "World Politics Review"
+            },
+            {
+              "title": "How Trump’s Foreign Policy Gambits Are Reshaping the World - Time Magazine",
+              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcUYyMndhanVmaUJKSTVRbFR4WVpCa3lnR0p1dkJaSXEwaUFEN2ZfOEFkTVVRbnVFbUR6MXJkbHI1a21WN0t5RlZMUUQzeVBvdXVPZUtzQldWekc4UDZrWWo2dk1FSXVpUkZrd3cyZ216LWUxdGM3cnpha2dWakNMZy05QjktZy1F?oc=5",
+              "source": "Time Magazine"
+            },
+            {
+              "title": "Symbiotic Realism: a transdisciplinary approach to understanding international relations - Frontiers",
+              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU3h6YWcwLVZmY3pLYjhPREo2cHotN1NMTVYyTmNmU1V0RG5rTnJyV0t3UmV3U3E5M0JfWno1dk02MWtiNFhTOW1IMmtFd3otUm9ubk5QOUZUQ0tLQXJQV0tUUXpxaVFnVGJkbWNuNUlhaVBKeXlQc0h6aHpBbHVMWHl2dmRfRnp3dE82Sk5iOG1BdDM3ckFGWTVB?oc=5",
+              "source": "Frontiers"
+            }
+          ]
+        },
+        "health": {
+          "summary": "Improving Health Through Research - University of Utah Health Academic Medical Center. Spanish scientists cure pancreatic cancer in mice in medical br...",
+          "links": [
+            {
+              "title": "Improving Health Through Research - University of Utah Health Academic Medical Center",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ncjEteFVXVFVwMTdGRFZzRnEyR1Jad1cwdEdsS1MzbS1iSm5Pc2dYd2dGMmNJZ2lrR2JMdzhPWGJ2ZEdKaFFxOUN1dWRlSjZSNkFNWEl3?oc=5",
+              "source": "University of Utah Health Academic Medical Center"
+            },
+            {
+              "title": "Spanish scientists cure pancreatic cancer in mice in medical breakthrough - LiveNOW from FOX",
+              "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5hMlg5TUJaTF90NGRRN1dNVUd6dzVMWEFkWFRFWldEb3B6Ti14TUZoZzBqY1R1Q3BkenVJSjM2T1VPZTlmVkxVcFNEazdMcFo0YlZ2M0hmMnNuR0ZGamlJTERFTFdTb0NsR3dkSk1kbndhYjVTODR1VHFR0gF_QVVfeXFMT0NEYjZpR2tabnVrN240ZnhXNWVMY0dNVWVCSzBGU19HOXRYbF9aNUZESHZqMEc5X2UtczAtZWw5ZHlzY0R5OTZjWVRleGNQZjAzV3J5dmRRQlZjSEZ6WFNEeGEzZTRLMkpsRzBnZHkxNWlwdGE2T3drQlgzOWloNA?oc=5",
+              "source": "LiveNOW from FOX"
+            },
+            {
+              "title": "Breakthrough T1D awards $1.5 million to Blue Circle Health - Philanthropy News Digest",
+              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOGNTaHc1a1BkUFlGa0g0MnVVcWo4bjFwWEozcjhOenN2LTVVX1ItdUZjNkhpY08yeFFicjUtUU9uSWN0bWpwWTgwekRMVzN2dnNzZXVGcnNxYVN6c1ZUNklJNkhoVjlmTlV0VXUxODZKQktEOU16c0NRdk9faUVqc2tUTmNNdlV3eVRfekhnNW1yNXdVaGQwT3RhTWlLdw?oc=5",
+              "source": "Philanthropy News Digest"
+            },
+            {
+              "title": "From Lizard Venom to Ozempic: How VA Research Changed Medicine - Military.com",
+              "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYmZqWFcyYnZXdjU3Q2s2bnVOY2lMMlZVeWs1VUVtaUVrWk14MTNhd3dpVWxGU1pqb2JHMmxORW5XbDV2MTlQS1VfYnFrUnp1VE12LWRXUWtnUEFnUFNkbTl5bGgyODFtOFVaNjc0eWhGNlVUczFRUHJvRDlvTVR2eWlZMHdJbnZPdEJGZXJsS0VwSTlSczE4bktqRVFlcnZjdHZKcTAtR3FZNnphUHhhU3FFMA?oc=5",
+              "source": "Military.com"
+            },
+            {
+              "title": "An Alzheimer’s breakthrough 10 years in the making - Harvard Gazette",
+              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZUlMbVZlSTNRTVpwUG4tdy1qbmR2RG1vLU1mS0l2UG1RLWFRbzhfaS1GbFdSMm91V0ppUHlwblVjZC1odVVEQ0ZBR1YzX2YxVnBfTUo1NDNQZmtGeFk3bG9LT3FnZU56b2NKNk9HR1NHUEdxcTBjbURzWkhIbDh3aEFDdW5qWnhNX19iME1xMjlWWjF4VDROaUJMZzNzdw?oc=5",
+              "source": "Harvard Gazette"
+            }
+          ]
+        },
+        "entertainment": {
+          "summary": "Opening Up the Arts and Humanities for All Americans - Mellon Foundation. All Catherine O’Hara Movies Ranked by Tomatometer - Rotten Tomatoes. Film St...",
+          "links": [
+            {
+              "title": "Opening Up the Arts and Humanities for All Americans - Mellon Foundation",
+              "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbHpJTGtadTNJTTZuRWtfWHpnWmpONE13cWJhaVhjY1oyODRMZy02b1JPUzdHUlZGdXhPdG12ajFoTzc5OWc3YUtQaEF4OHZybGVPdk9uUlk0VWY3WlZZalkwN01lVFV2eFNhdGVkQXJabGpBQVljYkVUTmt1TW91aGx5RWVZM3JtR1h1WVVzZTlzVTMxeFYzcjV5cEE2TE5iN3ozMkZB?oc=5",
+              "source": "Mellon Foundation"
+            },
+            {
+              "title": "All Catherine O’Hara Movies Ranked by Tomatometer - Rotten Tomatoes",
+              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUWtkMXZfeWxKUnhCOGpHb2I1NWJ5SEljMEVmdndLV0JyYS1ycXdWV3lielhteFpEZjR4dWozN29xd1JyTTBsdlNrZzdPbWRIb3d5VnlmTkc1NXdMYTRkLWx2cmlpQnlqWVZSMXAydTB2eTdBb0tyVDA2VDNZQWRXdC1kYlE?oc=5",
+              "source": "Rotten Tomatoes"
+            },
+            {
+              "title": "Film Students Are Having Trouble Sitting Through Movies, Professors Say - The Hollywood Reporter",
+              "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYkI5QnNTR0VlbTBKaXVYdm1WNGdKVV9rYmtldFMyMXUtWVVvd3NNX2YyV29pQjBWLVVxR05lZnpvQ2pRNTRTQXBXTjFiTTdmb0hoajBFNFBFSWxCQ3R3NlBDV0Z6NUdhakRyNDg2M1l3WnlCRHRNOGR1ZjNFU29mTEFpMFY1UHFPTUs0WWxyRmtfYWNyd1h6VmZwZFlOMnVUZHRuWnhRNkd6RmhuckllTHVvc2FHbEIzRVNB?oc=5",
+              "source": "The Hollywood Reporter"
+            },
+            {
+              "title": "10 New Movies Our Critics Are Talking About This Week - The New York Times",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNamdFS2lodjVsZXB0SFlxcHRnc2VyRWYyeGh0dkR6cVpDQjEtV0t6WEQ0SjNmOW5YX0ZBXzNZdmR6eUlpUW1MREd3dHhaUS1uVnEyMVJjMnlSYzJMS3B6UUozWlM5MjFwN0RqQlhzWXg4V3FxWjdmTFlNQThxU0tUcQ?oc=5",
+              "source": "The New York Times"
+            },
+            {
+              "title": "Catherine O’Hara in 10 unforgettable roles: Where to watch them - Los Angeles Times",
+              "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcC0tdzRsUXFrLWY3QTNsRVJnUmhKVHpNek01RE1kNTRSc2tfMXZuVEkxRThQWllJSS1TSUZUTzduUXFOWjhyWVlSSXhzcU5RcndHQjlFbmkxMEpDNmttTmpYekNQUUhFdFFWNDRoUXVmdXN5ODQ0dmtmdmZGazdrM1NxZ3hvRnROMHFzNlFnams2cVZscXhlQTRYT29JbE5uYXY2NQ?oc=5",
+              "source": "Los Angeles Times"
+            }
+          ]
+        },
+        "sports": {
+          "summary": "McArdle, Phillips Highlight Day One in Pentathlon - DePaul University Athletics. George Mason Defeats Mount Olive in Straight Sets - George Mason Univ...",
+          "links": [
+            {
+              "title": "McArdle, Phillips Highlight Day One in Pentathlon - DePaul University Athletics",
+              "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTlNWVTZLbmR5VjE1YXV4VnExRXl3N1lMLXZYeWx5ZlJCYTNOWnBGX1dldXNmQkZ0eFBOSjBENTZrN0Q4V3p0OU83azdkVjlZODVBNXRuLXRodjQxVllhNEFETUNmekNleWkydWhaX05xZzNyelJubExpUEczUkF2VHR0YjVfdENFOXZwZnV4WmpHcUtsZDZ3YXBtdFdRbkhEZ24tcDRGUWhvYVND?oc=5",
+              "source": "DePaul University Athletics"
+            },
+            {
+              "title": "George Mason Defeats Mount Olive in Straight Sets - George Mason University Athletics",
+              "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSHpBNVAtNHNYeVpoSHhGNzZ0QndWNFU5anZyeXQ0OTRTcDRFQTRIaVVibVdURmZjWTY4VHI4YkZMazFFRjNDV1llc0d1TmUyM2Y4bWZJWHRvUjJpeWFsclp6QXF5OVRBUWdDNG9XaEgyYmswVlBJc2szalFmdHF0MU1LbWhhQzB1YTJvWnBWLUNJM2JiSGFrcmFxWlkxby1MSUF1NGlyLV8?oc=5",
+              "source": "George Mason University Athletics"
+            },
+            {
+              "title": "Women’s Basketball Downs Dartmouth 55-41 - Brown University Athletics",
+              "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMmZ1bW9jSWRhSnZlaG5mXzgwRHF6SjZGU29NMkM5NGQxY09QalRIbldGMFBSLTVIeU5adUc2NVVKdXZwWHRqcE5QMUVybEwxVUxvLUtaN2t5cW1rLXVCc1NIX3FQbllFR2lrWUstY3hZX1NDS21mT1hMa1gwd3E3OENoRjdsdlVXVnNUVTlqVFlEbHE0dUNhUEtJVQ?oc=5",
+              "source": "Brown University Athletics"
+            },
+            {
+              "title": "Phoenix Falls To Charleston - Elon University Athletics",
+              "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNkxocFlaQ2xsUU9HWHBpOU9WQzBrV0I2MDg3SVdtVlZwY3QtdkgyNXpKWWI1Y21Dd1VueFZqMWhjX1hBNnk1MzN3U3JoRFFISnU3NXlSbV9VdkVwQzNwUjFaUXVEQ0JTNXdmNjVBRzZQbk00Y0ZBZjBzTmk2UVVwVmtmUGE4WjVQTUtNQjY4aDJ5SDA?oc=5",
+              "source": "Elon University Athletics"
+            },
+            {
+              "title": "Watch - NBC Sports",
+              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE0yY0pMRnFNOGpEQ2pQaG5sU3Y1NnhYMXNyRjhaMFU3NmlwVEh4dkF0QTR2a0IyYm12bXVhUEtmWGJSeG5va2c?oc=5",
+              "source": "NBC Sports"
+            }
+          ]
+        },
+        "technology": {
+          "summary": "Astronomy Picture of the Day - NASA (.gov). Inaugural Marine Corps AI Fellowship Advances Workforce, Applications - U.S. Department of War (.gov). Mol...",
+          "links": [
+            {
+              "title": "Astronomy Picture of the Day - NASA (.gov)",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUd1FseWNRN0Q4T2xjNHEzZThtRnlSeEZhY0tIU3FzNlVLRW1maTZtTGo0c3BBRHdSUmRzRTVPQzlTdFk2MllpZXFodnJtNlVSakE?oc=5",
+              "source": "NASA (.gov)"
+            },
+            {
+              "title": "Inaugural Marine Corps AI Fellowship Advances Workforce, Applications - U.S. Department of War (.gov)",
+              "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaFJYbEpyaTFhQjBfR0pZZWNtbWhmLXpQcGl1S0llcG1GTHBRR2FtVHVnaGFMMW1HaFJqeEd0ZTROdnpVQlVjWWJYQ05oNWhFb0U2SmRQOFUyUXNxVlNueXVnTEg3N202dDgtSlZyU0thVkdOMkdRNXd1RFpJVUpzckpBY1d2bnBoRHViUmg5X3FJZ0xaQ1hRNzZUckQwVmNwVEdJemxHSkcteHZFd3EtLXVpMF9nclJXbE1KNnZkX1NRUE5RUGdHa0V5aw?oc=5",
+              "source": "U.S. Department of War (.gov)"
+            },
+            {
+              "title": "Moltbot is an open-source AI agent that runs your computer - Scientific American",
+              "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQXZnbGc5OWc0V3o0M3dGckRoa2t6ckZWOUlwTF84a2tMWVptUF81V21raF9yUFZnRkFjZDBpM19Hamg1dkZILUJlaUMwVEJBTWo1YmFiT0pZbm9HWmVEV19XeWIzeW5wUERhcGJraUlvNUZ3ZlUteVI2RkswcmxWN2hnaFB5cW5sNjAxX3l3UzV3QzBLdFRPQnFvWGg3bGlGaVN0eg?oc=5",
+              "source": "Scientific American"
+            },
+            {
+              "title": "Former Google engineer found guilty of espionage and theft of AI tech - CNBC",
+              "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM2QyeVJtd2l6LTZiUW50dnFsUTlWODFsTUIyRGNLcU1kelg0WTFOTUlsVjFYT0tFcnBXMVRDUGJ5QnBCd2M3LTZPN2g4dXRZUldlTDFVNUIyWWJDa1F4MUNGTS1aM29PWXpJS29rVkUwdzVQcUZhVkg5VTNJRnY2cS1Fb3JHaDAxbGJjWTdWVF9lVGRjcktzbnV1LVNtamxMejJ5X1pDY1AtUdIBrwFBVV95cUxQODU4WTZVUHE1VG1ibUpoYXREMVZEcHJFMG9rYnRHUktKUlFHRFBTVEpGcmw4MXFFUEZCNGVveGduSHJkNlBlU0dnc2hhU1E2eUQ0a2pBMTR5OV9LTzVwUmdpY2otWkZndkxrSTN1NlhQTlZQRXplRmp1NWtXb1l2SDdGLXpEOWw3bUxBQVUyS1pydWRLYUdQSlYzd1lLSU1KQzc4dWVCV2htNURvTUxj?oc=5",
+              "source": "CNBC"
+            },
+            {
+              "title": "AI Agents Created Their Own Religion, Crustafarianism, On An Agent-Only Social Network - Forbes",
+              "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdXY4dzZOTmUwYlRLN1UxTmpmU0Jvb25kMS13LXhFcXFMczB4ZEtqdlpTd216VHFzM0pBS09pR1hJdmhmSGlYRHFEeDNhanYyeHBsbkl5bS11aUZJdjVHbW01RmhnUzlsd0doSTdLWlZsbXZJbUhpeDNQallXQzFNVkZrWmZYYXhZOFJBRWkyc3dtam5aa1ZQTWE1dk5SNkhYejFFUXF3MmI5NkNZSkJ6MzBTcXRqcy1KNXhyYWdwYV82a0dKaGUtTi1iZTFXZnBUU2luaQ?oc=5",
+              "source": "Forbes"
+            }
+          ]
+        }
+      }
+    },
+    {
       "date": "2026-01-29",
       "title": "Coalition debated; With AlphaGenome, Researchers Are Using A.I.; Achieving a broader focus through music takes the stage",
       "image": "entries/2026-01-29.png",
