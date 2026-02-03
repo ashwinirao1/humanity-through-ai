@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" style="background: linear-gradient(135deg, #EF444422 0%, #3B82F622 100%);">
+  <defs>
+    <filter id="blur">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="2" />
+    </filter>
+  </defs>
+  <rect width="100%" height="100%" fill="#0a0a0a" opacity="0.4"/>
+  <ellipse cx="223" cy="326" rx="325" ry="165" fill="#FBBF24" opacity="0.48198203990534155"/>
+<rect x="699" y="324" width="392" height="201" fill="#3B82F6" opacity="0.6900511427411966" transform="rotate(30 895 424)"/>
+<circle cx="746" cy="626" r="209" fill="#EF4444" opacity="0.7078867011772838"/>
+<rect x="-104" y="224" width="525" height="314" fill="#000000" opacity="0.6178816330379253" transform="rotate(43 158 381)"/>
+<circle cx="274" cy="450" r="263" fill="#FBBF24" opacity="0.8182422666985483"/>
+<rect x="400" y="487" width="422" height="265" fill="#000000" opacity="0.608633899110097" transform="rotate(19 611 619)"/>
+  <rect width="100%" height="100%" fill="url(#overlay)" opacity="0.1"/>
+</svg>
