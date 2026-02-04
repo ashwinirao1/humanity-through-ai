@@ -1,6 +1,164 @@
 {
   "entries": [
     {
+      "date": "2026-02-03",
+      "title": "Indonesia President Prabowo hints at harsh debated; Asian software stocks plunge after U.S.; Music Millennium, Portland's oldest record store, takes the stage",
+      "image": "entries/2026-02-03.svg",
+      "note": "entries/2026-02-03.md",
+      "topics": {
+        "politics": {
+          "summary": "Indonesia President Prabowo hints at harsh world politics challenging country’s non-alignment policy - Asia News Network. A World Without Rules - Fore...",
+          "links": [
+            {
+              "title": "Indonesia President Prabowo hints at harsh world politics challenging country’s non-alignment policy - Asia News Network",
+              "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZC1oYk5mZFNTZE1Zb2xUcWpadDlEOWFVaVk5OU1yMGpwS3hyakxHSkktUWVxQkhzaWFjTUNMblBMWnE2ejMxLV94MHhiQTRvaU10WVZuSGY0MVR6SmhvRW4waXowZFZoZlROOV8yU2dZbEFWYnRtV1A5VkNaYndqdzFPTzRSU083SHVTR2xFSGJsWWRZa3k3UExWQ0o2TUxKZ2R5eGltdnJOWXZOaEpTVks0UFdRMnhZdklra0VkWDEtWlU?oc=5",
+              "source": "Asia News Network"
+            },
+            {
+              "title": "A World Without Rules - Foreign Affairs",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9uMFhYTFNnZndqMUM4Y2tFeUJSbGppMlJXNlJTNlFqSWdtNkdNSUdweWVza3BpUEljQWYzdjJCNGtnV29CVWFaVnNFMlk0a1YyM21ud09uci10YTBmSUF4dFFLSHlvaXo3X0pCTUtKdXVzUQ?oc=5",
+              "source": "Foreign Affairs"
+            },
+            {
+              "title": "How Trump’s Foreign Policy Gambits Are Reshaping the World - Time Magazine",
+              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcUYyMndhanVmaUJKSTVRbFR4WVpCa3lnR0p1dkJaSXEwaUFEN2ZfOEFkTVVRbnVFbUR6MXJkbHI1a21WN0t5RlZMUUQzeVBvdXVPZUtzQldWekc4UDZrWWo2dk1FSXVpUkZrd3cyZ216LWUxdGM3cnpha2dWakNMZy05QjktZy1F?oc=5",
+              "source": "Time Magazine"
+            },
+            {
+              "title": "The world in 2026 - Chatham House",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQlNLMzNqM01wLUNodVVWYzdiTlpicm5mZUVPb0pPZnNCdDRjTGFZYjg3SHVEQXc2LUUzUkU1UXpnM0FoZnBpQTNKRGNlX0xTeGtWVl9acUxCbVQtbTBZZkUtcTgwYVRQdkl0N0ZYdEJCX0FlalF1dldtTTZNOFZyMmxB?oc=5",
+              "source": "Chatham House"
+            },
+            {
+              "title": "Russia's Medvedev Says US 'Theft' of Maduro Shatters International Relations - U.S. News & World Report",
+              "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNb0tSRnVrb2FiQ2c2QThSVTkxd1lHUHN5cllpQUtXNndMcW5NcE5jVWxoLUhoaVJhdXR5OTZ2V19BcE4zYkNaalg0UlBHTkgycHJQUlBBczRxeHlHYjk1azZXQjhiaE1CNC1OcTFCQ1l3Ml9TM242TGNwWGtOY09Bcld2XzFkNEpkbTA1MDJWclNXZ0lMbHR1c2RsQ05pYjFtMmlUUFVEekNJN0c3RnE5ZUQ3RzlPeHVpUWxpbTZ1ckRPMzNCZHc?oc=5",
+              "source": "U.S. News & World Report"
+            }
+          ]
+        },
+        "health": {
+          "summary": "Banner Health among first to launch breakthrough heart technology - Arizona PBS. 7 incredible medical breakthroughs that changed the world - Worldwide...",
+          "links": [
+            {
+              "title": "Banner Health among first to launch breakthrough heart technology - Arizona PBS",
+              "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcU9SSHFkMkRYeHlNLVZuNGllUDNhekh4QkhrUENLalZVUkRWX0dKS1llQmtMb1VYRUdWVDA3LVpDRWhVMUx2WTdyZkxrVUVLdVVaVWQxemZ2ZTk0bkN3djFTckt0UDB4ZmdVbkQzN3RWZ2Y3Ry1vaVZXNm9mazhVdXk3WFhCUE5GbTZrNGJCSmVvcDhaVXlpOU1vQkpPRDlWeGc?oc=5",
+              "source": "Arizona PBS"
+            },
+            {
+              "title": "7 incredible medical breakthroughs that changed the world - Worldwide Cancer Research",
+              "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUDVCTXNNc05XYkloWkFPLXdiaWF2dmFfUEtFZjAxbTN2ZWhGbVhMcGdIZC1rLU9Ma1AtYlNfbFRiWXpZNWp2TEtadlRhcVhueWFZVG1FS19VUUNlRDR4Nkd6Rk5lWi1INjFaUTdVanRtMHdRVFp5LVNqclRjcDlsajZLdmtUUEhZYnBXakxiZnRSMjRtUGJuTkstekJuaVEzLTV2NnhUbzhQOE04bnlSc1hkVkFpS3NRb2s5QzdMc0s4c1h4NWtiT3VjczB6a2lUYk9hVkN1bFZrc2hXbEROLXBsbWRNYVlqUmlkazJWeEY3WmFVVHc?oc=5",
+              "source": "Worldwide Cancer Research"
+            },
+            {
+              "title": "Spanish scientists cure pancreatic cancer in mice in medical breakthrough - FOX 7 Austin",
+              "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5wVGdpWVh1b2hwVHZDZVk2cGwtZzBaZGgxZnI1cW41TnZMNzM0VUs3cS1DR0N1bmkzSlhDNDVNQzd4YVd1dHRBMEFpSEMxYkVFRUd2Q0paN1h5MTlreTRYYV9FNFlGUkRzbTZQUGhvUmp5TUd2LTZVekNn0gF_QVVfeXFMT0R6YjJieUhyN19KWWMwdU40ZE9JVEtBRVFVTmJvQktLM3UtcmhjQ0xxNjZ4X1hfTXlOLTFnVmtLdEwyMnBVVHBYSmdkWExLVHkzQ1dyUVdxS2FCdG1PaDJVT2lEd2s0V3FTbVhwcy1iclI5NHZpRkRNSk4zRlBnVQ?oc=5",
+              "source": "FOX 7 Austin"
+            },
+            {
+              "title": "The data infrastructure behind cancer breakthroughs - HMRI",
+              "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE93a05yWnFPR1NkdVRWT2V6VWhJTUgwMTJfRUxMWnk4Wm5HN1o0UWhfZTlYcWNJNzZ2TlBjSjBDMXFGRGJqdU52X0wzTEJxRWlybTRyMU5zSlk5MFZmcjFEUDM4V0pnWGNlQTlTQVpXaFpEVmRUc2pwWGtpRVU?oc=5",
+              "source": "HMRI"
+            },
+            {
+              "title": "The top medical advances of 2025 - statnews.com",
+              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNamJCVFE4M0NVNXhMVExQMWV5ZHBta3VncGZfTnBna2NVYlpITHNhUDVlMTRseUU4M3NVTE1yLU1uZ1g0blU5Q1o0NVhfREdxVF9qVFdrakU3Q3h3M0ZPRERBWkYweFZaUHduRXMtdW43VUxJaWdyY2FjMTVQaVRfS0I3VmFaazMzZzhqSWZsY05nZFpPb1g0Q19B?oc=5",
+              "source": "statnews.com"
+            }
+          ]
+        },
+        "entertainment": {
+          "summary": "Music Millennium, Portland’s oldest record store, is looking for new ownership - Oregon Public Broadcasting - OPB. 10 Movies to Stream for Black Histo...",
+          "links": [
+            {
+              "title": "Music Millennium, Portland’s oldest record store, is looking for new ownership - Oregon Public Broadcasting - OPB",
+              "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaE9wY0FlY2g2cGNZdzlLdHZ5Z3VvQVJqTUtXeHQ4UVZpYzVTcFJtdGV2OGkwSmhVeGNFYUZYakVwUlM0ZnJGODZlM1pWZmhkUUd0YkVHZjBMZUFWMkJ5OUtKc0k4al9jTUZWS3gzeDVWZHJFVU9TaDNwMWtCUHJxT1Q4TWw5Z0ZOb21zaDlJTlpHLVFD?oc=5",
+              "source": "Oregon Public Broadcasting - OPB"
+            },
+            {
+              "title": "10 Movies to Stream for Black History Month - The New York Times",
+              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY0ZoNkZCcko1RkdSaWpyekYyM0FBaENvXzhNd1A3VEtmRHM1cXRMbWJMOG96S3B0M2JSYmJPVWJiNk5pMEVhcjBrZks2SFpZZEQtb054RnBlNnM4Vll2T2pJNS1jT1hOZUFsWC1RQlFZdnVNckN1OEY2cjhmWlI5bUF1S1BWb2h5T21j?oc=5",
+              "source": "The New York Times"
+            },
+            {
+              "title": "Longtime Music Millennium owner looks for successor to keep Portland record store spinning - KATU",
+              "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVnhDOUNEVnZRek0zV3hCbmtFcGFIRVBrN2NRd0w0enlpQ2VSWWxILW5rcUdFLWctRDA2Tjc1SHlzSUgtYkVVVzZKMy1MckFJSnh4dGxGb1g1Y090ek1hYnppY1lyVzRZRVZzYVRpZWFPQnhZU0E5S1Mwc3BjMF96OTBuYm44cVd2cGVuZlAybjI3WlJFUmlNOFEyZE1NeW5ET3NDd2I5Z2ZGZ1ZEcExaUnpZQzF2LVp3dWc?oc=5",
+              "source": "KATU"
+            },
+            {
+              "title": "Entertainment in an Easter egg economy - The Christian Century",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53MFNSNnVQQ3hvU0h5VWtOcVVJT0djR29NYVlMTFNnbjFpUzc4dEFJTFlnb3pJVjhOT05ndXFFSEFfdTRkRk13NnVWSzlOX0V6N2lTaWJ0OWxYcW1neU1iNFRub01hdnVxT0xRdmhpU0owcjhoY0V0R1VPS3pINmM?oc=5",
+              "source": "The Christian Century"
+            },
+            {
+              "title": "Arts Foundation welcomes 15 creatives, including a Vineyard artist - The Martha's Vineyard Times",
+              "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUTBpTTBCck5URFVwYjNmV2p5Qnp2Y2Y5a0V6em5IVnpKWjM5NklUWUQzQlpMTXp2cEsxdy05R3gxd3gyNUZQS1dsN0wwRm5SVWVUQ0pCYzJQZ3F4dkMxWlJYa29CRHhPbHI2WWdtLUNGNURHcjhkZXkxU3JqbmtWOXdXVjhwQkNXNDI5MXpJMW9KakdWMk1YNVZ4NXVTYkpX?oc=5",
+              "source": "The Martha's Vineyard Times"
+            }
+          ]
+        },
+        "sports": {
+          "summary": "Team NFC Wins 2026 Pro Bowl Games in San Francisco - 49ers.com. UAB’s Third Quarter Surge Fuels 81-69 Win Over UTSA - UAB Athletics. How to Watch the ...",
+          "links": [
+            {
+              "title": "Team NFC Wins 2026 Pro Bowl Games in San Francisco - 49ers.com",
+              "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNDh4aEVKQ2VkYzlrRVZGa2Ftdm8zOFFFOWZTWXY1LW8tekQ3OVNJazlLS2JBMXhheXpkWjRNZ3Q3cWpLSHdKLTBabDNQcGMzeXBBcXRielRCdzVlblF3YUhmMGRfTktXNDRVUG1lRzhSTEtQVDNMZWZaTXB0NS1tNlBSNFF3Y3gyV3BDWkRFTWllSFpsZjhTU2h2Wmc?oc=5",
+              "source": "49ers.com"
+            },
+            {
+              "title": "UAB’s Third Quarter Surge Fuels 81-69 Win Over UTSA - UAB Athletics",
+              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdnpQSGhzRnFWVUlIMU1HLWExMjJKX0VIdmFleFoyc2YtVFRhTlZqVkY1eFFJaUl6bV9yWEpkV1VXbU4xb1BaR2VpVUFocExHYklTTHVpbUVGd3VJTmdFZDEyblJWSnRQd1ZYd3NMakdMSlhzSG9VWG1vbk5pQU91ZVlCNlNvb1NyUGowbXhFVkthems0cGstbGhYSHRyY3pYZHI2cDhtQQ?oc=5",
+              "source": "UAB Athletics"
+            },
+            {
+              "title": "How to Watch the 2026 Pro Bowl Games - Tampa Bay Buccaneers",
+              "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOHc0TzIwamJxZkMxZjIzOERIM2xtQWNjVFdiWnVEcmtwMUVfdWhVSXRWVHhUa242S21uRHVoOWNTS2dIb0lTNXV6bURwS1JxNHIwaVdqbThiMzkwczVnbWVUbkZvZWZPdUVmcTZZb09YclJmc3pGRVB5UExTcFZ0bTJsOUFFUQ?oc=5",
+              "source": "Tampa Bay Buccaneers"
+            },
+            {
+              "title": "Western Michigan Drops Road Tilt at Ohio - Western Michigan University Athletics",
+              "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUEtpVTRQbWlHdzVsbVhoWFRYc1pLQkwwZGN2TUFtTWh5R1I0Y0dyUDV6RDhmMHhFbjFLZ25zM0xJa2k2RWhoTVNNWFZtbElKWC16bkpNcFpNOExyejRSSWV4Y3pneGtQTzRYbHVRa2Y5YU91ZVh0ZVZNZ3FTR0VxWmVkbE4wMFBlc2Z4blhyUFhORnJDblhOekRzcTFqSHM?oc=5",
+              "source": "Western Michigan University Athletics"
+            },
+            {
+              "title": "Blue Demons Host No. 1 UConn on National Girls and Women in Sports Day - DePaul University Athletics",
+              "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQd0l1dWdRMndKS2c1TFFXUnUxV3ZyZ3ZCaTlrazFkOWRoX1V5RF9GbkpzYXpHWlR6S2VaRDdvellLOTdoYkx0RDBVTHVLWnVxLVlDNzdJNldIMF9DY2tLU202T2d4SDFJSnBVU092VENONi05WTNraDBGOGJPS0prTlhlUnZHdzVINExjMl9IOWR3WnFwbmk1cGVGNURtcnZLcWw2N1JkQnhFdkVETDYyQjJ2dWp4YlhxbTV3U0swSnJGOVFTWnJzalNB?oc=5",
+              "source": "DePaul University Athletics"
+            }
+          ]
+        },
+        "technology": {
+          "summary": "Asian software stocks plunge after U.S. peers decline on fears over AI-led disruption - CNBC. Microsoft’s Pivotal AI Product Is Running Into Big Probl...",
+          "links": [
+            {
+              "title": "Asian software stocks plunge after U.S. peers decline on fears over AI-led disruption - CNBC",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTHJTQk1WVUlXdDZhdGctVktFalRGdW1XR2x3Q0l5Z3d0VkhRYU1Salh2dUdzVVRCOUpTQ1NaY21FN3k4ZGtuN0lXUC15b2dNU1RIWUxEZ09JTWRtMFZDaDZURVg4QmI2OGNkbUhuQmtMc2xpWWVGcFdmdDFaYkdBTnFR0gGHAUFVX3lxTFBzWlkwOVZNMXhqc1A4TDdReUtPQnJKalFIeDlKVThsNlF1ZWh4NWlHY3JXd0tSdEtCaGF1bUd2Ui1sdmVaUU56R3oySHk1UzFTTWNqT19ZV2Yxa3V4bzMxVEJmNzVMTnRrWGpHSklIa242Sm1TSThpZWt0OHJ2d2FnSTYzQUNsRQ?oc=5",
+              "source": "CNBC"
+            },
+            {
+              "title": "Microsoft’s Pivotal AI Product Is Running Into Big Problems - The Wall Street Journal",
+              "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxQUFR4bUlyblV2V1ppMl9VYjhFYXVZRG9SS0pFd1NxcUJEeG9GOG5tTzBmcWwzTHpKaHRHOHRIMGJhZGpFUmNzZVQta01zeG1uS0xOMjBZTHM3eEt1azB4aGxWNWptTVMxbW5RX1NGY2xyTmxocVd4SDR4eVVBSk1SaFc3NzBpMUJsNUhyV1FYRUgtRGx4SWctZkJUR3dFaTVCVWZNcGhsQkJCanVpYk5LQTdUMzVCaTY2eFdRc0VId18xTC1jQk8tZ3ROa292Y2xYVGdEcHZwTDZhTm1ZMVVOUXQ0MWEtTldPYXV0b3JWRU15UE1BQ0Y3TnZrQTNoTlpEQkk4V1ZOUlZpMjNlc3BYbFVobzNmZEVnX1RicVJ4UW0yWEJIc0VJWC1xVjhCQ1ZsY0hZMDFXSGZaQmNYVzRPc3IzTGlISWxOVEtFRnZKeGRWYnRROGtuSGFEQUQ3cnVYX01QRkVwOUE0TjVhOU12ZHRpcHlKMFdId1R1eTVKcFZLbU5VRlpQZ3pGLTZKMThMZFJ3RVdrMkpVeUdjVUQ1aA?oc=5",
+              "source": "The Wall Street Journal"
+            },
+            {
+              "title": "‘Get me out’: Traders dump software stocks as AI fears erupt - Yahoo Finance",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLVpvRURaa3J4Tl85a0QxUUpHVVNvTWtFNFlQdmZYdXhTckxuQ1ZzaFF1YmVlb3ZJSkdTd3Ewa2NXdDdzWlhFRW5wdk9KYUJ2dHQ1TE9KdVE4TTVGc2lrZ0IzV0pBenI3RWZQWHczay1PWnJ6UG5tTnM1bnBWVHd4c1VvZw?oc=5",
+              "source": "Yahoo Finance"
+            },
+            {
+              "title": "How Do Workers Develop Good Judgment in the AI Era? - Harvard Business Review",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TcXg3M1ljSGhzb2kxLUVYejNnMjdhYVpKeEZUV0F3aV9EOV9pV21MTmpEWE9JR2RQUUFQSVJJZDVxNnZBQ1ZIRDlKOU9Jb25QYVVIX2ZEcGZOWXEtOHZBMXZIV3U4a092VG1UU0hheGpNcl9OZG8weXl0Rm84REk?oc=5",
+              "source": "Harvard Business Review"
+            },
+            {
+              "title": "Astronomy Picture of the Day - NASA (.gov)",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUd1FseWNRN0Q4T2xjNHEzZThtRnlSeEZhY0tIU3FzNlVLRW1maTZtTGo0c3BBRHdSUmRzRTVPQzlTdFk2MllpZXFodnJtNlVSakE?oc=5",
+              "source": "NASA (.gov)"
+            }
+          ]
+        }
+      }
+    },
+    {
       "date": "2026-02-02",
       "title": "Indonesia President Prabowo hints at harsh debated; Elon Musk's SpaceX confirms it is; COLUMN: Monthly music discoveries: Clipse and takes the stage",
       "image": "entries/2026-02-02.svg",
