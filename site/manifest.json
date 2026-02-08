@@ -1,6 +1,164 @@
 {
   "entries": [
     {
+      "date": "2026-02-07",
+      "title": "The future of world order debated; Voxtral transcribes at the speed of; An ex-Fresno Arts Council employee is takes the stage",
+      "image": "entries/2026-02-07.png",
+      "note": "entries/2026-02-07.md",
+      "topics": {
+        "politics": {
+          "summary": "The future of world order - Engelsberg Ideas. Dispatch From Davos: The Geopolitics of the New Realism - Council on Foreign Relations. \"Robert Jervis’s...",
+          "links": [
+            {
+              "title": "The future of world order - Engelsberg Ideas",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TczJEMHBDUUswSW5HMzBMZC1KSXduZzJBVVplN3VQWFZnN1FqMm9iYTc5alpNajM0Q0gySUJEdDRRR3Q1OGhBVVU0SGx1SjdJQllGU1VGRTY4bDZ2OVFYRTI4OVFaM3FnUGdSdFF3?oc=5",
+              "source": "Engelsberg Ideas"
+            },
+            {
+              "title": "Dispatch From Davos: The Geopolitics of the New Realism - Council on Foreign Relations",
+              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN0Y2bWFRcGxhMkRTT0dpOXBvbEp5Ny1tRXZKUlczME4wU0k2QzBqZktlVS1fUEJVUlprV1V2TFJYbVAyM29Ib3pWYjF0V1JYTzBvX0dPQnYzajdDb3pjemNHUWNFRlo5X3BySkNRLUlFUVdrRWxLVGNieFZJRDdWbVQ0YzVkWmthNERN?oc=5",
+              "source": "Council on Foreign Relations"
+            },
+            {
+              "title": "\"Robert Jervis’s Contradictory Contributions to International Relations Theory\" - by CWP's Thomas J Christensen - Columbia-Harvard China and the World Program",
+              "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYTFtTFBiYVp2anNYOG1iWUQwbFJKVFg1UDd2QmxJcWxkWE0xdHRvbDV3YXNsZXlXOUVxckpCcGF5eWxYYjJNZWNnNzJsNUtEaHBCVEZHby1JdU5LSDNQcG96aUhxU0Q2cERqT0FPTmRXcWI4aDAyaDU4N05TaGRlUzRPNksxZ3hITTVtMXhaTlJjaFY5eVpqb2h6WVJMaGtsMlNac2hKV0JzRFl6Y0lwOC14Nkc5OWRRUmN6TVN1bw?oc=5",
+              "source": "Columbia-Harvard China and the World Program"
+            },
+            {
+              "title": "How Trump’s Foreign Policy Gambits Are Reshaping the World - Time Magazine",
+              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcUYyMndhanVmaUJKSTVRbFR4WVpCa3lnR0p1dkJaSXEwaUFEN2ZfOEFkTVVRbnVFbUR6MXJkbHI1a21WN0t5RlZMUUQzeVBvdXVPZUtzQldWekc4UDZrWWo2dk1FSXVpUkZrd3cyZ216LWUxdGM3cnpha2dWakNMZy05QjktZy1F?oc=5",
+              "source": "Time Magazine"
+            },
+            {
+              "title": "A World Without Rules - Foreign Affairs",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9uMFhYTFNnZndqMUM4Y2tFeUJSbGppMlJXNlJTNlFqSWdtNkdNSUdweWVza3BpUEljQWYzdjJCNGtnV29CVWFaVnNFMlk0a1YyM21ud09uci10YTBmSUF4dFFLSHlvaXo3X0pCTUtKdXVzUQ?oc=5",
+              "source": "Foreign Affairs"
+            }
+          ]
+        },
+        "health": {
+          "summary": "South Texas amputee hopeful after launch of breakthrough program at UT Health San Antonio - KSAT. Experimental pill dramatically reduces ‘bad’ cholest...",
+          "links": [
+            {
+              "title": "South Texas amputee hopeful after launch of breakthrough program at UT Health San Antonio - KSAT",
+              "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPU3JYdEtmWGtxZjRMdHhNQjV3RlZlcG5wVkxJWktJMXZPeHlxYmMtSEFzMnJoeG1QallXNW1nSEVpai1EMFhhVWstT2VlWWpaaXlfVWxCbXY3WnV6aXZFUkROUTN5V3RVQ1BDVmt6Ymw2MDRsRVlvbWFfYjlzdDBFV2haX09NQTNldVJZYVBiWC1NSVR3WEp1b2t0V3dBSlB0YjF4NGc2LXR0c0FELXZHanZXM1JlQ29PbWN0X2hOWHZLei1mcTMyOERzOTl2UQ?oc=5",
+              "source": "KSAT"
+            },
+            {
+              "title": "Experimental pill dramatically reduces ‘bad’ cholesterol: Newsroom - utsouthwestern.edu",
+              "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRjhCaVFQN0s0MkVTSy1YS1dKMjkwRmRhTWZ0T1RZZ21vN1FyNHNJUzFYMlQ3TFpyNFVCbGdGYTJPNW9fN0NCUUlUZE9Ta192RmFjdjZKWGx4dnBPTnB5bmdGeWxRb213Wjd6ZElTWkVleTF5a1RRdjFYd3JVSlNzLUxZWTZINzdEM25qNHp2ZlF1M2RqV3ozX1BYQ1R5Y3JtSXBJ?oc=5",
+              "source": "utsouthwestern.edu"
+            },
+            {
+              "title": "UVA researchers identify promising new target for deadliest brain cancer - UVA Today",
+              "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYW5nUnQ1b2pFZXdiYzJjcHRtbDN3SkhVSmVTQTZfOFRuSVI2V3VyYlRzLVpBaGtUOHdKMzJral9VN2VUSDAtYm1WVVQ4bGlIMXBEQlp3SXRWdTcxR29QbVJWOXhZbFhEeHNubFJncTl3czZySXI3dHVmUUFHSGh0YVhka3hxWVRtYkRRMDFyN2d5WUI0dFR2eEpFbWxYYk80R3JTbw?oc=5",
+              "source": "UVA Today"
+            },
+            {
+              "title": "7 incredible medical breakthroughs that changed the world - Worldwide Cancer Research",
+              "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUDVCTXNNc05XYkloWkFPLXdiaWF2dmFfUEtFZjAxbTN2ZWhGbVhMcGdIZC1rLU9Ma1AtYlNfbFRiWXpZNWp2TEtadlRhcVhueWFZVG1FS19VUUNlRDR4Nkd6Rk5lWi1INjFaUTdVanRtMHdRVFp5LVNqclRjcDlsajZLdmtUUEhZYnBXakxiZnRSMjRtUGJuTkstekJuaVEzLTV2NnhUbzhQOE04bnlSc1hkVkFpS3NRb2s5QzdMc0s4c1h4NWtiT3VjczB6a2lUYk9hVkN1bFZrc2hXbEROLXBsbWRNYVlqUmlkazJWeEY3WmFVVHc?oc=5",
+              "source": "Worldwide Cancer Research"
+            },
+            {
+              "title": "AI in life and health: Poised for a 2026 breakthrough? - InsuranceNewsNet",
+              "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOGR5bjI4UkRzZ08wTVFJZWZ5TmlHOUU5czZoSi1mcEtXbURTLTI4WlpxaGZjWVFHaHdOdk9ESm1JY19ZX2ZpaTZrUXA0aDZ0Z2xCUEtCcGduYzItcmFSYlBHM2tqWkY0Z19OV2dRYlBmdk9idjRubmpjWmNEYkc0R3NBTjFLNHBzOGdlU19CVnVocGRfbHRj?oc=5",
+              "source": "InsuranceNewsNet"
+            }
+          ]
+        },
+        "entertainment": {
+          "summary": "An ex-Fresno Arts Council employee is under investigation in $1.5 million embezzlement case, city sources say - Fresnoland. Ariella Zeitlin’s Life in ...",
+          "links": [
+            {
+              "title": "An ex-Fresno Arts Council employee is under investigation in $1.5 million embezzlement case, city sources say - Fresnoland",
+              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1HazhGRG01Q3NHYWZEQ1FoejJ4c2N3akMzVERUZjRjYk9zVnpIUFJxRF9fN0o2NzMxSkdPejlUbzByNUZtZURBQlg4MXBLa3FnWnRIdElOUUpKbjl0Qko3eGk1Qm4?oc=5",
+              "source": "Fresnoland"
+            },
+            {
+              "title": "Ariella Zeitlin’s Life in Music and Motion - Aish.com",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9mamw3bmlvcnhkaWF4NFR4WE1NSUx6NHhOT095blZzdTRMdDU1V1hxYkVCM0tjSERfTWcyZHdiYnNqTzRsaVBlUDY2VGd2Z1lLTUg5MzFTSXI3eHNiNExLQ2VvZ3o3YTZpdExr?oc=5",
+              "source": "Aish.com"
+            },
+            {
+              "title": "From 'Relationship Goals' to 'Wrecking Crew,' 10 movies to stream now - USA Today",
+              "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQS1UbGhBYW94MWRhdThHWV9TdzUwWC10SWpRYzRWNjRLOFZjaFlKTFhDQUlsa0ZzSXgyemtTWlo3TElaWnZSV0Q3SEdIbHFDdzdZamhsa1dBNmtuLWlmYXptZWNlQ1gtNXN5UENCUlFDczJveEx5NzR0MS1Vb1BqcFI3eUphWjRQSTdUQUFRSTQxWHZoSHg5bWg5ODBJa2JIazFaQzdfWW5VSDRENFE5dktyVDBtRDlsMGduQlNRaUdYRDdaODJVQw?oc=5",
+              "source": "USA Today"
+            },
+            {
+              "title": "The top baseball movies of all time - Brew Crew Ball",
+              "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSG80ZEtIb3JTMU5WeTEzdGZpc3FuWkZ0RzZlWlY3cW11Y3VXRjlVRHJBM1cwTWZEUXZnclVYMlA4ZFRqTjFEenRoRnh1MlZ3a0ZLQWpaTnB6MUhNS0hpcmw3cE5EM05OZUVKT24zdXAyMmFaOGRKVDhySFZULXdkUEFlSmlFOVBTLWZ0QVgtel9wb0U3TFlhQ2kwQ0VRWC12TkJB?oc=5",
+              "source": "Brew Crew Ball"
+            },
+            {
+              "title": "For the Culture Market returns to Aggieland - KBTX News 3",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA4elJ0UFdVaHQyNTlzd2NCcXVUUE9DTmZ0TDdyaE4ySnprM1hkTFB0NDF5QVYzYS1kdi1qOTgxRzZUSElpTHZSeGE0TTk2SFdseUR2cENLdFNXajAzRDlZbDVINEE1NGxpMEdkbnRjYlFWV2fSAYcBQVVfeXFMTVhNcks4MHZ6b0JDRGx1NnNDSy1oSkc3WTJaMGpJUlJ2VGl5VS1NeUxTU2FuVk5Zd1JvN3hNS3REajUzTW9ibktUT0RiM0NYY1BWRS1obE02RzlRR1pTN3VjaVBWdzhQcGJsamRMckFfX1JER25kdExHNFhEZWhCckpnZS1OX2ZZ?oc=5",
+              "source": "KBTX News 3"
+            }
+          ]
+        },
+        "sports": {
+          "summary": "Last-second shot falls short at Air Force - gculopes.com. K-State Paced by Claessens in Win Over BYU - Kansas State University Athletics. Trimble's Th...",
+          "links": [
+            {
+              "title": "Last-second shot falls short at Air Force - gculopes.com",
+              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWVdGd1FoM3hLT0J3VkljdU5ZYUsxUmVROVVZZnVwaEF6M3l1QnVZb3NfS1c0ajNlZk9FX21yaTFIaFRGY2N4WDY3cEk2Rm5RRFVhREpnVzJOZkJYNG9HSkNBekdiQ2F0NkY1a21scGRIQk1yX0dObTdoRzZfNHFBcWVuSWtpRTJEaHJYVFpOQVNldjlWWUtPc1VB?oc=5",
+              "source": "gculopes.com"
+            },
+            {
+              "title": "K-State Paced by Claessens in Win Over BYU - Kansas State University Athletics",
+              "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSmdWSzNNU0wxZlFYZmp6dTVTR0RYRk1yc2xKeG9xckJxc0dvTGZvaUV6bi1TbFZPbVE5a09UdWFXNGVpWXpJb1dYXzU5ZzFoR0lYRVlGbHFNZTVqamR4VXdxaXhmQjhFQmIxMHd0alNnbmlER1dxaGVNV0FsQU1ycVlQdmVwWGJiSHJobWhDRTRGWjlwTWl2NTJXS1QtWmdZSktXT0tn?oc=5",
+              "source": "Kansas State University Athletics"
+            },
+            {
+              "title": "Trimble's Three-Pointer Beats Duke, 71-68 - University of North Carolina Athletics",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE04NHhLV0toejRLcTE0YzdWeEo0NWYwV0sxRVZiX2RUNWJGTFUydmFBM3VMV0pYTEJ4Q3FlRmZZSlkxUEtNaGdEWmdvQWxuaWU1TWtUbkRJdG5SN0w2YmJsWWlzMFFvTUg0anNQZmsyVGdvanhGVWc?oc=5",
+              "source": "University of North Carolina Athletics"
+            },
+            {
+              "title": "Make it Seven of Nine! - Concordia University Irvine Athletics",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE90ZGdPT1hEMFFoTGZoQ1NHLXg1aEU3MHBpeG9wYWN5MGl1SHF5bnExSlRzbGV1b2Nfd2RLbWRYOXg2QzFQU29WckNNeWM2YXNqWHEtSEQ1bUFxbWdIdi1NbGUxNlNvOGR1Q2FLVUhxLXpwQnd4SFZ3?oc=5",
+              "source": "Concordia University Irvine Athletics"
+            },
+            {
+              "title": "Blazers Fall Short at Florida Atlantic - UAB Athletics",
+              "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOR1M0bE1lMXJSbUtnN0tJMnBBWmRwVm9QRzNXRkRfSUpoT1lOQ0VZbXRmbzN1TnhDWGVJTG1WN0dPQUhiUk9EV29pdWdwb045RVJXX2JRR0dpdGo2RG9MaE5VREVTb1NHbzNJSEp0RmdfSk51QXJRcjhSRFFFb1lsVElLTDFrb0QtYkJNWlpRbXprSTQzNG8w?oc=5",
+              "source": "UAB Athletics"
+            }
+          ]
+        },
+        "technology": {
+          "summary": "Voxtral transcribes at the speed of sound. - Mistral AI. The AI boom is so huge it’s causing shortages everywhere else - The Washington Post. AI can m...",
+          "links": [
+            {
+              "title": "Voxtral transcribes at the speed of sound. - Mistral AI",
+              "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE82VkZSUWVmd01BUXlEd1lQa0FOemZPWjJUdE83OW8zeTYzdUxoVFZnTWtPRGZRbWVOZGZQd1pJVnZjeVpJWEtMa3F5YmlqQ2Z6YmJ6eEoyUQ?oc=5",
+              "source": "Mistral AI"
+            },
+            {
+              "title": "The AI boom is so huge it’s causing shortages everywhere else - The Washington Post",
+              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdExoS2JUREpvN3NXNjQ4bW0ydlBCTGdsYUZlVVJ6d1BjbHRJdHp1QXY5ejhjZHpHcG9EZlZuSlI3anlta2ZxQ042OHNVNFNMaXdYTDJtX2ZuZ2F3dXc0ZWtJemZDSjV1cDcxd1NCdmpWT1U1UTgtd255Sm01NTJDU0tFNEhXN0hoV0dJ?oc=5",
+              "source": "The Washington Post"
+            },
+            {
+              "title": "AI can make anyone rich: Mark Cuban says it could turn ‘just one dude in a basement’ into a trillionaire - Yahoo Finance",
+              "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9FT0V3SGt2RTJsdFZfZHNqMWdKNkpQTXFVS0FRa0drZGI0TFpRVEFiaXV3NVQzam5GcHNqMlBsSktLYmw2aWpJS05NSXZzdmRaUXl2eHRvRmN3WUYyWWhMeGl4WE52Sk5GdXo1eC03aVJJMnk3eWRNbEVNUQ?oc=5",
+              "source": "Yahoo Finance"
+            },
+            {
+              "title": "AI wiped out $400 billion this week — and it's only getting started - Axios",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XZERIdXVjdno1ZUx4RHQ3ZUxnMmxLQlNiYUJVb1ZBSGQwXzJuR2xYeXFNa3FubE1QSE8xSEVMOG1RNTJUV1J4ZkFvVEFvQmdVN0tOYjdLT24tZ2llWnVFaGk2bHhleFBqS3lwMzVTbDc3Y0RWZU8xMHpacmx2cUk?oc=5",
+              "source": "Axios"
+            },
+            {
+              "title": "Frydenlund: AI lacks authenticity of human experience - TelegraphHerald.com",
+              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRmw3Sm13bnJXOWxaZmM4TThYaldVeTRZS0RDT1BXVlZXdDNrZWh3SGJqVHVfbFhYcGpUejNMZUZuc0NjcU50a1dmdW1rOF9Za015VU9CbzUzenYzcU9lTjBpLWpaZUVtS1JwR3lPMWRWQl9KUHBsLTBLbDUzNnNvSmFBRzFlZGs1UHBMeV8yQ0xBLVh5RGxqd0JB?oc=5",
+              "source": "TelegraphHerald.com"
+            }
+          ]
+        }
+      }
+    },
+    {
       "date": "2026-02-06",
       "title": "The future of world order debated; Voxtral transcribes at the speed of; The Best New Movies Streaming on takes the stage",
       "image": "entries/2026-02-06.svg",
