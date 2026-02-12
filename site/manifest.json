@@ -1,6 +1,164 @@
 {
   "entries": [
     {
+      "date": "2026-02-11",
+      "title": "Dispatch From Davos: The Geopolitics of debated; I Loved My OpenClaw AI Agent—Until; Olympic Figure Skaters Are on Thin takes the stage",
+      "image": "entries/2026-02-11.png",
+      "note": "entries/2026-02-11.md",
+      "topics": {
+        "politics": {
+          "summary": "Dispatch From Davos: The Geopolitics of the New Realism - Council on Foreign Relations. The world in 2026 - Chatham House. The 5 Most Important Global...",
+          "links": [
+            {
+              "title": "Dispatch From Davos: The Geopolitics of the New Realism - Council on Foreign Relations",
+              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN0Y2bWFRcGxhMkRTT0dpOXBvbEp5Ny1tRXZKUlczME4wU0k2QzBqZktlVS1fUEJVUlprV1V2TFJYbVAyM29Ib3pWYjF0V1JYTzBvX0dPQnYzajdDb3pjemNHUWNFRlo5X3BySkNRLUlFUVdrRWxLVGNieFZJRDdWbVQ0YzVkWmthNERN?oc=5",
+              "source": "Council on Foreign Relations"
+            },
+            {
+              "title": "The world in 2026 - Chatham House",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQlNLMzNqM01wLUNodVVWYzdiTlpicm5mZUVPb0pPZnNCdDRjTGFZYjg3SHVEQXc2LUUzUkU1UXpnM0FoZnBpQTNKRGNlX0xTeGtWVl9acUxCbVQtbTBZZkUtcTgwYVRQdkl0N0ZYdEJCX0FlalF1dldtTTZNOFZyMmxB?oc=5",
+              "source": "Chatham House"
+            },
+            {
+              "title": "The 5 Most Important Global Trends of 2025 So Far - World Politics Review",
+              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYnBEUkNEMGVGaS1LYXNFbFJreFI1ZDNtWmlrT3JJZDVPcXpjSnFvdkxEYUtpVzUwcEluaFZKNVllemwybHRxUkJ6YjNzaVNNaS1JcDZrQ01RWEU4SldxVk1XajZ2UUpHSmJQUGd1Q05pOXE2bXNCNGIwRi1GTFNQOXk3aFA?oc=5",
+              "source": "World Politics Review"
+            },
+            {
+              "title": "How Trump’s Foreign Policy Gambits Are Reshaping the World - Time Magazine",
+              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcUYyMndhanVmaUJKSTVRbFR4WVpCa3lnR0p1dkJaSXEwaUFEN2ZfOEFkTVVRbnVFbUR6MXJkbHI1a21WN0t5RlZMUUQzeVBvdXVPZUtzQldWekc4UDZrWWo2dk1FSXVpUkZrd3cyZ216LWUxdGM3cnpha2dWakNMZy05QjktZy1F?oc=5",
+              "source": "Time Magazine"
+            },
+            {
+              "title": "The role of identity in a multilevel interdependence in international relations: exploring popular understandings of international politics - Frontiers",
+              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZjE4cVhSV2tkVmQ2VjlZYWZzY0Vlam9SMzJKd3hmckwwWlRaZ214Q1hOc180SE05Qkh0aDQ0M2RZNE5uQUhSYXJvNk8wSk0wVTNLOHFoeVhLekVxT1BaeWlCeGhOVHBBc0JkSFBldmlleTBSZGwxMVppWnVYSFFfV3BVb3pFME12Vy1ackVJMGRfS0ZyRF9xQV93?oc=5",
+              "source": "Frontiers"
+            }
+          ]
+        },
+        "health": {
+          "summary": "Sci-fi or medical breakthrough? ARPA-H targets on-demand, universal organ bioprinting - Federal News Network. University of Missouri conducts first in...",
+          "links": [
+            {
+              "title": "Sci-fi or medical breakthrough? ARPA-H targets on-demand, universal organ bioprinting - Federal News Network",
+              "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRGtoNUVzemNhZl9Kcll5eUJXUEFuMDBuSzZYNW9hZVRYTUN6aXNyazJKYUgtbG16VjdjU1poV2RCMG8zUnlkbC1uX1AweTVGalVSdXFhb0FmRlZPQm0tTlE5ZlZzLUVsR2ktaktOaTlEbVU3bkEwYk9lVnNwMVltU29XRkRmaXlqMkUxT25LM2p0VG9RSE1LbmZuSE5VTzFic1l3WExYN0VPamR0SDZ6dEc3UnhyVXptR0dRcjlrN0xoMW90cWRESzUtV1FuZGMtczRHYzZn?oc=5",
+              "source": "Federal News Network"
+            },
+            {
+              "title": "University of Missouri conducts first in-person clinical trial for nuclear medicine breakthrough device - Show Me Mizzou",
+              "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORlJ4S0FfczliR1AwczZJNklSSUZpQ0Q3YjNwMG1LVm1ZLW1haUw2YXk2SEZOdXR3UWJSck1QM1B3VzZULWpEY29KWDNxdkFrYlhUN2FrVlQxak5vbkRibjBHQTZwVy1aZm1aSWkwMml6ZmQxOW80Q3BzTndCVWNUUUpXSVJ4VDd5akZCMFdzLW8tZ3liUFZFNkRNU2RsOWlYRFdvTTNRN0dsbW1paUFQYkpOU1J5VGowXzhTYkZUMWJfeXVlMDEtcnlIWWxsTHZvOXkw?oc=5",
+              "source": "Show Me Mizzou"
+            },
+            {
+              "title": "Aldosterone synthase inhibitors for hypertension: A breakthrough facing barriers to adoption - PLOS",
+              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUGhJc3NQeVNldUlwLUw3V3NlWGktYXEwMC1qOXBZUHllTzVwRHVYNjJ6T1JrTEYyYzVoT292RGtGTDJIZ1FPYU1lZFljc25na2s5Q2N0LWY1SFlQVEdGenJ2alVtZlF6WmEtQkhkTGVBSVhtOUtPbml1aFpyaVJ4ZThYR0w?oc=5",
+              "source": "PLOS"
+            },
+            {
+              "title": "Breakthrough in Brain Health – Training the Brain to be Faster Can Lower the Risk of Alzheimer’s and Dementia by 25% - AOL.com",
+              "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNU0ZSQU1FdTlvNld6dUlNZm1LTWd2UnY1VVpaU005VVdNR3hVWVhKUXBjR3AxVUJLUnhnQl9CM0JQOFE0VUg5R0VzR001ZEF6VkRtYUVSMFlKYnRWXzhLOU5leTdpblY4NjcxaTdxQ3hMOVlSNm0tU21PQV9uWERYRlpEY0NZNE5xdzFkdQ?oc=5",
+              "source": "AOL.com"
+            },
+            {
+              "title": "7 incredible medical breakthroughs that changed the world - Worldwide Cancer Research",
+              "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUDVCTXNNc05XYkloWkFPLXdiaWF2dmFfUEtFZjAxbTN2ZWhGbVhMcGdIZC1rLU9Ma1AtYlNfbFRiWXpZNWp2TEtadlRhcVhueWFZVG1FS19VUUNlRDR4Nkd6Rk5lWi1INjFaUTdVanRtMHdRVFp5LVNqclRjcDlsajZLdmtUUEhZYnBXakxiZnRSMjRtUGJuTkstekJuaVEzLTV2NnhUbzhQOE04bnlSc1hkVkFpS3NRb2s5QzdMc0s4c1h4NWtiT3VjczB6a2lUYk9hVkN1bFZrc2hXbEROLXBsbWRNYVlqUmlkazJWeEY3WmFVVHc?oc=5",
+              "source": "Worldwide Cancer Research"
+            }
+          ]
+        },
+        "entertainment": {
+          "summary": "Olympic Figure Skaters Are on Thin Ice Over Copyright Rules - The New York Times. The Big Upset in Ice Dancing Shows Why the Sport Is So Enticing - Sl...",
+          "links": [
+            {
+              "title": "Olympic Figure Skaters Are on Thin Ice Over Copyright Rules - The New York Times",
+              "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYkNFTm05MkhIaExpSTJMa2xKcTBaSmNZSzBXSUM3S0VZQWs4cTRsUWNSUW5ldzlKTTI4dGk1VVZOSWRKQ1M2MzBibi1ySXhDZ3M3aG1DeW9JSDFlUFhxcVI2SF80V1Y1SHNxNG5qM0NHVVh5RjFCbTBuMDNleG9sZ2J4S3VVc2hwQk9JcHpVQjhTRkpMUENGS3hUWk5IRHM4?oc=5",
+              "source": "The New York Times"
+            },
+            {
+              "title": "The Big Upset in Ice Dancing Shows Why the Sport Is So Enticing - Slate",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40SF94QUprblBOSnJnNWhYS1Y1N3owWndpaXg5TUlXZXMxVFY2enZLNlNTYkRXdVBqZFhwdEtINU0xM1NiSklBWEhSN3lEdFhXdnhFYkFCMjZOdkhXUDRBQ0JHVGtNMWNNOXNadl9iTWQ0R2VYc1oxVzZMOFdfVTQ?oc=5",
+              "source": "Slate"
+            },
+            {
+              "title": "A New Purity Culture - First Things",
+              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4c2ttd0FDNDdDdGhpX2VKc2pVT3VkZVJZTU1fMnhLc1F3SDc3akc3ZmxVY29SUlZWQkZtcHR6SmN5c2JwcUo0S1RVOVR5WjJ6cllSM1g1UEM?oc=5",
+              "source": "First Things"
+            },
+            {
+              "title": "Butte County Opens Application for California Arts Council's State-Local Partner Designation - Butte County",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lWHVxRUVuTldTcmhkOGNsT19qdFllZFRENTZPMXBtY29nb0NUNER3M2VMay1laXVPOUlXVGVuZ2JJVXo5bTdVOWx3WG1tVGM0Qms2LUE3TmRPQnI0djBkSWNR?oc=5",
+              "source": "Butte County"
+            },
+            {
+              "title": "How Olympic Figure Skating Music Ended Up in a Copyright Quagmire - Front Office Sports",
+              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6LTdrdnRwY3NlalBhNXNqbkduQ1VMd1BDcVNKQmt5eDlNcTh6M18yMHZfdlNEdWkyQzEwc0FFZ1R2amdiSWczZU5EZ2lZbVBRQm51MnZuak9oZTViYzdVVUVHUVV4UVdmWVlkaWRiZE5ZN09Ba3FWcQ?oc=5",
+              "source": "Front Office Sports"
+            }
+          ]
+        },
+        "sports": {
+          "summary": "Slow Start Proves Costly Against Bowling Green - NIU Athletics. Mountaineers Drop Contest to James Madison - App State Athletics. Boise State Drops to...",
+          "links": [
+            {
+              "title": "Slow Start Proves Costly Against Bowling Green - NIU Athletics",
+              "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOV1JoRHMzYkZHOGhMT0JKeW9ZRUgxQlRiVUpQQWxnUkYtS29rNnBRVWRXYVFZVVRhSmh6TWhsMnRGQU44VHRwR2VlVWNMV3lCT3hLbS1DVXhCVzFyZ292QjBGREFydGdXZUlGcndwQnR1SUdfWEVxV2FHQVFUYXBCek5OMnhNampkYnZKZDRDaFNVZFhtNTVfODkzc2p6c2ZfZ1FqVUx3Zmk?oc=5",
+              "source": "NIU Athletics"
+            },
+            {
+              "title": "Mountaineers Drop Contest to James Madison - App State Athletics",
+              "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdS1scVZmSk95andoQUxsWFpNbTZqcG9mLThKTlNQNmxURnEtYTZUODdzc09KUDh2MFRCWjlSTk1LOVVLaUR6MzB1cHpYSThhUmpXNF9pV090eEZXRG56RXVscUJRRmw3QlJsNmw5Y2lOVHNWSUljZ2dEUThqamdkV3JCcFBIWjNjMF85V3JFZDRNOWQwZFZPeXJ5V1VQTWVDLUNFRWg1VHcyRlE?oc=5",
+              "source": "App State Athletics"
+            },
+            {
+              "title": "Boise State Drops to Fresno State - Boise State University Athletics",
+              "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdFViVTdELWQtdnprWFdFeS10cjVtYTg3VWxCdE5EMENlWURnYVZMem1ibGt3QnV5cHhnVnExeVB6RmxxVm5jeXEwdEkzOWZmemMyeEhWZXp6blJTbzdPRmxiVWtCekFSb0g3end4ckRQcG1oTENIeDhBS2VTVWo2c0UwbTUzTFFzLVY4N1NwXzRmUjgwZmc?oc=5",
+              "source": "Boise State University Athletics"
+            },
+            {
+              "title": "Western Michigan Stumbles Against Toledo - Western Michigan University Athletics",
+              "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN2pFdXVWU3I3b0VmTEw5cS1zSUlsQXBmZmdjamRMNGVsWF81TDFlMVhHRW50Wmd2VEdTOFZPZGZnZlRwQUNZOENXaFg2RXpQanlPMHQtanhMNWVMMlZCdE1YM1RWY1c0NUlPVjJNNldVNHlZV3VGeWNXa3plWEdBdVlkbTNST0REZHlmX1dJR1VVWUwyYkJSRXFzeTNmTEt1?oc=5",
+              "source": "Western Michigan University Athletics"
+            },
+            {
+              "title": "Nevada wins 2026 Mountain Classic Match Play - University of Nevada Athletics",
+              "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeWdmQUdBcjI0amRMYkx3V2Q3SUF4TDFuNGJIVHIyLXo5Si1Tc0FGU0l2NDFEQkhnOHZhQWtnOXM4clBlV3BOd2JYR09qUEU3a1BCSU1wR2RUei0wMjdIUkVYVDR0WkpwcXVkdXliaVpYN0tRQTJhNV9tZWd0TzRQbXppdURNM3hvMGlrZTh3OWFyaU54ZGViTWs3VTJqbmNfaHBPbVNn?oc=5",
+              "source": "University of Nevada Athletics"
+            }
+          ]
+        },
+        "technology": {
+          "summary": "I Loved My OpenClaw AI Agent—Until It Turned on Me - WIRED. AI brings Supreme Court decisions to life - NPR. Exclusive: Pentagon pushing AI companies ...",
+          "links": [
+            {
+              "title": "I Loved My OpenClaw AI Agent—Until It Turned on Me - WIRED",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8wRWx6c2otLXdyc1Q4YU96b3hRMDFoa1dNMnBSQ2JtSXRxTndrdThIeVg5S1pDMW13ekJOSmxVbWphWGxWMEFReXZCUl9yOGU4Q3RSUFY0Y19WRHpqQjVfbWJmek15aEo4WTJsdFJfLXA1Wjlm?oc=5",
+              "source": "WIRED"
+            },
+            {
+              "title": "AI brings Supreme Court decisions to life - NPR",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9uRndwSWd3aEZ3UU1qRW9jcFhaTTByekd1QXk3bWhUSU85MlBMc0FwVXM1MTZOVG4ybkE3LVM1X2dpMGRfWEs4ajY4WHQzYkZtZS04b3hveS1QN2kya2g3Rm5VU3o4NkM0T0hzOE1n?oc=5",
+              "source": "NPR"
+            },
+            {
+              "title": "Exclusive: Pentagon pushing AI companies to expand on classified networks, sources say - Reuters",
+              "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT0U1RXJEbmlES18yOTNLc0x4VlNzYS0yYzhWS0dGbjlLTklPQnRlZUZ5QVowNVU5LTlfYmtkREFNa01oSGNiSUpXc2xqODFpby1BdzZlV0ZNQ2pjdTNMWTJKUmFsUFNiRlc4TWJmSzhSMVIzZEVfUnEtS0xfOTlRUlRZUFBWR2VsR2xLTDNqd204WFctTWpVOEMwQ29tQ0c2dVhhUVoteWJmRjlDVmxwSFJEVQ?oc=5",
+              "source": "Reuters"
+            },
+            {
+              "title": "Accelerating science with AI and simulations - MIT News",
+              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQazZiTUl4M0w3TGJ5YVpfOWpwc3pqQjlRUVZacWl4dGxidk9XajAzWmtYeFNrYjFQVG4ybGxfSmVWMnY1SXd5bWFraXRVZFh6cm9udlZfMDc4NzFtVmt0akNST055eGxJODd2OTlvZkxpX2NMWFFoeGtDSnJ3UFVwamlZbkJQQW5fcnNqMFluR2FEYlhwRlZPM2xB?oc=5",
+              "source": "MIT News"
+            },
+            {
+              "title": "Real Estate Services Stocks Sink in Latest ‘AI Scare Trade’ - Yahoo Finance",
+              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMEFZcy1CSjN4cDRHeXZXUFQtM3JCUTV0dTlJbWZrM3IzejhtTG1rMVhuMGZDeHY3UERlYVZMcW1IMTVOVlBQODAtSkZGVUhqT2VWNXlndzVIUG1QY2Z3WkpDSnNfaUhTN2pCblJ5YlhZbDJTMW1ibkNyODByckZybldld1U?oc=5",
+              "source": "Yahoo Finance"
+            }
+          ]
+        }
+      }
+    },
+    {
       "date": "2026-02-10",
       "title": "Dispatch From Davos: The Geopolitics of debated; Kennesaw State University to launch Bachelor; Britney Spears Sells Her Rights to takes the stage",
       "image": "entries/2026-02-10.png",
