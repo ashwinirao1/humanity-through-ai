@@ -1,6 +1,164 @@
 {
   "entries": [
     {
+      "date": "2026-02-14",
+      "title": "How to Avert the Tragedy of debated; Exclusive: Pentagon threatens to cut off; Recapping the Weekend at the Music takes the stage",
+      "image": "entries/2026-02-14.svg",
+      "note": "entries/2026-02-14.md",
+      "topics": {
+        "politics": {
+          "summary": "How to Avert the Tragedy of Great-Power Politics - Foreign Affairs. Dispatch From Davos: The Geopolitics of the New Realism - Council on Foreign Relat...",
+          "links": [
+            {
+              "title": "How to Avert the Tragedy of Great-Power Politics - Foreign Affairs",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVTVGOGtCemJVRzRFSU4zQ1M3M2RVdTI1YkdYMnh0VWhWamdUWmN4RjNtZ2hKS2VuMlM4RGdRcGJKVllwdWY3eVJhRno3ZFRJMmVMOEQ3TDdvZUtLLXItVm9SMVZweTgwMmNEV3I4Vjh4WDNmdk53M2lRUEMxTHJmaE5n?oc=5",
+              "source": "Foreign Affairs"
+            },
+            {
+              "title": "Dispatch From Davos: The Geopolitics of the New Realism - Council on Foreign Relations",
+              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN0Y2bWFRcGxhMkRTT0dpOXBvbEp5Ny1tRXZKUlczME4wU0k2QzBqZktlVS1fUEJVUlprV1V2TFJYbVAyM29Ib3pWYjF0V1JYTzBvX0dPQnYzajdDb3pjemNHUWNFRlo5X3BySkNRLUlFUVdrRWxLVGNieFZJRDdWbVQ0YzVkWmthNERN?oc=5",
+              "source": "Council on Foreign Relations"
+            },
+            {
+              "title": "Africa-US relations: The continent grapples with the new world order - BBC",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BWXpWYVNRM2F1UVVtX2pMQUtrZmZrN2tGQUJBZ0tvTGhPR0hobzNLUjNWTkxaQ0I5OHVkSzZQZ2NaUzYyNXdpcXRiNTlucnNyWlY0MTB0aXMtUQ?oc=5",
+              "source": "BBC"
+            },
+            {
+              "title": "International Relations – Seminar für Wissenschaftliche Politik - Universität Freiburg",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wdzh5N3l5SFRjT3AtanI4ek9nblJTRXNoX3pQanBGNzJFay1ETVZiZWJqeTFlSHBNWV9VUEhIUDltX1d1cXBvU2tZYWpBOUNIS3ZXOWlDcURLS3NIUnhsdHB2bThHUWIxOFlXbA?oc=5",
+              "source": "Universität Freiburg"
+            },
+            {
+              "title": "\"Robert Jervis’s Contradictory Contributions to International Relations Theory\" - by CWP's Thomas J Christensen - Columbia-Harvard China and the World Program",
+              "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYTFtTFBiYVp2anNYOG1iWUQwbFJKVFg1UDd2QmxJcWxkWE0xdHRvbDV3YXNsZXlXOUVxckpCcGF5eWxYYjJNZWNnNzJsNUtEaHBCVEZHby1JdU5LSDNQcG96aUhxU0Q2cERqT0FPTmRXcWI4aDAyaDU4N05TaGRlUzRPNksxZ3hITTVtMXhaTlJjaFY5eVpqb2h6WVJMaGtsMlNac2hKV0JzRFl6Y0lwOC14Nkc5OWRRUmN6TVN1bw?oc=5",
+              "source": "Columbia-Harvard China and the World Program"
+            }
+          ]
+        },
+        "health": {
+          "summary": "University of Missouri conducts first in-person clinical trial for nuclear medicine breakthrough device - Show Me Mizzou. Sci-fi or medical breakthrou...",
+          "links": [
+            {
+              "title": "University of Missouri conducts first in-person clinical trial for nuclear medicine breakthrough device - Show Me Mizzou",
+              "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORlJ4S0FfczliR1AwczZJNklSSUZpQ0Q3YjNwMG1LVm1ZLW1haUw2YXk2SEZOdXR3UWJSck1QM1B3VzZULWpEY29KWDNxdkFrYlhUN2FrVlQxak5vbkRibjBHQTZwVy1aZm1aSWkwMml6ZmQxOW80Q3BzTndCVWNUUUpXSVJ4VDd5akZCMFdzLW8tZ3liUFZFNkRNU2RsOWlYRFdvTTNRN0dsbW1paUFQYkpOU1J5VGowXzhTYkZUMWJfeXVlMDEtcnlIWWxsTHZvOXkw?oc=5",
+              "source": "Show Me Mizzou"
+            },
+            {
+              "title": "Sci-fi or medical breakthrough? ARPA-H targets on-demand, universal organ bioprinting - Federal News Network",
+              "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRGtoNUVzemNhZl9Kcll5eUJXUEFuMDBuSzZYNW9hZVRYTUN6aXNyazJKYUgtbG16VjdjU1poV2RCMG8zUnlkbC1uX1AweTVGalVSdXFhb0FmRlZPQm0tTlE5ZlZzLUVsR2ktaktOaTlEbVU3bkEwYk9lVnNwMVltU29XRkRmaXlqMkUxT25LM2p0VG9RSE1LbmZuSE5VTzFic1l3WExYN0VPamR0SDZ6dEc3UnhyVXptR0dRcjlrN0xoMW90cWRESzUtV1FuZGMtczRHYzZn?oc=5",
+              "source": "Federal News Network"
+            },
+            {
+              "title": "The top medical advances of 2025 - statnews.com",
+              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNamJCVFE4M0NVNXhMVExQMWV5ZHBta3VncGZfTnBna2NVYlpITHNhUDVlMTRseUU4M3NVTE1yLU1uZ1g0blU5Q1o0NVhfREdxVF9qVFdrakU3Q3h3M0ZPRERBWkYweFZaUHduRXMtdW43VUxJaWdyY2FjMTVQaVRfS0I3VmFaazMzZzhqSWZsY05nZFpPb1g0Q19B?oc=5",
+              "source": "statnews.com"
+            },
+            {
+              "title": "Small Town, Big Movement: Wyoming at the Heart of a Natural Health Breakthrough - Green River Star",
+              "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPN0JCVmhCQV9mM0NKU2Q5NGdmRXVVTEstcW1aU1BaWWlDVjRDMzVzUEgwSVZNWG1sbG5HeUIzWHFZVDUyX1BrYngySUJxalpWVGdBdUx0SjlkMmxGQUNEUk8ybE54QVNmVDc2bHR6MjlhMTMtSTlPUmVIcm1VdmFLb2hROURmbHpmS3laSzZKR2lXY09JbV8tT3pWUWNtUkxSOXVvOXZvNWhDNmFRRmdqenNfbmNMR3EtUEdhYll3OHM1NGZ0TGdrWmpudFI5T2ZKeHZuV1NvcklRbG1Y?oc=5",
+              "source": "Green River Star"
+            },
+            {
+              "title": "Fermentation breakthrough makes plant-based proteins more appealing - News-Medical",
+              "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb18wM0lKeW1RQnhBU09nOXFlaHdfX255X1Q3UnBWWE01MUQ5aGhRT21wYjEzdnNLbnduNFRWN2lUNkxkSEEyN1J2RHZIaWtlOGhBQUdNM1BKM216aV9XYmpnZF9RbU5fY3AxY21vOXp3d2E3bElSUW9JMlJpVDZJVHpTUEdQZE5rWkU0RjloYy1xMWlDNURiV0dOamdLbVRnMGk3anNWbnJZX25JUHNSZ3VlaDhPUQ?oc=5",
+              "source": "News-Medical"
+            }
+          ]
+        },
+        "entertainment": {
+          "summary": "Recapping the Weekend at the Music City Invite - UAB Athletics. Shot put sweep, Smith’s top-10 mark lead Trees at Music City Challenge - Indiana State...",
+          "links": [
+            {
+              "title": "Recapping the Weekend at the Music City Invite - UAB Athletics",
+              "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSU8zOEZCTzcybXR4bEh4OWIwOFBOZVBJM1dheVR5eVpPS3VYQ2R3MlFtSlhBTnQ2MTFOT1BaQVlzaXRDNEowY0FOVVJpdkc5cng0YnlpRUJLZDAxcklnc1ZVU1dtUm1aREpaVS1HeUY5V2dpaHpaWkY3TlVkUVlDdnY1NWQxYzRXdHNCdm56RzZfYnROV2gzeGhJMG94Tlg5RlFVWQ?oc=5",
+              "source": "UAB Athletics"
+            },
+            {
+              "title": "Shot put sweep, Smith’s top-10 mark lead Trees at Music City Challenge - Indiana State University Athletics",
+              "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZjNuUWRpN3ZWTXZseWhTR1QxdGdub0piT3hEWVVSbVRFdVptRFRNVXRWdGMtMVdmdDJTMlBrSTJFQU1Fa25oVXRQMWVDTDZvRkdINk9RN2xEWkxyMGlBaS1zcmN4bWx5eUxCaFVhNnI3THFlTklnTGpVc25wNmRJaE9yTjlzMWMwVnA2TFZKNmh5ZVlZTzVrbUtaczB3dGZQUnhScE9hYjk5b0Z2NVJlR1VPaVFscnctdnFIM21uTVBBZw?oc=5",
+              "source": "Indiana State University Athletics"
+            },
+            {
+              "title": "Privateers Continue to Show Improvement at Music City Challenge - University of New Orleans Athletics",
+              "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcmVieGNBY1hpM01qWGdIUFhKWkY3TUlmVkJxdkNlaDFYekpaUlFjMW1jMEI2dlJTQ0cxajBhSTZETEFVYzRGVk9malZTQ0lFRmhNamlBWFhCZWVJcFBhNHU3V2hJejRHaDFFS3R0TWhnUkxKWkQ3YnFmaFU0cjZiZlBSTUt3VUhXcGFiRWp2MjFTY3J0OG9VT2g3dDBzV3pBdG1ZLWhJSkZkdXRCWG5rV3NrcUVHUWd0dENRRjNNcG1HeFE?oc=5",
+              "source": "University of New Orleans Athletics"
+            },
+            {
+              "title": "10 Standout Indie Movies to Watch for This Year - The Atlantic",
+              "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdHgzdTJCM0pSQ3NrdWhZdlpUME5kYzJDVnE3Q2xRXzNNN2JQVDVFeXRtQmdMa04wWmZaN2w5VFQxaklrNThIaFFGaGpzOHdPU3BvZXczd3ltVGxkTmhFNkpZN0xCMFRwUFp6RXZtb2pFWkxqT0lqWDM5ZXVUZ2JQVlhUOUZFUGN4YUpSVC1NZkkxby1zeHc?oc=5",
+              "source": "The Atlantic"
+            },
+            {
+              "title": "VIDEO: Music and more fill Chief Sealth IHS’s annual Art Walk - West Seattle Blog...",
+              "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ2R5Vl9kakE3VGk3SjFXNndYajAyWTVFV3htMVFlM24wNUItVVRkci0tdVFXUl81UDF5QUx5THR5ZXNHVTdkeEVWb19qeUJvU2VRc0xKcG42T2lncVFhUUlvTzlPVklwV3Z5TWM3UjJkZHZQSXM2bU5DZzVWc2pPQnJFSVdZTk5tcGxqNnQ5TEVNVjdsTllKUlIzZlg?oc=5",
+              "source": "West Seattle Blog..."
+            }
+          ]
+        },
+        "sports": {
+          "summary": "Lopes fall to UNLV in Las Vegas - Grand Canyon University Athletics. Princeton Tops Penn, Advances To ECAC Championship Final Against Columbia - Princ...",
+          "links": [
+            {
+              "title": "Lopes fall to UNLV in Las Vegas - Grand Canyon University Athletics",
+              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYnVfY1FNMTZMWFNjOUswRnBMS3R4SEprenZ3OFVWQTlRSGdpUlN1WDRiYjJzSklhYkxOa2VJMWxzSzU2VlNsTklMM3hhOUpPTjBsMGt2dUtyUTNUdGVoTW5uMWQtZDJ4RURWME5FSGRFbGRYQVYwQXlMX2tjMEZqaENGeDQ1RGZ5S3NwaFlB?oc=5",
+              "source": "Grand Canyon University Athletics"
+            },
+            {
+              "title": "Princeton Tops Penn, Advances To ECAC Championship Final Against Columbia - Princeton University Athletics",
+              "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcEtGaW1WTE9kcmp0OFZSUTRKenp4bzV6aDUtblJaeDh4SXQyVjM1bUdTenFDMndvdml0RUhRQ3p5WGJVOTdNMUVPc3ZfeFBBQ2s3LUxsSnFoYm0yQmxqcFRyV2NfaFdtZXExc05KWG0zZ1ZQZGp2U0RPWWhsRlMycVFGTTRsZXRqOXhZV2FkNU1zZ0ZzMFhHU0V6M2t4Vnd3ODgzaWI0RkpZVlQ3NzE0aUVBX3BVLW13RFpWUEJQSGNZTlVTS2pUTQ?oc=5",
+              "source": "Princeton University Athletics"
+            },
+            {
+              "title": "Owls Have Success at Weekend’s Meets - Rice University Athletics",
+              "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNzU5LVoxNTNoN0Jsck8xS0ZFakFYN3F5dGdaZk9YVE9VeWhVMmUzT0x2bEZvS3JYczFXMDQ3c1lYbUJZanhhdlpMWW1DbFdDc1RRLUpoZjVLSkJoY1lid0g4dEUwNmZDS2hna3VfLW5LRW9INlFfTkJQVzhIUUVDb3EtYXU5LXQwN21VOFBxX19vUQ?oc=5",
+              "source": "Rice University Athletics"
+            },
+            {
+              "title": "UMass Lowell Tops Vermont on Saturday Night - University of Vermont Athletics",
+              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUDRIZkxiYXlsU3M4MDE4UXhyVl9RcE9pMFFjR0Z6d3lFdmtSRlhtazgtbHM0cHBkcThQbTNjYmQtRXNmUjQxNWFDNWtEYUFqRDVGRnJSTFNqTzJIdkRjUk1uU0g5eHluMzlvQ0huZDZ5Snhrd0xPd0xmYVdJallNV3ZDdFBnNjJZN2FBM295OGxsV0ZJbm5TNXNHZU40R0dQcGFIbkNvTQ?oc=5",
+              "source": "University of Vermont Athletics"
+            },
+            {
+              "title": "Inclement Weather Causes Cancellation of Final Games of 901 Classic - University of Memphis Athletics - University of Memphis Athletics",
+              "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMmtYZG5UTnBfT3JsVDluVkxzR2ZDb0htQVJIT1AxNEN3TFFiLWtFSVJmdEl5aVZoZlJtcTF1aXVtOEFzVWlHUXNQZURrdWhydUl3eWtWVDJZOHdVRWtHNHNsbDlpMHh1Ykk0X2xiUnJ4WXNnaUY1R2pZWTB3NlNhcE9seXMtVFZxVTQ2b2ppVUxKTEJKZUF1ZHJHVXNISTM1am5lblBneHNzMy15dlRPNVhUNmk?oc=5",
+              "source": "University of Memphis Athletics"
+            }
+          ]
+        },
+        "technology": {
+          "summary": "Exclusive: Pentagon threatens to cut off Anthropic in AI safeguards dispute - Axios. AI Bubble Fears Are Creating New Derivatives - Yahoo Finance. Fou...",
+          "links": [
+            {
+              "title": "Exclusive: Pentagon threatens to cut off Anthropic in AI safeguards dispute - Axios",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JT0g3ZURJRzB4cFEyR0Jra0ZxM2lxVmc1MTFabmJldHd0QUtLQk42ZTJFNG9URTBMSkx4RTdJYWJISjh5WUFnVGQ1Q2pyT0VMUTZZN05IQkZDN1hxbnZ4RGY0ODA5VXdIWElaNFJiUTJ1ZmRnVTdfekRLamFVX0E?oc=5",
+              "source": "Axios"
+            },
+            {
+              "title": "AI Bubble Fears Are Creating New Derivatives - Yahoo Finance",
+              "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRjdST1llQWNkb3k3emliWmVZNUpGX05QTzNhUEZkSTR1UDZGZ2MwR191VW5mY0pKNTMwek1MSjF5V2huNVoxdWJWN0hvU3dfNkd6Z0lBRXhaby1mVFB0anNvV0o2NnBIeEZWazZ6Y3NhSER4UEtLWENNVV9mdkpLdmJIbV93ZTd5X1E?oc=5",
+              "source": "Yahoo Finance"
+            },
+            {
+              "title": "Four astronauts arrive at space station after prior crew's early departure - NBC News",
+              "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRExjeF93OVNaX2QxZ0x2cThZSTRIeEE1eWFaVThpdlhXR293YkY5V0o2QzQzbHc1SFpaOHFfSzVJcnhrSU5oQlZJcE1WQ2RqcUUtc1FfVHBDSjUtRXJwNTJvQzEyRFAwZGhvR1JybEttZGo0LVh0M3FVd1ppZ21OV29aYXY2Q2s?oc=5",
+              "source": "NBC News"
+            },
+            {
+              "title": "Opinion | How Fast Can A.I. Change the Workplace? - The New York Times",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9va2FURnB6a19yaVBCZlhleUFqeDkwVDExQ2syc2tEZTRjcjRYY0hDWDZMV2FPZ2JFTUZ6eXpKOXB6MDdCeEdnY2JpNnFjQThZb1dDMHRaekxNNl9lRktKcVNCbUtwQXFlR0Q3VlpzZHV1bV9y?oc=5",
+              "source": "The New York Times"
+            },
+            {
+              "title": "The AI productivity take-off is finally visible - Financial Times",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5FeVBIMk05YzBCeUdUX2I5X0ZmbUlidjNtalczTzkyNzAxTWJIMkZ0OXZIc2R6NkRUZmNKYUE3RjJfc2podW5kZDlYOEJrVGN0T0hnNnZpeUlCUkhBcUJ3Si1CS0RZeV9LRENzSGhFb04?oc=5",
+              "source": "Financial Times"
+            }
+          ]
+        }
+      }
+    },
+    {
       "date": "2026-02-13",
       "title": "News and current affairs from Germany debated; US Department of Labor releases AI; 4 date night movies to stream takes the stage",
       "image": "entries/2026-02-13.svg",
