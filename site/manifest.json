@@ -1,6 +1,164 @@
 {
   "entries": [
     {
+      "date": "2026-02-16",
+      "title": "News and current affairs from Germany debated; 'The dark side of AI': Wall; Robert Duvall movies are odes to takes the stage",
+      "image": "entries/2026-02-16.svg",
+      "note": "entries/2026-02-16.md",
+      "topics": {
+        "politics": {
+          "summary": "News and current affairs from Germany and around the world - dw.com. Cold War | Dates, Definition, Timeline, Summary, Era, & Facts - Britannica. How t...",
+          "links": [
+            {
+              "title": "News and current affairs from Germany and around the world - dw.com",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0ZWlYZDNMaFVsZ1NnYnZfaVR4RHVjNnRkYTBnUUpJWjBHbUZGOVhnVFIteVU2TzFPcHNJdE5LdlNIbk54bE5CUjRDdVoyb2pNd3c?oc=5",
+              "source": "dw.com"
+            },
+            {
+              "title": "Cold War | Dates, Definition, Timeline, Summary, Era, & Facts - Britannica",
+              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhLTV6S2I0LVM1aUJCaTlpNUlXazk1SzVXM05lZThuaTU3cHFvMUNhcTdldXNFODNqSm5OLTh0elV6VFlfRDFQcjBLQURlaTBVQ1lr?oc=5",
+              "source": "Britannica"
+            },
+            {
+              "title": "How to Avert the Tragedy of Great-Power Politics - Foreign Affairs",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVTVGOGtCemJVRzRFSU4zQ1M3M2RVdTI1YkdYMnh0VWhWamdUWmN4RjNtZ2hKS2VuMlM4RGdRcGJKVllwdWY3eVJhRno3ZFRJMmVMOEQ3TDdvZUtLLXItVm9SMVZweTgwMmNEV3I4Vjh4WDNmdk53M2lRUEMxTHJmaE5n?oc=5",
+              "source": "Foreign Affairs"
+            },
+            {
+              "title": "Dispatch From Davos: The Geopolitics of the New Realism - Council on Foreign Relations",
+              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN0Y2bWFRcGxhMkRTT0dpOXBvbEp5Ny1tRXZKUlczME4wU0k2QzBqZktlVS1fUEJVUlprV1V2TFJYbVAyM29Ib3pWYjF0V1JYTzBvX0dPQnYzajdDb3pjemNHUWNFRlo5X3BySkNRLUlFUVdrRWxLVGNieFZJRDdWbVQ0YzVkWmthNERN?oc=5",
+              "source": "Council on Foreign Relations"
+            },
+            {
+              "title": "Africa-US relations: The continent grapples with the new world order - BBC",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BWXpWYVNRM2F1UVVtX2pMQUtrZmZrN2tGQUJBZ0tvTGhPR0hobzNLUjNWTkxaQ0I5OHVkSzZQZ2NaUzYyNXdpcXRiNTlucnNyWlY0MTB0aXMtUQ?oc=5",
+              "source": "BBC"
+            }
+          ]
+        },
+        "health": {
+          "summary": "University of Missouri conducts first in-person clinical trial for nuclear medicine breakthrough device - Show Me Mizzou. 7 incredible medical breakth...",
+          "links": [
+            {
+              "title": "University of Missouri conducts first in-person clinical trial for nuclear medicine breakthrough device - Show Me Mizzou",
+              "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORlJ4S0FfczliR1AwczZJNklSSUZpQ0Q3YjNwMG1LVm1ZLW1haUw2YXk2SEZOdXR3UWJSck1QM1B3VzZULWpEY29KWDNxdkFrYlhUN2FrVlQxak5vbkRibjBHQTZwVy1aZm1aSWkwMml6ZmQxOW80Q3BzTndCVWNUUUpXSVJ4VDd5akZCMFdzLW8tZ3liUFZFNkRNU2RsOWlYRFdvTTNRN0dsbW1paUFQYkpOU1J5VGowXzhTYkZUMWJfeXVlMDEtcnlIWWxsTHZvOXkw?oc=5",
+              "source": "Show Me Mizzou"
+            },
+            {
+              "title": "7 incredible medical breakthroughs that changed the world - Worldwide Cancer Research",
+              "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUDVCTXNNc05XYkloWkFPLXdiaWF2dmFfUEtFZjAxbTN2ZWhGbVhMcGdIZC1rLU9Ma1AtYlNfbFRiWXpZNWp2TEtadlRhcVhueWFZVG1FS19VUUNlRDR4Nkd6Rk5lWi1INjFaUTdVanRtMHdRVFp5LVNqclRjcDlsajZLdmtUUEhZYnBXakxiZnRSMjRtUGJuTkstekJuaVEzLTV2NnhUbzhQOE04bnlSc1hkVkFpS3NRb2s5QzdMc0s4c1h4NWtiT3VjczB6a2lUYk9hVkN1bFZrc2hXbEROLXBsbWRNYVlqUmlkazJWeEY3WmFVVHc?oc=5",
+              "source": "Worldwide Cancer Research"
+            },
+            {
+              "title": "Sci-fi or medical breakthrough? ARPA-H targets on-demand, universal organ bioprinting - Federal News Network",
+              "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRGtoNUVzemNhZl9Kcll5eUJXUEFuMDBuSzZYNW9hZVRYTUN6aXNyazJKYUgtbG16VjdjU1poV2RCMG8zUnlkbC1uX1AweTVGalVSdXFhb0FmRlZPQm0tTlE5ZlZzLUVsR2ktaktOaTlEbVU3bkEwYk9lVnNwMVltU29XRkRmaXlqMkUxT25LM2p0VG9RSE1LbmZuSE5VTzFic1l3WExYN0VPamR0SDZ6dEc3UnhyVXptR0dRcjlrN0xoMW90cWRESzUtV1FuZGMtczRHYzZn?oc=5",
+              "source": "Federal News Network"
+            },
+            {
+              "title": "The top medical advances of 2025 - statnews.com",
+              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNamJCVFE4M0NVNXhMVExQMWV5ZHBta3VncGZfTnBna2NVYlpITHNhUDVlMTRseUU4M3NVTE1yLU1uZ1g0blU5Q1o0NVhfREdxVF9qVFdrakU3Q3h3M0ZPRERBWkYweFZaUHduRXMtdW43VUxJaWdyY2FjMTVQaVRfS0I3VmFaazMzZzhqSWZsY05nZFpPb1g0Q19B?oc=5",
+              "source": "statnews.com"
+            },
+            {
+              "title": "This breakthrough could finally unlock male birth control - ScienceDaily",
+              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TOU5UZ0FHbHJHQ2xOWDl5SVpYVkU3OG0tcGNZRXdnTERCUXVOX2ZQdE5QM3lxekdkdEVkb09tWC1iMnhEV2VPZkY0a3IzR2Q3cmh4WFFqOTh3VXY2R29OZWU2T3cxN28yUGEyYktnYw?oc=5",
+              "source": "ScienceDaily"
+            }
+          ]
+        },
+        "entertainment": {
+          "summary": "Robert Duvall movies are odes to his brilliance. These are his 5 best - The Arizona Republic. iOS 26.4 beta introduces AI playlists for Apple Music - ...",
+          "links": [
+            {
+              "title": "Robert Duvall movies are odes to his brilliance. These are his 5 best - The Arizona Republic",
+              "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNUhzU1hlbmJ4UkVmVVlfS3ZqVmVIYW4xTm1YM3BvZG1GOWljdzd0dXJkQTJXa2VwQktDNEJjRUtWd2JDWm43dktSYkFwb0k1M0lobG1OS1NaUFQxa3o5ZVVfSHBDcjRXSVpQaE5IVmlEQnd1NWxMS2Zsd2drNWxzLURBdWgxU3paSng4dVJRalQtSUYtcnAwdWxpOUoxdVFSQjZhTU41S2hGYVNjUWlrbURZRldjU3NodFE?oc=5",
+              "source": "The Arizona Republic"
+            },
+            {
+              "title": "iOS 26.4 beta introduces AI playlists for Apple Music - Macworld",
+              "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLS12UzJ6UXk5R3NRYnZmM0o2M3RGZjc0MFVIRjRoLW9HQnN1cnhITGp1MjNfeUFXOGhNSUdnbTQzS3ljZkJzZ0ljSlh0YWxSSnVqRExZTEFCbzZLUF9tQmdVZXlENm83bzh6b1hHUFc4d3NuZ2U1SXJIRWMtLVRIMjh5MFhCcWV2YVB0VEQ1cW8xNldDcnc1a0g5VWxpWjlZNWc?oc=5",
+              "source": "Macworld"
+            },
+            {
+              "title": "Olympic figure skaters face criticism after viewers call out music in routine: 'Are you kidding me?' - Yahoo Sports",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdkdrMlhkTVNVSkYxdFRXRTR2WUxUekRsaE5UaVZPT3ZFTHRyVWV1Q283S1hqZjdtZHQ1dVlUenUyb25sRnVibmFWYzRHMWR5SVJWbTJyczZvSVNITEFnS1BTU3U1OEh2VUpROTdvamdNYUVyTmt1ZzJsQmFFOUh0MnlnQlZyNG9nYmJYZkEtMA?oc=5",
+              "source": "Yahoo Sports"
+            },
+            {
+              "title": "Adriane Jefferson on what Atlanta culture needs now - WABE",
+              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSZHpYU2JFRlZSUmhUWkJ1VmdDUURzSkZ5eEIwUEVGMnUyVndIb2pESHBwVloyM2V4ZDFGWVZqeUZLVUk3bUZEQWp1TFV1YWNVbEtpbmhELVNxd2hYVzdOdXpvNXpsemV6MWFHWjNMV0pjWl9YS3JaWQ?oc=5",
+              "source": "WABE"
+            },
+            {
+              "title": "Police investigating after $15K vintage guitar stolen from Music Land in Bel Air - WBFF",
+              "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNd0lmc1gxaVpVQm9hemtCZUotQmY4RnJFcWFLZjNLRVdDLWI5YlpIaGZCR3hqOFZwaWlKYWxkM2FZd3h0bTA1NFZBbE00UXpSaU1vMnpRenE4cXdqNDF0dzF6VlhjTUdFaTZBV1hEaVlWVXhncEpFa1h3YWM0QXFFOVdYNXVjb2oxdm41TWJ5aklRallLdmllczdHdGg0czUyS3Q4OURrTDJLbUo5WUE?oc=5",
+              "source": "WBFF"
+            }
+          ]
+        },
+        "sports": {
+          "summary": "Preview // K-State Faces Baylor Tuesday Night - Kansas State University Athletics. Riveting rematch puts GCU at SDSU - Grand Canyon University Athleti...",
+          "links": [
+            {
+              "title": "Preview // K-State Faces Baylor Tuesday Night - Kansas State University Athletics",
+              "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbFFtZnBfeXYta2dLdU8td0R0LVZYUE5EN3lsRU1GdVhVWUR3REFwLTMwdXRtVzhSR1lhTVNPcEpCdjlKLVhkdmtnZ0dMeVU5cmExNXJTR2ozOE01UGNEUFRJSTBRYTZjc1NsUDVuV2pBRlhTdjNPSjRLc1BteXJTbUpwNHdJajhSWVdrTjM4ZUhzbF9KM0pGY3BLR1JpdGlhM1lLeQ?oc=5",
+              "source": "Kansas State University Athletics"
+            },
+            {
+              "title": "Riveting rematch puts GCU at SDSU - Grand Canyon University Athletics",
+              "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdkxHekNzRUFGSXE1RThpOGlsZFNNNjR0WUgxcklfVEZkaUNjTXRwaHhsSzlleEV2bDFZQU1SZ3A2RE5mX29BX2FlbGhBaGFyWjllQ1A3bnhQNzBqV1FjTjVuV3libEEwcVE4RVlZLXZ3OTFLWWZxNURNcUhONnNyOXR1M2dueDQyc0RKMWk1bDlKUk5EZnhSRzI2VW4?oc=5",
+              "source": "Grand Canyon University Athletics"
+            },
+            {
+              "title": "Hilltoppers Split Season-Opening Series With BYU - Western Kentucky University Athletics",
+              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZzVDVFJSTVZpLS15VFBFUFBXUExNVndiVDhZbWZVdExaaTVfaHYzT1NVejUtZjV3WWQwN1l2bGZ4aDJOV3hGbkV0NzNRWU93UUVsWDV0ZThIanJ1aERva0Q4RzFuWEVZaTJBWXNTZndQNklKWE8zUHcwLUdOZHFiOXZqYVdGX2c4R3RVNTBzdFBJN3pTa0p0RE93?oc=5",
+              "source": "Western Kentucky University Athletics"
+            },
+            {
+              "title": "O’Brien Award Honors Mendoza in Fort Worth - Indiana University Athletics",
+              "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcEZ6WGh1TE5fQUt4Y0M5NmoxVURBSG14WTMwZC1odTFod1Izak1oN1B6Wk5LcHlOd2ZIRmFMOTNpc05rekxfTHZDOG9jVHZ6ZFVObFFIRUVDc2NUSzEzc0ozVS0zNnNqSnZfNmJIdHRTZkRGdDdpNUgzUlMxeGhjQnExb3RZS3YxSTN1TkN1eWlWTE0?oc=5",
+              "source": "Indiana University Athletics"
+            },
+            {
+              "title": "SMU Wraps Day Two At ACC Championships - SMU Athletics",
+              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWU9Ca1B0dXM0WFFQMUxYSFJZeHp5YkctX1haVUVMRFFOMXJsbnljeTFNNERjc2xTOUQ3M2JxQ1VBNlI5TF92SW9IWDJqcTFIM291QmRzMGk1M2hvSGNUNmZ1QXg0QTlaWXZQS19IZWpWWFBCdmxaSDdQRjdremNfR254QkFSUVBfSTVvb0tRNncxVDVsNFdIdWtrNkJsZXVSa1Y4N0tWTQ?oc=5",
+              "source": "SMU Athletics"
+            }
+          ]
+        },
+        "technology": {
+          "summary": "'The dark side of AI': Wall Street weighs recent stock sell-off over disruption fears - Yahoo Finance. Long queues and confusion mar first day of Indi...",
+          "links": [
+            {
+              "title": "'The dark side of AI': Wall Street weighs recent stock sell-off over disruption fears - Yahoo Finance",
+              "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNalpQSGdsVlpfUHJQTTFEM2hWREpReS1VTmpseFdhQzFxQ18yVmVGb1lXR3QxUlhDNFoyY3pIMW9jcVZURkY0Z3hma1JUWklVSzhXdU1VcjIteUdWaERGQlFSOGJuU0I0cjJHQkpwelNqal9jaC1tdmEtLW5pUmt3WmxEUjZpS1V0UDJFaWp5MklBcGRXLVQ0LXBaclBMV3Z1YjNPN3hHUW5wcktMSmQyUzl3aThaWFpGN3AtZlpiWTRGV3REOXI4?oc=5",
+              "source": "Yahoo Finance"
+            },
+            {
+              "title": "Long queues and confusion mar first day of India's landmark AI summit - BBC",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10NUpwWEZHM2k0bkNzd2hUbDVDRzRTa0JjRThCNWpBSlBwM1ZheEs0NmNVVXNkdmQ4OGdRa01fY0NXUmJUSG5aLUk1R2pPY0VGeFhXR2dka2xrdw?oc=5",
+              "source": "BBC"
+            },
+            {
+              "title": "New SemiAnalysis InferenceX Data Shows NVIDIA Blackwell Ultra Delivers up to 50x Better Performance and 35x Lower Costs for Agentic AI - NVIDIA Blog",
+              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWkQxZ1c2aDVpWFZhdVBoU0JTblI0bFliWTM3cUlXQmRjRjZSaXBwT2VpMDA3aURibjVCSS1jQmhsdDdndlY5dGc1OWFsbDlRamJnUV82Q3RlVXZiZzBtLUVKcXdxLUQ4TmxiQWZrQUxOQl8zNElXUjZMZ2V2bW9NQWNJZFMyNThSaXZabTd3?oc=5",
+              "source": "NVIDIA Blog"
+            },
+            {
+              "title": "Alibaba unveils Qwen3.5 as China’s chatbot race shifts to AI agents - CNBC",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOckc0NG5BTDd3Z2ZwcXU2cU5RejljNWVNNmNGNXV3M0ZTeUZjUG1YbjdqamlzSDlPZnZIdXJlRTBjMU1rOTJZcWVVcU41QUVueF9kWWF2VHVwU05SZ3BmbFhEczVDeGNQd0VXUGowd0lEZG9qbV9WbEFTbk40ZlRHQ3RvRdIBiAFBVV95cUxQVVVueDE4NEktZlB1TW5QNmtSOUV2QzJQTktBSndsdncxeXoyUjhPOE9Pb1NLWEZ3Nl83M3U3Szg5SXhGSklWem9xVWQ4S2dJYUdRZGRoenp4TVNkRnpseTNJM1JKZFphZEpTN1JoS0VIdFJqNEFFMEw2WkgxZ1laYTJ1ckpsYjVF?oc=5",
+              "source": "CNBC"
+            },
+            {
+              "title": "Why an A.I. Video of Tom Cruise Battling Brad Pitt Spooked Hollywood - The New York Times",
+              "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaFZhUk1kNF9KVFlOZ1pjMVRXbTk3Q1B0cThwaklyYk9mWldyVTFfS3B0eWZyQzRGaWNqZXdla1FZdFl2VEFfZUNSWktXTU9iWjh2elA1YWgtemdhMGMyTFVKek9DUlRId3JZQ2RwNTNCVzRMaUtPOGpQQ09FQ1ZKenhOcFR4c2NjaUF0QWFkWGtyb0tlZEdXMGs4d3lmNUR3TlE?oc=5",
+              "source": "The New York Times"
+            }
+          ]
+        }
+      }
+    },
+    {
       "date": "2026-02-15",
       "title": "How to Avert the Tragedy of debated; ByteDance to curb AI video app; From gardens to practice rooms, UCLA takes the stage",
       "image": "entries/2026-02-15.svg",
