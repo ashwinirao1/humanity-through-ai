@@ -1,6 +1,164 @@
 {
   "entries": [
     {
+      "date": "2026-02-17",
+      "title": "My Take 5 (Edition 64): The debated; Meta Builds AI Infrastructure With NVIDIA; Talking to strangers about their music takes the stage",
+      "image": "entries/2026-02-17.svg",
+      "note": "entries/2026-02-17.md",
+      "topics": {
+        "politics": {
+          "summary": "My Take 5 (Edition 64): The week that was in international affairs - Times of India. The world in 2026 - Chatham House. 'Power And Not Law Rules Inter...",
+          "links": [
+            {
+              "title": "My Take 5 (Edition 64): The week that was in international affairs - Times of India",
+              "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUVFoZWVYTWMzSVh1a001SG1WdktBLUhWd0FtNnZ6UjUtZ3RkSFVrTUFGeEhIckZWNllKaUtQMkM2bFRoUUtJOWNFQk1aSng1bEdPaE5YS21LbnpPS1dYbUJnS0xXTTBnVUxmRXMtcUFhdk1qOGpja2JPX1JOU2dkRUtkMHItc19YWGV4cTQ3aGZhQXhWZzVHUE9Nd0laN1d2LTh1aG9tYVo5cnZYaGk2WGs5Q25KN1A2WDBpRFA3eC1kNnhmSDVxdzVfVWNSWldOakFCb0Z2M24tc2JDVWfSAeMBQVVfeXFMUG85Tk4ycTlqeWEySEhIUHIyWml0amZkTXhaakZtRURDTk5KbmlQdHRwSTRvbG5yYkFLQTBZMkRheERudGhxNkNtUTI4YjkzUnE2cUNUQWZ5anJ5XzBqRHFIMDZ1RUhUZFhTRnJBVHdoMDczbWZKbGp1b0U3ZWhIQkE4SHowSFZ4eVVuRVFWaS1US0tteEVwSWFyRy1tNWdRN3p6RE1odEw0VjN5YURhV19pQ2RlOU85cXVTdk1tMV9PMy1EY3VOYmxJakRoeV9JakN6RGlXdWVXOTFJZVllSFd2RHc?oc=5",
+              "source": "Times of India"
+            },
+            {
+              "title": "The world in 2026 - Chatham House",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQlNLMzNqM01wLUNodVVWYzdiTlpicm5mZUVPb0pPZnNCdDRjTGFZYjg3SHVEQXc2LUUzUkU1UXpnM0FoZnBpQTNKRGNlX0xTeGtWVl9acUxCbVQtbTBZZkUtcTgwYVRQdkl0N0ZYdEJCX0FlalF1dldtTTZNOFZyMmxB?oc=5",
+              "source": "Chatham House"
+            },
+            {
+              "title": "'Power And Not Law Rules International Relations': Ray Dalio On New World Order - Republic World",
+              "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQR3czVWNTNlIwNlZQMzF3V3V4ckgzX29PNlR1cFJjMmxMNjl5aFRlc1k4WTRzbkVGcl9qWWliNUJUWFdaT3lJZHJQUmc2MFNKVHRzM1JuR3dQWk50YW9ubHlhTmp6Q25Yc1d5TVUzbEpRanl1SFpuXzR4RTVGRTRGZlZvdGpxdjFCT2xvRzhaUXVPSjZjY0c3a2k3d0JTNXJHWXQ1OV83dXZpYk1oVy02azVXYWxEQdIBuwFBVV95cUxOdUUtOGFNbkVicVFjbW0wOWpTbEVwZ3ppclllNDVNZENLY2FnTHVNcXh5cWFMaHItaTF2S1kycU94Z0JxNjNNSFo0ZWlfNWhnTm1aUVQ1eDhrUjBBS0Vna2JYaG5DOGtTVkd5RllHQUNnTkxBUC13RnRxLUQwRW5zbmFJM1lwTmVJZ2d5Zk1hU2xVUXlSMFVwZmN5ekI5YmE4YmE2N2lJMzRvbHYwWWFoZkhnNkh3TWgzamJJ?oc=5",
+              "source": "Republic World"
+            },
+            {
+              "title": "America Revived - Council on Foreign Relations",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XdTdrV0tESGg1ekVhdlBLMm9kWVlTZnpVSDBfUmh5ZGszcE5LZm03V0lwRVN5dmJLRWtoVWRxT1IzLTdnZjRENFh4US1LdmtKYTlKTjF3?oc=5",
+              "source": "Council on Foreign Relations"
+            },
+            {
+              "title": "The 5 Most Important Global Trends of 2025 So Far - World Politics Review",
+              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYnBEUkNEMGVGaS1LYXNFbFJreFI1ZDNtWmlrT3JJZDVPcXpjSnFvdkxEYUtpVzUwcEluaFZKNVllemwybHRxUkJ6YjNzaVNNaS1JcDZrQ01RWEU4SldxVk1XajZ2UUpHSmJQUGd1Q05pOXE2bXNCNGIwRi1GTFNQOXk3aFA?oc=5",
+              "source": "World Politics Review"
+            }
+          ]
+        },
+        "health": {
+          "summary": "FDA grants breakthrough designation to rapid test for xylazine, veterinary sedative fueling overdose crisis - Medical Economics. Researchers achieve a...",
+          "links": [
+            {
+              "title": "FDA grants breakthrough designation to rapid test for xylazine, veterinary sedative fueling overdose crisis - Medical Economics",
+              "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTjJQSFpCbmFoZFQ3WkVncHJtSllVVGRIb1lwdGd1Wk9PbE5sbmQ1YWI2WXZmU3NYazN0ZnpXeENhVGtxSlI2YUNnMGhiYndRVHNSY3NvQjlvYzNpd01YdlVCdGFXSWVBQXpKSVgwTzEwNm1NbzNBUGpleFhvWXBqSURSNE9xT1RWZE9yQjI2QUFfOEdMX1ZSa01nNk14WHNnNHVJMUoyTU1JY1FuM0JHOGhkQkNhcEhMUG9VZ2RwbG5KOG9BRHhzQjY2UFB4UzJBZFc4Zm13Qk5vTnB4?oc=5",
+              "source": "Medical Economics"
+            },
+            {
+              "title": "Researchers achieve an impressive breakthrough in regenerative medicine: they create artificial kidneys - Diario AS",
+              "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNLVg4WDhXajQtSzZaR1ZYZGdtRnNUQkRUWlJhVlFzUEVTQ3VubmI5czVZeEw1dUE0dzJsZlQ4WGpEZE1rT1RkTFozQTg3dVZGOXB0OUZodzBHekRGUmpOcDNnZFRKUkdzZHRQSDZYdUZLUGtiVjhuc3FnWFNLZFJzOVlnbzZVRHFjSTVMOW80WmpqZUZjVWpWZC15QzY0MG82MGIzWmNzallzeWUtZ1JOeVRxN0puVzRQSm96NHM0VlpUS3JGNjNWejl2emxJMC14bzNaNVh1MWVaZk3SAe8BQVVfeXFMT0pqREZMbVpFeGZZNzJIRzV3cVFXU3gwbnBBalBKdXdBck1sX2NqUDVvbS1HSGdZZDFfTEdxV19lOVNkOXZJbEhTUFliM2F6UHhlNGp1R1FXRnFZcW1VM1JZLUVHR2YxSDNrWnZ0Ylp5bjBYREJBSm5TQkstZWMyNlhIVDN0UXdRYTdSRjRJSGZHWGhoY2F1WHkzM19qd0hycFJsWHZOUS0tRmZtQlZVdTF5TXF1N2wzRXU0QmVLeFpkMkFoelNDbWtnUGJmZGZ0WEdIOFRSMm54Q2h0YThLeHpXZzVGd3AzanFMNFhPamc?oc=5",
+              "source": "Diario AS"
+            },
+            {
+              "title": "A Breakthrough Discovery Could Help Lungs Repair Themselves - SciTechDaily",
+              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQ09KVUJHQmV3WFZ5R1BFMGVKVG03TTU5T0xuclpWSE9BaFN1S1N4N0wyZldfZDN1b1I0aWcyM242ZzI1UmFLOFB3bHNoSWN3TWd0Q2RFSG9pckRuMzhPdFBUM1c2TnNIdWZTRjZPYzhMZ1E1T1N3VWJzUDZELWVVM2dZZk44d0Z6R3FmV0VB?oc=5",
+              "source": "SciTechDaily"
+            },
+            {
+              "title": "The top medical advances of 2025 - statnews.com",
+              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNamJCVFE4M0NVNXhMVExQMWV5ZHBta3VncGZfTnBna2NVYlpITHNhUDVlMTRseUU4M3NVTE1yLU1uZ1g0blU5Q1o0NVhfREdxVF9qVFdrakU3Q3h3M0ZPRERBWkYweFZaUHduRXMtdW43VUxJaWdyY2FjMTVQaVRfS0I3VmFaazMzZzhqSWZsY05nZFpPb1g0Q19B?oc=5",
+              "source": "statnews.com"
+            },
+            {
+              "title": "University of Missouri conducts first in-person clinical trial for nuclear medicine breakthrough device - Show Me Mizzou",
+              "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORlJ4S0FfczliR1AwczZJNklSSUZpQ0Q3YjNwMG1LVm1ZLW1haUw2YXk2SEZOdXR3UWJSck1QM1B3VzZULWpEY29KWDNxdkFrYlhUN2FrVlQxak5vbkRibjBHQTZwVy1aZm1aSWkwMml6ZmQxOW80Q3BzTndCVWNUUUpXSVJ4VDd5akZCMFdzLW8tZ3liUFZFNkRNU2RsOWlYRFdvTTNRN0dsbW1paUFQYkpOU1J5VGowXzhTYkZUMWJfeXVlMDEtcnlIWWxsTHZvOXkw?oc=5",
+              "source": "Show Me Mizzou"
+            }
+          ]
+        },
+        "entertainment": {
+          "summary": "Talking to strangers about their music memories - The Michigan Daily. Humanoid robots perform advanced martial arts at Chinese New Year gala - Al Jaze...",
+          "links": [
+            {
+              "title": "Talking to strangers about their music memories - The Michigan Daily",
+              "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMWNvLUFtOXdESktKSER5cy1OVDV4RlNZenZ2RHpKc1lPb3ZUSGdCTG5ZZlRXOExoRWhQV2x4cUVFWE1heUFkdG93N0VSV1NZcGV2N0JwOWRCdTkwb1hWUjVoLXpQUjVuV2dNY1F4RU8tT2VJdmd3VEU3aFV3RTdQRUJfWHNCSW9WcTlUMEd6RlNMdw?oc=5",
+              "source": "The Michigan Daily"
+            },
+            {
+              "title": "Humanoid robots perform advanced martial arts at Chinese New Year gala - Al Jazeera",
+              "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWm9HOXR6clNOakUteHVsdXdkRXVsT0F0OWJZeldBNENiWkZ0M25rbGdzRmtsLVMwazRnZXdEV3FsWkNVVDZJdXVfbTdXZEh5bnFlOHlCYWl5NG1nM2ZVQ0xVVzBjb1hKZ1dEUU1yR01EckxwOHZKRko2bVFQT0haNWE3MndUQVpZc19tQng0VWhDMlMtMGkxbEVTaG01X3QzTVJwUW5ZTnF6Z1NhMW01T9IBtgFBVV95cUxPVllfc19hOXAwbFlpMU1BT2V6M09HY3Ytb0VJUGtINVFtdUtfZVJHNFJXenZMdjVhUEpReU1aQ2huWXNaVTRRaEkzV0J1QS1VN3hjUlRnZzI3UktRV3k3cmhQNWtCa29MWmo1bVIxNk5zTExYM3pjNmh6SEM1dWFCR1RueGFVaGw5MVlldEZDaDhFT1ZRSjA1YWhYdDNQUllfTHB4NUg5eUhHTk9nd2lLMDZlWDg4Zw?oc=5",
+              "source": "Al Jazeera"
+            },
+            {
+              "title": "Jake Weiner Exiting Good Fear to Launch Production, Management Firm Harvest Hill Entertainment (Exclusive) - The Hollywood Reporter",
+              "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcGZfODdGTGNwLUdhbnZYeVlqWW0zbE1sN0szTFVVV1l6c2Z4bGlvdnlTSGhjSUZPcEpKOExKYXJYOHI2OWVLNXJZMktUSU9CSk9ReHpPYmRvMjl5dVgzY0ZfMkxxZlpOLXRzUnZoODFIOFBpQ21ld1AtY0duNzFMNUhtdm9ySWY1THNSS3NaNGpTckpXZkxtR2dnaF84VEdLX3lHSFJiR3FCUERiOTNvVlhXSmhrRy1B?oc=5",
+              "source": "The Hollywood Reporter"
+            },
+            {
+              "title": "Robert Duvall movies are odes to his brilliance. These are his 5 best - The Arizona Republic",
+              "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNUhzU1hlbmJ4UkVmVVlfS3ZqVmVIYW4xTm1YM3BvZG1GOWljdzd0dXJkQTJXa2VwQktDNEJjRUtWd2JDWm43dktSYkFwb0k1M0lobG1OS1NaUFQxa3o5ZVVfSHBDcjRXSVpQaE5IVmlEQnd1NWxMS2Zsd2drNWxzLURBdWgxU3paSng4dVJRalQtSUYtcnAwdWxpOUoxdVFSQjZhTU41S2hGYVNjUWlrbURZRldjU3NodFE?oc=5",
+              "source": "The Arizona Republic"
+            },
+            {
+              "title": "Denver's Underground Music Showcase moves to RiNo; \"It's sort of the perfect marriage\" - CBS News",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQV1RUWFA4c3dCSDhoTFFMUUNSWmpLdnlOaXI5U0d2RUE4aTBfZmJ0bzVJbmw4UDFIV3BiR1dYSUVWWmJOanVvOWI4U3BBY3ZxTWUtNEhtSm13d3FCanZ1X1kxR3lBTE1fNGJ0MHVJR3N1TW9Nb0R5MHRGTTd2Q3Z1NUc4Zw?oc=5",
+              "source": "CBS News"
+            }
+          ]
+        },
+        "sports": {
+          "summary": "SMU Takes Down No. 21 Louisville, 95-85 - SMU Athletics. Softball to Open Home Slate Against West Georgia - UAB Athletics. Midweek Battle Goes To Goph...",
+          "links": [
+            {
+              "title": "SMU Takes Down No. 21 Louisville, 95-85 - SMU Athletics",
+              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVVdIZmtUcTltTmstUTRBRnN4b0txcjdHWjU1bW55NGhENXlCNDBKMFNaVzJlV041SHZZX01wcjhYb2xVcnFaZU1PRGdXWHpWX0pyX2syMExTY2ZtbkhFZ3Q0MmEyUjY2VUxDSGdMWEgtMm5IbUNvaEZuNEtMbmxjTlI5UVBYbWw0ZW9OMkVnZmVEbjUxY2tnN2ZldGdQQQ?oc=5",
+              "source": "SMU Athletics"
+            },
+            {
+              "title": "Softball to Open Home Slate Against West Georgia - UAB Athletics",
+              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNlhrOGpwSWNjODMzSWtKRDNpVzB2TXh3a2xGQ3hqRlFva3VOd2poandjQXd3NWVjVlJQc0tXV25hWW1KSXBHQ0dVX1JnTkhXTUdPOVdPSy1ZNlc5dUgycnA0VnMwZGpfdVhDN3lBd2RhZDRQNG80SlFnQ0VNR3lMaFNJUWl6RHl6WWNxZ0pn?oc=5",
+              "source": "UAB Athletics"
+            },
+            {
+              "title": "Midweek Battle Goes To Gophers - University of Oregon Athletics",
+              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdml4T0FkeDlGQTdBQ1E3TWluSlU2SWhIOFpGQm9zdndua1ZoWDR3ZmM0c3VtbmhPZkNaa0JmaW44RmE4U0F6cEQxNU1KZ1c1ZUlyVW0xN3ZfaEEyZ04yR2hEeGpBc0ZiZm5NZ3dwQ2tsM251dVB2OVZHdTAtemxWOUZYbTlRRkRR?oc=5",
+              "source": "University of Oregon Athletics"
+            },
+            {
+              "title": "Phoenix Tests No. 3 North Carolina - Elon University Athletics",
+              "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMmViUjFvSGFLcVRWOHFMVUVnMkZRRmxvVmxWVjBTYjZqMWExVWtNcFVpUWpEenFaNWppM196dVltemJ0ZWwwNnJkTkt0QzBLWndtZ19BSWNXMDg4S2tjTllONFhVYWc5cDhWNVEtMmNMX0pabm5sZFBUWHlqWEhSbHc3d0FJd19rdGJmYVZ6cUNSVDlhVmc?oc=5",
+              "source": "Elon University Athletics"
+            },
+            {
+              "title": "Soul Blasts Leadoff Homer in First Setback of Season - App State Athletics",
+              "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONDRCbWdmQUp1eTJUSnhGZ3ZKb1ZyOGw4N2xwcmhBRThsQU5nM1FPZXNVa2o3WVptUEQ3NmtiakxDZkpDQ3M5VEkyN0ZaSmNDSHU2bXBZbmJOMnJRUVFCYzRPdzlxeWcwQjczNngyNGlzR1lFVnFHQWwtTlJlajd6NUJ5bUEtcXBYOWwzR2ZYTTJmOHB4NkJndXJYdzQ2N185Z3ZJalEwR0NSX3hk?oc=5",
+              "source": "App State Athletics"
+            }
+          ]
+        },
+        "technology": {
+          "summary": "Meta Builds AI Infrastructure With NVIDIA - NVIDIA Newsroom. Why AI Adoption Stalls, According to Industry Data - Harvard Business Review. Investigati...",
+          "links": [
+            {
+              "title": "Meta Builds AI Infrastructure With NVIDIA - NVIDIA Newsroom",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQa2Jtb2d5VUFBazZ4U1VWS29KbmFHMkdkN1lNXzNXTHR6eUZTUjVUYWw2cndMOVhpYldLbm1Cdm1nWkxyUzFJcUo1OVBXd3lBMnBsYU1nVVNaOF9YR2pRaXNLdHowVllDdU5hNU9kWW5DV3lSWmk4MFYtQUt6ZTA1WQ?oc=5",
+              "source": "NVIDIA Newsroom"
+            },
+            {
+              "title": "Why AI Adoption Stalls, According to Industry Data - Harvard Business Review",
+              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBUcE5UaWlJb0R3bU1RLXVvZzYtclB3M0tRajVITW9ZSXZTbFlfOWRwMHNmdGpveC00ZWtVRVpMS25odTJ3Wm95Snh5N2NVLTVITUxNUko0b3JMdFh2YzBDRDcyOUgxazM1TTlGRi1CdkNyYldQUl9RUjZjcDBZdw?oc=5",
+              "source": "Harvard Business Review"
+            },
+            {
+              "title": "Investigations and Oversight Subcommittee Hearing - Powering America's AI Future: Assessing Policy Options to Increase Data Center Infrastructure - House.gov",
+              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVGJQWlNkb0daNm9pV2hOajhvV25EcWlYRU0zVkdfdHRtT2RDMVF3Wnc5aTQ3QjFqV3k1eE1uNE41cEU3cjcxUWdocGRfZVRLaUdOWURBNFQybW9fajQxWFAyRGRXUVVsNUVEVTViRlZ1c0F2djJ0dWUwYzYtaWZnRjFZY2Jrc3l6ZDllSFdwdmxRZnVkSDVfZ3BRVHZrdw?oc=5",
+              "source": "House.gov"
+            },
+            {
+              "title": "Race for AI is making Hindenburg-style disaster ‘a real risk’, says leading expert - The Guardian",
+              "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTzlRZVBSWkN2bG1hdGdjS19iUnFpR2thd1dxUkdsbXVEV0xmWS1TMkJBckgzU01wT3o3UVgxTl9tR1JyX3FDS09NTEFPVGhlR3liLUQtWnFmRHlZRTZ5dmhiak9wdko5ZXQ2Mk1DZDRodGgzNTF1TnNyRGJCeW5Zc2RETFZNWFVMZ0c4SGFXZUU3dDQ1M2dYLXN1MHlfajd0YzcyQVU0clI0NmU1ckJnRVlB?oc=5",
+              "source": "The Guardian"
+            },
+            {
+              "title": "‘Woke’ AI Feud Escalates Between Pentagon and Anthropic - The Wall Street Journal",
+              "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxONXJyMkhpbGlGY2NLQWR0Vy1oeUpqQ0dGRjdKdGVaWVRLUl9QTzAxTkw0d29XYXJJNWM1WTBmQ29lQWxlR3FFMWk0NGtYNWd2VXROc0drOVpWQmd1Q01zNzh5TDAtSUZKUXRwUkhUNGszY3R0VHkwSGpFV0RLQk1oQ3prUUltbzFpdUNnZ3NLZE1fWWt3UFZldUk4NE5BSVppUHRiV1RjMndpdll5elRHLXBqVTIwQ01TNWp4d1pYVVg1SHZEejJlX0J1eWpyS3ZCUDJMWmNQclJpS05IZ0JVUTJaeTlfU1Zjc21YaGtzSWs2TXF1WDBfVjl1R21ZLV9rSVBmN2xUeDhNWEM0a3laemw2Z0t0OUVxYmtLRTR1VTJIZ1hDOG1jWjFYaFhSVnY0VnhGZVFBRWZCYngwTlNSSkRlNG90MHlkdzgzaFlJOGxQVnh2dkk2SHhvX3JLaU5Hd2NsQ1RMZlJRUTE2ZW8tZllmMFdEVlcxVEkySjFPaEt0c1FZMmR2Vk05bUl1NGVHWkNhU19CaE1PbG1oX2owZ0VyZHBzekJmMlIxOFhlWEdxNjA?oc=5",
+              "source": "The Wall Street Journal"
+            }
+          ]
+        }
+      }
+    },
+    {
       "date": "2026-02-16",
       "title": "News and current affairs from Germany debated; 'The dark side of AI': Wall; Robert Duvall movies are odes to takes the stage",
       "image": "entries/2026-02-16.svg",
