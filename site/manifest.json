@@ -1,6 +1,164 @@
 {
   "entries": [
     {
+      "date": "2026-02-21",
+      "title": "Olympian Eileen Gu rules the piste debated; Child's Play, by Sam Kriss; Willie Colón, a Luminary of Salsa takes the stage",
+      "image": "entries/2026-02-21.svg",
+      "note": "entries/2026-02-21.md",
+      "topics": {
+        "politics": {
+          "summary": "Olympian Eileen Gu rules the piste with physics and international relations - Physics World. Is Trump reshaping the world order? - Brookings. Dispatch...",
+          "links": [
+            {
+              "title": "Olympian Eileen Gu rules the piste with physics and international relations - Physics World",
+              "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdVZfenExWUlCVFVTYUdSUmtWczZwczBOSTB1YkVHMWZpME1oNW8xRVpaeTExbjRxa1lPaUhua1FrVXVsVWdqdUVsVEQxcGZRTXBFTVdwOVlsSFNnZzZwQ0ZHTWkwcF9mSkdjX2hvOEZaZmlOOXAxUWY0SkJtZmdYWWFTNzZOTTZDS3hrRnRKVkZWeW10eURuTFBraGV6eDhuNTV4aFZ3?oc=5",
+              "source": "Physics World"
+            },
+            {
+              "title": "Is Trump reshaping the world order? - Brookings",
+              "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5fV2RGam5KZDVWUnNTeHpSU2JTendXcUZWLVpudnBPc0ZKNmZDUElJd1llZ2VIYUJpeFZQc3NKZGRJZ1BGOVpXOEdkSThVYjN4SFh3NzNUQnptTFdodURWLVVZVjk4Vm8xQXFwS1FmMFdRUjhURGI0LU13?oc=5",
+              "source": "Brookings"
+            },
+            {
+              "title": "Dispatch From Davos: The Geopolitics of the New Realism - Council on Foreign Relations",
+              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN0Y2bWFRcGxhMkRTT0dpOXBvbEp5Ny1tRXZKUlczME4wU0k2QzBqZktlVS1fUEJVUlprV1V2TFJYbVAyM29Ib3pWYjF0V1JYTzBvX0dPQnYzajdDb3pjemNHUWNFRlo5X3BySkNRLUlFUVdrRWxLVGNieFZJRDdWbVQ0YzVkWmthNERN?oc=5",
+              "source": "Council on Foreign Relations"
+            },
+            {
+              "title": "The world in 2026 - Chatham House",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQlNLMzNqM01wLUNodVVWYzdiTlpicm5mZUVPb0pPZnNCdDRjTGFZYjg3SHVEQXc2LUUzUkU1UXpnM0FoZnBpQTNKRGNlX0xTeGtWVl9acUxCbVQtbTBZZkUtcTgwYVRQdkl0N0ZYdEJCX0FlalF1dldtTTZNOFZyMmxB?oc=5",
+              "source": "Chatham House"
+            },
+            {
+              "title": "The 5 Most Important Global Trends of 2025 So Far - World Politics Review",
+              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYnBEUkNEMGVGaS1LYXNFbFJreFI1ZDNtWmlrT3JJZDVPcXpjSnFvdkxEYUtpVzUwcEluaFZKNVllemwybHRxUkJ6YjNzaVNNaS1JcDZrQ01RWEU4SldxVk1XajZ2UUpHSmJQUGd1Q05pOXE2bXNCNGIwRi1GTFNQOXk3aFA?oc=5",
+              "source": "World Politics Review"
+            }
+          ]
+        },
+        "health": {
+          "summary": "7 incredible medical breakthroughs that changed the world - Worldwide Cancer Research. Astaxanthin ascends: how breakthrough science and preventive he...",
+          "links": [
+            {
+              "title": "7 incredible medical breakthroughs that changed the world - Worldwide Cancer Research",
+              "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUDVCTXNNc05XYkloWkFPLXdiaWF2dmFfUEtFZjAxbTN2ZWhGbVhMcGdIZC1rLU9Ma1AtYlNfbFRiWXpZNWp2TEtadlRhcVhueWFZVG1FS19VUUNlRDR4Nkd6Rk5lWi1INjFaUTdVanRtMHdRVFp5LVNqclRjcDlsajZLdmtUUEhZYnBXakxiZnRSMjRtUGJuTkstekJuaVEzLTV2NnhUbzhQOE04bnlSc1hkVkFpS3NRb2s5QzdMc0s4c1h4NWtiT3VjczB6a2lUYk9hVkN1bFZrc2hXbEROLXBsbWRNYVlqUmlkazJWeEY3WmFVVHc?oc=5",
+              "source": "Worldwide Cancer Research"
+            },
+            {
+              "title": "Astaxanthin ascends: how breakthrough science and preventive health are powering a billion-dollar antioxidant boom - Nutraceutical Business Review",
+              "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT1I2X2EwLUVpMXFmdTlfTW9ScTBSWVptODZjUl9rcUVzMVBnYnZmcTk4UDZjRTdCZGJ6d1lQdU1RTGdVbW9jNUhoeWJzSUh2a09UcHMzd0NkeUs1bmlvbHpZVG1VY2RFejFsay04N0ZNZXFyR3NNdnJXZWZNU1RPNTB1UmJuZXp5bTlUTGNpTEp2Y2JDdXZwWDJLU1R0aFhKdkR3UndUNWw3Zw?oc=5",
+              "source": "Nutraceutical Business Review"
+            },
+            {
+              "title": "The top medical advances of 2025 - statnews.com",
+              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNamJCVFE4M0NVNXhMVExQMWV5ZHBta3VncGZfTnBna2NVYlpITHNhUDVlMTRseUU4M3NVTE1yLU1uZ1g0blU5Q1o0NVhfREdxVF9qVFdrakU3Q3h3M0ZPRERBWkYweFZaUHduRXMtdW43VUxJaWdyY2FjMTVQaVRfS0I3VmFaazMzZzhqSWZsY05nZFpPb1g0Q19B?oc=5",
+              "source": "statnews.com"
+            },
+            {
+              "title": "In breakthrough, Israeli scientists use deep-brain stimulation to counter schizophrenia - The Times of Israel",
+              "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSjBneHh4MnRKQTM1REtCclNQRFVFZ29GU05WcmE4azl5WkljUUc0WloydzBMVzdJTFNQLVRYT0xEcEJ3d3FWaEU3V3NFMlZham5CUmdrWDNQdUhQeFI4dzVoc2QxamdXZy15NlQ0Qmt3dXFpTjhiblNNZVMzZWZaeWh0Zl9yZzY1SUVPVjZxUExXSjd5NVphN0ZPZ1lxekk1RjlhSExvTWhwRzliN2ZZRXoyTFRMQ2h10gG-AUFVX3lxTE5IYWVUSFE5WFBHQUJKdEk2UUw1REgxTDVPLXBVczVldTRnbkEwVkdlNlZaNnZLaWlnVnJOVjg5QjBVUU1XS0NQQXd3LXl5OVpHLWQ2QkRqbmhHX2RBZHRXNm5pZExQZFZ3TWNnNVNUS3VmQmg5cUROckQ4Nm9MZFdqV25kQ1hRRlJxejFNVnJBNmJaR3V4YmE2LS1oT2Z1VGJ0NHpoSnlsTkQ1YTU3dGVJS3FSemNZUXFXUTZrNVE?oc=5",
+              "source": "The Times of Israel"
+            },
+            {
+              "title": "University of Missouri conducts first in-person clinical trial for nuclear medicine breakthrough device - Show Me Mizzou",
+              "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORlJ4S0FfczliR1AwczZJNklSSUZpQ0Q3YjNwMG1LVm1ZLW1haUw2YXk2SEZOdXR3UWJSck1QM1B3VzZULWpEY29KWDNxdkFrYlhUN2FrVlQxak5vbkRibjBHQTZwVy1aZm1aSWkwMml6ZmQxOW80Q3BzTndCVWNUUUpXSVJ4VDd5akZCMFdzLW8tZ3liUFZFNkRNU2RsOWlYRFdvTTNRN0dsbW1paUFQYkpOU1J5VGowXzhTYkZUMWJfeXVlMDEtcnlIWWxsTHZvOXkw?oc=5",
+              "source": "Show Me Mizzou"
+            }
+          ]
+        },
+        "entertainment": {
+          "summary": "Willie Colón, a Luminary of Salsa Music, Dies at 75 - The New York Times. Willie Colón, trombonist who pioneered salsa music, dies aged 75 - BBC. Four...",
+          "links": [
+            {
+              "title": "Willie Colón, a Luminary of Salsa Music, Dies at 75 - The New York Times",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE00S2ZkX0FEMHVOOXFNMHc1c0tlUDZscDRxSGMzZmI4V3BUVE1LX2lrT0QyeXRSeWJoaVNSSzBzclBzQnprNmxVZUR2d0xFY0ltR3NYSjR1dUlQQmpsWkJ0bTV5ZHk4a3RRQmNPOWNRUjhaVGRONElF?oc=5",
+              "source": "The New York Times"
+            },
+            {
+              "title": "Willie Colón, trombonist who pioneered salsa music, dies aged 75 - BBC",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JVTQzQzRGeDVUUEZ5NG1vVFhIQ3pQUDlWWmdzUFNYdlF5MDVTaldnYzVhSkd1Nnk4RE5lTFRpQzU2Mk5NUG1kMWZRaFVpbF9wNmJhbURrb2hQQQ?oc=5",
+              "source": "BBC"
+            },
+            {
+              "title": "Four shot at Jacksonville Beach music festival amid ‘Teen Takeover’ - Action News Jax",
+              "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQX3FMSzZjNHZJZGhqSXZNdU1kdkRnSVRXbnpsNjlGMVdwNS13MFlEcGJ2UHpnU2lsdURySlhZdlFLODNmTERFaWxURmF6dTBDcXp2bHBwYkh0cS1PUHZTYVVRTHZWQWl2c1NqcXVSUnFlaUdVX2dzS3lTQUVucUxtRjhSeUxtUFRRdERjdzI2QXBaM0F3ZzZqU1BQMFZwN1o5Vk4ybGc2VXliTklycklQZkg0OWxheXV6cG5UdEtKX0NrVDN4X1dxLUtsTQ?oc=5",
+              "source": "Action News Jax"
+            },
+            {
+              "title": "From 'Dead of Winter' to 'Song Sung Blue,' 10 movies to stream now - USA Today",
+              "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQaVN5VUIwcE9tUnVDdjk1YTdtSk40RW9NN2pGOGJBRGd2S0VsdVRvNzNyT2llNnFLQWM5V3dTaThLT3d4U0NmYmFFVlUybEt5ZHdxLTQ1alBObnY2Z0RuWmcybmo3OWRyT3JxMDh5akMwZm4xTG4yT1JYRG1yVUo5c054YlhneTlvbGN4LV9hVmdQMzdPXzM0QnBOTnZXYmx0RGxuVElRMzAyUVhCT2xVOFVvbDZfTkRpeFphZGlWTzR5alB1bG8xbnhxd1VLM3NNWGdZdWVqRko?oc=5",
+              "source": "USA Today"
+            },
+            {
+              "title": "Brite Winter festival brings music, art and community to Collinwood in 17th year - WKYC",
+              "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOMmppVGFieHNuMDN2RXhDc2x2UnBBVHRDNnBsYjBzNFluUGdYeEdidm5jUmxBdTZQM3FvWmVlbXJsYzFYbmo2d3VXS1BKOFlUN29JZ0gxUUxpNThDNkJyZWNaTS1iYjU3TDVDdE1oUkdOTGFEMkhnVE91cWtOaFYzbFFoeUJGWDZ6c3FjbTlBbmQwdzNVX3RmMVZ5MzdUVzFXcThqOUVabnM1Ni1kZS1DQ0xNX3VfUGRTMEU2UC1NZ2p6Q1Y0eEhyNGxDWWdrZ2pqa3p1MHhIN1lXY283dElyZE5IVmNsNjlOV0wtMGpwMHQ?oc=5",
+              "source": "WKYC"
+            }
+          ]
+        },
+        "sports": {
+          "summary": "Memorable moments from the first full day of games - MLB.com. 2nd half becomes 2nd wind for GCU win - Grand Canyon University Athletics. Panther men’s...",
+          "links": [
+            {
+              "title": "Memorable moments from the first full day of games - MLB.com",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQczBXS2ZzbG5qXzJvVFNOeE5EUVVuTGY0RjJMNVEwUHgyc3g4S3o0aF9fc1lZempQd21QZXVla0tzMVQxeE5vUno4YjZUaHFPcFpfX2EzMU5VQTdlb3hYNWxSNnJDNTlqcVNNOFRrWm5ZYUtRQUNwbVYyOEpRelFYT0xB0gGOAUFVX3lxTE1fcENobWxlWGlQdExkbWdwQWxwdHRyWGw3MkRtdEZCSXU5M3pOVEhRVGc2ZXdrNUVsOThMeFd2eWZ2RGZjUGgwdmVtQ0YzUnphQk1CdjlabGprZTJ3b0dmUlRWQmFHenVEdVAydm5OQkZXMmVfUnNjX0x3QjA0ZjVTTHd3TFJJTGR3SEZXSkE?oc=5",
+              "source": "MLB.com"
+            },
+            {
+              "title": "2nd half becomes 2nd wind for GCU win - Grand Canyon University Athletics",
+              "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeDhhVUg5bE55THZwdzhBUFFicHFmSUt2eU4tSG13ZW5Xd3ozWWRibTdBMlp1V2VhZFJyS25VZ0pOT3FQb1JWMDhiTC1XN2FRRmJmaDkzY0RfN0xlQzB0VVRiUHlhdVNjZEoyMDlaVFg0dk1pN0MxVWFhZENuMXV6VzZvSTFnY01XSFZYclRPRVhULWJmSEE?oc=5",
+              "source": "Grand Canyon University Athletics"
+            },
+            {
+              "title": "Panther men’s basketball comeback falls short in loss to SIU - UNI Athletics",
+              "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWU42MzVHcmdBNGM0Vms0VzdvUXdTb3hITDlmTjB5ODFtdkt6MDJYTERXOFBibU5SYnhybnNtQUpQZFB4YUo3OVR0d2NQNFlTTlNQTGdicWVnM3hWdW5uQThlTE5qVUlvb01YLWhhZTlaVHFJSG1iby1fZUJ4bnY2dXdhdEFOWmREbnpiNkl1VFl5U0JMLVVsVkxpcVJhbk5tb3diZkRGN2YtVnZQakYtX3FWeEE?oc=5",
+              "source": "UNI Athletics"
+            },
+            {
+              "title": "Swimming & Diving Finishes Fourth Overall at American Conference Championship - FIU Athletics",
+              "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPell6YW1QV3N3R1ZtYUJCYTZ2amFFOUFMNHhqTUxjVFJ5eHJBX2dhRDA1OW1sZHZaUVk0cDJqNEljb1c1c25WLXVNRS1MQjAyNEQzRHJIS19uWjh5Tm1MdEtkeWMwbjBJdWpEazhLdFBDVXFka3dvODdLYW95WUpHMjZEMWpzT1JObHk5dWhxWjl1RUJmVXJ2MHRNR25xa0JlamM5dzc5RENyWFBvaDhuZmswNVJpSFd2dERnNjNiVWNYdnVHWEZISWRndkFaM3JVbEtQTw?oc=5",
+              "source": "FIU Athletics"
+            },
+            {
+              "title": "Rams Fend Off Cowgirls in Laramie - Colorado State Athletics",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNckE3Q1MxZ3NKSkYtcXUtQ3Ixb2cyUU9iVVZ6T2k5V3o4NFQ0TEtDczZ4ZzhybW1Gb0pCTWpma29DWEFvd096Wm0weDdZOGoteW84b2xJeU9NTFlzelB0dm5MZGtJS2FqbXUzMXBrME92enhLck9Qa3h1b2ltNEhndzdqQW42NDk1LWVDSjBUUQ?oc=5",
+              "source": "Colorado State Athletics"
+            }
+          ]
+        },
+        "technology": {
+          "summary": "Child’s Play, by Sam Kriss - Harper's Magazine. The A.I. Evangelists on a Mission to Shake Up Japan - The New York Times. AI-Assisted Threat Actor Com...",
+          "links": [
+            {
+              "title": "Child’s Play, by Sam Kriss - Harper's Magazine",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaC0tNTB0ckF0Ym9DeVZBWjVPTVhqb0E4OHY5RWJwUzMwOEk0OEhSR3ZPRVg1OTZmSDBJY3g2eFBMbWpPRlpCQ2VWY1NKV3F0a0cwRXh5QWhHbUFmX3YtRHh2d1U5UENtY0ltVUgtcnl0RlJia0RpQ2lNdXNaQm5fVzFORQ?oc=5",
+              "source": "Harper's Magazine"
+            },
+            {
+              "title": "The A.I. Evangelists on a Mission to Shake Up Japan - The New York Times",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWUdjenZGczRjaHB6UG1IbnJpNF9nNkxlSHIyNDRPRTA0N2M2TzM0TzYzOF9fd1VIV0FEZkVBS1BSdDJaay1jMnZ0NmVHRVdDS3ZaaFBsejQwbzMzeFZlYjJWeUJLeWJUUlJLdGxXU1NsWGoyV05yTG9sZWt0aVJGWmhMNA?oc=5",
+              "source": "The New York Times"
+            },
+            {
+              "title": "AI-Assisted Threat Actor Compromises 600+ FortiGate Devices in 55 Countries - The Hacker News",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcXhidXZ5Vm10RHFDTmxsVHo4b3RTWkRKZkQ3YnFlN283SC00Z2h5OEVyQmFxcWdmVHExdE5LMnpxM1lkMnNJcGtmal9NRXd6VWdGRmExY3VvU3prbGt4aEZZSnNxbXhIQi02VFJKRnBPNTByZkFIbllQTU5FQ2c1Ng?oc=5",
+              "source": "The Hacker News"
+            },
+            {
+              "title": "North Hollywood Senior High School Wins 34th Annual LADWP Regional Science Bowl Competition - LADWP News",
+              "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQazc1ZUU4eTF0ZjBFdWc4NXVoV2FXRmc1U1lIUE1PUnphUUhkclA0ODd0NDZNcDdmeFA3NUZSYjBfVjMyYkdBUWFtNTJVaU5xVTdTX1ljRjN6dkRBYVdBSUduYmdfQ2E2VXZZMzJ1SEw4RG5weDNHRl8ySGhCWHhhOWp0X0Z3cUg5UUpUM0ZPeE1PdTUzeThjWEVQU094bENMVDhhX0N5R2lTdE5sNDVhNUhlYzlIbHA1Mnc?oc=5",
+              "source": "LADWP News"
+            },
+            {
+              "title": "The Artificial Intelligence (AI) Infrastructure Stock That Hyperscalers Are Fighting Over for 2026 - The Motley Fool",
+              "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMU5NY2RmSXhUS2Z2T3U2UFRKd09uaXVoN0c0LWNvWmM1YmgwQVd1bW9uX3EzN0hSQzNLcUpSazlhdm5oUmZxNlZBNEdRaC1iYUM3eS1pejBDSzVSUy1MaEp3YzVRNEdZOHFvcjAybzR5b3NURTV1bFlndnl4cUdPMjFndml5MDB1c09TQWtxdDdsUVJCYVFwNA?oc=5",
+              "source": "The Motley Fool"
+            }
+          ]
+        }
+      }
+    },
+    {
       "date": "2026-02-20",
       "title": "Olympian Eileen Gu rules the piste debated; India's AI summit draws global leaders,; Celebrate Eric Dane's Legacy with These takes the stage",
       "image": "entries/2026-02-20.svg",
