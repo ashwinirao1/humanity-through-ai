@@ -1,6 +1,164 @@
 {
   "entries": [
     {
+      "date": "2026-03-01",
+      "title": "No One's World debated; An Ohio newspaper has a new; Symphony Band Tour takes the stage",
+      "image": "entries/2026-03-01.svg",
+      "note": "entries/2026-03-01.md",
+      "topics": {
+        "politics": {
+          "summary": "No One’s World - Council on Foreign Relations. The world in 2026 - Chatham House. Is Trump reshaping the world order? - Brookings",
+          "links": [
+            {
+              "title": "No One’s World - Council on Foreign Relations",
+              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ObUhoX3lVSnlCb1dUdTNlYWJUenBCWTdGVzA4MERCNjQ3d3kxcmVfV1JHdllmVVdmdmhGTlptdHcwWmQxTzdkcV84SHZwcHQw?oc=5",
+              "source": "Council on Foreign Relations"
+            },
+            {
+              "title": "The world in 2026 - Chatham House",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQlNLMzNqM01wLUNodVVWYzdiTlpicm5mZUVPb0pPZnNCdDRjTGFZYjg3SHVEQXc2LUUzUkU1UXpnM0FoZnBpQTNKRGNlX0xTeGtWVl9acUxCbVQtbTBZZkUtcTgwYVRQdkl0N0ZYdEJCX0FlalF1dldtTTZNOFZyMmxB?oc=5",
+              "source": "Chatham House"
+            },
+            {
+              "title": "Is Trump reshaping the world order? - Brookings",
+              "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5fV2RGam5KZDVWUnNTeHpSU2JTendXcUZWLVpudnBPc0ZKNmZDUElJd1llZ2VIYUJpeFZQc3NKZGRJZ1BGOVpXOEdkSThVYjN4SFh3NzNUQnptTFdodURWLVVZVjk4Vm8xQXFwS1FmMFdRUjhURGI0LU13?oc=5",
+              "source": "Brookings"
+            },
+            {
+              "title": "\"Robert Jervis’s Contradictory Contributions to International Relations Theory\" - by CWP's Thomas J Christensen - Columbia University in the City of New York",
+              "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYTFtTFBiYVp2anNYOG1iWUQwbFJKVFg1UDd2QmxJcWxkWE0xdHRvbDV3YXNsZXlXOUVxckpCcGF5eWxYYjJNZWNnNzJsNUtEaHBCVEZHby1JdU5LSDNQcG96aUhxU0Q2cERqT0FPTmRXcWI4aDAyaDU4N05TaGRlUzRPNksxZ3hITTVtMXhaTlJjaFY5eVpqb2h6WVJMaGtsMlNac2hKV0JzRFl6Y0lwOC14Nkc5OWRRUmN6TVN1bw?oc=5",
+              "source": "Columbia University in the City of New York"
+            },
+            {
+              "title": "How Nations Use Economic Power to Shape the World Order - Yale Insights",
+              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMldMbkJhcGwtc2REOC15Q2dLZC1QTjBQSVhSN2Ztdjc5VXIyY1NWeFEyYlhmeU9LQUQzb3NOUUY3bDRPTkxhV2JUbEQ3Nl9VT2hnYXVhZURLTjJkOThhb1NRejZpUnlPN3ZKMDVkZ0d4Vl9wZW1pVWRsamdqaVZUZDZuRXVSa0tKVHNtMUdBaW11RFpwdnpyb29R?oc=5",
+              "source": "Yale Insights"
+            }
+          ]
+        },
+        "health": {
+          "summary": "Medical breakthrough helps patients avoid open heart surgery - FOX 10 Phoenix. Scientists turn methane into medicine in stunning breakthrough - Scienc...",
+          "links": [
+            {
+              "title": "Medical breakthrough helps patients avoid open heart surgery - FOX 10 Phoenix",
+              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0QVNvUmQzYUJoN09pdWtycnQ2cjkyUU1ObEZvWG4yOVJpTGltcUplR3o5akJHSlo0dkJ0dVpkUzNXLWROOEFqN0U1QkE3Mk83VWFpVnhPWndJRGt0Sl8xaHVROVA3QdIBa0FVX3lxTE9HTXFidnlPOHB1Q2wyRXM5R05YTmZpS2FCRmNZem5wOTZoNGczem9pbFRKWjVyckNDeV9kcVVLOGpnNFlkSlZucXRVNGc4UGExalFfSDlIZXNnaV8zOWJVUlJLXzVJV2lLdXhR?oc=5",
+              "source": "FOX 10 Phoenix"
+            },
+            {
+              "title": "Scientists turn methane into medicine in stunning breakthrough - ScienceDaily",
+              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82MEFfRWhOWkx5VGpnZVRSWldpeldEcm5sMUFYNW1iamxwUWVNOHJWNE84UTJ5amNPZEtwVS1xY09nNFJxV0toSE42UGNXVlY4b3J1czEwTnU3VlQ1bGlCQTBfMEVKWGo2RXJmeWFCQQ?oc=5",
+              "source": "ScienceDaily"
+            },
+            {
+              "title": "Scott Whitaker Op-Ed: Medicare must keep pace with FDA-authorized breakthrough medical technologies - AdvaMed® - Advanced Medical Technology Association®",
+              "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZFZ6WVFGVTA0UUY3b3ZWS1ZuZlJZcDNEQnhwZUFFS09uanl1MDdIaWEzYjdMc1FnVFRUaTZwVURtZ3FQZDA5c25uMVQ1OVl6WlZITGpucW5zSFZGTHRIRW5CUFg5NjdrTVU0a0R2ekdZUjJqaEZOcFhWOHlVNXEtelRvU2JsQnk0YVJUVlZXMTVOZmRvMjViUVpkbnZsQVBWTXVwRHRUM3huMEZEOGk5UU44RlJmYnBiVk1sRjJpbkQ2QkFqeDgzYWlBQUxpLU1waDA5X1VvYUduNnB0UzdGRTFOVng5a05ORGc?oc=5",
+              "source": "AdvaMed® - Advanced Medical Technology Association®"
+            },
+            {
+              "title": "Florida Trust Wealth Management sponsors Shell Point Medical Breakthrough Lecture Series - Priority Marketing",
+              "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRDdmLWpXYlYtN0tJS1RnQ01wR21aOGtwZDhUeDVFdS1kaDZva2htMkRJb2Z6SDhtY2hZeTdaTWdwRjZ3aFJjaWlUYmswdUE4NmV6c2pNdFE5c0I4LXJuUnZIMnNES0VpQ2ZNbnFTeWJVbTY1WE9iRG16MEdNbUdrWjRKSl9BZlFfd3dGeHVXWUJiMVRMWUoyRkZoRDUtemF5MDN3MU1iLWw2Vjhpd05vdWtibm9oQjAzLVgw?oc=5",
+              "source": "Priority Marketing"
+            },
+            {
+              "title": "New ranking highlights NIH’s impact on breakthrough science at Duke - Duke University School of Medicine",
+              "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTUxPX1NITllXZTk5bFdDeEo2cmJFQ2RpV1hfQWVBclltMW8wTW15V0JZRG1oSUtKSnhwYVAwdVk3RmplNmIxUURzT2ZXTnBhQlhITGczckZRdlNZU1NfZzkyVmJJYm0wNzc4dHB4RDFFZFItTW5NXzRmbkxmaHVOajdjejJZeUFaQk94TFhDd3RPVVlKVE5R?oc=5",
+              "source": "Duke University School of Medicine"
+            }
+          ]
+        },
+        "entertainment": {
+          "summary": "Symphony Band Tour — Michigan Arts - University of Michigan Arts. Opinion | Music, at Least, Doesn’t Lie - The New York Times. Best Movies Streaming i...",
+          "links": [
+            {
+              "title": "Symphony Band Tour — Michigan Arts - University of Michigan Arts",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1NRF9NVjYzMFg3N1dXcFdaUkNiNHpOSU5Ob1pZR1pvZ1lRRkRvRmlTNkUwZFlWSlRoaVo2elVLUVJUNmJVdEhrQm5jcWNadFBzaWc?oc=5",
+              "source": "University of Michigan Arts"
+            },
+            {
+              "title": "Opinion | Music, at Least, Doesn’t Lie - The New York Times",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZHQxb2ZkTlY3UlFybkZFREdTNGlJaVZzS2RZVjJhUmJsa1Y4V1FxTzBJNGVmZF90bWdPaGY1TDk3bXFwNEYxWlg2VDhLeE40clhtR09jQ2dIclN2SjNkMXhpWFdQOXlMRFJma2FESUZ6YzlDRlNCRk1RamlXazlpVA?oc=5",
+              "source": "The New York Times"
+            },
+            {
+              "title": "Best Movies Streaming in March 2026: Wicked For Good, Peaky Blinders - Variety",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE55eThUT0J3dmplbHlIaVl5MUphVE1WXzE2QUl3M0FJVFJSblhaMG9xY1JoNlNScU1oOUxCYTlIR2YxU1RuYXZ2LW9GR1lrZEhDYzlQS2JOUXFDZS1jcV9sVzNtbkxqU3duUjBV?oc=5",
+              "source": "Variety"
+            },
+            {
+              "title": "Huskers win six awards in BEA Festival of Media Arts - Nebraska Today",
+              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORjVNMVV6d3k1WnNOU01hR0tKVFNfc1A0ZHl3eWR6cENPMVh5bDNHR2o4cFJQZ0hlTWE4dXhIVHExdUY1NldMdUNKV1VmZ2tmdm1tWGFnclNDM08yNTVDLXVnSEVTSXMtSWUxUlNJYV81akJrNXVMOWF2ZHhWQmZ6YklNcnNNT29D?oc=5",
+              "source": "Nebraska Today"
+            },
+            {
+              "title": "OPINION | A liberal arts education is the antidote to AI brainrot - The Tulane Hullabaloo",
+              "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaTVkNXJzVnZBeUFvZUM5MElLMGRhNE8wN0pVRVh4NTJKMWdzMTUtZzdMbXJaUXNVOWp5bUlwZ2NMTGNFRWVhZFpVZ2dhM09iajRLM3g0eWNPYVNoRTRVZ2h5amhETVY3UnBxZG92cnF1MlZQSVF5dnBsUlFSS2pBbGVVcHZKVjI2LXJXc0xVVG5hRFRyLTg1c2hGSGtkd2x3bzJMSnZVOTJBOUp5anR2Zl9PQQ?oc=5",
+              "source": "The Tulane Hullabaloo"
+            }
+          ]
+        },
+        "sports": {
+          "summary": "Watch - NBC Sports. Bonke, Bradford’s Big Games Can’t Hold Onto Charlotte Lead - Charlotte Athletics - Charlotte Athletics. Tigers Finish Sixth at GAR...",
+          "links": [
+            {
+              "title": "Watch - NBC Sports",
+              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE0yY0pMRnFNOGpEQ2pQaG5sU3Y1NnhYMXNyRjhaMFU3NmlwVEh4dkF0QTR2a0IyYm12bXVhUEtmWGJSeG5va2c?oc=5",
+              "source": "NBC Sports"
+            },
+            {
+              "title": "Bonke, Bradford’s Big Games Can’t Hold Onto Charlotte Lead - Charlotte Athletics - Charlotte Athletics",
+              "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa1NId1dHZDA2OXo1VHoySW5VQTg5RG1jZzQzYndFUVNNN21BWmlNVkJXYThMWUxTbjlNclVzSU9BODU5ZTZFVlNhMDFpVTU4dTJ0Z0wxUFNzdG9CR25sd3lUU2tpdGg0bE1NSGowUGlUUzNUMXk1azlVeWZNNTZxczRPZ0tGSDZ5bF9OaUc5bHpQVV93YkNkTk9UYlVGUVBmN1l3cW81R1ZyZF9MemhXY25iMA?oc=5",
+              "source": "Charlotte Athletics"
+            },
+            {
+              "title": "Tigers Finish Sixth at GARC Championships - University of Memphis Athletics",
+              "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQVAwTnhfYXphMDRmWHdvb1FkeDJiLThCNF9Yd0hPcE9XRUFCTUYxT2pPZVhIV3dKSEpPS0cwVWMwcXl2LXFyM2h2TndtOG9GeEVVVHVlbVlsZUpWaFc1Y3JpVEZwdzVzMzhWZFFza3o4RFFKbEROYjMwV1JuaU80Q1VLek1HOVJIYVYtbw?oc=5",
+              "source": "University of Memphis Athletics"
+            },
+            {
+              "title": "WBB Holds Off Friars In 69-65 Road Win - Marquette University Athletics",
+              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSXBoSzZwNXJOQVdXb0FlYmV5dUExdnkyd1FrX0ZiS204X0tncEYtTkJmS0NqOUZLRFdSTGw0ZG5NbmR6Um5SM0VzVkxkNmVfSG9FVk45M3paRXB3S25pS04tWmdHTnJkTFZvZld5N0JfdWQtOUVBc2FCeF90enAwRndHNjBDYlk1Q001c0ZzZGUySkRQaTVnV0hR?oc=5",
+              "source": "Marquette University Athletics"
+            },
+            {
+              "title": "Strong Performances Help Gymnastics Top SUNY Cortland - Brown University Athletics",
+              "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMjZHbmpkVDlITUtGVmszMHV3dGR1OXo1MGdxZG1wT3AwM3k5czRmZ3ZabHhzcl9SY3FOZmhiS28yT2lqTWxLNVR3cVliQ0V0VzlWYlNxLUF6LWE3N3pNRWJJRHE4bVY4ckMwdExERDdIRGc0TzkwalJjb2JrUjJWbERGai1SU1NETjhtdklHbWtlTi01OTZ1UHFDVVAwbmxnNDFOQllFVURYd1Et?oc=5",
+              "source": "Brown University Athletics"
+            }
+          ]
+        },
+        "technology": {
+          "summary": "An Ohio newspaper has a new star writer. It isn’t human. - The Washington Post. Astronomy Picture of the Day - NASA (.gov). China’s AI Arsenal - Forei...",
+          "links": [
+            {
+              "title": "An Ohio newspaper has a new star writer. It isn’t human. - The Washington Post",
+              "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMkdULTBIamVJVTlMZWc5VXBRNlJ3YWd0WkhQQmxuZnlMVFdLdkdNNDAyRTRTd0FqS1dQVGZYM29OVlV5d0RZUUJLMkhBX1hZOWpSRFlBSi1BVTRoYWNNcm1nRm1MblBoeEtxMVBWckEtMGZnUGNwVnNfMkVuRzVBWW91VmxzQVItX3RxRXNkZ2VMdWZnQVlIekJFQmhxYTg?oc=5",
+              "source": "The Washington Post"
+            },
+            {
+              "title": "Astronomy Picture of the Day - NASA (.gov)",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUd1FseWNRN0Q4T2xjNHEzZThtRnlSeEZhY0tIU3FzNlVLRW1maTZtTGo0c3BBRHdSUmRzRTVPQzlTdFk2MllpZXFodnJtNlVSakE?oc=5",
+              "source": "NASA (.gov)"
+            },
+            {
+              "title": "China’s AI Arsenal - Foreign Affairs",
+              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAxc2gwZUh5WTNxc2IxMXpLQ08yd2JiQkttVUd1TjVlMUJfMGNvbXh1LU9lU3kxa0dMR1djUTZuM1dDQXI2X0lPX1JBbzNOUDRuYVNYWENTQktTaDA2emNCQko3Z1c?oc=5",
+              "source": "Foreign Affairs"
+            },
+            {
+              "title": "The Pentagon strongarmed AI firms before Iran strikes – in dark news for the future of ‘ethical AI’ - The Conversation",
+              "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOV2xyN1RYc1Z0aW9rVmh5aDNkeU44YW9nNEplaHI4eXhNZTZCNWR6ZkE3N00zdXdZdlVFeWl3Q3NKVDJfS0F3bzJ6X1kyQmdYX2dkcmc3dVZFVEFtd216UHVfTTFZeUFHZUZKazFCdHNDMzFmMVpod2JfRGptcWxNc1o4eGVua3JsWXR3dEFHLXZETUdQbGllTTUzMUVFY0ViZXhCckJNRlJVdGo1bnFBZ0d1TTllQ1UzeDN5MC14UU5rNEFsckZZNW1B?oc=5",
+              "source": "The Conversation"
+            },
+            {
+              "title": "'Silent failure at scale': The AI risk that can tip the business world into disorder - CNBC",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeVBtV1JXSjBRa3hVNEZjRWZVc3M5Mnc5V2QwMC1rV29nZHpGNnJ5cERzeWc3U0pnTU5DZ0g2THlxQkJoUUV1dkgtdk1UQ3lFWl9jQlAxSDBzb1QtSlQ2V1hmc1pBT2o0S2M5WktrVUEwckRla0U3eklKWGt4OVJnRmE1WERwbVZDQ2VsaVAzc9IBlAFBVV95cUxPSlY3MmR0MHAtTEhXU1RNZl91SEhUWndGcmw1UnpoTm5lNFRXZ0NRUXMtV2hIMUtDdG5DYjg2RjNBaHNBdTRIMnhRbDNQSHNoRXU0Z3d2ZDVJa2NEUnpCa3JiVVV0dTExQllZVXZmQzR1NTZJUVZfemFOVWo1b3JlUktDWTJJWU9nVXhHaGVZNFZYd3FX?oc=5",
+              "source": "CNBC"
+            }
+          ]
+        }
+      }
+    },
+    {
       "date": "2026-02-28",
       "title": "How Would Iran Respond to a debated; The Week the Dreaded AI Jobs; Diya Vij Is New York's Next takes the stage",
       "image": "entries/2026-02-28.svg",
