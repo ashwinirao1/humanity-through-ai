@@ -1,6 +1,164 @@
 {
   "entries": [
     {
+      "date": "2026-03-02",
+      "title": "The world in 2026 debated; OpenAI Amends A.I. Deal With the; DC Theater Arts is doubling down takes the stage",
+      "image": "entries/2026-03-02.svg",
+      "note": "entries/2026-03-02.md",
+      "topics": {
+        "politics": {
+          "summary": "The world in 2026 - Chatham House. Is Trump reshaping the world order? - Brookings. The future of world order - Engelsberg Ideas",
+          "links": [
+            {
+              "title": "The world in 2026 - Chatham House",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQlNLMzNqM01wLUNodVVWYzdiTlpicm5mZUVPb0pPZnNCdDRjTGFZYjg3SHVEQXc2LUUzUkU1UXpnM0FoZnBpQTNKRGNlX0xTeGtWVl9acUxCbVQtbTBZZkUtcTgwYVRQdkl0N0ZYdEJCX0FlalF1dldtTTZNOFZyMmxB?oc=5",
+              "source": "Chatham House"
+            },
+            {
+              "title": "Is Trump reshaping the world order? - Brookings",
+              "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5fV2RGam5KZDVWUnNTeHpSU2JTendXcUZWLVpudnBPc0ZKNmZDUElJd1llZ2VIYUJpeFZQc3NKZGRJZ1BGOVpXOEdkSThVYjN4SFh3NzNUQnptTFdodURWLVVZVjk4Vm8xQXFwS1FmMFdRUjhURGI0LU13?oc=5",
+              "source": "Brookings"
+            },
+            {
+              "title": "The future of world order - Engelsberg Ideas",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TczJEMHBDUUswSW5HMzBMZC1KSXduZzJBVVplN3VQWFZnN1FqMm9iYTc5alpNajM0Q0gySUJEdDRRR3Q1OGhBVVU0SGx1SjdJQllGU1VGRTY4bDZ2OVFYRTI4OVFaM3FnUGdSdFF3?oc=5",
+              "source": "Engelsberg Ideas"
+            },
+            {
+              "title": "Coalition | Politics, International Relations & Benefits - Britannica",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1PaXplR1R2cVNzZERMN0dHWnNRTDlDYmYxVWJSdS1PU0oxVklrWjBPck1qRUFXWHd2blduWXoybG9wdTZNOU1EcGRpOXlXWXF1RFIyaQ?oc=5",
+              "source": "Britannica"
+            },
+            {
+              "title": "How to Avert the Tragedy of Great-Power Politics - Foreign Affairs",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVTVGOGtCemJVRzRFSU4zQ1M3M2RVdTI1YkdYMnh0VWhWamdUWmN4RjNtZ2hKS2VuMlM4RGdRcGJKVllwdWY3eVJhRno3ZFRJMmVMOEQ3TDdvZUtLLXItVm9SMVZweTgwMmNEV3I4Vjh4WDNmdk53M2lRUEMxTHJmaE5n?oc=5",
+              "source": "Foreign Affairs"
+            }
+          ]
+        },
+        "health": {
+          "summary": "Scientists turn methane into medicine in stunning breakthrough - ScienceDaily. Business Buzz: Denver’s AI prenatal breakthrough and Colorado’s return ...",
+          "links": [
+            {
+              "title": "Scientists turn methane into medicine in stunning breakthrough - ScienceDaily",
+              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82MEFfRWhOWkx5VGpnZVRSWldpeldEcm5sMUFYNW1iamxwUWVNOHJWNE84UTJ5amNPZEtwVS1xY09nNFJxV0toSE42UGNXVlY4b3J1czEwTnU3VlQ1bGlCQTBfMEVKWGo2RXJmeWFCQQ?oc=5",
+              "source": "ScienceDaily"
+            },
+            {
+              "title": "Business Buzz: Denver’s AI prenatal breakthrough and Colorado’s return to the moon - 9News",
+              "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVW5IcGQ0NGZMTUNESnRVUXNDOTh6bUxzcUZRSU1HOENaaFlnQ0YxQ01xQUZiX2s1aE1uaVdhbzVOY0xPVjNsOWFNVnZkakVDLVpGRGxuYlMwSHFuV1dvX3Z0NkJoOVM0ZE45allDajBqeENaVU5feWxtTjhEQUQ2NVRpNWVpX08xNXVvb2JBWFRBQjA0WmNsQTVTMWFXUVlpZmI0Zlg0SlE4a3RxN3RSY2Q3YmNFUHdDZHJJTTZ1aEQ0OUktVW1hWW9LS25VQ09JWkRZOTNYNVFkMG01UVE?oc=5",
+              "source": "9News"
+            },
+            {
+              "title": "Orthonika wins FDA breakthrough designation for total meniscus replacement implant - Medical Economics",
+              "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcmNwUkhWRkI3amFwOFdLYnUxLTdUVWZ1dEZSNGFrTnFpRHZMNElFVWgtODZrdVlrQlBZYW1kbEZvNGJRMHNyYW1oRDdRQjJMOXd0QVBVekItNVMwTFVyRGdOeFlIaVVYOG5yNXlocFc4OGZrSzVBS1k1bXZieG1Kc3JCQzhCRC1TTTVxM1VlZlN3Qy1OUUJ3RW5lakhMSlhtc0RHaUFWUWtIVFNWQWFIdEVJcjRQVDA2SU5oTg?oc=5",
+              "source": "Medical Economics"
+            },
+            {
+              "title": "Medical breakthrough helps patients avoid open heart surgery - FOX 10 Phoenix",
+              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0QVNvUmQzYUJoN09pdWtycnQ2cjkyUU1ObEZvWG4yOVJpTGltcUplR3o5akJHSlo0dkJ0dVpkUzNXLWROOEFqN0U1QkE3Mk83VWFpVnhPWndJRGt0Sl8xaHVROVA3QdIBa0FVX3lxTE9HTXFidnlPOHB1Q2wyRXM5R05YTmZpS2FCRmNZem5wOTZoNGczem9pbFRKWjVyckNDeV9kcVVLOGpnNFlkSlZucXRVNGc4UGExalFfSDlIZXNnaV8zOWJVUlJLXzVJV2lLdXhR?oc=5",
+              "source": "FOX 10 Phoenix"
+            },
+            {
+              "title": "Scott Whitaker Op-Ed: Medicare must keep pace with FDA-authorized breakthrough medical technologies - AdvaMed® - Advanced Medical Technology Association®",
+              "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZFZ6WVFGVTA0UUY3b3ZWS1ZuZlJZcDNEQnhwZUFFS09uanl1MDdIaWEzYjdMc1FnVFRUaTZwVURtZ3FQZDA5c25uMVQ1OVl6WlZITGpucW5zSFZGTHRIRW5CUFg5NjdrTVU0a0R2ekdZUjJqaEZOcFhWOHlVNXEtelRvU2JsQnk0YVJUVlZXMTVOZmRvMjViUVpkbnZsQVBWTXVwRHRUM3huMEZEOGk5UU44RlJmYnBiVk1sRjJpbkQ2QkFqeDgzYWlBQUxpLU1waDA5X1VvYUduNnB0UzdGRTFOVng5a05ORGc?oc=5",
+              "source": "AdvaMed® - Advanced Medical Technology Association®"
+            }
+          ]
+        },
+        "entertainment": {
+          "summary": "DC Theater Arts is doubling down on local theater - DC Theater Arts. The Last Word: Art & Culture - comomag.com. COLUMN: Monthly music discoveries: Mi...",
+          "links": [
+            {
+              "title": "DC Theater Arts is doubling down on local theater - DC Theater Arts",
+              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRWVhWWlRQWc5b2pXcEhkcDk3VU1ZdGZVNlBCUVlvMkVQTmhOOWtsNVVscmI5aVlYc1A3RXlQMVA1dThUOFdXWGpqUjV5cWhEUWYybG52SldZR0g0TFBRQTMzZzJtUjVkS1RwUWYtMmxEdUVtRnREbkg1UGNQa2J5RXpfTEhjRS1TLUZpOWdlbmY?oc=5",
+              "source": "DC Theater Arts"
+            },
+            {
+              "title": "The Last Word: Art & Culture - comomag.com",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yTWJ1Z3gyTTdPZ0xLYkVtTGs5LWRla25VbFQxX2FOYkdnVzlNakNqc0RMR2MzdVhWcDJoRkJNejc5VVgwM213VnAtc3Y3X3lfR2JIUVpvM1dMcGc5TmdOb19qSGN1WmFk?oc=5",
+              "source": "comomag.com"
+            },
+            {
+              "title": "COLUMN: Monthly music discoveries: Mitski returns and more in February - Indiana Daily Student",
+              "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeGRCYUtXcWpsTDE4eXhmU2pzS3NjQVpaeXY2RFQ1S2I5c0FPajNJRVpYSTZMUzFMQ0doN2hYcHZubGg4Q3dwN0lYZ01mVkYweXVXcDFIMHdHRzB4YWZKX1liczJ4UV9ZcGx1OXU2ZDBtOG1UeVQ0WU5tZEdHbUY2Q0xZXzlkUVVGenJTbWxMR1JTam53M1hmRjNGY0pMd2F5X0tN?oc=5",
+              "source": "Indiana Daily Student"
+            },
+            {
+              "title": "Watch 11 Actor Awards Winners’ Movies and Series on Netflix - Netflix",
+              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeDZ2dWhnVFVXeUJObTV5aXozbC1nVEc1OW1hZ3RLN0oxSmttVzlrRzJkcnMtMC1DbklrWTNLaHVxemZMeVhOY0FmcThGRWJHb1ZNVDc3REhwQlVpS2hRRFFWazhWTEhJZmNpSkhaZ3ltSWkwNHZRdm9DTHVtdXg3X3ZRd28?oc=5",
+              "source": "Netflix"
+            },
+            {
+              "title": "Four Faculty Receive Chancellor’s Arts Initiative Grants - The UCLA Herb Alpert School of Music",
+              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQjRMRnVVdEI2T0lMY0Z6dFVxTGVNYXZZZ0JoUWVtbzY1eHlVc3kzb3lTelJpUFFiYWlZb1htMUZkS1AxSVdYbVNFR1R0bmdUaGU1TWE2UjVJY29TSVNTMWdtYmZDemtSdHg0QWEydXZHLUVtVGd3UGVDU2cyQnVpVjB6R2JmdDMtZEVZYVU2MFk?oc=5",
+              "source": "The UCLA Herb Alpert School of Music"
+            }
+          ]
+        },
+        "sports": {
+          "summary": "Another injury hits Lopes before final road game - Grand Canyon University Athletics. ECAC Announces 2026 DIII Men's Basketball Championship Field - E...",
+          "links": [
+            {
+              "title": "Another injury hits Lopes before final road game - Grand Canyon University Athletics",
+              "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTml6aVZNZzljZFdXWmR0TUd5UGU1S2sxS2Y1SGpQWkg3bnlOdFp1R3EyaWttalNfblNMWmdQVjdUMnNJTzFFOXh6dnNmVFRTa0g5TXIyYUd5WnNjWTFQREtUT05US3ZtSEdvZWU0Y19XWU1SWmFCeUlTbkJMZTZvM0ZialV5MExpWVlyMF9kc1FwVVlMNm51WUJ1bERlRlE?oc=5",
+              "source": "Grand Canyon University Athletics"
+            },
+            {
+              "title": "ECAC Announces 2026 DIII Men's Basketball Championship Field - Eastern College Athletic Conference",
+              "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZjU5RlRlME1ZMVJSWUF2VGQ1dExVSjVQdGhXNjgwNVVrdlZjU1FTWC1OODNsdUFnOU1lZzJ6VGxoM3E0TGFVM3pfU09sMHZwaHRncmRDMjR2aU53MWJxV3FFOE9OckROU1pNRzBEZnE1Nmt5TWJQUlZ4X0lETDNzUEJPaXgxUk9SWTFhdnhsNE9VaURTa0xZd2IyaGxGZ2NDamRn?oc=5",
+              "source": "Eastern College Athletic Conference"
+            },
+            {
+              "title": "Panthers Denied in Horizon League Championship Play-In Matchup vs. Detroit Mercy - Milwaukee Athletics",
+              "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNckdqekdXM2lwc0FqUWVldWVxZGc2Tmxaa3FHZGk0dUFyaG5tWUtUbzM1X1Rud29QelUxV0wyNWJpamhfSk85Q29vZnhMMl92Q1JtSFFWZ2JGN05ybWEyRXg5MmplQlFCUHE3UjF6bHN1UmV3UDV2NXZBbGh3eFlSSm10RmtGOTg3akU5Q3hVeEVJdGlvRUpRV25iWnhtSGpQNWg0UVhpVXRGYXN3TnRQLXJEWlBIYk1DbVpFYjlXeGRYa2t1NEo4VmFNV2RDVzBWNjVtVEtqMA?oc=5",
+              "source": "Milwaukee Athletics"
+            },
+            {
+              "title": "Track Breaks Three Program Records at MPSF Indoor Championships - Pepperdine University Athletics",
+              "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOV2dFeURJdEZNR1lCTHpkUlBXYlRPV1lxeFhEZEh2cnFubElXcEl0UnE2cTR5RVdsZ1NDVEhHazVkazZqc3FiWUw1QTZXTGc2ZXlVeTJnUFF3dWdKM1N2ZTc1TzZiX3paRXpGRmVTeHJZaGRaV3I3OXdsOEJXUU96algwZnZxQ0Y1MkstZGFJQTFhVkx3ZGo5b3lMdzY0VkoxUmtIOXhKV0tMa3RLMlVv?oc=5",
+              "source": "Pepperdine University Athletics"
+            },
+            {
+              "title": "2026 SEC Women's Basketball Tournament - Southeastern Conference",
+              "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE82WW9pcUxMNzFidmtSRmlmeFFCbXg1TUJyaV9uTEw3bGotQ0hlSmd6emhrSlVBaDVRVGxKc3JNb2wydzBqV2prN0hya0dUMmVwb1F3Z3E3WTg4RExfSll6eUVhZWRrUFZCVzdIT3F1M2k2Uk9MQ21ZRUZB?oc=5",
+              "source": "Southeastern Conference"
+            }
+          ]
+        },
+        "technology": {
+          "summary": "OpenAI Amends A.I. Deal With the Pentagon - The New York Times. How AI Damages Work Relationships—and Where It Can Actually Help - Harvard Business Re...",
+          "links": [
+            {
+              "title": "OpenAI Amends A.I. Deal With the Pentagon - The New York Times",
+              "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeDVMNTJXaVByX0JweFhJdktEN1VRT2libmV4TU80TGlKbVpuVGoyb2N6RGk2QnBSN1ZGWGRMWE9sTGM0eC1QWDBLSXBQLXRWUG56NXNGZUV6Zm5acGJ2b1NPVUt2eWdIYkdqWUdPYWp0ZjctWm1Dbnd4Rm56VHRYdmQ4dFFxUXh2VkY5ZFNUNXRpWFlsal84?oc=5",
+              "source": "The New York Times"
+            },
+            {
+              "title": "How AI Damages Work Relationships—and Where It Can Actually Help - Harvard Business Review",
+              "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU0x1enNLWXdGdm00bnIyMTZ4aklTV2VtRy1icGQtVkNwamhPWEVYUUJlWUltWUFNTFhwY1BhZXFCS1A1ejFqOVRmUGZmblZ0VjlIRktSU21Tc2VaRnJ6OUNlWHpNUFFsRU9jbi1sbWMxNWhqWmRCMW9rb1c0QmZJeTZfYzZ4SG5xazRGS2daa3BpZw?oc=5",
+              "source": "Harvard Business Review"
+            },
+            {
+              "title": "Exclusive | Startup Making AI Chips More Power-Efficient Raises $500 Million - WSJ",
+              "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxOY21rS0FxaG5zYXprSjg0NFQ0dU13TThKeVVPb2pabG5KYWFvQ3pjSE5VdHkwWFNKZHA0WGxhWXVXRkZ0RWc0eUljQTF2Q1Vra0c4ZktTOWRtT283ZGg4V3ZLa3Z2UDhzd3ozWWlkZWdFVkMtSHV4WG1TakF6cldDRE9xUHZQdmRxQjBWTUt0bVljd1phNEZ5Sk0wQWZmVGVEeHRJVzNTTXM5bVloZTRpc29UcEtsNXNpWms1VVhEaWxmWU5pNlo4N3NieTRsaXgyWWFMVFVPV3JELVBFUG9pRXk3dm9qR18xTGE1ck91aWtyZ0tBRUNRYjRSUVlZcGZhVExHeGJFRFBweXNWbXY0SDdNemRrMXF3SzFibXBCYUs4VGp5QWxHWlgwM1M5NXpEQThCV01NTWtBS3p6YzMwcmhqdU9Ia3Itekt5U3JKQkx2UzluU2dYZzFLdE1rc1BqWW91WEpLeWJSZGFHRnlQVFBGbzRucVhIQVM5Y1hkd09MTE03VUU3cXA3UE11a0QyMUgwMUNBQXdhZC1qbFZqR3RfQQ?oc=5",
+              "source": "WSJ"
+            },
+            {
+              "title": "Vietnam implements sweeping AI law - Jurist.org",
+              "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBXYlRENUcwWjBWZS04SEhxR1hzYno4cnhKNEk1Y0ZRS3BvZ2swXzUtSDhxRldUc0N3WUhjY2lGR2pZQU1sRGZ6b2xwRC1obE9GQldXcnZ6NzdiWGx3d29CWHliVG51VUp4RDUwX1FWc2hRa3A0UWhib1NaNA?oc=5",
+              "source": "Jurist.org"
+            },
+            {
+              "title": "Scoop: OpenAI, Pentagon add more surveillance protections to AI deal - Axios",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8yV1ZHcnI0N3VJc1hlU1RURWdmNFJ5eGUwcFd3dEg0ZWwxc3MtTXlZN184TGJoNDBiUXVmY1p1emZlRnFmTXJmWFJGR0E0aU04VTlqWmxzbkZGbjlUOVY4aG9FUzVzUUZzN1lhYTVLemVIZw?oc=5",
+              "source": "Axios"
+            }
+          ]
+        }
+      }
+    },
+    {
       "date": "2026-03-01",
       "title": "No One's World debated; An Ohio newspaper has a new; Symphony Band Tour takes the stage",
       "image": "entries/2026-03-01.svg",
