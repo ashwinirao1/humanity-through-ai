@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" style="background: linear-gradient(135deg, #4B008222 0%, #8B451322 100%);">
+  <defs>
+    <filter id="blur">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="2" />
+    </filter>
+  </defs>
+  <rect width="100%" height="100%" fill="#0a0a0a" opacity="0.4"/>
+  <rect x="517" y="109" width="385" height="291" fill="#8B4513" opacity="0.6004808951393213" transform="rotate(9 709 254)"/>
+<rect x="827" y="257" width="413" height="394" fill="#8B4513" opacity="0.30328295349551354" transform="rotate(18 1033 454)"/>
+<circle cx="573" cy="327" r="229" fill="#8B4513" opacity="0.30757491918965807"/>
+<rect x="-29" y="-21" width="584" height="249" fill="#4B0082" opacity="0.5220538243032502" transform="rotate(16 263 103)"/>
+<circle cx="745" cy="229" r="241" fill="#FF8C00" opacity="0.7163724422218023"/>
+<ellipse cx="223" cy="252" rx="101" ry="183" fill="#4B0082" opacity="0.6622477013640395"/>
+<circle cx="298" cy="240" r="55" fill="#4B0082" opacity="0.4080476620363808"/>
+  <rect width="100%" height="100%" fill="url(#overlay)" opacity="0.1"/>
+</svg>
