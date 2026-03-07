@@ -1,6 +1,134 @@
 {
   "entries": [
     {
+      "date": "2026-03-06",
+      "title": "Coalition debated; Netflix acquires Ben Affleck's AI company; Why Is Fitness-Class Music So Terrible? takes the stage",
+      "image": "entries/2026-03-06.svg",
+      "note": "entries/2026-03-06.md",
+      "topics": {
+        "politics": {
+          "summary": "Coalition | Politics, International Relations & Benefits - Britannica. Dispatch From Davos: The Geopolitics of the New Realism - Council on Foreign Re...",
+          "links": [
+            {
+              "title": "Coalition | Politics, International Relations & Benefits - Britannica",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1PaXplR1R2cVNzZERMN0dHWnNRTDlDYmYxVWJSdS1PU0oxVklrWjBPck1qRUFXWHd2blduWXoybG9wdTZNOU1EcGRpOXlXWXF1RFIyaQ?oc=5",
+              "source": "Britannica"
+            },
+            {
+              "title": "Dispatch From Davos: The Geopolitics of the New Realism - Council on Foreign Relations",
+              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN0Y2bWFRcGxhMkRTT0dpOXBvbEp5Ny1tRXZKUlczME4wU0k2QzBqZktlVS1fUEJVUlprV1V2TFJYbVAyM29Ib3pWYjF0V1JYTzBvX0dPQnYzajdDb3pjemNHUWNFRlo5X3BySkNRLUlFUVdrRWxLVGNieFZJRDdWbVQ0YzVkWmthNERN?oc=5",
+              "source": "Council on Foreign Relations"
+            },
+            {
+              "title": "The world in 2026 - Chatham House",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQlNLMzNqM01wLUNodVVWYzdiTlpicm5mZUVPb0pPZnNCdDRjTGFZYjg3SHVEQXc2LUUzUkU1UXpnM0FoZnBpQTNKRGNlX0xTeGtWVl9acUxCbVQtbTBZZkUtcTgwYVRQdkl0N0ZYdEJCX0FlalF1dldtTTZNOFZyMmxB?oc=5",
+              "source": "Chatham House"
+            },
+            {
+              "title": "A World Without Rules - Foreign Affairs",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9uMFhYTFNnZndqMUM4Y2tFeUJSbGppMlJXNlJTNlFqSWdtNkdNSUdweWVza3BpUEljQWYzdjJCNGtnV29CVWFaVnNFMlk0a1YyM21ud09uci10YTBmSUF4dFFLSHlvaXo3X0pCTUtKdXVzUQ?oc=5",
+              "source": "Foreign Affairs"
+            },
+            {
+              "title": "Between Capitalism and the State-System - Phenomenal World",
+              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbFZGSFRqWjItbFdIZkpRZUg2a3dYUWpmWHd4Z3UxbVpPbGczd0dUYU95WUJHNkI2Uy1FaThpVHJqUnlBbElCdEZ3ODR6NUxoUFU5WUFnODNDWEhWTTh5V29lSS1RNjJ4VlpNWW5reDVtaF9ob0tvb1EybDJPeFRKN1B5MmpqNjRo?oc=5",
+              "source": "Phenomenal World"
+            }
+          ]
+        },
+        "entertainment": {
+          "summary": "Why Is Fitness-Class Music So Terrible? - GQ. The 7 Best New Movies Streaming on Netflix in March 2026 - IndieWire. Here's where you can watch this ye...",
+          "links": [
+            {
+              "title": "Why Is Fitness-Class Music So Terrible? - GQ",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Mdm1mUDJGUV9CU2J6c00ydXM5eWZHdGpNcUJUV2tzUU1lcFR6RU5Gbkg4ckkwNllGZG1UZmVLZVVPRkFDTXNzTllScldKcl9FQkRVRjIyN3ZqOVhSUGZzU1B6V3RlS3BlT3ZydG5VR1E?oc=5",
+              "source": "GQ"
+            },
+            {
+              "title": "The 7 Best New Movies Streaming on Netflix in March 2026 - IndieWire",
+              "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRTIwSmkySV9UeHZMUEYyRFpHbTBnbUMwV3NBSHB3RXpkazlqaFFQN1NWUUpxZHR2NndyWklIZUtSXzFmd2xjREtfMDcwZEdCWjM5b05USzJ2ZnA0TUZqaHQyM0d0SlAxUVVySklHSm1NN21IS2FIeUd2MjhFeV8xVGtxUThGUQ?oc=5",
+              "source": "IndieWire"
+            },
+            {
+              "title": "Here's where you can watch this year's Oscar-nominated movies at home - USA Today",
+              "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOR3FTbXBWRzJGVWVEaDQ3T3o4ODJoREZ6bUdDZUFpOHBhd21GaEFtNU1DS0ZSUjV5ZGVoek5XbUl4NkcwVG5IbUM0Zk5ZaEhWN1hmNTdVVXA3QWpiZl80NGc0cWxGVFFRd0hoX0xPZ3AyMG5fRV9kN3AxYlBmRzlIb0Q4QnExUjdiMlpBYXgydXNkYnVsZDRUb0dmV0RLcDVoNlYxRmtlVGNoYkxOODl5cnh1ZjRmRzBHa1I1bjZ3eWoxVVk?oc=5",
+              "source": "USA Today"
+            },
+            {
+              "title": "ARTS: “Men on Boats” Recasts American History (Literally!) - Minnesota Women's Press",
+              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOHA0cWZOc2Vxd2QyOUtPZTd0Z1U0STl0dUF2cEt4Wng3a1ZNU2RyckZDYjdUSHBiejhlb0Fabk9reXUyNkFjaDQ5S0wya3JYZzd4clFwaGtWc3hqaXFka0hYUTNTcmU0R1JsU2gyYk44M3NLdEJmLTJGSnNNTjQxYlQ4b1d6TUZU?oc=5",
+              "source": "Minnesota Women's Press"
+            },
+            {
+              "title": "Best Horror of March 2026: ‘Ready or Not 2,’ A24’s Bold New Movie, Zazie Beetz Gets Bloody and More - Variety",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40NU1JODZsdUJ4aHA5VElTak93VFRob19MYVJydVVuN0NCN181NDBwa3FWenFUSUU2cUFha3Z6LU8wajdOR05uZlFoM1hpMVhuZEpRd2ROX1hMeUp4aUNCYzVvMDEwWDh4MlhsNw?oc=5",
+              "source": "Variety"
+            }
+          ]
+        },
+        "sports": {
+          "summary": "Trump’s college sports roundtable: Two hours of talk, with few solutions - The New York Times. 2026 NC women's wrestling championships: Brackets, sche...",
+          "links": [
+            {
+              "title": "Trump’s college sports roundtable: Two hours of talk, with few solutions - The New York Times",
+              "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRFB0bmVqYk4wdUp5cnhucEN5OWpjQ2tTS3o1MG0wek52STluWVJ3N3lHOUNYci1pdTRNS21oTUlySW42X3YtZ1hGN1JtZDBSVHh6M1pQZWlsM1Z0Wi1kYWN2dkJncS1PaUNRNFJTenc2cUJ0YlE0R1YzSGcxY0hWTUJFRjNxSk5yQWQ2UlMyVGN2dDlFVWk0eWNBenhPbEJENDY2MVBpZkxZcGpUZGs0RU1HZlFZWmRN?oc=5",
+              "source": "The New York Times"
+            },
+            {
+              "title": "2026 NC women's wrestling championships: Brackets, schedule, results - NCAA.com",
+              "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNnNabGFoZUJNTVFKMGVUM2lhQUpOOEZZVkxZNTdRQ1Y3V0p3b0JZeGhCNDNMNFFEOERYanlLalJVamZaUzYxcU9BY2g0T3BVaG9yQmw1Y1VxWVdhYTBFSjhPdldoaEdjOG53a2NxTlQ0YnB4YlRQWDMzOXJNVlJiTFEwUDd2N2k0QnBrQ3BxbnRCVk9DSnBLMUV3TmNmekFTaTFmNDRtR0xHMllSVi1qSTNRWkFnejNQOWNNRy16eF9NUE3SAcgBQVVfeXFMUGdrVFh3MUtUUkRpbTRLaWNzbHFLalhSVnNRV2V2bFlFVlZhZjlVRWU2bWNqeUVEMXNYTWxrQXFOZWVHQ196UksxejhBd0RNN2trX19LU2RnVjJLd01qSF9ZVlVpbC1rcktndGlBQ0xFTTBpekJNMnhuV0NBaTlIWlFWWmdXdFRVUjl3WjZMSGRveENfajMwbm0yWlN3a3hud0UwMmY0TEpta2dPN0ZxcE1VQmVOZDZtcmZKZndUaExqbkcxUndYdms?oc=5",
+              "source": "NCAA.com"
+            },
+            {
+              "title": "Trump plans executive order to address college sports issues - ESPN",
+              "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSnZFU19hTk9ES0ZwM1dzN0ZHV0ViVG9SSUNUZk44MVJwcUxCYkRZcEppVTlaUjZYM3ZIc0k2RElLcWhBQUJUSm5OQk91Yjk4ZUczT1VMS0EybW1GR2hrakZBN3BoVzBVcmZQeEkzSmpaN2NQOXZGYW5yZG5JdzRpOHJHZjdCb1I2MDNYWWVzaE93eEN5WnVwbjJ1Z0QxOFFOakVfOWtDSkVoTkhvU3hIeXI5aXdNV0Z1U2FtanhxckNUQkdObDdlM3FWc1hJU1czdm5NZg?oc=5",
+              "source": "ESPN"
+            },
+            {
+              "title": "OSU Sends Eight to Championship Bouts, Leads Team Standings After Day One of Big 12 Wrestling Championship Presented by Allstate - Big 12 Conference",
+              "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQUnNGSUNubUJ6RGdlVDRJRWViRXdQeng2MGd3THRnSDBNNnBQUlpaNlVZRWpQQnh3WklCSHhBa1JIaEE0TC1wQzhqdjdxSy1YQ19PNTg3N182SUxEVFY0V2ZFT0ZXNE1mTGhfSUtlUFlacmlDY1VfaHVaN3M5M201VUVEdkFDdGpqMVA1UEl5Z0l3LWNhVThEOEN6UWV0LWRpb1ZzMkJNT2JqYWlLOGx4T2pwTk56VVVhdG9OT3BEYVNCTVpIMkx3NVJfMDV5UDhfcEpHb0lqTlJ6QXFNZ25nRjhobTJxX2J5M2ZaNEpfR2o4aWJZazlWV2VMeW9LWjA?oc=5",
+              "source": "Big 12 Conference"
+            },
+            {
+              "title": "Sunrise Sports Center featuring NHL-sized ice sheets, turf fields is proposed for Sunrise Mall site - KCRA",
+              "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQc2ppdlhiVi1ldmlLQ3NfSkQtUTZJN1FndEdwSWtzV050eTZPNjFGTlB2cE5wTEI2M3ZZR0gtanFXYmkzWVVxX29yM2R2V1ZzVUhYSmgzTGNWYXNMc2RBNk5zMGZvTDlLUWhrUE1yODBtLWhLSlAzUWQ0MEE1eXAwLUgzTDdpcDA?oc=5",
+              "source": "KCRA"
+            }
+          ]
+        },
+        "technology": {
+          "summary": "Netflix acquires Ben Affleck's AI company - NPR. Anthropic is tracking which jobs are most exposed to AI. These 10 professions top the list. - CBS New...",
+          "links": [
+            {
+              "title": "Netflix acquires Ben Affleck's AI company - NPR",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbHNQVkVXejZhRWRjLUdsYjdpRWpMdHM4QWJmamU0ZUxMQm5XSUtOVjEzb0tOTnVrTmlaaGE2NWY4RU0tSkg4REdDcGN3V01FWmZkSFRIeGJhNnF2djdwN29hYVZwRE9PWTVZUFdCdF9pLWhVVzlUMTNvMnpWSDJqVXpjMWRQVGZ1dGxKWUpoTQ?oc=5",
+              "source": "NPR"
+            },
+            {
+              "title": "Anthropic is tracking which jobs are most exposed to AI. These 10 professions top the list. - CBS News",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9lQXZZRVhqVHNNSDg1RWdwOUxXUU5LTEJpa0NjVC00WmQyU0RtelNZeEJFaFpqR2pnbFdtSHZRRmJsWTRqRDR2Wm9KRzF4VGQ4bkk4bWJPOHFPVXN6ZkhJUUV6NkF4X2IzcnBYSEdLNmpqRG_SAXhBVV95cUxNenB2SC1YQV9sU1E4RGN0MERPMnZaenAxTnQ1OTZBcjh4YmprZGpERHVMb3hrTlRERUgwVFM3SzBCTGxuWksxRHEyN0xSeGNLYlEwWk85MWNrS256dmRONHpYRllyRll6YnY4cWJpNHJhVmZLYnRlZnk?oc=5",
+              "source": "CBS News"
+            },
+            {
+              "title": "Vasan Yegnasubramanian: How AI is transforming cancer research and treatment - The Cancer Letter",
+              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4yNG9WdmdCSHctMGZCU290RlBOY2RzX1hUMy1FTWxvRGpQTnc0OHNtVUNHamY0eFY0R1VtQTRNX3VsTFl6U2pIWTRjbl9wWk04VEV0VlFPd2pzcGVpeWhvdFhwT0Q?oc=5",
+              "source": "The Cancer Letter"
+            },
+            {
+              "title": "US draws up strict AI guidelines amid Anthropic clash, FT reports - Reuters",
+              "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSVhEc0FodDNnOUhkcldIOGxUYmhTVURXRjU1a1pwbEVPLWxHWThreUtTQTlUTU02X0txaFZmQkJDTEZiMklaRTM0RldpMUxYTWVpeWlvOEc5cVAwYUZQalQxTzhKQ3hReGxIZlVuMWN4cUxMWGEwLWhxcnh5Nm1ZRXFwZ2IxWU9uS2RiYWgwbE1yMmItNHduc3NrQ01UZGR0SHJTYUhLbVpDS0NRWG94Y3JBcFoxaDV6VlNFOE5pR2xpbElKZmc?oc=5",
+              "source": "Reuters"
+            },
+            {
+              "title": "The invisible layoff: AI is quietly locking Americans out of the job market, CEO warns - Fox Business",
+              "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaVdob2M0T1BwT2VmQWRSZEFhS2t2OW5JUnVSWm5EUWk5S3BfS2R2WHBsZ09zMTdqZGlCY2xtZ0Z3dC12TW94WS1rV0Fja015MFhZbHp3aVg4enJiaTBwSDY3XzN4TUNfcm1tUUh6QUN0cEJ6Z0JMUDdQTXcyMzBVbFBlaVFKRWlRbVdlY0ZHNlMyMDNMVGxRbWl4SmY5QnFhM0NrOG8zdzBTQdIBrwFBVV95cUxQNDlRV0pYd3dNcjVBRTI1NEdvWGNKOEFDRE1PWlRybkI5WE1JNXM2QjVic2hqYml2LUlwUll6anl4emI4V1B6dGpib1pFOWNsQ1ZBSTRCZ0d4YWJnRG80dld0bk12V2E1TlZDaDRpb2xMVHpMTmhoTGxRQi1OZm9JdWZZcjljZlBLZmZGeThVdzNZbTF2Qjg4QTRUYm5KRHNYVWhhR2oyQzVuaXpFb0Fz?oc=5",
+              "source": "Fox Business"
+            }
+          ]
+        }
+      }
+    },
+    {
       "date": "2026-03-05",
       "title": "News and current affairs from Germany debated; Labor market impacts of AI: A; New Music Friday: The best albums takes the stage",
       "image": "entries/2026-03-05.svg",
