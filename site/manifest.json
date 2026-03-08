@@ -1,6 +1,164 @@
 {
   "entries": [
     {
+      "date": "2026-03-07",
+      "title": "Dispatch From Davos: The Geopolitics of debated; How AI Is Turbocharging the War; Three years of terrible music, will takes the stage",
+      "image": "entries/2026-03-07.svg",
+      "note": "entries/2026-03-07.md",
+      "topics": {
+        "politics": {
+          "summary": "Dispatch From Davos: The Geopolitics of the New Realism - Council on Foreign Relations. The world in 2026 - Chatham House. Is Trump reshaping the worl...",
+          "links": [
+            {
+              "title": "Dispatch From Davos: The Geopolitics of the New Realism - Council on Foreign Relations",
+              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN0Y2bWFRcGxhMkRTT0dpOXBvbEp5Ny1tRXZKUlczME4wU0k2QzBqZktlVS1fUEJVUlprV1V2TFJYbVAyM29Ib3pWYjF0V1JYTzBvX0dPQnYzajdDb3pjemNHUWNFRlo5X3BySkNRLUlFUVdrRWxLVGNieFZJRDdWbVQ0YzVkWmthNERN?oc=5",
+              "source": "Council on Foreign Relations"
+            },
+            {
+              "title": "The world in 2026 - Chatham House",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQlNLMzNqM01wLUNodVVWYzdiTlpicm5mZUVPb0pPZnNCdDRjTGFZYjg3SHVEQXc2LUUzUkU1UXpnM0FoZnBpQTNKRGNlX0xTeGtWVl9acUxCbVQtbTBZZkUtcTgwYVRQdkl0N0ZYdEJCX0FlalF1dldtTTZNOFZyMmxB?oc=5",
+              "source": "Chatham House"
+            },
+            {
+              "title": "Is Trump reshaping the world order? - Brookings",
+              "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5fV2RGam5KZDVWUnNTeHpSU2JTendXcUZWLVpudnBPc0ZKNmZDUElJd1llZ2VIYUJpeFZQc3NKZGRJZ1BGOVpXOEdkSThVYjN4SFh3NzNUQnptTFdodURWLVVZVjk4Vm8xQXFwS1FmMFdRUjhURGI0LU13?oc=5",
+              "source": "Brookings"
+            },
+            {
+              "title": "The 5 Most Important Global Trends of 2025 So Far - World Politics Review",
+              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYnBEUkNEMGVGaS1LYXNFbFJreFI1ZDNtWmlrT3JJZDVPcXpjSnFvdkxEYUtpVzUwcEluaFZKNVllemwybHRxUkJ6YjNzaVNNaS1JcDZrQ01RWEU4SldxVk1XajZ2UUpHSmJQUGd1Q05pOXE2bXNCNGIwRi1GTFNQOXk3aFA?oc=5",
+              "source": "World Politics Review"
+            },
+            {
+              "title": "Between Capitalism and the State-System - Phenomenal World",
+              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbFZGSFRqWjItbFdIZkpRZUg2a3dYUWpmWHd4Z3UxbVpPbGczd0dUYU95WUJHNkI2Uy1FaThpVHJqUnlBbElCdEZ3ODR6NUxoUFU5WUFnODNDWEhWTTh5V29lSS1RNjJ4VlpNWW5reDVtaF9ob0tvb1EybDJPeFRKN1B5MmpqNjRo?oc=5",
+              "source": "Phenomenal World"
+            }
+          ]
+        },
+        "health": {
+          "summary": "Kazakh Women Scientists Highlight Advances in Medicine - The Astana Times. Breakthrough Discovery Could Make Pancreatic Cancer Respond to Chemo Again ...",
+          "links": [
+            {
+              "title": "Kazakh Women Scientists Highlight Advances in Medicine - The Astana Times",
+              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRUpVdHBQNnR4S0N5N0tNQ2hUdy1mVkRtd3BTVDVqaWIwdEdvS3BBcVBDOUdJanhWbXJ0c3hneXpSajBMVWpRUk1RTnQyYXJiRXNxTmMtNVp1bHZLRVpzNzFUVEZQSnhaN2phX1ZydVhnS1Y0aTI5ZkhNRnpkWU5JWXhFdHg3M1h2REZCNjhmYlc?oc=5",
+              "source": "The Astana Times"
+            },
+            {
+              "title": "Breakthrough Discovery Could Make Pancreatic Cancer Respond to Chemo Again - SciTechDaily",
+              "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9mZjRTcjJ2aUZ0RXc2SzZPdmJzMFlxN2NFZklSMmhZdmZ1QS1TZWlXbUpYUF90NzZxdmFHUnhWY2NjNGhxSGxwV0hn?oc=5",
+              "source": "SciTechDaily"
+            },
+            {
+              "title": "FDA grants ‘breakthrough’ status to generative AI chatbot for surgical patients - statnews.com",
+              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTDdCd1lMdHRub2x6OFFMdlN4Ry1nYWFQYjVBckMzaTMyQ2RfVU8yUGpnSV9acHdoSXpTckNHN3N6eVA2cDJON1VhQkR3LW9LRFBOWGhmVy04bGFjN3RBaW9aSGNMNlk3aTBXdTBhWWdDWUg3TTV4QUczMjBqR2YzTzNwQ3ZhV19ibUFCc1EwZkRLVERleldPUlpuY3VyQQ?oc=5",
+              "source": "statnews.com"
+            },
+            {
+              "title": "Blood cancer breakthrough gives patient new lease on life - ClickOnDetroit | WDIV Local 4",
+              "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORV9IX2dIeWFtN0FWaUxCTGdkVzl6eC1mSWIwTkNGWXNleUtMdldycVM0TGR2N3laMm04NzJpeHJEbnBwVUJfZFpTeUJuSGpJaUhvY3U4ZFgtSGxqRy1nVEc2SW1wMkJBX00xRnItM3B2eUgyN1Y3RFJJbnViMzJkZE1hRjFmR1Q3ZnRSYzJoNnZ2MmxIUUlEaDNPM0FLOFpXV0F4SlN3TUgwNVk?oc=5",
+              "source": "ClickOnDetroit | WDIV Local 4"
+            },
+            {
+              "title": "Scientists turn methane into medicine in stunning breakthrough - ScienceDaily",
+              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82MEFfRWhOWkx5VGpnZVRSWldpeldEcm5sMUFYNW1iamxwUWVNOHJWNE84UTJ5amNPZEtwVS1xY09nNFJxV0toSE42UGNXVlY4b3J1czEwTnU3VlQ1bGlCQTBfMEVKWGo2RXJmeWFCQQ?oc=5",
+              "source": "ScienceDaily"
+            }
+          ]
+        },
+        "entertainment": {
+          "summary": "Three years of terrible music, will 2026 be any better? - The Setonian. Diffusions: A Music Technology Winter Concert - Visit Corvallis. No. 17 Green ...",
+          "links": [
+            {
+              "title": "Three years of terrible music, will 2026 be any better? - The Setonian",
+              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQU1V0N2EybzJpQnFVb1htSmQzd0F0bW1aeFFaZmNSektHb0M1ZjdZZ1VWSkVwYUZXbEJaRWtoc1laWnBnRGo0dUJZd3RzZFU3ODRnREpPQ1NJUDNVM2tlNFJxd0Vidlo2UktHMU5Iem9KcXlWN2x5WHN6THFTYU5EQnVqWXVQNFRodVE4TE1YeUFpbU15T1QwbTF6b2ZzUQ?oc=5",
+              "source": "The Setonian"
+            },
+            {
+              "title": "Diffusions: A Music Technology Winter Concert - Visit Corvallis",
+              "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRU5nS1VjQVQyejBNRFpjUU1MaUpwTGk1S0VrWjZFNWlrdHFZWUdRS0dMbTE2SktOcm1wOXFVaFZwR2hRYjR5d1hsWnVrYjBRNnBIazc2WVBvS1hPTDd0WlZ3RkJVbDhVZHlHTDNKMElrVzZiOGFwZFNHTm05TnNyWHZNa1pDejkzbFJ1cDA4TG05YlQ4UDVDaw?oc=5",
+              "source": "Visit Corvallis"
+            },
+            {
+              "title": "No. 17 Green Wave Claims Four Wins on Day Two of Music City Classic - Tulane University Athletics",
+              "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWnozOEZNcjhLQnQ0VEJJb1UzbGhsZk43RWNMUjJBbWNPcDNaT3hlTjFMRzhYRWZnc08tenNrVFRDQWNVZFhoOGdwdFNPOXVSUXgwak5XTFU5aHhzdHpiV1l1cmljdzU3b3Y5X2dFdkNVcG9ySkxOaUVnOFdsdHh2WHVaUkdwaTNISm0yTEEzcUtvWU1XTjhYSGM0TnBydWFlMS11Q3dQY0NvYWlVdGwwdng4UVV1STVCVWxyeW5idy0?oc=5",
+              "source": "Tulane University Athletics"
+            },
+            {
+              "title": "Celebrate Youth Arts - mininggazette.com",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUFlmMFVOaE1VYjVQc3Q4ZWhrQVFaZTN0RHFfendaTno5Q1drX3NMZ09HTWV0aG5HRVVucWJ6Zno0bVRFWWRJdS1SQnd4LWx0bFYtZ1pteFItR2FodzZ4bE1GQmFDNFdKcGszZE4wOVVGejZXUkVlZW9BUkd5TjBWM2dxVQ?oc=5",
+              "source": "mininggazette.com"
+            },
+            {
+              "title": "Column | I loved Pixar movies as a kid. ‘Hoppers’ is the film I needed as an adult. - The Washington Post",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ic2V3VGN1OUdVSUpMR0otRjZ2MUNIcmxWUUlNRGlBUE9VUkJkeXQ2YW04cVVUSXU0UzRPdkRmLXVvZ1ZSaE5ROUpPUEt5VjVHV3djSzgtZWFsSUFhV0tabmRzcDBGem1nVGJCcnRrc3p3MkpfdXpYMEFwN0x0dW8?oc=5",
+              "source": "The Washington Post"
+            }
+          ]
+        },
+        "sports": {
+          "summary": "UNI men’s basketball holds off Bradley to advance to Arch Madness championship - UNI Panthers. 2026 DIII men's basketball championship: Bracket, sched...",
+          "links": [
+            {
+              "title": "UNI men’s basketball holds off Bradley to advance to Arch Madness championship - UNI Panthers",
+              "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNURzWnh4YlQ3aXlfMHh6amx5cGxfUXhZaGhTVjJFUGQ5QmxCWlBOX1hvT3NKaHA2ZFFteS1XTjJqeVVFU0UyaHA0SVFHNWx1NEQ3bkJKdEFzWmxEaGtzSXJlTm1WZ2d4c0tZd2ZWVllYQ0FmR1k2ZlJVQzZnNVFUZk5XNWFwOU94YzIyQlFvSVpVVzJQRUI5RUFJTmpBWXFPLW13dVBlZHlEQ1pwRjJNaW4ya21jTkVfczN1dFJJTENKZ3R5UVhRT2dxRQ?oc=5",
+              "source": "UNI Panthers"
+            },
+            {
+              "title": "2026 DIII men's basketball championship: Bracket, schedule, scores - NCAA.com",
+              "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOelFUQU5hSlJLeUcwY0lFOUhOU3hweHRiTWJSTmpXdkctcVNSWW5uczJudlVNY252YjBfV05zSWFYVnhtM3NpSzBIakhQNWgweU8teGVsbF83STBmQXFiZ3I5Y2l5RGpscWQxM1VWaF9vS1NCSVdudkUyS2RNbk5oejR4cWlidjU5ZDM5amROVldGbk5VUVAzY1E3UzhVT1lKa0Z2dHgwUnplUXJDZ0dQY2x6a1NGVEZZWndBbUMya9IBxAFBVV95cUxOa1UtRWVzTmV0MmVaLUFkZS1mc2ZwcWZlaDF1MXc1bWlnTS1pZFF1VWFwX092QWZ5cnFUbXN4Q1pwdk5aWmJrTTBhVjRJUmFKdDNyQjZfQm9TU2Z5YVZabEtrUlZKM1F6ZjgtdW81MmNVRDJta1JFcFhZQlZKOWdCU21BRmhzOU1fQ0w4aW9mV1Uyb3VodC0yNm5UeGVEcnlYb0tMVEFwRUhxR0tsbWNUVVgwWlJLTXg3MjVoMmc3LVlLU1JM?oc=5",
+              "source": "NCAA.com"
+            },
+            {
+              "title": "Alabama Falls, 4-1, to No. 8 Texas A&M - Alabama Athletics",
+              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT3ExbEkteUdWc0xaaGJmRGtwUWFxRm1od2VJVUJ4UmhDeU1XSHhyUWVVeC1pa2ljVlA2V2dXQmNwRkNrQmlwS2VDNl8zRXlDU2xnM1V0WFNGb3RTR2xvdzFXUUYwUU16TTc0a196aVlpTUhPQzNaTVBiT1hqenoxYjR5NWJjakh5LWNz?oc=5",
+              "source": "Alabama Athletics"
+            },
+            {
+              "title": "Gamecocks defeat LSU to play in SEC Championship - University of South Carolina Athletics",
+              "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUm5JbUMwdGVOUjJvRU45UFBiVGhmT09jdmZjdnRxLUh6VklRcjVfLXJyQWNCdVBwc0JMWFZJVWY2ZWdSaVctUEpOQ3dabFBYd2FGeGxHS2N3Rm9KdWlLcHEwRExuN2hfbEctWGxsNTdrdmFXdDFwQXRZVXM2SEh4NXgwRTE0VWdmUmdzdUhhS204MUxIekYtQg?oc=5",
+              "source": "University of South Carolina Athletics"
+            },
+            {
+              "title": "Big Ten Women’s Basketball Tournament Hawkeye Huddle Information - Iowa Hawkeyes Athletics",
+              "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRW4xN1ZoQk83ajFsRnpmeDBCTHFjMnhjVV9KSl9WalUwUldYLXY1SGphUjdtajMwdU1Xb255VE15VlJUNmNlRm45UW81TWdhUG9zaHRscEtHUFUtRGFPeS05TlNIYnNnb1BsMFNySE16VTJoYzVQR09OemhNV1pYQnJvdjgyTGJWQmhial9yb050a21ZOVljXzJQTDFHdGd6WG5Tbg?oc=5",
+              "source": "Iowa Hawkeyes Athletics"
+            }
+          ]
+        },
+        "technology": {
+          "summary": "How AI Is Turbocharging the War in Iran - WSJ. This AI agent freed itself and started secretly mining crypto - Axios. Anthropic’s and OpenAI’s Dance W...",
+          "links": [
+            {
+              "title": "How AI Is Turbocharging the War in Iran - WSJ",
+              "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNY3lxSjdvMElTb0pUNlFPMk1ILUpVNDY2WHIwM1RnaGtkdmItN3I4d2pNbzVSem56cDZWcTBQOW5jd2lEaGZleHh6alI0aTc5VXFDd0dqQXduMlhsQVNLa2huV0lxWDk4U0ZodHVwSXZXUm5QTUpsVlpxUkhWQnA5TkZNMmEzREtYcWpmc0ZScUJuVDdaRnR1VWhxZ2xUQmpjazhrbEUwbkQ4cnlqYWMzdVZmaHdLUndMZzN4SGJoaEhhRlg1RXhjeEdneEFULTBpMmpKaklyVEFsUmRVSE92anpKMDVfYVlVSnJMQ20tOHAyOUIyUUgySXlFckpsa3Z6akgyNGstOVFlbXVsaWZYdjRnaEJqRW1Sb0d2Y29VekhFNmttTjJZZ0Z4ZnF4aHRESG1qR01MSzRmMVotQVhoSEN0REUwUXJZQm1YUzM5N042SHNUWGswYUJUY1lSNkEtelI1U1J0bzd5WFFsWDRiSHBydHZpMXJ2N1JXRkYzVVBPQ0ZDMTJJ?oc=5",
+              "source": "WSJ"
+            },
+            {
+              "title": "This AI agent freed itself and started secretly mining crypto - Axios",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBBWU9rb3ZzQ1p3djdDNTJIbmhuall3QlVXdjFwM2lCNXBpXzdSWmU2emhtUHI0bWdoSWJXVTl4SGs0SWZVU2R5QUxMNFNWOEY5ZG54S2lMV0JIYTJ0ZHdSZWtoN1hzOFFUdUdBa013M3Zya1oxUERB?oc=5",
+              "source": "Axios"
+            },
+            {
+              "title": "Anthropic’s and OpenAI’s Dance With the Pentagon: What to Know - The New York Times",
+              "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUTloM3hYYy02dUxFbTNvUkFjSy1yemtQLXZPbVhXZl9tSzRGUVVGem9FbGhkTE5NbzZaMW0wY0J4TGRiRmJUajNVNGY3bXc3RlF0UHE3alVmdzBxbW1GZW1DbUdaWUZGaWN3d2stMzRPX1NPVWZyNExVT2NBRHR3VTgySGNFbTFxSjRxMjBYRlV6bE9qRjNqSmQwbmdZOTI5eWc?oc=5",
+              "source": "The New York Times"
+            },
+            {
+              "title": "Peter Thiel warned AI is coming for 'math people before word people.' Banks see smaller payrolls - Fortune",
+              "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMXVQMkowdnVDSWJxWU5xTzkxdnBrV0pnU01yNzBqNVFYejhfYWhFLXRobXZENXQ1UFhKSmNxZWQ2UzFad2tlWTVmTEZJNlBpLXYwd2xpNGpOQ0tYMENlSlQwekhVendOLTdZVHktMVp2RktRb2dqdXVKeV9WSlE2TUhYLUJkbTJYSTJTb1g3THFvV0czbFE?oc=5",
+              "source": "Fortune"
+            },
+            {
+              "title": "Docs: Lebanon high schooler used AI to generate illicit images of classmates - Fox 59",
+              "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSzNtWENQU3dmV3p6b01SeWFXcXhPc1VjUEQyVGhINXpIVk91UGY4djZLZFhwd2FLZGZkdmRuTmNteHFnSElOai1zWlpIbGpPOFJZSkRadkhOOU0zSVJtbWtDN3paemlGc1hmNmZmWWh1ZXdWUkY4NlYwbkg1UlgxSHBwdFF1T3k5WnFJQjAxaDRkMTQydGI2dU5zdU52VS1oSkUyVEc5b0w1LVBOLWfSAbMBQVVfeXFMTnBrWEh0dE5mWVBUNG1pOEhGZHdXVU1oMDF5QWhTZzdSSkw4bHNrOXJSZWZLdWVJaWtySzNHU2Z5N00xZXVnUWFIdGptdFFMNmFWUUNxMjUtTEY5SVhwbHFXTTRuQ0JIVDlvY0FjUWI5WC01SThmcE85R2xiT0xFTVdENWg1XzVQRWIxc215UkMyVk1aVkxTZTBYRXF6c2lWZ3FfV2QxOXp0ci1rTjA2N3RyZFk?oc=5",
+              "source": "Fox 59"
+            }
+          ]
+        }
+      }
+    },
+    {
       "date": "2026-03-06",
       "title": "Coalition debated; Netflix acquires Ben Affleck's AI company; Why Is Fitness-Class Music So Terrible? takes the stage",
       "image": "entries/2026-03-06.svg",
