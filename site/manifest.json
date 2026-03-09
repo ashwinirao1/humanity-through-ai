@@ -1,6 +1,164 @@
 {
   "entries": [
     {
+      "date": "2026-03-08",
+      "title": "Dispatch From Davos: The Geopolitics of debated; Improving AI models' ability to explain; Six Bizarre Movies That Are Actually takes the stage",
+      "image": "entries/2026-03-08.png",
+      "note": "entries/2026-03-08.md",
+      "topics": {
+        "politics": {
+          "summary": "Dispatch From Davos: The Geopolitics of the New Realism - Council on Foreign Relations. Is Trump reshaping the world order? - Brookings. The 5 Most Im...",
+          "links": [
+            {
+              "title": "Dispatch From Davos: The Geopolitics of the New Realism - Council on Foreign Relations",
+              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN0Y2bWFRcGxhMkRTT0dpOXBvbEp5Ny1tRXZKUlczME4wU0k2QzBqZktlVS1fUEJVUlprV1V2TFJYbVAyM29Ib3pWYjF0V1JYTzBvX0dPQnYzajdDb3pjemNHUWNFRlo5X3BySkNRLUlFUVdrRWxLVGNieFZJRDdWbVQ0YzVkWmthNERN?oc=5",
+              "source": "Council on Foreign Relations"
+            },
+            {
+              "title": "Is Trump reshaping the world order? - Brookings",
+              "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5fV2RGam5KZDVWUnNTeHpSU2JTendXcUZWLVpudnBPc0ZKNmZDUElJd1llZ2VIYUJpeFZQc3NKZGRJZ1BGOVpXOEdkSThVYjN4SFh3NzNUQnptTFdodURWLVVZVjk4Vm8xQXFwS1FmMFdRUjhURGI0LU13?oc=5",
+              "source": "Brookings"
+            },
+            {
+              "title": "The 5 Most Important Global Trends of 2025 So Far - World Politics Review",
+              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYnBEUkNEMGVGaS1LYXNFbFJreFI1ZDNtWmlrT3JJZDVPcXpjSnFvdkxEYUtpVzUwcEluaFZKNVllemwybHRxUkJ6YjNzaVNNaS1JcDZrQ01RWEU4SldxVk1XajZ2UUpHSmJQUGd1Q05pOXE2bXNCNGIwRi1GTFNQOXk3aFA?oc=5",
+              "source": "World Politics Review"
+            },
+            {
+              "title": "A World Without Rules - Foreign Affairs",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9uMFhYTFNnZndqMUM4Y2tFeUJSbGppMlJXNlJTNlFqSWdtNkdNSUdweWVza3BpUEljQWYzdjJCNGtnV29CVWFaVnNFMlk0a1YyM21ud09uci10YTBmSUF4dFFLSHlvaXo3X0pCTUtKdXVzUQ?oc=5",
+              "source": "Foreign Affairs"
+            },
+            {
+              "title": "\"Robert Jervis’s Contradictory Contributions to International Relations Theory\" - by CWP's Thomas J Christensen - Columbia-Harvard China and the World Program",
+              "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYTFtTFBiYVp2anNYOG1iWUQwbFJKVFg1UDd2QmxJcWxkWE0xdHRvbDV3YXNsZXlXOUVxckpCcGF5eWxYYjJNZWNnNzJsNUtEaHBCVEZHby1JdU5LSDNQcG96aUhxU0Q2cERqT0FPTmRXcWI4aDAyaDU4N05TaGRlUzRPNksxZ3hITTVtMXhaTlJjaFY5eVpqb2h6WVJMaGtsMlNac2hKV0JzRFl6Y0lwOC14Nkc5OWRRUmN6TVN1bw?oc=5",
+              "source": "Columbia-Harvard China and the World Program"
+            }
+          ]
+        },
+        "health": {
+          "summary": "Scientists turn methane into medicine in stunning breakthrough - ScienceDaily. The top medical advances of 2025 - statnews.com. 'My son can now enjoy ...",
+          "links": [
+            {
+              "title": "Scientists turn methane into medicine in stunning breakthrough - ScienceDaily",
+              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82MEFfRWhOWkx5VGpnZVRSWldpeldEcm5sMUFYNW1iamxwUWVNOHJWNE84UTJ5amNPZEtwVS1xY09nNFJxV0toSE42UGNXVlY4b3J1czEwTnU3VlQ1bGlCQTBfMEVKWGo2RXJmeWFCQQ?oc=5",
+              "source": "ScienceDaily"
+            },
+            {
+              "title": "The top medical advances of 2025 - statnews.com",
+              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNamJCVFE4M0NVNXhMVExQMWV5ZHBta3VncGZfTnBna2NVYlpITHNhUDVlMTRseUU4M3NVTE1yLU1uZ1g0blU5Q1o0NVhfREdxVF9qVFdrakU3Q3h3M0ZPRERBWkYweFZaUHduRXMtdW43VUxJaWdyY2FjMTVQaVRfS0I3VmFaazMzZzhqSWZsY05nZFpPb1g0Q19B?oc=5",
+              "source": "statnews.com"
+            },
+            {
+              "title": "'My son can now enjoy life': Children with severe form of epilepsy helped by new drug - BBC",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14cS1YQmxSaW82OGdYN0o1SXVXdC0waVc3QkxybklPUWRyQ3NhcHhpbGlIeVB5LTBfSWpXangybjI0MVFkdFdtcmY5LWhmOUxkdDlSaF9MZGpyQQ?oc=5",
+              "source": "BBC"
+            },
+            {
+              "title": "Airiver Medical receives FDA breakthrough device status for DCB - Medical Device Network",
+              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQU3UwZlpCMW9Vd2I1cjFhbVoyUTB5ODg1STlrZk1XVVpCQkV5ZDkwbkhtQ0tOM3lpbnhmdWh4UDhxYi16Y0R2MV8yLVhNVlFIX2dHR0t1NDdVRmI2ZW8yaTF2c3JYX0tuOEhKWTdmYUh3c1lmakhaZENYczBHSDlPOFJic2YxVkRFRW1V?oc=5",
+              "source": "Medical Device Network"
+            },
+            {
+              "title": "Breakthrough Discovery Could Make Pancreatic Cancer Respond to Chemo Again - SciTechDaily",
+              "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9mZjRTcjJ2aUZ0RXc2SzZPdmJzMFlxN2NFZklSMmhZdmZ1QS1TZWlXbUpYUF90NzZxdmFHUnhWY2NjNGhxSGxwV0hn?oc=5",
+              "source": "SciTechDaily"
+            }
+          ]
+        },
+        "entertainment": {
+          "summary": "Six Bizarre Movies That Are Actually Fun to Watch - The Atlantic. Live Music with Siena Jade at Piste Dinners - Jackson Hole Mountain Resort. Greg Jen...",
+          "links": [
+            {
+              "title": "Six Bizarre Movies That Are Actually Fun to Watch - The Atlantic",
+              "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObnU4OVZ3ZUh3SGhvS01KTVpJeUh5MnRlbDRiVXB6ZFFWbTEyQ0t0aXVzYUFJMW1LNTJPSXVBQ2JwWUFPQUJDS2xzMlhRUzFWRUJ5NDJ2R1kxTG1TLUUteDE0VmFNbUN2cUwwNG5MRGpEUUtiWHJzYUxTeUJFcTdMS0pVdXhyVjY5a2h5anA3NzFYMDByS0VHM0xueF9DOWJzMDh4T3I1MzM?oc=5",
+              "source": "The Atlantic"
+            },
+            {
+              "title": "Live Music with Siena Jade at Piste Dinners - Jackson Hole Mountain Resort",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVDVmRXBlcmhzTGRhMk5OOHBZTFQwQzZpdW9lVjRjVTZCc2pFc3FueTA1Nnp3M2pBT2VfTkFVQTVRMkktLXVFTV85eE9KUTk1SzNtSnJaSWlyTDRQM25YU3ZPSVpLVmo2TXJRU0V0a0l1RGV3V0FMUkhUOGF4WVNpaWU4Zm5hMVFlcFFPSXd5UQ?oc=5",
+              "source": "Jackson Hole Mountain Resort"
+            },
+            {
+              "title": "Greg Jenkins, director of Somerville Arts Council, fired after 25 years of service - The Tufts Daily",
+              "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUERFUWRuTUhDRmlBWWVldHFGdWItdi15N3ZqWWlwNUtWWkYyUER6bGVtRGFoVFFBWVFIbFIzaEFpOU54a3hnTnBXaDFlQ1RxYVZqY3pkX1RBWlNna2c2V1dBTXprcjJhMTJNbl9RcjU1VllmTUdjWlVReXNBOHNxWFQyNDlkTWpkSFRaekIzcE5ILTliVmxiT291Zml3SmEzdEl0R2RSN0gzNDNVRS1GVHJhTU1SMXNtQ3BQZHdYTmc?oc=5",
+              "source": "The Tufts Daily"
+            },
+            {
+              "title": "No. 17 Tulane Concludes Play in Music City Classic - Tulane University Athletics",
+              "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc0NoaHctQS0xb0FqZFJlVlg0TklaMzYzaV9rLUxRellIdHdsVDBLbV9lVm0xWllDckVzNDk3d0dVa2FCTHFqaFp6Mk9KZkIwOUpnekZWZXZrdkMzeXJ6QmxsSWV3N0RmcHpsVURfbUVGMjJVNndNSUJFUW43WTBtWjdxUW1ycjIxTEJKUUM0Q2VpQkhQb3lYN2FqM0Z1OEpDWVhCZ2lvVkJtUQ?oc=5",
+              "source": "Tulane University Athletics"
+            },
+            {
+              "title": "Outrigger canoe paddling fuels lifelong health and culture - University of Hawaii System",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMFhNY2txNDdRZ3diR0xxVU8xdFNYU3RjR3djZEZncGktYXBwSEFJS0FfS1dpY0NiSnZMQ3QtWUtSOF9pQk5ONnpySEhMSW1haElFMlRrVzJuaGpiM0pLdzU3NnloYzFWQ2tSUzYwcEhudUVtN0xsanVaSVVldnlHYXJYWQ?oc=5",
+              "source": "University of Hawaii System"
+            }
+          ]
+        },
+        "sports": {
+          "summary": "No. 2 Troy Punches Ticket to Sun Belt Championship with Revenge Win Over No. 3 Arkansas State; Dyer Records 1,000th Career Rebound, Breaks Single-Seas...",
+          "links": [
+            {
+              "title": "No. 2 Troy Punches Ticket to Sun Belt Championship with Revenge Win Over No. 3 Arkansas State; Dyer Records 1,000th Career Rebound, Breaks Single-Season Record - Troy University Athletics",
+              "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOVlNDbjdqdnZzTWpaUGlMa2dLNzRkNUVkZTd5NS1tcDc5LVZSdlJuQ3lfQ092cWZneUJtWW1iS0NNV292WVN5bjlMLThVS0VBOXRWWktvVzBHY3hGS0pmT01vNjVuejRNUE5NbkM0RlNGRGM3a0xjVDBndVZzWHBKSWtqd3EwRGROTXRvd0ZHOTYzbEFsaTRIRXJXeVFGcXBGeXRLVWVnbERjOW5hNS1SMUhyZG1kUV8teXpRWXAxRmw3V2xOMkhFOTE2am1LOGV6Y1Fhcjh6OTNwLTE0emx0bU5DRFJNQ1Q5aTAzSG5iNmtEUjZlWDI4YUhsVi1weWczaEpTYzRiX3NUTFRrdThRS3VxcDdIRkJMaVBzbC1QUzlxOE1ZUVBQY2hhZDN2R28?oc=5",
+              "source": "Troy University Athletics"
+            },
+            {
+              "title": "McKendree clinches the 2026 NC women's wrestling championship - NCAA.com",
+              "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNm5ReXBqMm9pNHVSQklnWEJ0UnJqYkZKZFZyWUo1cnByTkRGOGlXNmlleldmVjZ1dDJZM2hlNGtjdkVBekJpSU5FQU1RdTJ1dzVUdDR0eF9zQ1UwbjNyWUJLS0tob0lYZzl1cVBhNFZ5X2hUZGJhWkhnNm5DWjNCSTlIYlNTOHpxREZvRjZueDFESW1rUnlwemRkUXZmR0lYS3UwbGxiOTc5QUZ1RVhuTUd5Zlc0UmRV0gG-AUFVX3lxTE04T1BqcnNBQ2NhXy12bW90WnIxS0szSkoyVW9zUVlTd1MwRExibDNDSVlyMG1ndTR1ekV4U2xFZHVnNW5jS3A0NG1GTWtNelJ2Qmw2bFpsRUxzc2pPc0cyMlJGWTUwa0VaS3V0SlRNeDhOa2VBM2xWc19VUG10WEFqVjczM0dhek1QZ1AtYkRMbHhkMGp0V1Nob2RkaGJ0cUk4YTJOcWJtLWtJMzNkQzIzaUV0UG1xTVhlZ2dXUFE?oc=5",
+              "source": "NCAA.com"
+            },
+            {
+              "title": "Panther men’s basketball tops UIC for Arch Madness championship - UNI Athletics",
+              "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUWdxLTVLbDBUTDU3d1FxQjdTZUo4YnEwdlJZbjZwaldSalZJWVRlekZObDE5VWJTYm01dmhCZ0R5NU9obFJYejNBbExiLWNxTldHUk9Jd3ExMFd5MTRJUDFKWEc5aVl6LVpmTUdDTXhvOVptQXRWQTFIbmlNWlBaT1N4Mm4wa2hnaDR3LVVfTmxHWkJoVG1lWnhzaDc4NV9mUDByZVRFamN2ZG1KcnRCakpYSl9FUkE?oc=5",
+              "source": "UNI Athletics"
+            },
+            {
+              "title": "Iowa Finishes 4th at Big Ten Championships - Iowa Hawkeyes Athletics",
+              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZWVTVHJ3amlGbHA5RjFsY0Y4Sk1WVU5iOTJ4bTlwSVZzdFlHbGRQVEFvbmpfUmZfcmJkMDVXUG52b0pQWkl6bkhYc3ZUMFE4a2pSLUlBMXotR3ZGZEE5X2ttcFE1T05nc3RTNU1yRDRDdGJ6Y1EtdjJ4VEFncHZxakJWSmRxbmptdmRr?oc=5",
+              "source": "Iowa Hawkeyes Athletics"
+            },
+            {
+              "title": "Chance Westry and Daniel Rivera Lead Blazers Past ECU - UAB Athletics",
+              "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR1diREpRMW56Qm9NRVFuZFFFb01zQno3Y0hpTF95V1hnSzJCSWg2aXdRbHhMUVpRaXdtZzZ6OWhJZks3SXYwdmNQXzFlazA1dTRXcmlPVC1rZF9mOXN1SmxmU1dUdzdzWUNkd2RPbDNpeUc2UFpxTGVGREhsYVJ2dU8wQ2x0TTdYSW9ueFl3eGNmcU1LMHhod0dqczJDMmRoWFo4dlZlLW0?oc=5",
+              "source": "UAB Athletics"
+            }
+          ]
+        },
+        "technology": {
+          "summary": "Improving AI models’ ability to explain their predictions - MIT News. Is AI productivity prompting burnout? Study finds new pattern of \"AI brain fry\" ...",
+          "links": [
+            {
+              "title": "Improving AI models’ ability to explain their predictions - MIT News",
+              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNenZWOVN5anIzeEVlUXNjVk01WHVtTm1SeFpXSGxMU0dFaHJ2MG5GUW9zZGQ5RmYxcjFOdElmWVdObWh2T0xJSEVidnJRZFlWWlpyYl9nMUlQUU0yU1RHQ21JQmxDTDdqdUNCUGd1TzdsVzB0d2ZOWjE5MWR1Z3IyY1c0Z08?oc=5",
+              "source": "MIT News"
+            },
+            {
+              "title": "Is AI productivity prompting burnout? Study finds new pattern of \"AI brain fry\" - CBS News",
+              "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZ3FSYzJiSGRRQXdHRmt2WGY0Z0hqcEZWcndHdUtCTUZhY01lYUlKV3FNNWVWMmJvcEpUc0RkaGdHUFNlME5UaGFDOVppdklMQmljM2FFS0FTWUctaEE1TmxHUk5BWmJMS1Y4bVBTSjY2eVh1ZHJLa1VGekFfRm9xZnhXUEdlYWgzT2tWMVRreXA2SWt2Z2NDdU5iRTdCWG1rVVRjSlV3NDBiZ9IBrwFBVV95cUxQV3Z1NWlLZU9PcXRaeVRxWEUxZHBPMGtYQXNpblRkLTZpb0Q3VnhmTU5vOHpaeUphMDNLU3hTUXpBMWR5c2c2TEtnSU0xd24xaFRCWmlhZHlybG9vdDZZYUNxWEpMbl9ES01PLUt0bEZSTWE3ZndkNWVFaGhoaHdjenhXYWJrdDdQR2d3SFZXdk9BU3Zqek5OWHkyakJwSjk3WldhanBvVjdkRVd6Wk5N?oc=5",
+              "source": "CBS News"
+            },
+            {
+              "title": "OpenAI robotics leader resigns over concerns about Pentagon AI deal - NPR",
+              "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVHBiUlU2eVU1R2JKNEduRjNTdjA3aGdPdVNZaHFFUDVwbTlaaGNFcmlOWFpTOTBZLVE1ZjJvQ0NZaWNrR2hzV01ISlFjSG5sZ0FKSTNjM1dsT0RGdWhFU05OaGhyOTlKM29obUp1dUd3TTd3cW1SbDVvRFdrWktLalNrYUNobEdFcldIVElQTDNyckphc2c?oc=5",
+              "source": "NPR"
+            },
+            {
+              "title": "AI allows hackers to identify anonymous social media accounts, study finds - The Guardian",
+              "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOS3pOcTBKMldPRlFpZVRveXdaOHk1bEJ3eGFZczBvSno5eHB4VURVaUlqOFZ3WlZHaVVUemZ2VG5oaDBWOUY1ZFVYU0R1X2FFbXVQandjRHFQdFZjemFmWE5TRkFORXVTbUhlcWVuZ1A5eEpqelhCQ1RBMnEtd3Q2aWpPb09ybDZ4NFlHVEs0SUp1VUE?oc=5",
+              "source": "The Guardian"
+            },
+            {
+              "title": "AI Needs Management Consultants After All - WSJ",
+              "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxNeU9OcWFldlMxdmQwS3FkTlljbV9NUXBuVGduVkJJMjNXM0R1aEJJVFppbzl5Q1NBbU5PMEJkM1FWbVQzMXVUMExRUDl0LVJHbVFseVlWWkI4WDJCRlZkTGljcnVXR0V6WG5pazAyYmxzTFdhTXVKdHZpeU5DaGJ3ZHZKb0VlY2JvSXFjcFFUVE1zVDNZWm93bGhiX3RENlViaXh1RjNKNWlaSnlLNGEwYk1HV3RpMmFEWFYyM2MxYmhJTnRndXQ2TkZ6Um1qUm1NS1dOM2wwRmpMRmVmWHBNMGd3VC1fZmlPeXZqcG9JRkpheS1MR3o2RTVldXhIOWhSMWY5WklVWjlEbXJncnFTMndmb3VKOGR4MEJNY1N2SFRlcFpsTmJHc3EzUkJoNWJ4OXZQM1MtVGVRaldCWWFwOWd5N0pxck1QMl9UZGxzQTFwOUZOY2VqVmNMMmhEYW03ZVJKdllDcUR5bmo5UFFTUV9uWWNKMjR4QzQyZ296Y0RCMHF2YlphbzB3?oc=5",
+              "source": "WSJ"
+            }
+          ]
+        }
+      }
+    },
+    {
       "date": "2026-03-07",
       "title": "Dispatch From Davos: The Geopolitics of debated; How AI Is Turbocharging the War; Three years of terrible music, will takes the stage",
       "image": "entries/2026-03-07.svg",
