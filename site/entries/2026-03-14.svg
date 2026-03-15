@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" style="background: linear-gradient(135deg, #1E3A8A22 0%, #DC262622 100%);">
+  <defs>
+    <filter id="blur">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="2" />
+    </filter>
+  </defs>
+  <rect width="100%" height="100%" fill="#0a0a0a" opacity="0.4"/>
+  <circle cx="948" cy="153" r="70" fill="#DC2626" opacity="0.6333443498045486"/>
+<polygon points="799,692 647,183 359,23 791,205" fill="#059669" opacity="0.3578284010675446"/>
+<ellipse cx="692" cy="206" rx="284" ry="60" fill="#059669" opacity="0.3224178035460163"/>
+<rect x="201" y="-83" width="196" height="191" fill="#FBBF24" opacity="0.7128593921849284" transform="rotate(6 299 12)"/>
+<rect x="329" y="-18" width="117" height="156" fill="#1E3A8A" opacity="0.6319571865295472" transform="rotate(6 387 60)"/>
+<rect x="989" y="267" width="360" height="206" fill="#FBBF24" opacity="0.5954480621522826" transform="rotate(12 1169 370)"/>
+<polygon points="707,656 153,81 448,527" fill="#DC2626" opacity="0.6732717500049668"/>
+  <rect width="100%" height="100%" fill="url(#overlay)" opacity="0.1"/>
+</svg>
