@@ -1,6 +1,164 @@
 {
   "entries": [
     {
+      "date": "2026-03-20",
+      "title": "Opinion – Can the BRICS Adapt debated; White House urges Congress to take; It's the Music You Hear All takes the stage",
+      "image": "entries/2026-03-20.svg",
+      "note": "entries/2026-03-20.md",
+      "topics": {
+        "politics": {
+          "summary": "Opinion – Can the BRICS Adapt to a Transactional World? - E-International Relations. Russian Foreign Policy - Council on Foreign Relations. The world ...",
+          "links": [
+            {
+              "title": "Opinion – Can the BRICS Adapt to a Transactional World? - E-International Relations",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQR0ZLSW4tUUhIX3YxeWVNbEtzQ2piQUIzdjRXWXZ3V1MtbHU1dGY2U3F5VEZZWnFyU01ISU1PXzlxMmVsSU1IV0NLM2pTOVU2QmpiRHpNY09mNTNzR0QyTXVuS1Y2eHZpRGhjNVF2T3RkWVR6Tzl2cW92NFlSbjhRMmVqOUpGc3c3TklNUm1rOA?oc=5",
+              "source": "E-International Relations"
+            },
+            {
+              "title": "Russian Foreign Policy - Council on Foreign Relations",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDa2V1SXJTT0pkZnVmZE45bnRCVmVGMGlHZW41MkRDUDBJMXdKa3B0X0NjVG5nSDNVdWw4U0J3ZWVCTEhJU0F2Tl9lUmFDUmpSRWxHcEdlMFdQV3RY?oc=5",
+              "source": "Council on Foreign Relations"
+            },
+            {
+              "title": "The world in 2026 - Chatham House",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQlNLMzNqM01wLUNodVVWYzdiTlpicm5mZUVPb0pPZnNCdDRjTGFZYjg3SHVEQXc2LUUzUkU1UXpnM0FoZnBpQTNKRGNlX0xTeGtWVl9acUxCbVQtbTBZZkUtcTgwYVRQdkl0N0ZYdEJCX0FlalF1dldtTTZNOFZyMmxB?oc=5",
+              "source": "Chatham House"
+            },
+            {
+              "title": "Global Heterogeneity – Political Regimes and World Politics - CIRSD",
+              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE94MFEwUC1MdXlfNEdYVG1nNTMtdzBsTzkxQlpZYzBuQ2FiOTJWbHNRc3NYTG9NOE14WU0wTHd5eG4tMUlIa0VKWUxSamNVaGZOa0VVX2xXSUYweVhVSzZUblB5RXItZw?oc=5",
+              "source": "CIRSD"
+            },
+            {
+              "title": "Is Trump reshaping the world order? - Brookings",
+              "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5fV2RGam5KZDVWUnNTeHpSU2JTendXcUZWLVpudnBPc0ZKNmZDUElJd1llZ2VIYUJpeFZQc3NKZGRJZ1BGOVpXOEdkSThVYjN4SFh3NzNUQnptTFdodURWLVVZVjk4Vm8xQXFwS1FmMFdRUjhURGI0LU13?oc=5",
+              "source": "Brookings"
+            }
+          ]
+        },
+        "health": {
+          "summary": "Building a benefits strategy that survives the next medical breakthrough - BenefitsPRO. Functional Precision Medicine Advances Brain Tumor Care - Cure...",
+          "links": [
+            {
+              "title": "Building a benefits strategy that survives the next medical breakthrough - BenefitsPRO",
+              "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOFBnQUJCdWZqd1l0U2JhSl9CeEZNeHQzMm5oQmZhbGVhbGM2NkxaREVadkF6elFfcXY2Xzh0UG5TMmgyUjF6SXZEU2xjRVRRYnR4dVdMcUVwZ3FHUU1SalNHdTcyeXJBVUx6eEdrN2d2b1lzNm5JY0FvZDc4NjlOYVA4U043RDY2QWxGUHVXbnBGV3pmSmxKaWNSbjJodVg5SFBqc2NqRFZRc09lUnEzY0hB0gG3AUFVX3lxTE9IMVRfa1VIM3VwN21VWmZPTWlxRFdEdm1JWGxqU3R2RnF0X2hiQkpXUmEwTk9BSlZXWC02QnEyYzl1Mkg3OGVxOGFyUHdGY3hLQVpDdmdVd09QWV9RMTdGTTg3V2FqSGhhd0xMR0NZdWRZWF9UV0dhZWZsQVc4OXBkV0thTlF4X0VrZ25vUzRSYXZwb1QyelREdDc1M21xUFp6MGpiaHFXQy11ZV81YTQyeW1QWS11RQ?oc=5",
+              "source": "BenefitsPRO"
+            },
+            {
+              "title": "Functional Precision Medicine Advances Brain Tumor Care - Cure Today",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNTZtSjZNQm5xNnRiSktHUFAtSTkybjlyR0JpR0hOdzVvLVUybmtEY2RyNUFjTUc3UW5qWmp1OHJ5X2swRHVwUC1PZ1JSQ1IwS1dMUmFTcFI0QUpoTjFBd2RyZ2d1QlZCaGlqeEFQRzZiWUZyeGVOQ3M5NWsxaEtWUzQzdDlRamt6YVZqSTZRYw?oc=5",
+              "source": "Cure Today"
+            },
+            {
+              "title": "A New Model for Medical Discovery - Duke University",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBdWk3UE5OSmhRTy1lZkRBXzQ5WGJRV25sd1BRaGt4VlZKcFN3Y1NqTDhsdkZzV1ZfcFUtSk1BRlhHWVJOcEhtQlFzMlVWc0gyaWlGMUxoUWhIaDV3R2h5RGMzQ2pJYnFrZ2c?oc=5",
+              "source": "Duke University"
+            },
+            {
+              "title": "Sickle Cell disease treatment hits medical breakthrough in Detroit - FOX 2 Detroit",
+              "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLVdMSURIMEVrTDFnUHRNWHpmNDhGeHFYUG9Jb0kxaGR3WVVtUjk3U0R0SmZWcjdnYjBXUUJHUXhpbTlmRU1jN0VhUE1zVThXSUFGb1hxNDdjaU1Bd3hYaktqcjVzZlR2VnE0QzFUMUh6c3JNWVE1MEFQX1ROdU9OQ0dJS2p4SFBRUEZZVmFnQWdhMDJhdUhQazROambSAaIBQVVfeXFMTTlwVENGRVMwanRCTmdiY2U3U1lHT25XdDRIZFdwa0VLYUpvVm56Q2U4T1dtYjJjQVZfX1NQc29rVm9LMGRTMTB0bHdZaDEzYXRiN0d4dlMwRHA5TUVlMjNweGsxaVJVXzlyU01pcDRfTHdTNWhrTTF3QWFHZG1qWWJnd29uNTd6TjQ0bHh2cE51Nm03MEZKVXBBaDlZTlFJUFNn?oc=5",
+              "source": "FOX 2 Detroit"
+            },
+            {
+              "title": "Compremium's Quantis CVP is a breakthrough for noninvasive cardiac pressure measurement - Medical Design & Outsourcing",
+              "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNc0syaGFEZXlkNnlGWGh3MnNibG9aSnJFZy1xZDNiazlTSHI4aHJfaWg3TjVfS2Q1eGFtaDh3cFpWdkxPQnFFaHZrVTRmZ3RZY1FmTW50R3IzcWpabmNZWXlFQUhDV01SVTBfNTBxVmV4Wmt3ZTZ5LVJNZTU2RXBNM2FrZ3d6S1pzTnBBcGMwN2RWZnBTZDZz?oc=5",
+              "source": "Medical Design & Outsourcing"
+            }
+          ]
+        },
+        "entertainment": {
+          "summary": "It’s the Music You Hear All Day, Without Ever Noticing - The New York Times. Hey Wiseguy, Get a Load of These 15 Gangster Movies and Shows - Netflix. ...",
+          "links": [
+            {
+              "title": "It’s the Music You Hear All Day, Without Ever Noticing - The New York Times",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOd283Q3c5eXFQQ1NyNXlNLVpwSnp0SUpKWG82akxYbW95bnpHNGJsQ2tja3JjemNWS055aUNReDZybWF5bGwyQlNFVWtvcmVfRXpXUGFTNFhQZ3NMNlRkY3U2ZVJuWldSRXhOaGlBbm9VanVNRXRlVE4yeFAtWHN6WTB5SQ?oc=5",
+              "source": "The New York Times"
+            },
+            {
+              "title": "Hey Wiseguy, Get a Load of These 15 Gangster Movies and Shows - Netflix",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0teUZqcDRiSTZxTThrMWM2YmdzVnU5RHFPRXZCRlpyX2wwRUNGd1FjMGRHTzJ3Wm1oNlBsMkI4RDZTa3VidkJ0T0lCUFNpTFV2YnlmSXBhZ0pZcU1RaEpuYlJxVzI1UmdTTUJ0dA?oc=5",
+              "source": "Netflix"
+            },
+            {
+              "title": "From 'Peaky Blinders' to 'Zootopia 2,' 10 movies to stream right now - USA Today",
+              "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNlBueEtOZGxQekhnSTd3Z2lGTkpza3RxTjFDV05HUnFRM1ZPU3RfZ0RuQWh5T2JZS0Nva3lfclA2SjhkMUIxUDNmajhzTDFZSkRIbjNkeGstWC02U1doRGhKNDJzdmg2cFF1bks2VVJuOVlWTzhWVHprQmlNdFFhOGlVYjNJUXNQbDA3SHR4SV9sZ3NHUmR0bzJmUFVVcTdRMzRtWDJBcFFEOEh5Vjd1WGpianA4czZpWmFvZ0ozRjU5WDVRRnJkeGV2WnE?oc=5",
+              "source": "USA Today"
+            },
+            {
+              "title": "‘Be nicer to myself:’ Takeaways from making music and ski racing - Wyoming Public Media",
+              "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPajY0RGRqRXBIZF80MzY3el9DNm1VSUZndzJmZ25vTGxGaElXVURmeFgtdWNQb2tyY0ZNZ19jWWp0aDl2S2t3RmZ2Wkt2b0ZNQ1ZGeVBGbmlkbEtzRVpDQWdqQnNaU1Q0N2lWS0VLdVg5dE5zLTJTN2Y1M3NZM3Q2Vjl2aHhDN0RTTkZJTkJhWHNLbk10U0dXZWFTZC13eUJLc2lhVllIeGZLWHFSbXVrbThQTzF4dVRIb0tz?oc=5",
+              "source": "Wyoming Public Media"
+            },
+            {
+              "title": "Tim McGraw, Paul Overstreet, Stanley Brothers to join hall of fame - The Tennessean",
+              "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZnhKMHF2QmV5RFQ4MmlFQzBwdmpfMDNwRXF4cjZuQ0FtTXZSZlVJNVc4U2Rib0xFVzA5QXlVZUVmWjVwUFJyNUxJZmF5QzZ0eTgyU19hSEx1a25kcm9pOVdNWGpPdThCb0FGcmRTRzdVbnVuWV8zMXI0b3VCc05uVzIxVEZ3X1UwWTJkRnNRM2huazY0TmUtN2puMjF3d2lNRkQ4QWtBQU51VzZmc1FtZXJ0cDdQWlE?oc=5",
+              "source": "The Tennessean"
+            }
+          ]
+        },
+        "sports": {
+          "summary": "2026 NCAA DI women's swimming and diving championships: Schedule, selections, results, how to watch - NCAA.com. Connections: Sports Edition today: Hin...",
+          "links": [
+            {
+              "title": "2026 NCAA DI women's swimming and diving championships: Schedule, selections, results, how to watch - NCAA.com",
+              "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOakpKaWkwSVQxZjBpd0tWYWhHV2VLZDNzaFFlUHpra1ZWYnBxbU1tLWowVFhuN0NBWkpUaUZ0R05iMmd4Znp6N0g2SVo3T3BDbkh6UzhYV3cwdWQtMlVhNWN6UjdQcFdMalE1b05wYzZZcUR3RHBmVi0yTFA3VjRlNDFfTDJPZ3dIY0w1RHFUSGZwLXNkMXRNbFRBUTNhelE5cHRKRHBlbElKdFhoZzFzSmtxT3BZdTV0SXo3SGFkSDlPLThoSzFWcEhhSUQ2d9IB0wFBVV95cUxNNFVMSWtNYU8zNW12cUszZjg2dkFvZHc2MjNhZFJUalI0clp1NDVIMmdGa3Zxb3VYcjhManEwZkVKQ3VaVG5jVVNNeW9ReDluaFNPYWdhR2sxOUU4YkFRNFdkNVE5aTlEYWhHUUJoVUlYRXlGZmFTTjI3czhUWTdyQzczM2lDWllmbm10SUd1MWZUTGZLYWh4VGxxUS1OUm4xWXEwN0dkUVVRZENtOGNNVV9HeXVSRl9UNnRVX2Z5SUxrLXNISjhNcW51S0hPOV8xOGlR?oc=5",
+              "source": "NCAA.com"
+            },
+            {
+              "title": "Connections: Sports Edition today: Hints and answers for March 21, 2026, puzzle No. 544 - The New York Times",
+              "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNazZVMGtCZDhwRkpFZkVVSnFqMDBEWTF0Uy1OU0hmM3JQR1BMT2xzZUJFZXF5NUlqeDg4Y09Gd0Q0dHJHd0dfemRGbG5BWkxITk8tM213eDNaVER3cklXdVRlTVF1RlNkOWkwQTg5SVMySUNxa0NqWERISGhYR1pTQUpDSjE0OThZV1pOX3lqVjlLX0dIY183NjFNZ0FIdVBYbUR2clBpMWtXOXc?oc=5",
+              "source": "The New York Times"
+            },
+            {
+              "title": "Valspar Championship 2026: Third-round tee times, pairings and how to watch - Golf Channel",
+              "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObExFTy1qTlF0cEtxcmNJVTJDWmwwWUY3VDdVbXp2T2pfUUFFLVQ2MWFIX19UdTlueGhSc2xrOEhHNWhLQ2E1ZmZ2T3ZFeWtWV2duRlo2M3M5NGJ3bWYweVZtd1d5Y1pNWGdtSFZBekJqZFJ1ck9DMERiU2RyMXB6QXJnWjlyNmVVdDBfdG92SFpHeGhZeklnLXZxUld6REF5YkdLUXY5dTdkWEhfN0FsZk1DdVpxdTJpU1VB?oc=5",
+              "source": "Golf Channel"
+            },
+            {
+              "title": "Luo, Chen Collect 12 Wins at NCAA Women's Fencing National Championship - Brown University Athletics",
+              "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcXZCQ0FyRmJONWprbG5qOTRpdEF2YlJvVFVBWjFvaDBYd3lUMGdLcjZxWDZiN0JCdHJtRngyYjdLby1mbEpYenU5QjRweXNNQjRPSDNSXzY5LU9YNzU3eno5YlI2RlY5YmFpX3h0UXhHUVZUVUI1eXd2eFNBSGFxZ1l0MmVIY0RDWGRWUjA1RlY2eDhXaHVXOGpfNE51d0staWFRQzRhaGtJZG8?oc=5",
+              "source": "Brown University Athletics"
+            },
+            {
+              "title": "MLB Gameday: Cubs 2, Athletics 6 Final Score (03/20/2026) - MLB.com",
+              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBsNHBrU0M4RmNiX2o0TFNSclhMUlBlbDkwdTd5Rzk5N3NPM0o4bWRQSEZEeFItdk5JODd0SnJFTWtGWVlJMFh6ODRyOFo2QTBLelJ3Nm1OVEVtSHNDbm1taDBBblRSYUZ4YXdZcHp6NG9BVVV1VWZZZGtSSC1Kdw?oc=5",
+              "source": "MLB.com"
+            }
+          ]
+        },
+        "technology": {
+          "summary": "White House urges Congress to take a light touch on AI regulations in new legislative blueprint - PBS. More! More! More! Tech Workers Max Out Their A....",
+          "links": [
+            {
+              "title": "White House urges Congress to take a light touch on AI regulations in new legislative blueprint - PBS",
+              "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTUpLTWdXOWJvc2w0dzZtaGJzeEhSZzZMVF9jSHVMNHBrc0swcERKOUpydThNX2M5X2haVVBwMkVRcWhreEc1V05jOVVjV3l0dGcwS0o1dHQ5VUc2dVhSUEhLaFVMa0RDMzVPRkNjYnVoWUM2cnE0TEZGY0V3ZE9tVGpRenJ4Y3lzeEdWMXRIem9udHdvRUhsMEhtc2VSNUtoY0FWQkZmVXB1Wlc3cEc3M1ZXc0RQV0cxYzNNU3Q1Nk9nUTYtVlZQb0lORQ?oc=5",
+              "source": "PBS"
+            },
+            {
+              "title": "More! More! More! Tech Workers Max Out Their A.I. Use. - The New York Times",
+              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zbnNEc3VBUlZ1WlJGRnBmT1ZCb3o1VlhGUV9NcDUwVGNtOGRxaV82TTB3UlBrNGE4ZmVna1I2azVKNzdNUkFZemR6ZFdabFl6bEVfbVhXSW9kRG1QcFZxM1dvUGh0YWZrR2g1LU9QazBGR2hlaUlxRTQ1UGNGdw?oc=5",
+              "source": "The New York Times"
+            },
+            {
+              "title": "White House releases Trump's national AI plan and framework - Axios",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE83TUdNMTgzVFdRT0F4dE45M2gwb0g1M0lOV21VTE5KbUc0dHEydjBRQlU5bWM5NHo2Z0hsd2R2RU81Rm1VUm1rUkU5cWhMTFE3UG1pdy1hZjdIaHhlQ0VRc2JKelhtV2tSd2Vrc1o3d01xbnhMZUJJ?oc=5",
+              "source": "Axios"
+            },
+            {
+              "title": "Astronomy Picture of the Day - NASA (.gov)",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUd1FseWNRN0Q4T2xjNHEzZThtRnlSeEZhY0tIU3FzNlVLRW1maTZtTGo0c3BBRHdSUmRzRTVPQzlTdFk2MllpZXFodnJtNlVSakE?oc=5",
+              "source": "NASA (.gov)"
+            },
+            {
+              "title": "Exclusive: Pentagon to adopt Palantir AI as core US military system, memo says - Reuters",
+              "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUFVuVHRfVXhQRTRETHIyLUc5aW9UOGNWSmRmdWJEZ2xScVBLbWtLTWZhQTNVMEx3ZnlTcDBkMi1fZ3pIQ0RCOUxpWDU3R2JLd1VuVjFvbkRSNDhqSGM2RGhqa0RkUklyZmJhRWFKSXl2T1h1RFpMRVJ4cGtiSW9UTHQ0MlJMNjh2YVVGLWFRcktHR2VBOXRBd3BKeFA2b0JWd3A2dWc3UUtPc0VCcGRV?oc=5",
+              "source": "Reuters"
+            }
+          ]
+        }
+      }
+    },
+    {
       "date": "2026-03-19",
       "title": "Opinion – Can the BRICS Adapt debated; Horror Novel ‘Shy Girl' Canceled Over; It's the Music You Hear All takes the stage",
       "image": "entries/2026-03-19.svg",
