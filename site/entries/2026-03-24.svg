@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" style="background: linear-gradient(135deg, #F8717122 0%, #991B1B22 100%);">
+  <defs>
+    <filter id="blur">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="2" />
+    </filter>
+  </defs>
+  <rect width="100%" height="100%" fill="#0a0a0a" opacity="0.4"/>
+  <polygon points="513,621 944,136 136,460 819,529 360,375 1017,167" fill="#991B1B" opacity="0.4751639294275598"/>
+<rect x="677" y="4" width="106" height="374" fill="#DC2626" opacity="0.32935960816250537" transform="rotate(16 730 191)"/>
+<polygon points="181,279 620,46 392,426 58,529 839,490 878,572" fill="#B91C1C" opacity="0.4474577017414382"/>
+<ellipse cx="491" cy="601" rx="303" ry="125" fill="#B91C1C" opacity="0.6543380734716555"/>
+<rect x="4" y="176" width="455" height="104" fill="#DC2626" opacity="0.6164820010115921" transform="rotate(6 231 228)"/>
+<rect x="1083" y="262" width="341" height="204" fill="#DC2626" opacity="0.36391541285842616" transform="rotate(20 1253 364)"/>
+<polygon points="510,342 1179,595 1179,544 255,583" fill="#B91C1C" opacity="0.5802005451943391"/>
+<circle cx="472" cy="421" r="83" fill="#991B1B" opacity="0.7559051229554262"/>
+  <rect width="100%" height="100%" fill="url(#overlay)" opacity="0.1"/>
+</svg>
