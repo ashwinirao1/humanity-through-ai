@@ -1,6 +1,164 @@
 {
   "entries": [
     {
+      "date": "2026-03-26",
+      "title": "Opinion – Can the BRICS Adapt debated; AI overly affirms users asking for; What does liberal arts mean? takes the stage",
+      "image": "entries/2026-03-26.svg",
+      "note": "entries/2026-03-26.md",
+      "topics": {
+        "politics": {
+          "summary": "Opinion – Can the BRICS Adapt to a Transactional World? - E-International Relations. Kenneth N. Waltz - Britannica. Book Launch: Concepts in Internati...",
+          "links": [
+            {
+              "title": "Opinion – Can the BRICS Adapt to a Transactional World? - E-International Relations",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQR0ZLSW4tUUhIX3YxeWVNbEtzQ2piQUIzdjRXWXZ3V1MtbHU1dGY2U3F5VEZZWnFyU01ISU1PXzlxMmVsSU1IV0NLM2pTOVU2QmpiRHpNY09mNTNzR0QyTXVuS1Y2eHZpRGhjNVF2T3RkWVR6Tzl2cW92NFlSbjhRMmVqOUpGc3c3TklNUm1rOA?oc=5",
+              "source": "E-International Relations"
+            },
+            {
+              "title": "Kenneth N. Waltz - Britannica",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pd29CRG9MTHljQk1lQlBtdFQtOTRiaFdsLXlpRjJPTzhCb0l2UFBaWE1xYTFMcS1ZbUJEeDRxcHNmNTJkQjRNSXRseHFzQ0dmaWNpdHg0a2NiT3hvSmVoSlpR?oc=5",
+              "source": "Britannica"
+            },
+            {
+              "title": "Book Launch: Concepts in International Relations - A New Introduction - King's College London",
+              "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbWM4T19tOTRHbnNPd0cyaldGOTBaN1FrdUFabm1BbWpNZmpFMjJLMjhVYXQtNmFlNVBNMWhWekNSMkw3RjZGV19WUmZXekVoeWp6ZEFkUW5lNnVqVThtbXMtak02anhOaXFEVWFsTU52V0JjdXVLUk9CMjdWTEgwU3BCVGExaHN6VzdaQmU2WTJuZWJ3NGNrUEZ6MA?oc=5",
+              "source": "King's College London"
+            },
+            {
+              "title": "The world in 2026 - Chatham House",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQlNLMzNqM01wLUNodVVWYzdiTlpicm5mZUVPb0pPZnNCdDRjTGFZYjg3SHVEQXc2LUUzUkU1UXpnM0FoZnBpQTNKRGNlX0xTeGtWVl9acUxCbVQtbTBZZkUtcTgwYVRQdkl0N0ZYdEJCX0FlalF1dldtTTZNOFZyMmxB?oc=5",
+              "source": "Chatham House"
+            },
+            {
+              "title": "Is Trump reshaping the world order? - Brookings",
+              "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5fV2RGam5KZDVWUnNTeHpSU2JTendXcUZWLVpudnBPc0ZKNmZDUElJd1llZ2VIYUJpeFZQc3NKZGRJZ1BGOVpXOEdkSThVYjN4SFh3NzNUQnptTFdodURWLVVZVjk4Vm8xQXFwS1FmMFdRUjhURGI0LU13?oc=5",
+              "source": "Brookings"
+            }
+          ]
+        },
+        "health": {
+          "summary": "Innovative CAR-T cell therapy receives FDA Breakthrough Therapy designation - WashU Medicine. Deep Research Agents Present Incremental Medical Advance...",
+          "links": [
+            {
+              "title": "Innovative CAR-T cell therapy receives FDA Breakthrough Therapy designation - WashU Medicine",
+              "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOM2NiNkJ5a1NBWTRvdE11UURBQ2tHa3EtaVMwdGZaaUFUckFKckZSem5oNGU0RXJDU2IzcHZQbld1a1R0SV9iOWFvd1AxVG00dWc5bXh0d05OZU5vTTdyekdvZ0Vaa01WTERUTm9GUFMyMmVRd2hzY1J1RzMtcTIwSEUya0RQckJ1bGhYTGhpRlMzSVhyVGp1bjluT0oybXlxUjhtSGVEMXJ3MEVU?oc=5",
+              "source": "WashU Medicine"
+            },
+            {
+              "title": "Deep Research Agents Present Incremental Medical Advancement - Let's Data Science",
+              "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRkhHdjVnY2xPUVhYbUFsVzlIcVJRd2RQYjBVNFZFMGlKM3FaMWNwTTZjWmppOHA5UHdZWHFnNEVqdXp2OFptYWd6VktheFhQa2xnOEM3VUJpV3pMdmplV0tHR0lZRWV2TGN4UW5FWTEtU2syVlVUems4REY4bkRvbEhqeUFTWWFEbS1sWDZjMFRIbU9aNmE1OThZYzRpczFXSGstQw?oc=5",
+              "source": "Let's Data Science"
+            },
+            {
+              "title": "‘Science Friday’ host Ira Flatow to share health and wellness discoveries on April 23 - Daily Herald",
+              "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUHNfemg4MjJHa0VFckdDM21TUzNnQ0hpVkFVVFdkaEdabGl6M2lKYnJGbFlRQ21YWUtFR2V3VG1pUTZyLWlNYWhyMGpoUHh2YUp4Yks2anUwZlFCNUlEN0lvajRtMjNEdGQ2Qk9iN2U0TGV4c0VsMnM1UHluejlfUFMwV0NHMk9UQmMtUEJib0JZNzFDNUdPM3g3djNxS2lEcDRaOVlDbkNETzBOR1YyZ1YtaXZJOWN6OGtwSDh5Rm94VkRYY1FMa3hqUlFYazQwNjJhUDVR?oc=5",
+              "source": "Daily Herald"
+            },
+            {
+              "title": "Breakthrough Device Designation Awarded to Hemex Health for Gazelle Hb Variant Test - Medical Product Outsourcing",
+              "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcFVXVW9lcXpHWDlQZXNxdWVSZUszaXcyVDMyUlZTS0JfVFp5dEdBYUI5MHlEMHNCaDBFUlRGbG94U1VCSHJnc09LUFNtcVNKS2hBc2M0Q3ZfNGdTb3RrZUVyUW0zaGs2NHdUX2dDSWM2V09IUm5VbExia0FOZ25wNmFzSXMxWmwzOHlEUFdwZ2JSVllhanFyNWJMaWpPLVY0SkRVRG8xN3NmYUZxUTNxVV90SElobFNybVhMYkJwaGFBMDIw?oc=5",
+              "source": "Medical Product Outsourcing"
+            },
+            {
+              "title": "7 incredible medical breakthroughs that changed the world - Worldwide Cancer Research",
+              "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUDVCTXNNc05XYkloWkFPLXdiaWF2dmFfUEtFZjAxbTN2ZWhGbVhMcGdIZC1rLU9Ma1AtYlNfbFRiWXpZNWp2TEtadlRhcVhueWFZVG1FS19VUUNlRDR4Nkd6Rk5lWi1INjFaUTdVanRtMHdRVFp5LVNqclRjcDlsajZLdmtUUEhZYnBXakxiZnRSMjRtUGJuTkstekJuaVEzLTV2NnhUbzhQOE04bnlSc1hkVkFpS3NRb2s5QzdMc0s4c1h4NWtiT3VjczB6a2lUYk9hVkN1bFZrc2hXbEROLXBsbWRNYVlqUmlkazJWeEY3WmFVVHc?oc=5",
+              "source": "Worldwide Cancer Research"
+            }
+          ]
+        },
+        "entertainment": {
+          "summary": "What does “liberal arts” mean? - The Mac Weekly. Raye comes out swinging on her new album, This Music May Contain Hope - BBC. iHeartRadio Music Awards...",
+          "links": [
+            {
+              "title": "What does “liberal arts” mean? - The Mac Weekly",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBTX0RhM3VXQTZHdTdTTnJxOHR3b3ZXNEhyUGxJYUJ4TzRaeDdZSUM1RHc2TURNMVRtNkNBTEc0MjJmV1MxMFBlWGRtVXJXeGhSdm5jZVV3UkRFeVh2NEJzN3d6WG1GX1JXNjJEa1l3?oc=5",
+              "source": "The Mac Weekly"
+            },
+            {
+              "title": "Raye comes out swinging on her new album, This Music May Contain Hope - BBC",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zWV9QOHBCYXlIajlmM3pDUktaLVE0UXNpNUhVdE5OQ19nWE16UzFrbGlsTzBCOWU3bG1mRWZ1SmRfdzdmenNWLWhZSnBkckpkYkpGaUtRdWhSUQ?oc=5",
+              "source": "BBC"
+            },
+            {
+              "title": "iHeartRadio Music Awards: Taylor Swift Dominates as Alex Warren Tops Winners List - The Hollywood Reporter",
+              "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRmJmc2dfV0lwZWNFMUI3QUdWMFZrSEZ0aG12TXk3S29DVnduREdMcWxzVVlzQWdrdmtVSjVYem05LWF0eXpXTEYyQ3dyemNnZmU3MjBsOUo1QkhOV2NObURzTWNEc21sMEktckVUdFJDeWVBUFJXTkpiNWZKVHlDaGp4NDZKV05sN3hqZVMwZkJWS3M3STFPS2Y1ejd4end0QjZ5bGVva1c?oc=5",
+              "source": "The Hollywood Reporter"
+            },
+            {
+              "title": "Here Are the 2026 iHeartRadio Music Awards Winners: Full List - Billboard",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcjZtLWtBWXVJZnRodDRmSFFqTGFWblRUZUNqbHR1ZDlxd05fWWI2cDlveWhaUDBISnBwcUU5SEtua3czOTZuc2d6RkdVYXhsZE5CUEFVUVFMMVhTNERNa3J0clpvU3pLMWpwMndNV0xtWmN5QWVDT0djbE16Z2hlVQ?oc=5",
+              "source": "Billboard"
+            },
+            {
+              "title": "Photos: Scenes from the 2026 iHeart Music Awards - Los Angeles Times",
+              "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORm1GUkM1Z0pjaVNVU3ZjVzlOTW1xZ1ZvYTBEVmpqTnVYcDF1Ml9jeXhoeEN5WlBTTlBoY01sVDdXYklXVVhSY1NVcmhXb3RrTDRkX2d2Uk1td2hFYjY2WGR2Mmt4WWZUYjZXODBHS0xMWG1oV0dERjdEZ1liUDlrWUt1RWlZdXBDcDRCZ0dwRmRIOWlFRkhheElvT04zZl83bkU2NTc3WF85T1J4dUE?oc=5",
+              "source": "Los Angeles Times"
+            }
+          ]
+        },
+        "sports": {
+          "summary": "2026 NCAA DII men's basketball championship: Bracket, schedule, scores - NCAA.com. President Trump forms committees as push for college sports reform ...",
+          "links": [
+            {
+              "title": "2026 NCAA DII men's basketball championship: Bracket, schedule, scores - NCAA.com",
+              "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeEN2WXJ5amVadW56dTJHUVhJLUpFemVUSlVhWjNFLVhleFBFcjJ6LVJQV1hZMFBVSVQyNWZrak1WRU5Kc0x0bXJKcXk0ZzlnSXNHX3MxUHI3V2ZoNXdiMzYyM192M1dtc192NXE5ZDJsdzZ3REg2cWgxbl9zUmF5Q0MzQU53TUNfa084VnVlVXNEV0NGZ2V0LXc5Qll3dWlXNnc2eWhIT2thVzNEdzB4OUxnNHo1cW5aVTdiRUJKWGZxUjdZ0gHKAUFVX3lxTE1hY3ZqZXBkeE56TktLSnE0Y04zMzJySXFWVzhVQTBuZHpUMmRFV3JHUVNZal8yalBIbVlDbUdydW5lQ3o4SnBvSGZyb1A4bjFQWk8wSjBudV9ZWEVzX1RFemFWUEE0d2lOdkRxSlMzWmJabFFTZUV2QnRjTHZDckNWSWJMSTh0bTJ3eVV0eDlXanFOSThUZTdYbllBN2tRbnFnNGExa2c4YVhKb0NpWHhiSF9oU2hpMEJidGZOTlRYZ0ZXWmpZQkNfYlE?oc=5",
+              "source": "NCAA.com"
+            },
+            {
+              "title": "President Trump forms committees as push for college sports reform takes another step forward - CBS Sports",
+              "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTnhfd0ZvbVNiNmVKTHdPSWlYeTRGZF92RGxiOGZBVVgxZk9DejJ2UUctS2VIRG5zSXNBNHZNaHdfdWpBcGNxdVRGZVc3QkFaSlhhcTlSOVB0Nzl1TkdrR2lPVUJwNS1mOG1ZYzhMcmM5ZXZCeW1wckxtbzdUOUlxYTcxcFEzX0c3ZDRMLWd6UXBHeU94SklqSHQxeXBkeUZRMmFV?oc=5",
+              "source": "CBS Sports"
+            },
+            {
+              "title": "Kipruto Smashes 5K School Record to Win Raleigh Relays - Wichita State Athletics",
+              "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNDJUa05LdHIydktYZ0ZUdDhvODd5OHQyanIzb1FlV1JIZzdZQ0NfNjNyT0NuTzJzaU5sZXQtRmlBclRhbFRtRVRzM25aaVU3RUR4eG1icFNUbkVER1IzT3k2ejNKM3NNVER1SW1WQnRpM25FTzlwc2w1QmNfRndrQmJ0SXA3YkR4RFJmNEZsTmVLeHRJSW4xZ1BtRDE0VEF3aFk2cUFSLXNUdGE5YWxXRmNmNA?oc=5",
+              "source": "Wichita State Athletics"
+            },
+            {
+              "title": "University Athletics Executives & Fmr. Athletes Testify on College Sports Financial Regulations - C-SPAN",
+              "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPY2h1Mkc5U0Uzc21ldHNyQ0Q2MHhKR3VjdzMzeGI1S292dW0tV1dvcVBlMnVYRVRtNXplNGhRSTdmQ0hOZVVnUk1SR0JFcEo3TmxXSi10NmFPeWFpTC00RW1fNWMwZk9uWnIxSGpJLW11U1BoSUVNSUJ4TlF3N055RXVJUE81Ykc5X3hvdkFKVWlycWIxLUN0eW11djZmcndvMGxGVVpPYzhZS21ZR1dkMVNnNEd6MjA4U3RPQWFFM3hVY1k4eTdfUGp2bjJTaWNralhWb3RmRnF3MzVfdnc?oc=5",
+              "source": "C-SPAN"
+            },
+            {
+              "title": "Nagy Finishes 36th in 400 IM at NCAA Championships - Brown University Athletics",
+              "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUWhMUTEwT0V0OVp0NmRXdTd1UjEtVDBELVdILWpGTVpXc3AxWkpSb1NUbEVGLWxkeGVHUy02OHVRNk1GVnBHNmFGVDNDVnQ1eGZ2YVM4THpPRVNOQ0QteS1uMkUxTm9oanF5c09IbHYydHhaLTlEdXpaTXFnYVB5bkFtbndRX3ZkX2RWM0tlTmE0cGpNWk9jVFltcmgwcU82VE9KcWJCNkZIYm5RM2c?oc=5",
+              "source": "Brown University Athletics"
+            }
+          ]
+        },
+        "technology": {
+          "summary": "AI overly affirms users asking for personal advice - Stanford Report. An AI Upheaval Is Coming for Media. This Journalist Is Already All In. - WSJ. We...",
+          "links": [
+            {
+              "title": "AI overly affirms users asking for personal advice - Stanford Report",
+              "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTTZHNl94cl90dEhnelZKekxwbUZNWHU2amxfQnJoVUtyTy1QbDJHbElWMVUwc0pHaHhEUzFPTnJKSEZDNzRYTlVMeDhTWmQ5OHdNUDR0T2hwNUlOS2h0cks1NndNVkZPWm1RVFJvN3dteFI4RHQ2V0pDNlBzbnBXNVA5UnN5dw?oc=5",
+              "source": "Stanford Report"
+            },
+            {
+              "title": "An AI Upheaval Is Coming for Media. This Journalist Is Already All In. - WSJ",
+              "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxQdV9vYnYwVlJ2YWJ1S3VOVThkcmZWemRzekVIaDdzVzk0NjAteHNIemJtQlJYQUN5SlJXM09ncDllS1ZSaUFvdmlwTWpkdjVTOVBUaTNJaUZaY1M5Nm85eHNiYzVHMk5IUFpHbTMxazZOelo5N1FUMy1QOFhlRklFWWM1TzZ5UlJ3SnBLNmFjQVcxbGc4dE00YWlrQ09DMHpEcXhCczNlWi1PUXRGbEJXSzEwbUZYV2J2S2dFWTQzUGI4M2l6WGlwNTlVVVJRYU1ya2JjY1RxdWxJbXctOS1oWGJaTFFJOWRsaUhUeHpXbnNFUzE0Nkp4amRXSXUxVk5NcG9xMVJvX0VqT3JhVFlBWkg0bHEwMHRjMlVOMy1iNEtrdFBHckl4WUNyS1V2QXRmcTNxOFo1OWtrQnhSa1JpaklST1gzckhuR0ctdVo4OTFxS3I0RTNjQjlObkJxR1Y2QVdzdEVyODRoekpOZDhQV1ZleWFuUU5ENEFONG5FUzhyNTdnZDhhdXpaV2VrS2hyVkpMZzd4bGRrUXJla19oV0ZaZW9wOVZyZE9VVmJSTktzVG5oMzZF?oc=5",
+              "source": "WSJ"
+            },
+            {
+              "title": "We Must Prepare For an AI Bubble Now - Time Magazine",
+              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1FOGYxVWZNcUJTNDVBZ2ZIbUswMGxfVFFiWDZWaGQyaVlWWDFab3V6UjhXX1d0RUREamdFMTVRTlpzd2xsU1g5QXVCVjVmYkZjbzhhNDZnTlJXemtpc0pHMTNfVGJlQWgxTFhxRTU0eGJlODZBWERXaEZfb3lUQQ?oc=5",
+              "source": "Time Magazine"
+            },
+            {
+              "title": "Exclusive: Anthropic is testing 'Mythos' its 'most powerful AI model ever developed' - Fortune",
+              "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOaEVBdDhIajZlV21pdUwwaktqc0tnSWdqRUhzS3Q5RGktMEsxSndfazRFd29zZ3pZMjROa0ZfTGw1dnJyekswcFpxeTBaTmk2c21ZUFdBeGVmQjdtWXhVTFd3SGdrXzRsaEtmXzJFMnJmcGo5aklUbGJFNk94ZERMcGdWdndxVkxYX25zRVlDcDNLcksxSi1UaEMtTXd2REU0X1FEUnk5QlVvalB4Ymw4M0plR2pOZUhwcGluRjFLY0lYRnJEU1RNR0NZQ2VWSkNDSVBwb0tRWnExTDhpcjAybWNfOA?oc=5",
+              "source": "Fortune"
+            },
+            {
+              "title": "Mysterious missile launches from Cape Canaveral Space Force Station - Florida Today",
+              "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxObjBud2lVaHRybndEeG8tUzVFdGpRMGdVelIxbUJvdlZhd2x4M1NrWFVRdXR2bHNGY1F2WTBCZmFONW5saU0wMXZiWkFOdUdub2JRNHEwOUN0dk9HRGJic3VLS3V4US1nWlM0bmhYOXM4RXdBRWMzNEluSVpZeUdFT1I5VkVTeEFRMEh4d3ZLYnJUVjVOejBiN3lhdDRlMldJUG5QeHpWeEhSbURQTVhIUDlpS1Q2VVo5anlrd1dFQzdFcWUwbEhOV1NaT0tKYUYzc180c1p2bzlMYWNZYWZCc1VCLXJlYkNnT1g2ZFcyRE1YU1hu?oc=5",
+              "source": "Florida Today"
+            }
+          ]
+        }
+      }
+    },
+    {
       "date": "2026-03-24",
       "title": "Kenneth N. Waltz debated; US Department of Labor launches ‘Make; Fears for DIY Culture in Santa takes the stage",
       "image": "entries/2026-03-24.svg",
